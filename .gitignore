@@ -2,3 +2,4 @@
 .venv-1
 .env
 data/polymarket/*.parquet
+.DS_Store

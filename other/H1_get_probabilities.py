@@ -11,8 +11,6 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 OPENAI_URL = "https://api.openai.com/v1/chat/completions"
 MODEL = "gpt-4.1"
 
-#OLLAMA_URL = "http://localhost:11434/api/generate"
-#MODEL = "llama3.1:8b"
 
 def ask_llm(title=None, text=None, no_article=False):
     if no_article:

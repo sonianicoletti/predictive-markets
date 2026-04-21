@@ -4,7 +4,7 @@ import pyarrow as pa
 files = ["events", "markets", "prices_history"]
 
 for name in files:
-    f = pq.ParquetFile(f"data/{name}.parquet")
+    f = pq.ParquetFile(f"data/polymarket/{name}.parquet")
     schema = f.schema_arrow
 
     print("=" * 60)

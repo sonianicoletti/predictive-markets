@@ -6,7 +6,7 @@ import pyarrow.compute as pc
 import pyarrow as pa
 import matplotlib.pyplot as plt
 
-ph_file = pq.ParquetFile("data/prices_history.parquet")
+ph_file = pq.ParquetFile("data/polymarket/prices_history.parquet")
 
 num_row_groups = ph_file.num_row_groups
 rg = random.randint(0, num_row_groups - 1)

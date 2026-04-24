@@ -9,3 +9,7 @@ matplotlib
 tqdm
 polars
 openpyxl
+groq
+gnews
+readability-lxml
+lxml

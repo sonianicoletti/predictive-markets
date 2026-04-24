@@ -1,0 +1,549 @@
+[
+  {
+    "question": "Will Aljamain Sterling fight Alexander Volkanovski next?",
+    "resolution_criteria": "This market will resolve according to the next UFC fighter that Alexander Volkanovski is officially announced to face in a UFC bout.\n\nResolution for this market will be based on the next UFC fighter that Alexander Volkanovski is officially announced to fight, regardless of whether the fight ends up taking place.\n\nOnly official announcements from the UFC, which include a scheduled date for the bout, will count. Announcements with no date or which do not confirm that the fight is official, speculation, or other unofficial announcements will not count.\n\nIf Volkanovski is officially announced to fight any non-listed fighter or no qualifying announcement is made by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the UFC (https://www.ufc.com/).",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-02-02T00:00:00",
+    "close_date": "2027-01-01T00:00:00",
+    "search_queries": [
+      "Volkanovski next fight",
+      "UFC upcoming bouts",
+      "Alexander Volkanovski schedule",
+      "Alexander Volkanovski next fight",
+      "Volkanovski upcoming UFC bout",
+      "UFC announces Volkanovski opponent"
+    ],
+    "articles": [
+      {
+        "query": "Volkanovski next fight",
+        "title": "UFC has reportedly decided between Movsar Evloev and Jean Silva for the Alexander Volkanovski fight",
+        "source": "Yardbarker",
+        "published_date": "2026-03-31T17:07:45Z",
+        "url": "https://www.yardbarker.com/mma/articles/ufc_has_reportedly_decided_between_movsar_evloev_and_jean_silva_for_the_alexander_volkanovski_fight/s1_17651_43670371",
+        "full_text": "The UFC featherweight champion is seemingly close to finding out who he will be sharing the Octagon with next.\nMany believed Alexander Volkanovski’s challenger was decided when Movsar Evloev defeated Lerone Murphy at UFC London.\nBut despite the Russi... [1228 chars]"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "Alexander Volkanovski’s team strongly rejects a Jean Silva title shot: ‘Barking like a little dog’",
+        "source": "Yardbarker",
+        "published_date": "2026-03-27T14:00:17Z",
+        "url": "https://www.yardbarker.com/mma/articles/alexander_volkanovskis_team_strongly_rejects_a_jean_silva_title_shot_barking_like_a_little_dog/s1_17651_43653214",
+        "full_text": "It is clear who the UFC featherweight champion will be pushing to fight next.\nAlexander Volkanovski is coming off a successful title defense in a rematch that not many were keen to see — and that the Australian himself did not think was deserved.\nAft... [1381 chars]"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "Movsar Evloev’s Title Shot in Doubt After UFC Legend Exposes Dana White’s Lack of Commitment",
+        "source": "Yardbarker",
+        "published_date": "2026-03-26T19:36:26Z",
+        "url": "https://www.yardbarker.com/mma/articles/movsar_evloevs_title_shot_in_doubt_after_ufc_legend_exposes_dana_whites_lack_of_commitment/s1_17730_43649797",
+        "full_text": "After defeating #3-ranked Lerone Murphy, Movsar Evloev (20-0), with his undefeated streak, has a strong claim to challenge Alexander Volkanovski next. However, Dana White did not confirm the same in the post-fight press conference in London, and form... [3737 chars]"
+      }
+    ]
+  },
+  {
+    "question": "Will Bilibili Gaming win the LPL 2026 season?",
+    "resolution_criteria": "This market will resolve according to the winner of the League of Legends Pro League (LPL) 2026 season.\n\nIf the 2026 LPL season is postponed after December 31, 2026 11:59 PM ET, canceled, or a winner has not been declared in this timeframe, this market will resolve to “Other”.\n\nIf multiple teams are declared winner, this market will resolve in favor of the team whose listed team name comes first alphabetically.\n\nThe resolution source for this market will be official information from the LPL league organizers; however, a consensus of credible reporting may also be used.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2025-11-20T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "LPL 2026 schedule",
+      "Bilibili Gaming roster",
+      "LPL season updates",
+      "LPL 2026 season schedule",
+      "Bilibili Gaming roster 2026",
+      "LPL 2026 predictions"
+    ],
+    "articles": [
+      {
+        "query": "LPL 2026 schedule",
+        "title": "LPL 2026: Sri Lanka Cricket reveals dates and four venues for upcoming season",
+        "source": "Cricket Addictor",
+        "published_date": "2026-04-22T09:36:08Z",
+        "url": "https://cricketaddictor.com/cricket-news/lpl-2026-sri-lanka-cricket-reveals-dates-and-four-venues-for-upcoming-season-440467/",
+        "full_text": "Sri Lanka Cricket (SLC) has officially announced the dates for the highly anticipated sixth edition of the Lanka Premier League (LPL). In a media statement, the board confirmed that its premier domestic T20 tournament will take place across four venu... [2902 chars]"
+      }
+    ]
+  },
+  {
+    "question": "Will Giorgos Giakoumakis record the most cards in 2025-26 UEFA Europa League?",
+    "resolution_criteria": "This market will resolve to the player who records the most disciplinary cards through all main tournament rounds of the 2025-26 UEFA Europa League competition.\n\nFor the purpose of this market, a disciplinary card will count as a yellow card, a direct red card, or a red card resulting from the accumulation of two yellow cards in the same match. A 2nd yellow card accumulated in a match which results in a red card will count as one card in the final count, not a separate yellow and red card. The tally of these cards will be counted as reflected on the official UEFA Europa League website (https://www.uefa.com/uefaeuropaleague/statistics/players/disciplinary/?sortBy=red_cards&order=desc).\n\nIn the event of a tie, this market will resolve according to the official leader as determined by UEFA Europa League rules. If multiple leaders are announced then this market will resolve to the player whose listed last name comes first alphabetically.\n\nIf the 2025-26 Europa League competition is cancelled, postponed after June 31, 2026, 11:59 PM ET, or there is otherwise no official leader declared within that timeframe, this market will resolve to “Other”.\n\nThe resolution source for this market will be official information from UEFA; however, a consensus of credible reporting may also be used.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-02-24T00:00:00",
+    "close_date": "2026-05-21T00:00:00",
+    "search_queries": [
+      "Giakoumakis disciplinary record",
+      "UEFA Europa League stats",
+      "Europa League yellow cards",
+      "Giorgos Giakoumakis disciplinary record",
+      "UEFA Europa League card leaders",
+      "Giakoumakis Europa League stats"
+    ],
+    "articles": []
+  },
+  {
+    "question": "Will the official USD to ARS exchange rate be between 1700.00 and 1799.99 at the end of December 2026?",
+    "resolution_criteria": "This is a market about Argentina’s official wholesale U.S. dollar exchange rate at market close on the last business day of December 2026, as published by the Central Bank of Argentina (BCRA).\n\nThis market will resolve according to the official wholesale USD to ARS exchange rate (Tipo de Cambio Mayorista, ($ por USD) Com. A 3500 | Referencia) at market close on the final business day of December 2026, as published by the BCRA on its official website (https://www.bcra.gob.ar/).\n\nIf the official rate for that date has not been published by the end of the 7th day after the end of the specified month, the market will resolve according to the most recently published official wholesale rate preceding that date.\n\nThe resolution source for this market will be the official BCRA publication. Resolution will occur once this figure is available.\n\nNote: the resolution source for this market will be the Central Bank of Argentina (BCRA), which reports the Wholesale Exchange Rate to two decimal points (e.g., 1,408.02 ARS per USD). Thus, this is the level of precision that will be used when resolving the market.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-26T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "Argentina economy",
+      "USD exchange rates",
+      "Argentina inflation",
+      "Argentina exchange rate forecast",
+      "BCRA USD to ARS rate",
+      "Argentina currency forecast"
+    ],
+    "articles": [
+      {
+        "query": "USD exchange rates",
+        "title": "Exchange BTC to PayPal USD (USD/GBP): Best Rates for US and UK Users",
+        "source": "CoinGape",
+        "published_date": "2026-04-20T09:20:54Z",
+        "url": "https://coingape.com/blog/exchange-btc-to-paypal-usd-usd-gbp-best-rates-for-us-and-uk-users/",
+        "full_text": "Highlights:\nPYUSD now live across 70 markets\nTop BTC rates via P2P exchangers\nPayPal USD backed by US Treasuries\nBitcoin has been on an uptick recently as its price has crossed the $74K mark, giving investors hope that $100K may be reclaimed soon. Wi... [2771 chars]"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "Rupee surges 47 paise to close at 92.59/USD on US-Iran ceasefire, RBI pause on policy rates",
+        "source": "The Hindu Business Line",
+        "published_date": "2026-04-08T10:44:00Z",
+        "url": "https://www.thehindubusinessline.com/markets/forex/rupee-surges-47-paise-to-close-at-9259usd-on-us-iran-ceasefire-rbi-pause-on-policy-rates/article70838122.ece",
+        "full_text": "The rupee appreciated 47 paise to close at 92.59 (provisional) against the US dollar on Wednesday after US President Donald Trump announced the suspension of military strikes against Iran for two weeks, and the Reserve Bank kept the key benchmark rat... [2765 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Argentina’s Javier Milei Calls Europe a Socialist “Nanny State”",
+        "source": "The Gateway Pundit",
+        "published_date": "2026-04-20T21:20:30Z",
+        "url": "https://www.thegatewaypundit.com/2026/04/argentinas-javier-milei-calls-europe-socialist-nanny-state/",
+        "full_text": "Argentinian President Javier Milei, in a recent Instagram video, called Europe a “nanny state” because of its socialist programs that, in his words, take “proportionally from those who generate the most wealth, violating the principle of property and... [4916 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Javier Milei Tamed Argentina’s Inflation. Now He Wants to Reshape Its Values.",
+        "source": "The New York Times",
+        "published_date": "2026-04-20T09:00:13Z",
+        "url": "https://www.nytimes.com/2026/04/20/world/americas/argentina-president-milei-inflation-economic-reforms.html",
+        "full_text": "Draped in a yellow cape and black mask, Javier Milei stepped onto a Buenos Aires stage as a makeshift superhero. Brandishing a salvaged scepter and wearing kitchen gloves, he announced his mission: to rescue capitalism and restore the value of indivi... [1501 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Milei’s approval falls in Argentina as inflation picks up again",
+        "source": "UPI News",
+        "published_date": "2026-04-15T18:17:05Z",
+        "url": "https://www.upi.com/Top_News/World-News/2026/04/15/latam-argentina-inflation-accelerates/5931776270971/",
+        "full_text": "BUENOS AIRES, April 15 (UPI) -- Public discontent with Argentine President Javier Milei is rising as inflation accelerates again and many people say they have yet to feel the benefits of the government's economic reforms.\nArgentina has posted stronge... [4250 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Argentina's inflation to cool less than expected, still on track for 9-year low in 2026",
+        "source": "MarketScreener",
+        "published_date": "2026-04-13T13:08:34Z",
+        "url": "https://www.marketscreener.com/news/argentina-s-inflation-to-cool-less-than-expected-still-on-track-for-9-year-low-in-2026-ce7e50dedb8ef222",
+        "full_text": "BUENOS AIRES, April 13 (Reuters) - Argentina's consumer price inflation is set to cool this year by less than previously expected even as economic growth expectations have remained steady, a Reuters poll of economists showed on Monday.\nThe latest sur... [3498 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Argentina's inflation to cool less than expected, still on track for 9-year low in 2026: Reuters poll",
+        "source": "Reuters",
+        "published_date": "2026-04-13T13:08:06Z",
+        "url": "https://www.reuters.com/world/americas/argentinas-inflation-cool-less-than-expected-still-track-9-year-low-2026-2026-04-13/",
+        "full_text": "BUENOS AIRES, April 13 (Reuters) - Argentina's consumer price inflation is set to cool this year by less than previously expected even as economic growth expectations have remained steady, a Reuters poll of economists showed ​on Monday.\nThe latest su... [3448 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "The lesson behind Argentina's miracle recovery -after rolling back socialism",
+        "source": "New York Post",
+        "published_date": "2026-04-13T12:00:00Z",
+        "url": "https://nypost.com/2026/04/13/opinion/the-lesson-behind-argentinas-miracle-recovery-after-rolling-back-socialism/",
+        "full_text": "Capitalism remains undefeated.\nIn 2023, over 100 leading economists from around the world, including progressive darling Thomas Piketty, signed a letter warning that “far-right” Argentine presidential candidate Javier Milei’s policies, which were “ro... [4739 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Argentina credit stress deepens as inflation and utility costs hit households",
+        "source": "The Straits Times",
+        "published_date": "2026-04-13T09:07:46Z",
+        "url": "https://www.straitstimes.com/world/argentina-credit-stress-deepens-as-inflation-and-utility-costs-hit-households",
+        "full_text": "BUENOS AIRES, April 13 - Gonzalo Martinez, a 37-year-old teacher, hopes that one day when he opens his bank account, he'll have no more debt looming over him.\nMartinez is one of a growing number of Argentines falling behind on bank loans as shrinking... [2726 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Argentina Credit Stress Deepens as Inflation and Utility Costs Hit Households",
+        "source": "U.S. News & World Report",
+        "published_date": "2026-04-13T09:04:00Z",
+        "url": "https://www.usnews.com/news/world/articles/2026-04-13/argentina-credit-stress-deepens-as-inflation-and-utility-costs-hit-households",
+        "full_text": "By Hernan Nessi\nBUENOS AIRES, April 13 (Reuters) - Gonzalo Martinez, a 37-year-old ⁠teacher, ⁠hopes that one day when he ⁠opens his bank account, he'll have no more debt looming over him.\nMartinez is ​one of a growing number of Argentines falling beh... [2843 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Argentina credit stress deepens as inflation and utility costs hit households",
+        "source": "MarketScreener",
+        "published_date": "2026-04-13T09:01:18Z",
+        "url": "https://www.marketscreener.com/news/argentina-credit-stress-deepens-as-inflation-and-utility-costs-hit-households-ce7e50ded989f723",
+        "full_text": "BUENOS AIRES, April 13 (Reuters) - Gonzalo Martinez, a 37-year-old teacher, hopes that one day when he opens his bank account, he'll have no more debt looming over him.\nMartinez is one of a growing number of Argentines falling behind on bank loans as... [2822 chars]"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "The experts predicted catastrophe. Argentina is booming",
+        "source": "Washington Examiner",
+        "published_date": "2026-04-10T18:00:00Z",
+        "url": "https://www.washingtonexaminer.com/in_focus/4524414/the-experts-predicted-catastrophe-argentina-is-booming/",
+        "full_text": "Political scientist Ian Bremmer warned, “Economic collapse is coming imminently.” Felix Salmon, then-chief financial correspondent at Axios (now at Bloomberg), argued that Milei’s “wrecking ball” policies would plunge Argentina into “a deep recession... [5020 chars]"
+      }
+    ]
+  },
+  {
+    "question": "Abstract FDV above $800M one day after launch?",
+    "resolution_criteria": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of Abstract's governance token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\nThe FDV will be determined using the total token supply multiplied by the token price.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Abstract doesn't launch a token by December 31, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-28T00:00:00",
+    "close_date": "2028-01-01T00:00:00",
+    "search_queries": [
+      "Abstract token launch",
+      "Crypto market trends",
+      "FDV calculation methods",
+      "Abstract governance token",
+      "Abstract FDV valuation"
+    ],
+    "articles": [
+      {
+        "query": "Crypto market trends",
+        "title": "Could This Crypto Update Change How BTC and ETH Holders Think About the Presale Pepeto Just Filled",
+        "source": "TechBullion",
+        "published_date": "2026-04-19T16:10:06Z",
+        "url": "https://techbullion.com/could-this-crypto-update-change-how-btc-and-eth-holders-think-about-the-presale-pepeto-just-filled/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nEvery cycle has a turning point where the rules shift and the wallets paying attention move before the rest catch up. The Kelp DAO exploit drained $292 million from a cross chain bridge this week, the largest crypto hack... [5007 chars]"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Crypto Market News: Bitcoin and Ethereum Eye Recovery as Pepeto Hits $9M",
+        "source": "TechBullion",
+        "published_date": "2026-04-19T10:35:42Z",
+        "url": "https://techbullion.com/crypto-market-news-bitcoin-and-ethereum-eye-recovery-as-pepeto-hits-9m/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nThe crypto market news turned positive this week as the S&P 500 hit a record 7,121 and BTC climbed toward $76,000 on falling oil prices after Iran peace talks. Bitcoin dominance holds at 58.5% while the Fear and Greed In... [4737 chars]"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Next Crypto to Explode as Pepeto Rises, BTC ETF Inflows Hit $411M",
+        "source": "TechBullion",
+        "published_date": "2026-04-19T02:30:50Z",
+        "url": "https://techbullion.com/next-crypto-to-explode-as-pepeto-rises-btc-etf-inflows-hit-411m/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nBTC ETF products pulled in $411 million in a single session this week, and ETH climbed 8.8% on $187 million in spot ETF inflows. The next crypto to explode is the question every wallet is asking now that the total market... [4884 chars]"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "New Crypto Leads as Pepeto Presale Targets 150x While DOGE and PEPE Follow BTC Past $76,000",
+        "source": "TechBullion",
+        "published_date": "2026-04-19T01:00:31Z",
+        "url": "https://techbullion.com/new-crypto-leads-as-pepeto-presale-targets-150x-while-doge-and-pepe-follow-btc-past-76000/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nBitcoin surged past $76,260 as $820 million in short positions were liquidated across the market, and spot BTC ETFs recorded $664 million in single day inflows. The new crypto conversation is heating up because recovery ... [5160 chars]"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Best Crypto to Buy April 2026 as Pepeto Gains While XRP and ADA Wait",
+        "source": "TechBullion",
+        "published_date": "2026-04-18T12:00:38Z",
+        "url": "https://techbullion.com/best-crypto-to-buy-april-2026-as-pepeto-gains-while-xrp-and-ada-wait/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nThe CLARITY Act enters its final two week window in the Senate Banking Committee, the markup that decides whether US crypto law happens this year or stalls until 2030. BTC sits at $74,375 after testing $76,000, ETH at $2... [4550 chars]"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Crypto Market News: Pepeto Raises $9M As Iran Ceasefire Lifts BTC And Spot ETFs Pull $411M",
+        "source": "TechBullion",
+        "published_date": "2026-04-18T00:10:16Z",
+        "url": "https://techbullion.com/crypto-market-news-pepeto-raises-9m-as-iran-ceasefire-lifts-btc-and-spot-etfs-pull-411m/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nThe crypto market news backdrop just shifted. The Iran ceasefire eased the geopolitical premium on oil, spot Bitcoin ETFs pulled $411 million in a single day, and Standard Chartered raised its Solana 2026 target. The rea... [4879 chars]"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Best Crypto to Buy Now: BTC Holds $75K and SOL Reclaims $90 as Pepeto Targets 100x at Listing",
+        "source": "TechBullion",
+        "published_date": "2026-04-17T22:20:01Z",
+        "url": "https://techbullion.com/best-crypto-to-buy-now-btc-holds-75k-and-sol-reclaims-90-as-pepeto-targets-100x-at-listing/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nRegulatory clarity arrived as the CLARITY Act SEC discussion held on April 16 set a path for digital asset oversight, BTC held $77,285, and SOL reclaimed $90 while altcoin volume rose. The hunt for the best crypto to buy... [4752 chars]"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Crypto Update: Pepeto Hits $9.13M Raised as Goldman Sachs Files Bitcoin ETF and ALGO Tests $0.10",
+        "source": "TechBullion",
+        "published_date": "2026-04-17T18:10:32Z",
+        "url": "https://techbullion.com/crypto-update-pepeto-hits-9-13m-raised-as-goldman-sachs-files-bitcoin-etf-and-algo-tests-0-10/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nGoldman Sachs just filed for a Bitcoin Premium Income ETF, one of the bank’s first direct pushes into crypto investment products and a clear sign that Wall Street is building structured yield vehicles around digital asse... [4913 chars]"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Best Crypto to Invest In as Pepeto Targets 100x Second Chance Case",
+        "source": "TechBullion",
+        "published_date": "2026-04-16T16:50:13Z",
+        "url": "https://techbullion.com/best-crypto-to-invest-in-as-pepeto-targets-100x-second-chance-case/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nCrypto market cap rose 4.53% to $2.52 trillion on April 14 as altcoin breadth returned and Fear and Greed lifted from single digit lows. Every wallet that made life changing money last cycle tells the same story, they re... [4489 chars]"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Tron Price Prediction Shifts as TRX Expands to 150 Chains and Pepeto Presale Passes $9 million",
+        "source": "TechBullion",
+        "published_date": "2026-04-15T17:50:02Z",
+        "url": "https://techbullion.com/tron-price-prediction-shifts-as-trx-expands-to-150-chains-and-pepeto-presale-passes-9-million/",
+        "full_text": "Share\nShare\nShare\nShare\nEmail\nThe crypto market jumped 4% in a single day, and every large cap on the board is printing green candles that remind traders why this space builds more wealth than any other asset class. BTC crossed $75,000 on Iran peace ... [5227 chars]"
+      }
+    ]
+  },
+  {
+    "question": "Will Amir Albazi be the UFC Flyweight Champion on December 31, 2026?",
+    "resolution_criteria": "This market will resolve according to the official UFC Flyweight division champion on December 31, 2026 at 12:00 PM ET.\n\nOnly official UFC division champions will count. Interim champions will not count.\n\nIf the relevant belt is vacant at this market’s check time, or there is otherwise no champion in the specified division, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the UFC (https://www.ufc.com/athletes).",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-02T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "UFC Flyweight rankings",
+      "Amir Albazi next fight",
+      "UFC champion schedule",
+      "UFC Flyweight Champion"
+    ],
+    "articles": [
+      {
+        "query": "UFC champion schedule",
+        "title": "Dana White Reacts to Khamzat Chimaev Signing With RAF Before UFC 328",
+        "source": "Yardbarker",
+        "published_date": "2026-04-19T05:59:27Z",
+        "url": "https://www.yardbarker.com/mma/articles/dana_white_reacts_to_khamzat_chimaev_signing_with_raf_before_ufc_328/s1_17730_43745472",
+        "full_text": "Khamzat Chimaev is gearing up for his first middleweight title defense, but that hasn’t stopped him from exploring opportunities outside the UFC. The Chechen champion has recently signed a contract with Real American Freestyle Wrestling, adding anoth... [2457 chars]"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "Conor McGregor’s comeback tipped to be pushed back four months despite UFC 329 talk",
+        "source": "Yardbarker",
+        "published_date": "2026-04-18T12:03:56Z",
+        "url": "https://www.yardbarker.com/mma/articles/conor_mcgregors_comeback_tipped_to_be_pushed_back_four_months_despite_ufc_329_talk/s1_17664_43742662",
+        "full_text": "One former UFC champion isn’t buying into the idea that Conor McGregor will headline International Fight Week later this year.\nHe’s floated 2026 as his targeted return year, but there’s still nothing firm on the schedule.\nMcGregor also wanted a fight... [1423 chars]"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "UFC 327: Prochazka vs. Ulberg: preview, full card, odds Via P+",
+        "source": "Yardbarker",
+        "published_date": "2026-04-11T12:09:41Z",
+        "url": "https://www.yardbarker.com/mma/articles/ufc_327_prochazka_vs_ulberg_preview_full_card_odds_via_p/s1_17255_43714662",
+        "full_text": "The UFC event schedule rolls on with another numbered event, as the promotion travels to Miami's Kesaya Center for UFC 327, which is headlined by a vacant light heavyweight title fight between former champion Jiri Prochazka and viral KO sensation Car... [1980 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "Joshua Van vs. Tatsuro Taira flyweight title bout moved to UFC 328",
+        "source": "Yardbarker",
+        "published_date": "2026-04-06T14:41:19Z",
+        "url": "https://www.yardbarker.com/mma/articles/joshua_van_vs_tatsuro_taira_flyweight_title_bout_moved_to_ufc_328/s1_17762_43692953",
+        "full_text": "The previously scheduled UFC flyweight title fight between champion Joshua Van and challenger Tatsuro Taira has moved from the April 11 UFC 327 card in Miami and now takes place at UFC 328 on May 9 in New Jersey.\nA UFC middleweight title fight betwee... [641 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "Why was Joshua Van’s title defense against Tatsuro Taira pushed to UFC 328? Strategic decision or something else? Check out the real reason",
+        "source": "The Economic Times",
+        "published_date": "2026-04-06T06:14:00Z",
+        "url": "https://economictimes.indiatimes.com/us/sports/news/why-was-joshua-vans-title-defense-against-tatsuro-taira-pushed-to-ufc-328-strategic-decision-or-something-else-check-out-the-real-reason/articleshow/130052882.cms",
+        "full_text": "Synopsis\nJoshua Van's inaugural flyweight title defense against Tatsuro Taira has been postponed from UFC 327 to UFC 328 on May 9 in Newark due to a minor injury sustained by the champion. The UFC 328 event will be headlined by a middleweight title c... [2087 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "Joshua Van vs Tatsuro Taira title fight gets new date after UFC 327 cancellation",
+        "source": "Yardbarker",
+        "published_date": "2026-04-05T01:35:40Z",
+        "url": "https://www.yardbarker.com/mma/articles/joshua_van_vs_tatsuro_taira_title_fight_gets_new_date_after_ufc_327_cancellation/s1_17651_43688390",
+        "full_text": "Joshua Van and Tatsuro Taira’s title showdown will take place less than a month after they were initially due to meet.\nNewly-minted flyweight champion Van was due to defend his belt for the first time against Taira at UFC 327 in Miami next week. But ... [1480 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "Paulo Costa Gains Big as Joshua Van vs. Tatsuro Taira Title Fight Postponed During UFC Vegas 115 Live Broadcast",
+        "source": "Yardbarker",
+        "published_date": "2026-04-05T01:33:53Z",
+        "url": "https://www.yardbarker.com/mma/articles/paulo_costa_gains_big_as_joshua_van_vs_tatsuro_taira_title_fight_postponed_during_ufc_vegas_115_live_broadcast/s1_17730_43688386",
+        "full_text": "UFC flyweight champion Joshua Van will have to wait longer to defend his newly minted title for the first time. Since Van got his hands on the title by beating Alexandr Pantoja, the UFC announced in February that he would make his first title defense... [1082 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "UFC 327: Flyweight Champion Joshua Van OUT of Title Fight",
+        "source": "Heavy.",
+        "published_date": "2026-04-05T01:28:29Z",
+        "url": "https://heavy.com/sports/ufc/ufc-327-flyweight-champion-joshua-van-out-of-title-fight/",
+        "full_text": "UFC 327 has taken a sudden turn as flyweight champion Joshua Van will no longer compete. Van has built plenty of momentum as of late, so his absence comes at an unfortunate time. The event takes place at the Kaseya Center in Miami, Florida on Saturda... [2428 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "UFC 327: Flyweight Champion Joshua Van OUT of Title Fight",
+        "source": "Heavy.",
+        "published_date": "2026-04-05T01:28:29Z",
+        "url": "https://heavy.com/sports/ufc/ufc-327-champion-joshua-van-out/",
+        "full_text": "UFC 327 has taken a sudden turn as flyweight champion Joshua Van will no longer compete. Van has built plenty of momentum as of late, so his absence comes at an unfortunate time. The event takes place at the Kaseya Center in Miami, Florida on Saturda... [2428 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "Joshua Van out of UFC 327 title fight with Tatsuro Taira",
+        "source": "MMA Fighting",
+        "published_date": "2026-04-04T22:37:55Z",
+        "url": "https://www.mmafighting.com/ufc/480397/joshua-van-out-of-ufc-327-title-fight-with-tatsuro-taira",
+        "full_text": "UFC flyweight champion Joshua Van is out of next week’s UFC 327 card in Miami due to undisclosed reasons, multiple people with knowledge of the situation confirmed to MMA Fighting.\nThe flyweight title bout is now the UFC 328 co-main event on May 9 in... [814 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "Chimaev And Johnson Showcase Elite Grappling",
+        "source": "Yardbarker",
+        "published_date": "2026-04-01T08:29:24Z",
+        "url": "https://www.yardbarker.com/mma/articles/chimaev_and_johnson_showcase_elite_grappling/s1_17349_43673128",
+        "full_text": "Undefeated UFC Middleweight Champion Khamzat Chimaev and former flyweight king Demetrious Johnson engaged in a high-level submission wrestling session.\nChimaev welcomed Johnson to his California training base. The meeting came just three days after J... [1987 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "Daniel Cormier thinks Alexa Grasso's stoppage of Maycee Barber was 'finish of the year'",
+        "source": "Yardbarker",
+        "published_date": "2026-03-30T16:55:25Z",
+        "url": "https://www.yardbarker.com/mma/articles/daniel_cormier_thinks_alexa_grassos_stoppage_of_maycee_barber_was_finish_of_the_year/s1_17621_43665345",
+        "full_text": "Former women's flyweight champion Alexa Grasso defeated Maycee Barber in their rematch at UFC Seattle in brutal fashion. The two met in the UFC Seattle co-main event on Saturday and Grasso logged a highlight reel knockout.\nGrasso connected with a cle... [986 chars]"
+      },
+      {
+        "query": "UFC Flyweight Champion",
+        "title": "Demetrious Johnson Set For UFC Hall Of Fame Induction",
+        "source": "Yardbarker",
+        "published_date": "2026-03-30T08:14:26Z",
+        "url": "https://www.yardbarker.com/mma/articles/demetrious_johnson_set_for_ufc_hall_of_fame_induction/s1_17349_43663639",
+        "full_text": "Demetrious Johnson will be inducted this July during International Fight Week in Las Vegas into the UFC Hall of Fame.\nJohnson’s career is a blueprint for success, beginning with his win at UFC 152, where he was crowned the organization’s first-ever f... [625 chars]"
+      }
+    ]
+  },
+  {
+    "question": "Will Antonio Villaraigosa win the California Governor Election in 2026?",
+    "resolution_criteria": "This market will resolve to according to the candidate who wins the 2026 California gubernatorial election currently scheduled for November 3, 2026.\n\nIf the results of the election are not confirmed by July 31, 2027, this market will resolve to \"Other\".\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race in this state for the same candidate, this market will resolve based on official certification.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2025-10-09T00:00:00",
+    "close_date": "2026-11-03T00:00:00",
+    "search_queries": [
+      "Villaraigosa 2026 campaign",
+      "California governor election updates",
+      "Antonio Villaraigosa polls",
+      "California governor election 2026",
+      "Villaraigosa polling updates",
+      "Antonio Villaraigosa campaign news"
+    ],
+    "articles": [
+      {
+        "query": "California governor election 2026",
+        "title": "Potential For Further Scandal Looms As CA Governor's Race Is Reshuffled By Swalwell's Exit",
+        "source": "Joliet, IL Patch",
+        "published_date": "2026-04-18T03:29:11Z",
+        "url": "https://patch.com/california/sacramento/potential-further-scandal-looms-ca-governors-race-reshuffled-swalwells-exit",
+        "full_text": "About 23 percent of likely voters in California remain undecided about the 2026 gubernatorial election.\nSACRAMENTO, CA — Eric Swalwell's ignoble departure from the 2026 California gubernatorial election has opened the door for other candidates to adv... [4922 chars]"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Who is Steve Hilton? Trump-endorsed Republican aiming to replace Gavin Newsom in 2026 governor election",
+        "source": "Livemint",
+        "published_date": "2026-04-06T13:37:48Z",
+        "url": "https://www.livemint.com/news/us-news/who-is-steve-hilton-trump-endorsed-republican-aiming-to-replace-gavin-newsom-in-2026-governor-election-11775481003688.html",
+        "full_text": "US President Donald Trump has endorsed Steve Hilton for California governor, giving the Republican candidate a major boost in a competitive race to replace Gavin Newsom. The endorsement is expected to consolidate GOP support and strengthen Hilton’s p... [2136 chars]"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Trump endorses Steve Hilton for California governor while blasting Newsom as doing a 'horrendous job'",
+        "source": "Washington Examiner",
+        "published_date": "2026-04-06T06:35:04Z",
+        "url": "https://www.washingtonexaminer.com/news/4516786/trump-endorses-steve-hilton-for-california-governor/",
+        "full_text": "Trump highlighted many of the problems facing California and blamed Newsom for them. He emphasized high crime rates and taxes and noted that Californians are relocating to other states to escape those burdens. Trump used his regular moniker, “Newscum... [716 chars]"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Poll: GOP Leads Early in California Governor's Race",
+        "source": "Newsmax",
+        "published_date": "2026-03-25T20:40:12Z",
+        "url": "https://www.newsmax.com/politics/poll-democrats-california/2026/03/25/id/1250788/",
+        "full_text": "California's 2026 gubernatorial race is shaping up to be highly competitive for Democrats, with new polling suggesting the party could fail to place a single candidate in the November general election despite its longtime dominance in the state.\nAcco... [1975 chars]"
+      }
+    ]
+  },
+  {
+    "question": "Will Nicolás Maduro be the leader of Venezuela end of 2026?",
+    "resolution_criteria": "This market will resolve to the individual who officially holds the position of the head of state of Venezuela on Dec 31, 2026 at 12 PM ET.\n\nFor the purposes of this market, \"officially holds\" refers to the individual that was formally appointed, confirmed (if confirmation is required), and sworn in as the head of state of Venezuela or otherwise confirmed by official government information as being the head of state of Venezuela. \n\nIf the Venezuelan government does not clearly state who is the head of state, the market will resolve to the individual who is listed as the Head of State by the UN (see: https://www.un.org/dgacm/en/content/protocol/hshgnfa.  \n\nIn the event that more than one official head of state is listed by the Venezuelan  government, this market will resolve to the individual who is listed as having primary status. If no distinction is made, the market will resolve to the individual who first assumed the position. \n\nIf no individual holds the position this market will resolve to “No Head of State”. \n\nThe following do NOT constitute \"officially holding\" the role: nominated, announced, or designated as the head of state of Venezuela but appointment not yet effective; appointed with an effective date after Dec 31, 2026; previously served as the head of state of Venezuela but term has expired, resigned, or been terminated before Dec 31, 2026; serving as the head of state of Venezuela in a consultant, contractor, or unofficial capacity; named as successor or heir apparent to the head of state of Venezuela but not yet appointed; or holding a different role with oversight of the head of state of Venezuela but not the specified position itself.\n\nThe primary resolution source will be official information from the UN recognized government of Venezuela. If the Government of Venezuela does not clearly state who is the head of state, information from the UN and a consensus of credible reporting may be used. \n\nNote: this market is mutually exclusive. \n",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-04T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "Maduro Venezuela status",
+      "Venezuelan government updates",
+      "UN Venezuela leader",
+      "Venezuela leader 2026",
+      "Maduro election updates",
+      "Venezuelan government news"
+    ],
+    "articles": [
+      {
+        "query": "Venezuela leader 2026",
+        "title": "Venezuela's Machado plans to return home by end of year, urges swift elections",
+        "source": "The Economic Times",
+        "published_date": "2026-04-20T12:04:00Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/maria-corina-machado-to-return-to-venezuela-by-2026-calls-for-urgent-elections-amid-political-turmoil/articleshow/130388918.cms",
+        "full_text": "Synopsis\nVenezuelan opposition leader Maria Corina Machado anticipates returning home by late 2026. She is urging the United States to accelerate plans for free and fair elections. Machado believes timely elections are crucial to manage public expect... [5477 chars]"
+      },
+      {
+        "query": "Venezuela leader 2026",
+        "title": "Venezuela's Machado plans to return home by end of year, urges swift elections",
+        "source": "The Straits Times",
+        "published_date": "2026-04-20T09:04:57Z",
+        "url": "https://www.straitstimes.com/world/europe/venezuelas-machado-plans-to-return-home-by-end-of-year-urges-swift-elections",
+        "full_text": "MADRID, April 20 - Venezuelan opposition leader Maria Corina Machado expects to be back in her home country before the end of 2026 and is urging the United States to accelerate plans for elections.\nSpeaking in an interview with Reuters late on Sunday... [4856 chars]"
+      }
+    ]
+  },
+  {
+    "question": "Will Seth Jarvis win the 2025–2026 NHL Maurice 'Rocket' Richard Trophy?",
+    "resolution_criteria": "This market will resolve according to the player who is awarded the 2025–26 NHL Maurice 'Rocket' Richard Trophy.\n\nIf the listed player is not announced as a finalist for the 2025–26 Maurice 'Rocket' Richard Trophy, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the NHL. However, a consensus of credible reporting may also be used.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2025-10-22T00:00:00",
+    "close_date": "2026-06-30T00:00:00",
+    "search_queries": [
+      "Seth Jarvis stats",
+      "NHL Richard Trophy",
+      "Maurice Rocket Richard winner",
+      "Seth Jarvis NHL stats",
+      "Maurice Richard Trophy contenders",
+      "NHL award finalists"
+    ],
+    "articles": [
+      {
+        "query": "NHL Richard Trophy",
+        "title": "Avalanche star Nathan MacKinnon wins Rocket Richard trophy",
+        "source": "The Denver Post",
+        "published_date": "2026-04-17T03:26:40Z",
+        "url": "https://www.denverpost.com/2026/04/16/avalanche-mackinnon-rocket-richard-trophy/",
+        "full_text": "Nathan MacKinnon has been at the doorstep of winning a major statistical award the past two seasons, and now he finally has one.\nMacKinnon will win the Maurice “Rocket” Richard Trophy, given to the NHL’s top goal scorer. He finished his season with 5... [1831 chars]"
+      },
+      {
+        "query": "NHL Richard Trophy",
+        "title": "NHL EDGE stats behind Caufield’s ‘Rocket’ Richard Trophy chances",
+        "source": "NHL.com",
+        "published_date": "2026-04-13T17:00:00Z",
+        "url": "https://www.nhl.com/news/nhl-edge-stats-cole-caufield-rocket-richard-montreal-canadiens-2026",
+        "full_text": "NHL.com's fantasy staff continues to cover the latest trends and storylines in the League through the lens of NHL EDGE puck and player tracker stats. Today, we identify some key advanced metrics surrounding Cole Caufield’s late-season push for the Ma... [4844 chars]"
+      },
+      {
+        "query": "NHL Richard Trophy",
+        "title": "Caufield working to catch MacKinnon for Rocket as NHL trophy watch enters final stretch",
+        "source": "Tsn (The Sports Network)",
+        "published_date": "2026-03-26T14:21:19Z",
+        "url": "https://www.tsn.ca/nhl/article/caufield-working-to-catch-mackinnon-for-rocket-as-nhl-trophy-watch-enters-final-stretch/",
+        "full_text": "A Montreal Canadiens player has never taken home the vaunted Maurice “Rocket” Richard Trophy as the NHL’s top goal scorer but Cole Caufield has a chance to change that this year.\nCaufield is second in goals heading into Thursday’s action with 44, two... [3066 chars]"
+      }
+    ]
+  },
+  {
+    "question": "Predict.fun FDV above $1.5B one day after launch?",
+    "resolution_criteria": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of Predict.fun's governance token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\nThe FDV will be determined using the total token supply multiplied by the token price.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Predict.fun (https://predict.fun/) doesn't launch a token by December 31, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-02-18T00:00:00",
+    "close_date": "2028-01-01T00:00:00",
+    "search_queries": [
+      "Predict.fun token launch",
+      "Predict.fun governance token",
+      "Predict.fun market sentiment",
+      "Predict.fun token price"
+    ],
+    "articles": []
+  }
+]

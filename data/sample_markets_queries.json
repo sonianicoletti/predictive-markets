@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Will Aljamain Sterling fight Alexander Volkanovski next?",
+    "resolution_criteria": "This market will resolve according to the next UFC fighter that Alexander Volkanovski is officially announced to face in a UFC bout.\n\nResolution for this market will be based on the next UFC fighter that Alexander Volkanovski is officially announced to fight, regardless of whether the fight ends up taking place.\n\nOnly official announcements from the UFC, which include a scheduled date for the bout, will count. Announcements with no date or which do not confirm that the fight is official, speculation, or other unofficial announcements will not count.\n\nIf Volkanovski is officially announced to fight any non-listed fighter or no qualifying announcement is made by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the UFC (https://www.ufc.com/).",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-02-02T00:00:00",
+    "close_date": "2027-01-01T00:00:00",
+    "search_queries": [
+      "Volkanovski next fight",
+      "UFC upcoming bouts",
+      "Alexander Volkanovski schedule",
+      "Alexander Volkanovski next fight",
+      "Volkanovski upcoming UFC bout",
+      "UFC announces Volkanovski opponent"
+    ]
+  },
+  {
+    "question": "Will Bilibili Gaming win the LPL 2026 season?",
+    "resolution_criteria": "This market will resolve according to the winner of the League of Legends Pro League (LPL) 2026 season.\n\nIf the 2026 LPL season is postponed after December 31, 2026 11:59 PM ET, canceled, or a winner has not been declared in this timeframe, this market will resolve to “Other”.\n\nIf multiple teams are declared winner, this market will resolve in favor of the team whose listed team name comes first alphabetically.\n\nThe resolution source for this market will be official information from the LPL league organizers; however, a consensus of credible reporting may also be used.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2025-11-20T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "LPL 2026 schedule",
+      "Bilibili Gaming roster",
+      "LPL season updates",
+      "LPL 2026 season schedule",
+      "Bilibili Gaming roster 2026",
+      "LPL 2026 predictions"
+    ]
+  },
+  {
+    "question": "Will Giorgos Giakoumakis record the most cards in 2025-26 UEFA Europa League?",
+    "resolution_criteria": "This market will resolve to the player who records the most disciplinary cards through all main tournament rounds of the 2025-26 UEFA Europa League competition.\n\nFor the purpose of this market, a disciplinary card will count as a yellow card, a direct red card, or a red card resulting from the accumulation of two yellow cards in the same match. A 2nd yellow card accumulated in a match which results in a red card will count as one card in the final count, not a separate yellow and red card. The tally of these cards will be counted as reflected on the official UEFA Europa League website (https://www.uefa.com/uefaeuropaleague/statistics/players/disciplinary/?sortBy=red_cards&order=desc).\n\nIn the event of a tie, this market will resolve according to the official leader as determined by UEFA Europa League rules. If multiple leaders are announced then this market will resolve to the player whose listed last name comes first alphabetically.\n\nIf the 2025-26 Europa League competition is cancelled, postponed after June 31, 2026, 11:59 PM ET, or there is otherwise no official leader declared within that timeframe, this market will resolve to “Other”.\n\nThe resolution source for this market will be official information from UEFA; however, a consensus of credible reporting may also be used.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-02-24T00:00:00",
+    "close_date": "2026-05-21T00:00:00",
+    "search_queries": [
+      "Giakoumakis disciplinary record",
+      "UEFA Europa League stats",
+      "Europa League yellow cards",
+      "Giorgos Giakoumakis disciplinary record",
+      "UEFA Europa League card leaders",
+      "Giakoumakis Europa League stats"
+    ]
+  },
+  {
+    "question": "Will the official USD to ARS exchange rate be between 1700.00 and 1799.99 at the end of December 2026?",
+    "resolution_criteria": "This is a market about Argentina’s official wholesale U.S. dollar exchange rate at market close on the last business day of December 2026, as published by the Central Bank of Argentina (BCRA).\n\nThis market will resolve according to the official wholesale USD to ARS exchange rate (Tipo de Cambio Mayorista, ($ por USD) Com. A 3500 | Referencia) at market close on the final business day of December 2026, as published by the BCRA on its official website (https://www.bcra.gob.ar/).\n\nIf the official rate for that date has not been published by the end of the 7th day after the end of the specified month, the market will resolve according to the most recently published official wholesale rate preceding that date.\n\nThe resolution source for this market will be the official BCRA publication. Resolution will occur once this figure is available.\n\nNote: the resolution source for this market will be the Central Bank of Argentina (BCRA), which reports the Wholesale Exchange Rate to two decimal points (e.g., 1,408.02 ARS per USD). Thus, this is the level of precision that will be used when resolving the market.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-26T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "Argentina economy",
+      "USD exchange rates",
+      "Argentina inflation",
+      "Argentina exchange rate forecast",
+      "BCRA USD to ARS rate",
+      "Argentina currency forecast"
+    ]
+  },
+  {
+    "question": "Abstract FDV above $800M one day after launch?",
+    "resolution_criteria": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of Abstract's governance token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\nThe FDV will be determined using the total token supply multiplied by the token price.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Abstract doesn't launch a token by December 31, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-28T00:00:00",
+    "close_date": "2028-01-01T00:00:00",
+    "search_queries": [
+      "Abstract token launch",
+      "Crypto market trends",
+      "FDV calculation methods",
+      "Abstract governance token",
+      "Abstract FDV valuation"
+    ]
+  },
+  {
+    "question": "Will Amir Albazi be the UFC Flyweight Champion on December 31, 2026?",
+    "resolution_criteria": "This market will resolve according to the official UFC Flyweight division champion on December 31, 2026 at 12:00 PM ET.\n\nOnly official UFC division champions will count. Interim champions will not count.\n\nIf the relevant belt is vacant at this market’s check time, or there is otherwise no champion in the specified division, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the UFC (https://www.ufc.com/athletes).",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-02T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "UFC Flyweight rankings",
+      "Amir Albazi next fight",
+      "UFC champion schedule",
+      "UFC Flyweight Champion"
+    ]
+  },
+  {
+    "question": "Will Antonio Villaraigosa win the California Governor Election in 2026?",
+    "resolution_criteria": "This market will resolve to according to the candidate who wins the 2026 California gubernatorial election currently scheduled for November 3, 2026.\n\nIf the results of the election are not confirmed by July 31, 2027, this market will resolve to \"Other\".\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race in this state for the same candidate, this market will resolve based on official certification.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2025-10-09T00:00:00",
+    "close_date": "2026-11-03T00:00:00",
+    "search_queries": [
+      "Villaraigosa 2026 campaign",
+      "California governor election updates",
+      "Antonio Villaraigosa polls",
+      "California governor election 2026",
+      "Villaraigosa polling updates",
+      "Antonio Villaraigosa campaign news"
+    ]
+  },
+  {
+    "question": "Will Nicolás Maduro be the leader of Venezuela end of 2026?",
+    "resolution_criteria": "This market will resolve to the individual who officially holds the position of the head of state of Venezuela on Dec 31, 2026 at 12 PM ET.\n\nFor the purposes of this market, \"officially holds\" refers to the individual that was formally appointed, confirmed (if confirmation is required), and sworn in as the head of state of Venezuela or otherwise confirmed by official government information as being the head of state of Venezuela. \n\nIf the Venezuelan government does not clearly state who is the head of state, the market will resolve to the individual who is listed as the Head of State by the UN (see: https://www.un.org/dgacm/en/content/protocol/hshgnfa.  \n\nIn the event that more than one official head of state is listed by the Venezuelan  government, this market will resolve to the individual who is listed as having primary status. If no distinction is made, the market will resolve to the individual who first assumed the position. \n\nIf no individual holds the position this market will resolve to “No Head of State”. \n\nThe following do NOT constitute \"officially holding\" the role: nominated, announced, or designated as the head of state of Venezuela but appointment not yet effective; appointed with an effective date after Dec 31, 2026; previously served as the head of state of Venezuela but term has expired, resigned, or been terminated before Dec 31, 2026; serving as the head of state of Venezuela in a consultant, contractor, or unofficial capacity; named as successor or heir apparent to the head of state of Venezuela but not yet appointed; or holding a different role with oversight of the head of state of Venezuela but not the specified position itself.\n\nThe primary resolution source will be official information from the UN recognized government of Venezuela. If the Government of Venezuela does not clearly state who is the head of state, information from the UN and a consensus of credible reporting may be used. \n\nNote: this market is mutually exclusive. \n",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-04T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "Maduro Venezuela status",
+      "Venezuelan government updates",
+      "UN Venezuela leader",
+      "Venezuela leader 2026",
+      "Maduro election updates",
+      "Venezuelan government news"
+    ]
+  },
+  {
+    "question": "Will Seth Jarvis win the 2025–2026 NHL Maurice 'Rocket' Richard Trophy?",
+    "resolution_criteria": "This market will resolve according to the player who is awarded the 2025–26 NHL Maurice 'Rocket' Richard Trophy.\n\nIf the listed player is not announced as a finalist for the 2025–26 Maurice 'Rocket' Richard Trophy, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the NHL. However, a consensus of credible reporting may also be used.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2025-10-22T00:00:00",
+    "close_date": "2026-06-30T00:00:00",
+    "search_queries": [
+      "Seth Jarvis stats",
+      "NHL Richard Trophy",
+      "Maurice Rocket Richard winner",
+      "Seth Jarvis NHL stats",
+      "Maurice Richard Trophy contenders",
+      "NHL award finalists"
+    ]
+  },
+  {
+    "question": "Predict.fun FDV above $1.5B one day after launch?",
+    "resolution_criteria": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of Predict.fun's governance token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\nThe FDV will be determined using the total token supply multiplied by the token price.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Predict.fun (https://predict.fun/) doesn't launch a token by December 31, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-02-18T00:00:00",
+    "close_date": "2028-01-01T00:00:00",
+    "search_queries": [
+      "Predict.fun token launch",
+      "Predict.fun governance token",
+      "Predict.fun market sentiment",
+      "Predict.fun token price"
+    ]
+  }
+]

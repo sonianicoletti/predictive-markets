@@ -1,0 +1,237 @@
+[
+  {
+    "record_id": "5994183387159653987",
+    "record_title": "Lucumi's suspension for Europa League quarter-final",
+    "enrichment": {
+      "player_name": "Lucumi",
+      "match_date": null,
+      "opponent_team": "Aston Villa",
+      "player_team": "Bologna",
+      "yellow_card_reason": "warning",
+      "total_yellow_cards_in_match": 0,
+      "match_stage": "Quarter-final",
+      "yellow_card_minute": 0,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Il Bologna si abitua all'assenza di Lucumi: Diogo Leite ed El Karouani nel mirino",
+        "link": "https://www.bolognasportnews.it/news/549736340357/il-bologna-si-abitua-allassenza-di-lucumi-diogo-leite-ed-el-karouani-nel-mirino",
+        "published_date": "2026-04-11T07:55:45Z"
+      },
+      {
+        "title": "Jhon Lucumi News: Suspended for Aston Villa game",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-14T13:28:54Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6017184514105151448",
+    "record_title": "Nottingham Forest's Crisis Management Amidst Player's Mother's Death and Yellow Card Suspension",
+    "enrichment": {
+      "match_date": "2026-04-16",
+      "opponent_team": "Porto",
+      "yellow_card_reason": null,
+      "total_yellow_cards_in_match": 0,
+      "player_team": "Nottingham Forest",
+      "yellow_card_minute": 0,
+      "player_name": "Elliott Anderson",
+      "match_stage": "Knockout Round",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "球员母亲去世，俱乐部如何处理危机公关？",
+        "link": "https://www.163.com/dy/article/KQQBUSBB05561FZC.html",
+        "published_date": "2026-04-18T07:23:37Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5419525558085612565",
+    "record_title": "Aubameyang's Yellow Card for Mask Celebration in Europa League",
+    "enrichment": {
+      "total_yellow_cards_in_match": 1,
+      "player_team": "Arsenal",
+      "yellow_card_reason": "unnecessary and excessive celebration",
+      "match_date": null,
+      "player_name": "Pierre-Emerick Aubameyang",
+      "yellow_card_minute": 1,
+      "opponent_team": "Rennes",
+      "match_stage": "Round of 16",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "بعد تحذير عدي الدباغ مع الزمالك.. لاعبون تعرضوا للعقوبة بسبب الاحتفال بـ 'قناع'",
+        "link": "https://asabnews.com/1003633",
+        "published_date": "2026-04-20T17:54:55Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6261182459598969525",
+    "record_title": "Lucas Holer receives yellow card against Mainz",
+    "enrichment": {
+      "match_date": "2026-04-13",
+      "player_team": "Freiburg",
+      "match_stage": null,
+      "player_name": "Lucas Holer",
+      "yellow_card_reason": null,
+      "total_yellow_cards_in_match": 0,
+      "yellow_card_minute": 73,
+      "opponent_team": "Mainz",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Lucas Holer News: Scores on lone shot",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-13T02:34:18Z"
+      }
+    ]
+  },
+  {
+    "record_id": "4516655151355648975",
+    "record_title": "Lichtsteiner's yellow card ban for FC Basel",
+    "enrichment": {
+      "opponent_team": "Thun",
+      "yellow_card_minute": 0,
+      "match_date": "2026-04-11",
+      "match_stage": null,
+      "total_yellow_cards_in_match": 0,
+      "yellow_card_reason": null,
+      "player_name": "Stephan Lichtsteiner",
+      "player_team": "FC Basel",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Lichtsteiner-sperre: fcb bangt vor duell gegen thun!",
+        "link": "https://tsv-pelkum.de/allgemein/lichtsteinersperre-fcb-bangt-vor-duell-gegen-thun",
+        "published_date": "2026-04-11T06:10:22Z"
+      }
+    ]
+  },
+  {
+    "record_id": "4017661470505847779",
+    "record_title": "Controversial Yellow Cards in Arsenal vs Sporting Match",
+    "enrichment": {
+      "opponent_team": "Arsenal",
+      "player_team": "Sporting",
+      "match_stage": null,
+      "yellow_card_minute": 79,
+      "total_yellow_cards_in_match": 2,
+      "player_name": "Maxi Araújo",
+      "yellow_card_reason": "negligent tackle",
+      "match_date": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Pedro Henriques analisa as quedas nas áreas no Arsenal-Sporting",
+        "link": "https://www.abola.pt/noticias/pedro-henriques-analisa-as-quedas-nas-areas-no-arsenal-sporting-2026041521432621899",
+        "published_date": "2026-04-16T08:27:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1221976717573572229",
+    "record_title": "Dodo's Suspension for Yellow Card in Europa League Quarter-final",
+    "enrichment": {
+      "opponent_team": "Crystal Palace",
+      "match_date": null,
+      "yellow_card_reason": null,
+      "total_yellow_cards_in_match": 0,
+      "yellow_card_minute": 0,
+      "match_stage": "Quarter-final",
+      "player_team": "Fiorentina",
+      "player_name": "Dodo",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "佛罗伦萨备战水晶宫：基恩的情况及法焦利的回归",
+        "link": "https://www.163.com/dy/article/KQH2N9D90556HFVR.html",
+        "published_date": "2026-04-14T16:49:01Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1178320517259500795",
+    "record_title": "Ivan Bebek's Controversial Europa League Decisions",
+    "enrichment": {
+      "total_yellow_cards_in_match": 0,
+      "match_date": "2016-03-17",
+      "match_stage": "Round of 16",
+      "yellow_card_minute": 0,
+      "player_name": null,
+      "opponent_team": "Braga",
+      "player_team": "Fenerbahçe",
+      "yellow_card_reason": null,
+      "enrichment_confidence": "low"
+    },
+    "citations": [
+      {
+        "title": "FIFA Fenerbahçe'yi çıldırttı: Ivan Bebek kararı",
+        "link": "https://www.fotospor.com.tr/fenerbahce/fifa-fenerbahceyi-cildirtti-ivan-bebek-karari-700948",
+        "published_date": "2026-04-10T12:22:00Z"
+      },
+      {
+        "title": "Vitor Pereira'nın Fenerbahçe'den unutamadığı Ivan Bebek bakın bu kez ne yaptı",
+        "link": "https://www.yenicaggazetesi.com/vitor-pereiranin-fenerbahceden-unutamadigi-ivan-bebek-bakin-bu-kez-ne-yapti-1019919h.htm",
+        "published_date": "2026-04-16T19:36:00Z"
+      },
+      {
+        "title": "Fenerbahçe UEFA'ya şikayet etmişti: FIFA'dan Ivan Bebek için Dünya Kupası kararı!",
+        "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-uefa-ya-sikayet-etmisti-fifa-dan-ivan-bebek-icin-dunya-kupasi-karari-2494063",
+        "published_date": "2026-04-10T12:14:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3653134320160365577",
+    "record_title": "Natan suspended for Braga game due to yellow card accumulation",
+    "enrichment": {
+      "yellow_card_reason": null,
+      "opponent_team": "Braga",
+      "player_team": null,
+      "yellow_card_minute": 0,
+      "total_yellow_cards_in_match": 0,
+      "match_date": null,
+      "player_name": "Natan",
+      "match_stage": "return leg",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Natan News: Suspended for Braga game",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-15T11:05:46Z"
+      }
+    ]
+  },
+  {
+    "record_id": "344652872893081665",
+    "record_title": "Ederson Receives Yellow Card in Europa League",
+    "enrichment": {
+      "yellow_card_minute": 0,
+      "opponent_team": null,
+      "match_date": null,
+      "player_name": "Ederson",
+      "total_yellow_cards_in_match": 0,
+      "player_team": "Fenerbahçe",
+      "match_stage": null,
+      "yellow_card_reason": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Fenerbahçe'nin Kalecisi Ederson Takımdan Ayrılıyor mu?",
+        "link": "https://tr.haberx.com/fenerbahcenin-kalecisi-ederson-takimdan-ayriliyor-mu",
+        "published_date": "2026-04-22T12:07:23Z"
+      }
+    ]
+  }
+]

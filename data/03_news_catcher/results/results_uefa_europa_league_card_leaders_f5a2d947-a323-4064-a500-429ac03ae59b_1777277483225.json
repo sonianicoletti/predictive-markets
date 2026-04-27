@@ -1,0 +1,603 @@
+[
+  {
+    "record_id": "7973124446079633627",
+    "record_title": "Players cautioned for mask celebrations",
+    "enrichment": {
+      "player_name": "Pierre-Emerick Aubameyang",
+      "total_cards": 1,
+      "season": "2018-19",
+      "red_cards": 0,
+      "yellow_cards": 1,
+      "competition_stage": "round of 16",
+      "player_team": {
+        "source_text": "Arsenal",
+        "confidence": 1,
+        "metadata": {
+          "name": "Arsenal",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "بعد تحذير عدي الدباغ مع الزمالك.. لاعبون تعرضوا للعقوبة بسبب الاحتفال بـ 'قناع'",
+        "link": "https://asabnews.com/1003633",
+        "published_date": "2026-04-20T17:54:55Z"
+      }
+    ]
+  },
+  {
+    "record_id": "4167109443252484364",
+    "record_title": "Red Card for Jan Bednarek in Europa League",
+    "enrichment": {
+      "player_team": {
+        "source_text": "Nottingham Forest",
+        "confidence": 1,
+        "metadata": {
+          "name": "Nottingham Forest",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "total_cards": 1,
+      "competition_stage": "knockout round",
+      "season": "2025/2026",
+      "player_name": "Jan Bednarek",
+      "red_cards": 1,
+      "yellow_cards": 0,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Pucharowy kocioł (wiosna 2026): Czerwień dla Bednarka, Szachtar gra dalej",
+        "link": "https://kkslech.com/2026/04/17/pucharowy-kociol-wiosna-2026",
+        "published_date": "2026-04-16T22:00:19Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8619857688640312470",
+    "record_title": "Braga's Europa League performance and player card update",
+    "enrichment": {
+      "total_cards": 0,
+      "player_team": {
+        "source_text": "Braga",
+        "confidence": 1,
+        "metadata": {
+          "name": "Braga",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "player_name": "Lambergielke",
+      "season": "2025/26",
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "competition_stage": "overall",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "ΑΡΟΥΚΑ Προγνωστικά (12/04/26)",
+        "link": "https://www.matchmoney.com.gr/analuseis-agonon/mpragka-arouka-prognostika-12-04-2026",
+        "published_date": "2026-04-11T20:25:01Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8993200194941392996",
+    "record_title": "Jacob Hödl suspended due to yellow cards",
+    "enrichment": {
+      "total_cards": 5,
+      "season": "2025-26",
+      "competition_stage": "overall",
+      "player_team": {
+        "source_text": "Sturm",
+        "confidence": 1,
+        "metadata": {
+          "name": "SK Sturm",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "red_cards": 5,
+      "yellow_cards": 5,
+      "player_name": "Jacob Hödl",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Jungstar JP Hödl fehlt Sturm gegen den LASK 3-Millionen-Euro-Baby macht Pause",
+        "link": "https://www.meinbezirk.at/graz-umgebung/c-sport/3-millionen-euro-baby-macht-pause_a8597239",
+        "published_date": "2026-04-21T08:01:12Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8001584170516670806",
+    "record_title": "Lucas Holer Scores and Receives Yellow Card in UEL Quarterfinal",
+    "enrichment": {
+      "red_cards": 0,
+      "yellow_cards": 1,
+      "competition_stage": "quarterfinal",
+      "total_cards": 1,
+      "player_team": {
+        "source_text": "Freiburg",
+        "confidence": 1,
+        "metadata": {
+          "name": "Freiburg",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "player_name": "Lucas Holer",
+      "season": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Lucas Holer News: Scores on lone shot",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-13T02:34:18Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2233622131830536096",
+    "record_title": "Mainz defender Cole's elbow incident in Europa League semi-final",
+    "enrichment": {
+      "total_cards": 1,
+      "season": null,
+      "player_team": {
+        "source_text": "Mainz",
+        "confidence": 1,
+        "metadata": {
+          "name": "Mainz",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "red_cards": 0,
+      "player_name": "Dominic Cole",
+      "yellow_cards": 1,
+      "competition_stage": "semi-final",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "[流言板]美因茨后卫科尔肘击白堡球员后颈，奥尼尔大喊他该进监狱！ 4回复/ 0亮905 浏览",
+        "link": "https://bbs.hupu.com/638532881.html",
+        "published_date": "2026-04-17T14:13:04Z"
+      },
+      {
+        "title": "이재성 빈자리 더욱 크게 느껴진다… 마인츠, 2-0 리드 날리고 0-4 참패 4강 좌절→집단 난투극 발생",
+        "link": "https://v.daum.net/v/20260418060702722",
+        "published_date": "2026-04-18T06:07:02Z"
+      },
+      {
+        "title": "« On leur a rendu la pareille ! » Les joueurs de Mayence 05 perdent complètement les pédales après le désastre et les provocations face au Racing Strasbourg",
+        "link": "https://www.goal.com/fr/listes/on-leur-a-rendu-la-pareille-les-joueurs-de-mayence-05-perdent-completement-les-pedales-apres-le-desastre-et-les-provocations-face-au-racing-strasbourg/blt01143be0bda2919c",
+        "published_date": "2026-04-17T06:34:58Z"
+      },
+      {
+        "title": "Mainz Players Clash After UEFA Conference League Elimination",
+        "link": "https://www.chosun.com/english/sports-en/2026/04/17/7HWUNDDOLRHKTKZTHCYPZS4SAI",
+        "published_date": "2026-04-17T01:49:04Z"
+      },
+      {
+        "title": "Drama dan Kericuhan di Prancis: Mainz 05 Tersingkir Tragis, Nadiem Amiri Diganjar Kartu Merah",
+        "link": "https://pasjabar.com/2026/04/18/drama-dan-kericuhan-di-prancis-mainz-05-tersingkir-tragis-nadiem-amiri-diganjar-kartu-merah",
+        "published_date": "2026-04-18T08:00:59Z"
+      },
+      {
+        "title": "斯特拉斯堡淘汰美因茨，赛后冲突引发红牌风波",
+        "link": "https://m.sohu.com/a/1010907089_121885030",
+        "published_date": "2026-04-17T08:18:24Z"
+      },
+      {
+        "title": "아! '한국인 공백' 너무 아쉽다, 이재성 빠진 마인츠, 스트라스부르 원정서 0-4 대패…UECL 8강 탈락",
+        "link": "https://sports.news.nate.com/view/20260417n06239",
+        "published_date": "2026-04-17T09:07:00Z"
+      },
+      {
+        "title": "Strasbourg : l'énorme coup de sang de Gary O'Neil contre l'arbitrage",
+        "link": "https://www.footmercato.net/a5106252399926491180-strasbourg-lenorme-coup-de-sang-de-gary-oneil-contre-larbitrage",
+        "published_date": "2026-04-16T20:18:49Z"
+      }
+    ]
+  },
+  {
+    "record_id": "93101197354866483",
+    "record_title": "Betis players warned and suspended for Europa League quarterfinals",
+    "enrichment": {
+      "competition_stage": "quarterfinals",
+      "red_cards": 0,
+      "player_name": "Natan",
+      "total_cards": 0,
+      "player_team": {
+        "source_text": "Betis",
+        "confidence": 0.9,
+        "metadata": {
+          "name": "Betis",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "season": null,
+      "yellow_cards": 3,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "El Betis cuenta con cinco apercibidos y un sancionado antes del duelo con el Braga",
+        "link": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-cuenta-cinco-apercibidos-sancionado-duelo-braga-20260414135351-nts.html",
+        "published_date": "2026-04-14T14:41:53Z"
+      },
+      {
+        "title": "Prediksi Real Betis vs SC Braga : Duet Sengit Berebut Gengsi Di Europa League",
+        "link": "https://www.kompasiana.com/garison2049/69e0c04734777c4b8a3907a2/prediksi-real-betis-vs-sc-braga-duet-sengit-berebut-gengsi-di-europa-league",
+        "published_date": "2026-04-16T10:56:07Z"
+      },
+      {
+        "title": "Los dos posts rojiblancos del Atlético tras la eliminación del Betis que causan una gran sorpresa",
+        "link": "https://www.eldesmarque.com/futbol/europa-league/20260417/real-betis-atletico-madrid-post-corazones-rojiblancos-eliminacion-braga_18_018912363.html",
+        "published_date": "2026-04-17T10:33:01Z"
+      },
+      {
+        "title": "Los apercibidos del Betis ante el Braga, las posibles bajas en semifinales y cuándo y cómo se limpian las amarillas",
+        "link": "https://www.estadiodeportivo.com/futbol/betis/los-apercibidos-del-betis-ante-braga-las-posibles-bajas-semifinales-cuando-como-limpian-las-amarillas-20260415-535019.html",
+        "published_date": "2026-04-15T09:36:33Z"
+      },
+      {
+        "title": "Minhotos tiveram de recorrer à reserva de ouro (crónica)",
+        "link": "https://sapo.pt/artigo/minhotos-tiveram-de-recorrer-a-reserva-de-ouro-cronica-69dbf216be75024db6b421cb",
+        "published_date": "2026-04-12T19:23:07Z"
+      },
+      {
+        "title": "Prediksi Skor Girona vs Real Betis, Head-to-head dan Statistik di La Liga 2026",
+        "link": "https://lombok.tribunnews.com/superball/104306/prediksi-skor-girona-vs-real-betis-head-to-head-dan-statistik-di-la-liga-2026",
+        "published_date": "2026-04-21T05:11:15Z"
+      },
+      {
+        "title": "Alineaciones probables del Girona - Betis de LaLiga EA Sports 2025-2026: onces y banquillo de suplentes",
+        "link": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/alineaciones-girona-betis-laliga-sports-20252026-onces-20260420173036-nts.html",
+        "published_date": "2026-04-20T20:37:26Z"
+      },
+      {
+        "title": "Ortiz y Junior, únicas ausencias en la penúltima sesión de entrenamiento antes de recibir al Braga",
+        "link": "https://www.marca.com/futbol/betis/2026/04/14/ortiz-junior-unicas-ausencias-ultima-sesion-entrenamiento-recibir-braga.html",
+        "published_date": "2026-04-14T09:10:33Z"
+      },
+      {
+        "title": "Betis scheitert an braga – llorentes wut auf den schiedsrichter!",
+        "link": "https://tsv-pelkum.de/sport/betis-scheitert-an-braga-llorentes-wut-auf-den-schiedsrichter",
+        "published_date": "2026-04-17T09:31:18Z"
+      },
+      {
+        "title": "Arouca falha penálti e Sporting de Braga garante triunfo",
+        "link": "https://sapo.pt/artigo/arouca-falha-penalti-e-sporting-de-braga-garante-triunfo-69dc0347f9b8534ae3dfed45",
+        "published_date": "2026-04-12T20:38:00Z"
+      },
+      {
+        "title": "Isco y Lo Celso, al rescate",
+        "link": "https://www.marca.com/futbol/betis/2026/04/20/isco-celso-rescate.html",
+        "published_date": "2026-04-20T06:31:54Z"
+      },
+      {
+        "title": "Osasuna vs Real Betis Preview: Team News & Prediction",
+        "link": "https://www.thestatszone.com/osasuna-vs-real-betis-preview-team-news-prediction-181576",
+        "published_date": "2026-04-10T23:56:11Z"
+      },
+      {
+        "title": "西甲中游对决：奥萨苏纳VS贝蒂斯，主场堡垒迎战欧战追兵",
+        "link": "https://www.sohu.com/a/1008506196_121847556",
+        "published_date": "2026-04-12T05:10:42Z"
+      },
+      {
+        "title": "Nhận định Betis vs Real Madrid (2h00 ngày 25/4): Chờ mưa bàn thắng",
+        "link": "https://bongda24h.vn/nhan-dinh-bong-da/du-doan-betis-vs-real-madrid-hom-nay-344-448548.html",
+        "published_date": "2026-04-22T21:26:47Z"
+      },
+      {
+        "title": "Pellegrini da la mejor de las noticias",
+        "link": "https://www.mundodeportivo.com/futbol/betis/20260415/1004170868/pellegrini-da-mejor-noticias.html",
+        "published_date": "2026-04-15T11:19:57Z"
+      },
+      {
+        "title": "El Betis, con Isco, termina de preparar el histórico duelo ante el Sporting de Braga en la ciudad deportiva",
+        "link": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-termina-preparar-historico-duelo-ante-sporting-20260415121101-nts.html",
+        "published_date": "2026-04-15T10:11:07Z"
+      },
+      {
+        "title": "伊斯科再次入选，迭戈·略伦特因伤缺阵",
+        "link": "https://www.163.com/dy/article/KR03HTIK0556HFVR.html",
+        "published_date": "2026-04-20T12:52:10Z"
+      },
+      {
+        "title": "Cinco futbolistas del Betis, advertidos",
+        "link": "https://www.mundodeportivo.com/futbol/betis/20260415/1004170751/cinco-futbolistas-betis-advertidos.html",
+        "published_date": "2026-04-15T06:36:00Z"
+      },
+      {
+        "title": "Isco entra en la convocatoria para el Betis",
+        "link": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/isco-convocatoria-betis-braga-20260415130814-nts.html",
+        "published_date": "2026-04-15T11:08:14Z"
+      },
+      {
+        "title": "Betis-Braga: alineaciones probables del partido de vuelta de cuartos de final de Europa League",
+        "link": "https://www.elcorreoweb.es/betis/2026/04/14/betis-braga-alineaciones-probables-vuelta-cuartos-europa-league-129083842.html",
+        "published_date": "2026-04-14T13:05:03Z"
+      },
+      {
+        "title": "OTRO DURO GOLPE",
+        "link": "https://diarioelatlantico.com.ar/2026/04/10/168878",
+        "published_date": "2026-04-11T02:38:18Z"
+      },
+      {
+        "title": "Sporting Braga - Arouca, 04/12/2026: prediction, odds and match time",
+        "link": "https://betmines.com/match-preview/sporting-braga-vs-arouca-prediction-match-preview-and-analysis-liga-portugal-12-04-2026",
+        "published_date": "2026-04-10T17:05:13Z"
+      },
+      {
+        "title": "Betis – Braga : les compos probables avant le choc",
+        "link": "https://africafoot.com/betis-braga-les-compos-probables-avant-le-choc",
+        "published_date": "2026-04-14T14:54:44Z"
+      },
+      {
+        "title": "La Scaloneta suma ritmo: así fue el fin de semana de los argentinos rumbo al Mundial 2026",
+        "link": "https://misionesonline.net/2026/04/20/la-scaloneta-suma-ritmo",
+        "published_date": "2026-04-20T17:25:37Z"
+      },
+      {
+        "title": "¡¡Isco vuelve a una convocatoria!!",
+        "link": "https://mundobetis.com/2026/04/15/isco-vuelve-a-una-convocatoria",
+        "published_date": "2026-04-15T16:08:02Z"
+      },
+      {
+        "title": "Antony y Diego Llorente se caen de la convocatoria del Betis para visitar al Girona: lista de 23 de Pellegrini, con Isco pero con cuatro bajas",
+        "link": "https://www.estadiodeportivo.com/futbol/betis/antony-diego-llorente-caen-convocatoria-del-betis-para-visitar-girona-lista-pellegrini-con-isco-pero-con-cuatro-bajas-20260420-535429.html",
+        "published_date": "2026-04-20T13:01:48Z"
+      },
+      {
+        "title": "Real Betis - Braga maçı nereden izlenir, hangi kanalda? Real Betis - Braga maçı ne zaman, saat kaçta? Real Betis - Braga ilk 11, maç kadrosu",
+        "link": "https://www.gzt.com/spor/real-betis-braga-maci-nereden-izlenir-hangi-kanalda-real-betis-braga-maci-ne-zaman-saat-kacta-real-betis-braga-ilk-11-mac-kadrosu-4207855",
+        "published_date": "2026-04-16T18:44:52Z"
+      },
+      {
+        "title": "El esperado regreso de Isco: La gran novedad del Betis para la Europa League",
+        "link": "https://www.elgoldigital.com/futbol/europa-league/regreso-isco-convocatoria-betis-braga-europa-league",
+        "published_date": "2026-04-15T11:40:00Z"
+      },
+      {
+        "title": "Betis vs Braga Prediction, Tips & Booking Code (Apr 16)",
+        "link": "https://news.22bet.com/predictions/betis-vs-braga-prediction-booking-code-16-04-2026",
+        "published_date": "2026-04-14T16:32:01Z"
+      },
+      {
+        "title": "伊斯科再次入选，迭戈·略伦特因伤缺阵_手机网易网",
+        "link": "https://m.163.com/dy/article/KR03HTIK0556HFVR.html",
+        "published_date": "2026-04-20T12:52:10Z"
+      },
+      {
+        "title": "Betis bereitet europa-league-rückspiel vor: isco könnte bald wied...",
+        "link": "https://tsv-pelkum.de/sport/betis-bereitet-europaleagueruckspiel-vor-isco-konnte-bald-wieder-dabei-sein",
+        "published_date": "2026-04-14T22:41:21Z"
+      },
+      {
+        "title": "Cinco jugadores del Betis, advertidos de suspensión",
+        "link": "https://mundobetis.com/2026/04/15/cinco-jugadores-del-betis-advertidos-de-suspension",
+        "published_date": "2026-04-14T22:08:02Z"
+      },
+      {
+        "title": "El Betis se encierra para pasar página: \"Volveremos\"",
+        "link": "https://www.muchodeporte.com/real-betis/el-betis-se-encierra-para-pasar-pagina-volveremos",
+        "published_date": "2026-04-18T15:29:18Z"
+      },
+      {
+        "title": "Cinco apercibidos en el Betis para la vuelta de los cuartos ante el Braga",
+        "link": "https://www.muchodeporte.com/real-betis/cinco-apercibidos-en-el-betis-para-la-vuelta-de-los-cuartos-ante-el-braga",
+        "published_date": "2026-04-14T15:32:11Z"
+      },
+      {
+        "title": "Betis-Braga : Isco et Antony, les choix forts de Pellegrini",
+        "link": "https://www.teamfootball.fr/actu/betis-la-grande-enigme-deuropa-league-isco-antony-et-le-pari-de-pellegrini",
+        "published_date": "2026-04-14T15:05:31Z"
+      },
+      {
+        "title": "Antony und Abde Ezzalzouli punkten und Real Betis führt Sporting Braga mit 2:1 in der Europa League",
+        "link": "https://www.mixvale.com.br/2026/04/16/antony-und-abde-ezzalzouli-punkten-und-real-betis-fuhrt-sporting-braga-mit-21-in-der-europa-league-de/amp",
+        "published_date": "2026-04-16T20:16:42Z"
+      },
+      {
+        "title": "Betis-Braga: bajas confirmadas y una gran duda",
+        "link": "https://www.muchodeporte.com/real-betis/betis-braga-bajas-confirmadas-y-una-gran-duda",
+        "published_date": "2026-04-13T11:36:34Z"
+      },
+      {
+        "title": "Antony și Abde Ezzalzouli marchează, iar Real Betis conduce Sporting Braga cu 2-1 în Europa League",
+        "link": "https://www.mixvale.com.br/2026/04/16/antony-si-abde-ezzalzouli-marcheaza-iar-real-betis-conduce-sporting-braga-cu-2-1-in-europa-league-ro/amp",
+        "published_date": "2026-04-16T20:17:46Z"
+      },
+      {
+        "title": "Braga Lakukan Tujuh Perubahan Pemain Saat Hadapi Arouca di Liga Portugal",
+        "link": "https://www.infonasional.com/braga-tujuh-perubahan-pemain-arouca",
+        "published_date": "2026-04-12T19:48:23Z"
+      },
+      {
+        "title": "Así vivió Isco su regreso: de la tensión del banquillo a la emoción del final",
+        "link": "https://www.diariodesevilla.es/realbetis/vivio-isco-regreso-tension-banquillo_0_2006568656.html",
+        "published_date": "2026-04-22T11:33:08Z"
+      },
+      {
+        "title": "Pellegrini: \"Hay que tener valentía para superar este momento\"",
+        "link": "https://www.mundodeportivo.com/futbol/20260420/1004172806/pellegrini-hay-valentia-superar-momento.html",
+        "published_date": "2026-04-20T12:16:05Z"
+      },
+      {
+        "title": "Prediksi Skor, Susunan Pemain dan Berita Tim: Girona vs Real Betis – Ujian Mental Usai Drama Eropa",
+        "link": "https://sukabumi.hallo.id/sport/4617025817/prediksi-skor-susunan-pemain-dan-berita-tim-girona-vs-real-betis-ujian-mental-usai-drama-eropa",
+        "published_date": "2026-04-21T09:44:33Z"
+      },
+      {
+        "title": "El Braga suspira por Salazar",
+        "link": "https://as.com/futbol/el-braga-suspira-por-salazar-f202604-n",
+        "published_date": "2026-04-14T09:36:50Z"
+      },
+      {
+        "title": "La afición del Betis desemBraga y acelera a fondo: La Cartuja se prepara para volver a subir el listón",
+        "link": "https://mibetis.com/la-aficion-del-betis-desembraga-y-acelera-a-fondo-la-cartuja-se-prepara-para-volver-a-subir-el-liston",
+        "published_date": "2026-04-10T17:54:34Z"
+      },
+      {
+        "title": "Cucho Hernández: \"Es el partido más importante de mi vida\"",
+        "link": "https://informabetis.com/real-betis-balompie/2026/04/15/cucho-hernandez-es-el-partido-mas-importante-de-mi-vida.html",
+        "published_date": "2026-04-15T15:39:55Z"
+      },
+      {
+        "title": "Lo Celso reapareció tras su lesión y se mete otra vez en el radar de la Selección para el Mundial 2026",
+        "link": "https://www.lagaceta.com.ar/nota/1132225/deportes/lo-celso-reaparecio-tras-lesion-se-mete-otra-vez-radar-seleccion-para-mundial-2026.html",
+        "published_date": "2026-04-12T18:28:29Z"
+      },
+      {
+        "title": "Zalazar é a grande novidade nos convocados do Sp. Braga para Sevilha",
+        "link": "https://sapo.pt/artigo/zalazar-e-a-grande-novidade-nos-convocados-do-sp-braga-para-sevilha-69dfba31d7f07c0ce2506cd3",
+        "published_date": "2026-04-15T16:16:00Z"
+      },
+      {
+        "title": "Buenas noticias para Selección Argentina: una pieza clave se recuperó de su lesión",
+        "link": "https://www.tycsports.com/seleccion-argentina/seleccion-lo-celso-betis-id724036.html",
+        "published_date": "2026-04-12T16:09:09Z"
+      },
+      {
+        "title": "Good news for Messi: Argentina star Lo Celso returns from three-month injury with eyes on World Cup",
+        "link": "https://worldsoccertalk.com/news/good-news-for-messi-argentina-star-lo-celso-returns-from-three-month-injury-with-eyes-on-world-cup",
+        "published_date": "2026-04-11T22:45:40Z"
+      },
+      {
+        "title": "Tras 77 días afuera, Lo Celso volvió a entrenarse en Betis y arrancó la carrera contrarreloj para ir al Mundial",
+        "link": "https://www.lanacion.com.ar/deportes/futbol/tras-77-dias-afuera-lo-celso-volvio-a-entrenarse-en-betis-y-arranco-la-carrera-contrarreloj-para-ir-nid10042026",
+        "published_date": "2026-04-10T14:02:16Z"
+      },
+      {
+        "title": "Buenas noticias para Messi: la estrella argentina Lo Celso regresa de una lesión de tres meses con la mirada puesta en la Copa del Mundo",
+        "link": "https://www.puntojus.com/argentina/27809",
+        "published_date": "2026-04-12T03:51:47Z"
+      },
+      {
+        "title": "«Бетис» – «Брага»: у кого больше шансов на победу?",
+        "link": "https://www.vseprosport.ru/news/2026/04/15/betis-braga-prognoz-kf-1-85-i-stavki-na-match-ligi-evropy-16-aprelja-2026-goda",
+        "published_date": "2026-04-15T20:02:10Z"
+      },
+      {
+        "title": "Betis - Braga: who has a better chance of winning?",
+        "link": "https://www.liontips.com/tips/2026/04/15/betis-braga-betting-tip-cf-1-85-and-bets-on-the-europa-league-match-april-16-2026",
+        "published_date": "2026-04-15T20:06:13Z"
+      },
+      {
+        "title": "Pellegrini valora en positivo el punto y afirma que \"a veces los árbitros se complican con las tarjetas\"",
+        "link": "https://www.101tv.es/pellegrini-valora-en-positivo-el-punto-en-pamplona-y-afirma-que-a-veces-los-arbitros-se-complican-los-partidos-con-las-tarjetas",
+        "published_date": "2026-04-12T14:39:49Z"
+      },
+      {
+        "title": "¿Dónde ver en vivo al Real Betis vs. Braga en Cuartos de Final de Europa League?",
+        "link": "https://abcnoticias.mx/deportes/2026/4/15/donde-ver-en-vivo-al-real-betis-vs-braga-en-cuartos-de-final-de-europa-league-279001.html",
+        "published_date": "2026-04-15T16:43:00Z"
+      },
+      {
+        "title": "Betis vor europa-halbfinale: isco könnte überraschen!",
+        "link": "https://tsv-pelkum.de/sport/betis-vor-europahalbfinale-isco-konnte-uberraschen",
+        "published_date": "2026-04-15T10:10:06Z"
+      },
+      {
+        "title": "براجا يقلب الطاولة على بيتيس ويتأهل إلى نصف نهائي الدوري الأوروبي",
+        "link": "https://koorabreak.com/ar/280651",
+        "published_date": "2026-04-16T20:59:06Z"
+      },
+      {
+        "title": "Real Betis vs Braga Prediction, Odds & Betting Tips  Europa League",
+        "link": "https://www.mightytips.com/football-predictions/real-betis-vs-braga-prediction-16-04-2026",
+        "published_date": "2026-04-14T13:53:40Z"
+      },
+      {
+        "title": "El Betis recibe al SC Braga a un gol de una cita con la historia",
+        "link": "https://es-us.noticias.yahoo.com/deportes/betis-recibe-sc-braga-gol-114418117.html",
+        "published_date": "2026-04-15T12:48:46Z"
+      },
+      {
+        "title": "Antony a Abde Ezzalzouli skórují a Real Betis vede nad Sporting Braga 2:1 v Evropské lize",
+        "link": "https://www.mixvale.com.br/2026/04/16/antony-a-abde-ezzalzouli-skoruji-a-real-betis-vede-nad-sporting-braga-21-v-evropske-lize-cs/amp",
+        "published_date": "2026-04-16T20:17:47Z"
+      },
+      {
+        "title": "Antony en Abde Ezzalzouli scoren en Real Betis leidt Sporting Braga met 2-1 in de Europa League",
+        "link": "https://www.mixvale.com.br/2026/04/16/antony-en-abde-ezzalzouli-scoren-en-real-betis-leidt-sporting-braga-met-2-1-in-de-europa-league-nl/amp",
+        "published_date": "2026-04-16T20:16:57Z"
+      },
+      {
+        "title": "Kèo vàng bóng đá Girona vs Real Betis, 02h30 ngày 22/4: Tìm lại niềm vui",
+        "link": "https://bongdanet.online/nhan-dinh-bong-da/keo-vang-bong-da-girona-vs-real-betis-02h30-ngay-22-4-tim-lai-niem-vui-tbd235187",
+        "published_date": "2026-04-21T06:06:53Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8579756520699231726",
+    "record_title": "Jhon Lucumi News: Suspended for Aston Villa game",
+    "enrichment": {
+      "competition_stage": "return leg",
+      "total_cards": 0,
+      "red_cards": 0,
+      "yellow_cards": 3,
+      "player_name": "Jhon Lucumi",
+      "player_team": {
+        "source_text": "",
+        "confidence": 0,
+        "metadata": {
+          "name": "",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "season": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Jhon Lucumi News: Suspended for Aston Villa game",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-14T13:28:54Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3003652824942295200",
+    "record_title": "Ederson's Performance and Europa League Yellow Card",
+    "enrichment": {
+      "yellow_cards": 1,
+      "competition_stage": null,
+      "red_cards": 1,
+      "total_cards": 1,
+      "season": null,
+      "player_name": "Ederson",
+      "player_team": {
+        "source_text": "Fenerbahçe",
+        "confidence": 1,
+        "metadata": {
+          "name": "Fenerbahçe",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Fenerbahçe'nin Kalecisi Ederson Takımdan Ayrılıyor mu?",
+        "link": "https://tr.haberx.com/fenerbahcenin-kalecisi-ederson-takimdan-ayriliyor-mu",
+        "published_date": "2026-04-22T12:07:23Z"
+      }
+    ]
+  }
+]

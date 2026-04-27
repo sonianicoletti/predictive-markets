@@ -1,0 +1,372 @@
+[
+  {
+    "record_id": "2234158611493672366",
+    "record_title": "Manel Kape's title shot claim",
+    "enrichment": {
+      "division_champion": "Joshua Van",
+      "record": null,
+      "fighter_name": "Manel Kape",
+      "ranking_position": 2,
+      "ranking_date": "2026-04-12",
+      "ranking_change": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Manel Kape: Why I Deserve the Next UFC Flyweight Title Shot (2026)",
+        "link": "https://custommapposter.com/article/manel-kape-why-i-deserve-the-next-ufc-flyweight-title-shot/12457",
+        "published_date": "2026-04-12T14:59:38Z"
+      },
+      {
+        "title": "UFC 328 Poster: Khamzat Chimaev vs. Sean Strickland - 'Nowhere to Run' on May 9 in Newark (2026)",
+        "link": "https://custommapposter.com/article/ufc-328-poster-khamzat-chimaev-vs-sean-strickland-nowhere-to-run-on-may-9-in-newark/12262",
+        "published_date": "2026-04-10T15:02:21Z"
+      },
+      {
+        "title": "Muhammad Mokaev Names Kyoji Horiguchi as Top UFC Flyweight; Why Van Isn't #1 (2026)",
+        "link": "https://custommapposter.com/article/muhammad-mokaev-names-kyoji-horiguchi-as-top-ufc-flyweight-why-van-isn-t-1/13366",
+        "published_date": "2026-04-11T21:56:28Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1774486718130565351",
+    "record_title": "Tim Elliott: UFC Flyweight Veteran's Career & Next Fight vs Steve Erceg",
+    "enrichment": {
+      "division_champion": null,
+      "ranking_change": null,
+      "ranking_position": 0,
+      "record": "21-13-1",
+      "ranking_date": "2026-04-18",
+      "fighter_name": "Tim Elliott",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Tim Elliott: UFC Flyweight Veteran's Career & Next Fight vs Steve Erceg",
+        "link": "https://fightomic.com/tim-elliott-profile",
+        "published_date": "2026-04-18T19:29:09Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3311399646531503864",
+    "record_title": "JJ Aldrich Stuns Home Crowd, Defeats Jamie-Lyn Horth",
+    "enrichment": {
+      "ranking_date": "2026-04-18",
+      "ranking_position": 14,
+      "fighter_name": "JJ Aldrich",
+      "ranking_change": "unchanged",
+      "record": null,
+      "division_champion": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "JJ Aldrich Stuns Home Crowd, Defeats Jamie-Lyn Horth",
+        "link": "https://www.filmogaz.com/217780",
+        "published_date": "2026-04-18T22:47:03Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1370591962780740029",
+    "record_title": "UFC Fight Night 280 in Baku",
+    "enrichment": {
+      "ranking_date": "2026-04-21",
+      "division_champion": null,
+      "ranking_change": null,
+      "fighter_name": "Asu Almabaev",
+      "record": "23-3",
+      "ranking_position": 8,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Инсайдер назвал главный бой турнира UFC с участием Алмабаева и Алмахана",
+        "link": "https://www.sports.kz/news/insayder-nazval-glavnyiy-boy-turnira-ufc-s-uchastiem-almabaeva-i-almahana",
+        "published_date": "2026-04-17T00:00:00Z"
+      },
+      {
+        "title": "Два казахстанца выступят на турнире UFC в Баку",
+        "link": "https://airpres.kz/novosti/dva-kazahstancza-vystupyat-na-turnire-ufc-v-baku",
+        "published_date": "2026-04-15T12:38:12Z"
+      },
+      {
+        "title": "UFC анонсировал турнир с участием казахстанских бойцов",
+        "link": "https://kazpravda.kz/n/ufc-anonsiroval-turnir-s-uchastiem-kazahstanskih-boytsov",
+        "published_date": "2026-04-21T20:30:44Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6155493367843117443",
+    "record_title": "UFC Rankings Shake-Up: Malott and Amosov Debut, Women's Flyweight Shifts",
+    "enrichment": {
+      "fighter_name": "Jasmine Jasudavicius",
+      "ranking_change": "unchanged",
+      "ranking_date": "2026-04-22",
+      "ranking_position": 7,
+      "record": null,
+      "division_champion": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "UFC Rankings Shake-Up: Mike Malott Hits Top 15 as Yaroslav Amosov Debuts Following Winnipeg",
+        "link": "https://avandatimes.com/sport/ufc-rankings-shake-up-mike-malott-hits-top-15-as-yaroslav-amosov-debuts-following-winnipeg",
+        "published_date": "2026-04-22T15:49:57Z"
+      },
+      {
+        "title": "Two New UFC Contenders Break Through in Latest UFC Rankings Update",
+        "link": "https://www.si.com/fannation/mma/news/new-ufc-contenders-break-through-latest-ufc-rankings-update",
+        "published_date": "2026-04-22T15:36:20Z"
+      },
+      {
+        "title": "Cartelera completa y donde ver por TV en España la velada con Burns vs Malott como combate estelar",
+        "link": "https://www.estadiodeportivo.com/ufc/ufc-winnipeg-ufc-fight-night-cartelera-completa-donde-ver-por-espana-velada-con-burns-malott-como-combate-estelar-20260418-535205.html",
+        "published_date": "2026-04-18T15:05:08Z"
+      },
+      {
+        "title": "Gilbert Burns projeta vitória na luta principal do UFC",
+        "link": "https://www.portalr10.com/blogs-e-colunas/166327/gilbert-burns-projeta-vitoria-na-luta-principal-do-ufc",
+        "published_date": "2026-04-18T14:00:12Z"
+      },
+      {
+        "title": "Melissa Croden l'unica canadese a vincere nei preliminari dell'UFC Winnipeg",
+        "link": "https://www.ilpuntontc.it/sport/melissa-croden-lunica-canadese-a-vincere-nei-preliminari-dellufc-winnipeg/110854",
+        "published_date": "2026-04-19T00:00:00Z"
+      },
+      {
+        "title": "Matches To Make After UFC Winnipeg",
+        "link": "https://www.mmamania.com/ufc-results/437933/ufc-winnipeg-results-matches-to-make-for-burns-vs-malott-main-card-winners",
+        "published_date": "2026-04-20T00:10:00Z"
+      },
+      {
+        "title": "UFC Winnipeg Bonus Coverage: Performance and Fight of the Night Winners",
+        "link": "https://www.newsdirectory3.com/ufc-winnipeg-bonus-coverage-performance-and-fight-of-the-night-winners",
+        "published_date": "2026-04-20T13:52:59Z"
+      },
+      {
+        "title": "Mike Malott TKOs Gilbert Burns, forces abrupt retirement",
+        "link": "https://www.myrtlebeachonline.com/sports/fighting/article315460124.html",
+        "published_date": "2026-04-19T03:28:35Z"
+      },
+      {
+        "title": "Karine Killer sofre na luta agarrada e é dominada no UFC Winnipeg",
+        "link": "https://www.superlutas.com.br/noticias/355277/karine-killer-sofre-luta-agarrada-dominada-ufc-winnipeg",
+        "published_date": "2026-04-19T01:15:46Z"
+      },
+      {
+        "title": "Jasmine Jasudavicius vs. Karine Silva: UFC Fight Night Winnipeg Odds, Prediction",
+        "link": "https://news.sportsinteraction.com/mma/story/jasmine-jasudavicius-vs-karine-silva-ufc-winnipeg-odds-prediction-59019",
+        "published_date": "2026-04-16T18:19:03Z"
+      },
+      {
+        "title": "Jasmine Jasudavicius Says No. 1 Priority at UFC Winnipeg Was Winning",
+        "link": "https://cagesidepress.com/2026/04/19/jasmine-jasudavicius-ufc-winnipeg-winning",
+        "published_date": "2026-04-20T00:44:32Z"
+      },
+      {
+        "title": "Karine Killer sofre no grappling e perde para lutadora da casa no UFC Canadá",
+        "link": "https://www.espn.com.br/mma/ufc/artigo/_/id/16593166/karine-killer-sofre-no-grappling-e-perde-para-lutadora-da-casa-no-ufc-canada",
+        "published_date": "2026-04-18T23:24:00Z"
+      },
+      {
+        "title": "Jasudavicius Dominates Ground Game to Win Unanimous Decision Over Silva",
+        "link": "https://thebodylockmma.com/ufc/ufc-results/jasudavicius-dominates-ground-game-to-win-unanimous-decision-over-silva",
+        "published_date": "2026-04-20T14:35:55Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5171902540502479780",
+    "record_title": "Jiri Prochazka UFC and RIZN Landmark Fukuoka",
+    "enrichment": {
+      "record": null,
+      "ranking_change": null,
+      "division_champion": "Van",
+      "ranking_date": "2026-04-11",
+      "fighter_name": "Tatsuro Taira",
+      "ranking_position": 0,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "平良達郎は翌月のお楽しみ……本日はプロハースカUFCと、RIZNランドマーク福岡",
+        "link": "https://m-dojo.hatenadiary.com/entry/2026/04/12/012635",
+        "published_date": "2026-04-11T16:26:35Z"
+      },
+      {
+        "title": "UFC objavio kompletan ‘fight card‘ za lipanjsku priredbu: Belal Muhammad traži prekid crnog niza!",
+        "link": "https://www.jutarnji.hr/sportske/fightsite/ufc/ufc-objavio-kompletan-fight-card-za-lipanjsku-priredbu-belal-muhammad-trazi-prekid-crnog-niza-15701504",
+        "published_date": "2026-04-22T15:50:00Z"
+      },
+      {
+        "title": "UFC 327 Start Time, Full Fight Card Details!",
+        "link": "https://sports.yahoo.com/articles/ufc-327-start-time-full-142900952.html",
+        "published_date": "2026-04-11T14:29:00Z"
+      },
+      {
+        "title": "BORILAČKI TJEDAN: Ponajbolji hrvatski kikboksač kreće po treću uzastopnu pobjedu unutar Gloryja",
+        "link": "https://www.jutarnji.hr/sportske/fightsite/ostalo/borilacki-tjedan-ponajbolji-hrvatski-kikboksac-krece-po-trecu-uzastopnu-pobjedu-unutar-gloryja-15701160",
+        "published_date": "2026-04-21T18:42:04Z"
+      },
+      {
+        "title": "UFC 327 Results: Procházka vs. Ulberg Highlights and Interviews",
+        "link": "https://www.world-today-news.com/ufc-327-results-prochazka-vs-ulberg-highlights-and-interviews",
+        "published_date": "2026-04-10T22:55:50Z"
+      },
+      {
+        "title": "UFC 327: Prochazka vs Ulberg",
+        "link": "https://www.tribute.ca/movies/ufc-327-prochazka-vs-ulberg/193547",
+        "published_date": "2026-04-11T00:00:00Z"
+      },
+      {
+        "title": "PARAMOUNT+ TRANSMITIRÁ EN VIVO Y EN EXCLUSIVA UFC 327: PROCHAZKA VS. ULBERG",
+        "link": "https://mninoticias.com/paramount-transmitira-en-vivo-y-en-exclusiva-ufc-327-prochazka-vs-ulberg",
+        "published_date": "2026-04-13T13:21:53Z"
+      },
+      {
+        "title": "Houston's Kevin Holland shines at UFC 327 in Miami",
+        "link": "https://www.houstonpress.com/news/houstons-kevin-holland-shines-at-ufc-327-in-miami",
+        "published_date": "2026-04-12T12:30:33Z"
+      },
+      {
+        "title": "Sabadão vai ter transmissão do UFC 327 na Paramount+",
+        "link": "https://hospicionerd.com.br/sabadao-vai-ter-transmissao-do-ufc-327-na-paramount",
+        "published_date": "2026-04-10T19:12:40Z"
+      },
+      {
+        "title": "UFC 327 en Paramount+: Horarios y cartelera Prochazka vs. Ulberg",
+        "link": "https://geekzilla.tech/ufc-327-en-paramount-horarios-y-cartelera-prochazka-vs-ulberg",
+        "published_date": "2026-04-11T02:00:00Z"
+      },
+      {
+        "title": "UFC 327: Jiří Procházka enfrenta Carlos Ulberg com transmissão exclusiva do Paramount+",
+        "link": "https://www.ouniversodatv.com/2026/04/ufc-327-jiri-prochazka-enfrenta-carlos.html",
+        "published_date": "2026-04-11T02:30:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5618841121098765246",
+    "record_title": "UFC 328 Fight Card Updates",
+    "enrichment": {
+      "ranking_date": "2026-04-18",
+      "ranking_change": null,
+      "record": null,
+      "division_champion": "Joshua Van",
+      "fighter_name": "Joshua Van",
+      "ranking_position": 0,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "UFC 328 adds record holder to the Khamzat Chimaev vs. Sean Strickland undercard",
+        "link": "https://bloodyelbow.com/2026/04/11/ufc-328-adds-record-holder-to-the-khamzat-chimaev-vs-sean-strickland-undercard",
+        "published_date": "2026-04-11T19:00:00Z"
+      },
+      {
+        "title": "UFC 328 Takes Big Hit as Light Heavyweight Contender Announces Withdrawal",
+        "link": "https://heavy.com/sports/ufc/ufc-328-light-heavyweight-announces-withdrawal",
+        "published_date": "2026-04-18T20:58:41Z"
+      },
+      {
+        "title": "UFC 328 suffers big blow as former champion withdraws from card with injury",
+        "link": "https://talksport.com/mma/4193826/ufc-328-fighter-withdraws-card-injury-cancelled-blachowicz-guskov",
+        "published_date": "2026-04-18T12:05:00Z"
+      },
+      {
+        "title": "UFC 328 ft Khamzat Chimaev vs Sean Strickland faces big shake-up as star fighter faces major injury and announces withdrawal",
+        "link": "https://timesofindia.indiatimes.com/sports/international-sports/ufc-328-ft-khamzat-chimaev-vs-sean-strickland-faces-big-shake-up-as-star-fighter-faces-major-injury-and-announces-withdrawal/articleshow/130353129.cms",
+        "published_date": "2026-04-18T12:20:00Z"
+      },
+      {
+        "title": "UFC 328: Khamzat Chimaev-Sean Strickland maçı ne zaman, saat kaçta ve hangi kanalda?",
+        "link": "https://www.aksam.com.tr/pusula/ufc-328-khamzat-chimaev-sean-strickland-maci-ne-zaman-saat-kacta-ve-hangi-kanalda/haber-1660040",
+        "published_date": "2026-04-19T08:37:00Z"
+      },
+      {
+        "title": "UFC 328: первая защита титула Чимаевым и российский десант в США. LIVE",
+        "link": "https://sportmaps.ru/2026/04/13/ufc-328-pervaya-zashhita-titula-chimaevym-i-rossijskij-desant-v-ssha-live",
+        "published_date": "2026-04-13T10:02:03Z"
+      },
+      {
+        "title": "Manager explains UFC 327 title shift, gives other key athlete updates",
+        "link": "https://sports.yahoo.com/articles/manager-explains-ufc-327-title-222602704.html",
+        "published_date": "2026-04-11T22:26:02Z"
+      },
+      {
+        "title": "UFC Flyweight Title Match Postponed to UFC 328 Due to Injury",
+        "link": "https://news.ssbcrack.com/ufc-flyweight-title-match-postponed-to-ufc-328-due-to-injury",
+        "published_date": "2026-04-12T04:33:29Z"
+      },
+      {
+        "title": "UFC 327: Joshua Van vs. Tatsuro Taira - First Title Defense Preview (2026)",
+        "link": "https://custommapposter.com/article/ufc-327-joshua-van-vs-tatsuro-taira-first-title-defense-preview/12021",
+        "published_date": "2026-04-13T06:20:45Z"
+      },
+      {
+        "title": "Joshua Van's Historic Flyweight Title Win at UFC 323 (2026)",
+        "link": "https://custommapposter.com/article/joshua-van-s-historic-flyweight-title-win-at-ufc-323/12124",
+        "published_date": "2026-04-10T14:58:05Z"
+      }
+    ]
+  },
+  {
+    "record_id": "7344539437415289759",
+    "record_title": "UFC Macau Fight Night and Elite Road",
+    "enrichment": {
+      "division_champion": null,
+      "record": null,
+      "ranking_change": null,
+      "fighter_name": "Perez",
+      "ranking_position": 10,
+      "ranking_date": "2026-04-14",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "UFC重磅回归澳门三晚接力赛，宋亚东、菲格雷多领衔格斗之夜对决",
+        "link": "https://sports.sohu.com/a/1009507978_121332532",
+        "published_date": "2026-04-14T19:38:00Z"
+      },
+      {
+        "title": "UFC下月底重磅回归澳门，宋亚东、张名扬、石铭等中国好手将先后亮相",
+        "link": "https://www.163.com/dy/article/KQHF4MMO05568W0A.html",
+        "published_date": "2026-04-14T20:26:04Z"
+      },
+      {
+        "title": "UFC下月底重磅回归澳门，宋亚东、张名扬、石铭等中国好手将先后亮相_手机网易网",
+        "link": "https://m.163.com/dy/article/KQHF4MMO05568W0A.html",
+        "published_date": "2026-04-14T20:26:04Z"
+      },
+      {
+        "title": "UFC重磅回归澳门 宋亚东领衔'中国军团'主场作战",
+        "link": "https://www.sohu.com/a/1009431173_163278",
+        "published_date": "2026-04-14T08:27:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8796937517241267148",
+    "record_title": "Alexa Grasso's Mental Preparation and Comeback Victory",
+    "enrichment": {
+      "record": null,
+      "division_champion": null,
+      "ranking_position": 0,
+      "ranking_date": "2026-04-14",
+      "ranking_change": null,
+      "fighter_name": "Alexa Grasso",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Alexa Grasso exalta trabalho mental para voltar a vencer no UFC: \"Orgulhosa de mim\"",
+        "link": "https://www.uol.com.br/esporte/ultimas-noticias/ag-fight/2026/04/14/alexa-grasso-exalta-trabalho-mental-para-voltar-a-vencer-no-ufc-orgulhosa-de-mim.htm",
+        "published_date": "2026-04-14T09:00:47Z"
+      }
+    ]
+  }
+]

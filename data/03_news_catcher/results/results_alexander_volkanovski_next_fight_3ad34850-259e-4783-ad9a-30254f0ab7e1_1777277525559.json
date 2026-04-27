@@ -1,0 +1,535 @@
+[
+  {
+    "record_id": "5021426164834537789",
+    "record_title": "Alexander Volkanovski's Next Fight and Potential Challengers",
+    "enrichment": {
+      "title_fight": "Yes",
+      "opponent": "Diego Lopes",
+      "venue": null,
+      "fight_date": null,
+      "weight_class": "Featherweight",
+      "fight_card_position": "Main Event",
+      "event_name": "UFC 325",
+      "location": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "MMA: Arman Tsarukyan targeting Volkanovski shows why ambition can disrupt an entire division overnight",
+        "link": "https://www.sportworldnews.org/ufc/news/28172/mma-arman-tsarukyan-targeting-volkanovski-shows-why-ambition-can-disrupt-an-entire-division-overnight",
+        "published_date": "2026-04-22T09:43:37Z"
+      },
+      {
+        "title": "Joe Rogan's UFC White House Card Wish: Evloev vs Volkanovski for the Featherweight Title (2026)",
+        "link": "https://custommapposter.com/article/joe-rogan-s-ufc-white-house-card-wish-evloev-vs-volkanovski-for-the-featherweight-title/12609",
+        "published_date": "2026-04-11T12:41:13Z"
+      },
+      {
+        "title": "Why Does Diego Lopes Scratch His Throat in the Octagon? UFC Fighter Explained (2026)",
+        "link": "https://custommapposter.com/article/why-does-diego-lopes-scratch-his-throat-in-the-octagon-ufc-fighter-explained/12965",
+        "published_date": "2026-04-11T07:22:03Z"
+      },
+      {
+        "title": "Мовсар Евлоев переадресовал вопрос о титульном бое UFC: «Разговаривайте с ним»",
+        "link": "https://sport24.ru/mma/news-840578-movsar-yevloyev-pereadresoval-vopros-o-titulnom-boye-ufc-razgovarivayte-s-nim",
+        "published_date": "2026-04-12T16:52:08Z"
+      },
+      {
+        "title": "Jorge Masvidal sostiene Movsar Evloev per una chance al titolo prossima.",
+        "link": "https://www.worldwrestling.it/news/global_news/altri_sport/48381/jorge-masvidal-sostiene-movsar-evloev-per-una-chance-al-titolo-prossima",
+        "published_date": "2026-04-22T20:05:02Z"
+      },
+      {
+        "title": "Revoltado! Masvidal detona UFC e exige disputa de cinturão para atleta invicto",
+        "link": "https://www.superlutas.com.br/noticias/355638/revoltado-masvidal-detona-ufc-exige-disputa-cinturao-atleta-invicto",
+        "published_date": "2026-04-22T17:17:44Z"
+      },
+      {
+        "title": "Will Diego Lopes' Title Reign Be Devalued? Dan Hardy Weighs In (2026)",
+        "link": "https://custommapposter.com/article/will-diego-lopes-title-reign-be-devalued-dan-hardy-weighs-in/12899",
+        "published_date": "2026-04-11T06:18:29Z"
+      },
+      {
+        "title": "Масвидаль: если Евлоеву не дадут титульный бой, система UFC — фальшивое дерьмо",
+        "link": "https://www.championat.com/boxing/news-6442346-masvidal-esli-evloevu-ne-dadut-titulnyj-boj-sistema-ufc-falshivoe-dermo.html",
+        "published_date": "2026-04-23T11:42:32Z"
+      },
+      {
+        "title": "Alex Volkanovski Breaks Down Diego Lopes' Low Fight IQ in UFC Title Rematch",
+        "link": "https://custommapposter.com/article/alex-volkanovski-breaks-down-diego-lopes-low-fight-iq-in-ufc-title-rematch-volk-s-honest-analysis/13086",
+        "published_date": "2026-04-11T10:20:56Z"
+      },
+      {
+        "title": "MMA pound-for-pound rankings (April 2026): Did UFC 327 shake up the list?",
+        "link": "https://sports.yahoo.com/mma/article/mma-pound-for-pound-rankings-april-2026-did-ufc-327-shake-up-the-list-133000094.html",
+        "published_date": "2026-04-13T13:30:00Z"
+      },
+      {
+        "title": "UFC 2026: Joe Rogan Wants Volkanovski vs Evloev at White House!",
+        "link": "https://custommapposter.com/article/ufc-2026-joe-rogan-wants-volkanovski-vs-evloev-at-white-house-ufc-news/12508",
+        "published_date": "2026-04-11T22:55:39Z"
+      },
+      {
+        "title": "UFC: Volkanovski Challenges Evloev for Featherweight Title - MMA News (2026)",
+        "link": "https://custommapposter.com/article/ufc-volkanovski-challenges-evloev-for-featherweight-title-mma-news/12211",
+        "published_date": "2026-04-12T17:30:07Z"
+      },
+      {
+        "title": "Хорхе Масвидаль: «Если Евлоеву не дадут титульный бой, вся система UFC – фальшивое дерьмо»",
+        "link": "https://www.sports.ru/boxing/1117147552-xorxe-masvidal-esli-evloevu-ne-dadut-titulnyj-boj-vsya-sistema-ufc-fal.html",
+        "published_date": "2026-04-23T11:55:00Z"
+      },
+      {
+        "title": "Олейник: не думаю, что Волкановски сейчас потянет Евлоева",
+        "link": "https://www.sports.ru/boxing/1117136170-aleksej-olejnik-ne-dumayu-chto-volkanovski-sejchas-potyanet-evloeva-mo.html",
+        "published_date": "2026-04-14T12:20:00Z"
+      },
+      {
+        "title": "Алексей Олейник оценил шансы Евлоева в бою с Волкановски",
+        "link": "https://www.championat.ru/boxing/news-6431546-aleksej-olejnik-ocenil-shansy-evloeva-v-boyu-s-volkanovski.html",
+        "published_date": "2026-04-14T13:39:11Z"
+      },
+      {
+        "title": "Олейник высказался о возможном боев между Волкановски и Евлоевым",
+        "link": "https://www.liveresult.ru/news/MMA/323039-Oleynik-vyskazalsya-o-vozmognom-boev-megdu-Volkanovski-i-Evloevym",
+        "published_date": "2026-04-14T12:33:11Z"
+      },
+      {
+        "title": "Масвидаль: «Если Евлоев не получит титульный бой, вся система UFC — фальшивое дeрьмо»",
+        "link": "https://legalbet.ru/news/62024032-masvidal-sistema-ufc-falshivka-esli-evloevu-ne-dad",
+        "published_date": "2026-04-23T07:56:13Z"
+      },
+      {
+        "title": "Олейник объяснил, почему чемпион UFC Волкановски не потянет Евлоева в бою",
+        "link": "https://sportandbets.com/novosti/oleynik_otsenil_shansy_evloeva_v_boyu_s_volkanovski_za_titul_ufc.html",
+        "published_date": "2026-04-14T17:49:00Z"
+      },
+      {
+        "title": "UFC 2026: Charles Oliveira e Carlos Ulberg dominam o ano",
+        "link": "https://rtiesporte.com.br/ufc2026-charles-oliveira-carlos-ulberg-analise-ano",
+        "published_date": "2026-04-22T01:00:38Z"
+      },
+      {
+        "title": "Jorge Masvidal Backs Movsar Evloev for Title Shot Next",
+        "link": "https://www.wrestling-world.com/news/news/other_sports/40485/jorge-masvidal-backs-movsar-evloev-for-title-shot-next",
+        "published_date": "2026-04-22T20:00:59Z"
+      },
+      {
+        "title": "UFC Pound-for-Pound Fighter Rankings: Carlos Ulberg makes debut after stunning knockout win",
+        "link": "https://www.cbssports.com/ufc/news/ufc-pound-for-pound-fighter-rankings-carlos-ulberg-ufc-327",
+        "published_date": "2026-04-17T19:35:23Z"
+      },
+      {
+        "title": "UFC 325: Volkanovski vs Lopes 2 - Who Will Win? Predictions & Analysis (2026)",
+        "link": "https://custommapposter.com/article/ufc-325-volkanovski-vs-lopes-2-who-will-win-predictions-analysis/12375",
+        "published_date": "2026-04-11T06:00:52Z"
+      },
+      {
+        "title": "Após o UFC 327, confira a lista atualizada dos atuais donos de cinturão",
+        "link": "https://www.nsctotal.com.br/noticias/apos-o-ufc-327-confira-a-lista-atualizada-dos-atuais-donos-de-cinturao",
+        "published_date": "2026-04-13T15:21:54Z"
+      },
+      {
+        "title": "UFC rankings: Full pound-for-pound list including lightweight and heavyweight stars",
+        "link": "https://talksport.com/mma/3824296/ufc-rankings-pound-for-pound-heavyweight-lightweight-topuria-makhachev",
+        "published_date": "2026-04-14T14:28:49Z"
+      },
+      {
+        "title": "Олейник: «Не думаю, что Волкановски сейчас потянет Евлоева. Мовсар моложе, злее, голоднее, агрессивнее»",
+        "link": "https://matchtv.ru/edinoborstva/matchtvnews_NI2315022_Olejnik_Ne_dumaju_chto_Volkanovski_sejchas_potanet_Jevlojeva_Movsar_molozhe_zleje_golodneje_agressivneje",
+        "published_date": "2026-04-14T11:21:30Z"
+      },
+      {
+        "title": "UFC 2025: Every New Champion Crowned - Historic Year of Title Changes! (2026)",
+        "link": "https://custommapposter.com/article/ufc-2025-every-new-champion-crowned-historic-year-of-title-changes/12414",
+        "published_date": "2026-04-10T16:00:10Z"
+      },
+      {
+        "title": "Aljamain Sterling Eyes Featherweight Title Shot with Statement Win at UFC Fight Night 274",
+        "link": "https://www.yardbarker.com/mma/articles/aljamain_sterling_eyes_featherweight_title_shot_with_statement_win_at_ufc_fight_night_274/s1_17391_43754721",
+        "published_date": "2026-04-21T20:39:43Z"
+      },
+      {
+        "title": "Does Aljamain Sterling have anything to prove? Ex-champ says 'yes and no'",
+        "link": "https://sports.yahoo.com/articles/does-aljamain-sterling-anything-prove-225039567.html",
+        "published_date": "2026-04-22T22:50:39Z"
+      },
+      {
+        "title": "Арман Царукян может получить бой за чемпионский титул UFC уже в июле?",
+        "link": "https://karate.ru/news/2026-04-20/arman-carukyan-mozhet-poluchit-boj-za-titul-ufc-uz",
+        "published_date": "2026-04-20T00:00:00Z"
+      },
+      {
+        "title": "Arman Tsarukyan Targets Volkanovski Title Fight in June",
+        "link": "https://www.wrestling-world.com/news/news/other_sports/40469/arman-tsarukyan-targets-volkanovski-title-fight-in-june",
+        "published_date": "2026-04-21T19:00:59Z"
+      },
+      {
+        "title": "Arman Tsarukyan punta a un incontro per il titolo con Volkanovski a giugno",
+        "link": "https://www.worldwrestling.it/news/global_news/altri_sport/48367/arman-tsarukyan-punta-a-un-incontro-per-il-titolo-con-volkanovski-a-giugno",
+        "published_date": "2026-04-21T19:05:02Z"
+      },
+      {
+        "title": "Aljamain Sterling thinks he can earn title shot against Alexander Volkanovski with UFC Vegas 116 win",
+        "link": "https://www.bjpenn.com/mma-news/ufc/aljamain-sterling-thinks-he-can-earn-title-shot-against-alexander-volkanovski-with-ufc-vegas-116-win",
+        "published_date": "2026-04-21T18:20:38Z"
+      },
+      {
+        "title": "Arman Tsarukyan comparte el cronograma para la próxima pelea de UFC, insinúa una posible pelea por el título de peso pluma",
+        "link": "https://masmma.com.mx/noticias/arman-tsarukyan-comparte-el-cronograma-para-la-proxima-pelea-de-ufc-insinua-una-posible-pelea-por-el-titulo-de-peso-pluma/203258",
+        "published_date": "2026-04-20T18:16:14Z"
+      },
+      {
+        "title": "Tsarukyan Reveals UFC Return Timeline & Hints At Opponent",
+        "link": "https://www.fightsports.tv/tsarukyan-reveals-ufc-return-timeline-hints-at-opponent",
+        "published_date": "2026-04-21T00:00:00Z"
+      },
+      {
+        "title": "Арман Царукян ответил, в каком случае примет титульный бой с Алексом Волкановски",
+        "link": "https://www.championat.com/boxing/news-6438964-arman-carukyan-otvetil-v-kakom-sluchae-primet-titulnyj-boj-s-protiv-aleksa-volkanovski.html",
+        "published_date": "2026-04-20T17:36:31Z"
+      },
+      {
+        "title": "Tsarukyan revela data de luta e mira campeão do UFC para confronto: ‘Por que não?'",
+        "link": "https://www.superlutas.com.br/noticias/355418/arman-tsarukyan-revela-data-luta-mira-campeao-ufc-confronto-por-que-nao",
+        "published_date": "2026-04-20T17:36:01Z"
+      },
+      {
+        "title": "Aljamain Sterling cree que puede ganar una oportunidad por el título contra Alexander Volkanovski con la victoria en UFC Vegas 116",
+        "link": "https://masmma.com.mx/noticias/aljamain-sterling-cree-que-puede-ganar-una-oportunidad-por-el-titulo-contra-alexander-volkanovski-con-la-victoria-en-ufc-vegas-116/203996",
+        "published_date": "2026-04-22T06:22:19Z"
+      },
+      {
+        "title": "Aljamain Sterling apunta al oro de peso pluma y promete no dudar contra Zalal",
+        "link": "https://masmma.com.mx/noticias/aljamain-sterling-apunta-al-oro-de-peso-pluma-y-promete-no-dudar-contra-zalal/204476",
+        "published_date": "2026-04-23T02:59:22Z"
+      },
+      {
+        "title": "Царукян отметил, когда смог бы принять титульный бой",
+        "link": "https://prosports.kz/news/740936-topovii-faiter-iz-ufc-raskril-variant-prinyatiya-titulnogo-boya",
+        "published_date": "2026-04-21T00:10:54Z"
+      },
+      {
+        "title": "Aljamain Sterling Out To Make A Statement",
+        "link": "https://www.ufc.com.br/news/aljamain-sterling-out-to-make-a-statement-ufc-vegas-116",
+        "published_date": "2026-04-21T17:11:42Z"
+      },
+      {
+        "title": "Aljamain Sterling to create 'an argument' for title at UFC Vegas 116",
+        "link": "https://sports.yahoo.com/articles/aljamain-sterling-create-argument-title-012024476.html",
+        "published_date": "2026-04-21T01:20:24Z"
+      },
+      {
+        "title": "Царукян: «Могу в июне подраться за титул UFC с Волкановски»",
+        "link": "https://fighttime.ru/news/item/42105-tsarukyan-mogu-v-iyune-podratsya-za-titul-ufc-s-volkanovski.html",
+        "published_date": "2026-04-20T19:39:43Z"
+      },
+      {
+        "title": "Under the radar no more, featherweight contender Youssef Zalal believes he's on the verge of a UFC title shot",
+        "link": "https://www.cbssports.com/ufc/news/ufc-fight-night-youssef-zalal-title-shot",
+        "published_date": "2026-04-22T14:16:53Z"
+      },
+      {
+        "title": "Arman Tsarukyan shares timeframe for next UFC fight, hints at possible featherweight title bout",
+        "link": "https://www.bjpenn.com/mma-news/arman-tsarukyan-shares-timeframe-for-next-ufc-fight-hints-at-possible-featherweight-title-bout",
+        "published_date": "2026-04-20T17:45:08Z"
+      },
+      {
+        "title": "Aljamain Sterling Faces Youssef Zalal in UFC Vegas 116 Main Event",
+        "link": "https://thebodylockmma.com/ufc/news-ufc/aljamain-sterling-faces-youssef-zalal-in-ufc-vegas-116-main-event",
+        "published_date": "2026-04-21T14:53:21Z"
+      },
+      {
+        "title": "Aljamain Sterling vs. Youssef Zalal Set for UFC Fight Night 274: Ex-Champ Sees a Fast Track Back to Gold",
+        "link": "https://ringside24.com/en/news/mma/252326-aljamain-sterling-vs-youssef-zalal-set-for-ufc-fight-night-274-ex-champ-sees-a-fast-track-back-to-gold",
+        "published_date": "2026-04-22T11:30:29Z"
+      },
+      {
+        "title": "UFC Fight Night: Sterling vs. Zalal",
+        "link": "https://www.fightermag.se/2026/04/22/ufc-fight-night-sterling-vs-zalal",
+        "published_date": "2026-04-22T16:02:14Z"
+      },
+      {
+        "title": "Стерлинг рассчитывает на титульный бой после победы на UFC Fight Night 274",
+        "link": "https://ringside24.com/ru/news/mma/252324-sterling-rasschityvaet-na-titulnyj-boj-posle-pobedy-na-ufc-fight-night-274",
+        "published_date": "2026-04-22T11:30:29Z"
+      },
+      {
+        "title": "Стерлинг заявил, что может стать следующим соперником Волкановски, если победит Залала",
+        "link": "https://sport.rambler.ru/mma/56342826-sterling-zayavil-chto-mozhet-stat-sleduyuschim-sopernikom-volkanovski-esli-pobedit-zalala",
+        "published_date": "2026-04-22T07:39:15Z"
+      },
+      {
+        "title": "Алджамейн Стерлинг: «Победа над Залалом даст мне возможность проскользнуть к титулу. Я по-прежнему считаю, что победил Евлоева»",
+        "link": "https://www.sports.ru/boxing/1117146149-aldzhamejn-sterling-pobeda-nad-zalalom-dast-mne-vozmozhnost-proskolznu.html",
+        "published_date": "2026-04-22T08:40:00Z"
+      },
+      {
+        "title": "Стерлинг рассчитывает на титульный бой: «Я победил Мовсара»",
+        "link": "https://fighttime.ru/news/item/42111-sterling-rasschityvaet-na-titulnyj-boj-ya-pobedil-movsara.html",
+        "published_date": "2026-04-21T07:44:44Z"
+      },
+      {
+        "title": "Боец UFC Стерлинг: «У меня есть шанс вклиниться в претендентскую гонку»",
+        "link": "https://1istochnik.ru/news/166754",
+        "published_date": "2026-04-21T20:15:00Z"
+      },
+      {
+        "title": "Царукян назвал условие для боя с Волкановски",
+        "link": "https://www.liveresult.ru/news/MMA/324196-TSarukyan-nazval-uslovie-dlya-boya-s-Volkanovski",
+        "published_date": "2026-04-21T17:11:31Z"
+      },
+      {
+        "title": "Царукян готов сменить весовую и подраться за титул UFC. Когда бой с Топурией?",
+        "link": "https://alsport.kz/mma/carykian-gotov-smenit-vesovyu-i-podratsia-za-tityl-ufc-kogda-boi-s-topyriei",
+        "published_date": "2026-04-21T09:36:13Z"
+      },
+      {
+        "title": "Алджамейн Стерлинг надеется получить титульный бой: \"Я победил Евлоева\"",
+        "link": "https://www.bloodandsweat.ru/2026/04/aldzhamejn-sterling-nadeetsya-poluchit-titulnyj-boj-ya-pobedil-evloeva",
+        "published_date": "2026-04-21T12:54:57Z"
+      },
+      {
+        "title": "Царукян готов сменить весовую и подраться за титул UFC. Когда бой с Топурией?: сегодня, 14:10",
+        "link": "https://smi24.kz/ru/sport/mma/tsarukyan-gotov-smenit-vesovuyu-i-podratsya-za-titul-ufc-kogda-boy-s-topuriey-2778560",
+        "published_date": "2026-04-21T08:10:00Z"
+      },
+      {
+        "title": "Aljamain Sterling cerca di strappare il report di Youssef Zalal alla UFC Struggle Evening",
+        "link": "https://www.ilpuntontc.it/sport/aljamain-sterling-cerca-di-strappare-il-record-di-youssef-zalal-alla-ufc-fight-night/118434",
+        "published_date": "2026-04-22T00:00:00Z"
+      },
+      {
+        "title": "Arman Tsarukyan urged not to take UFC featherweight division lightly: \"It ain't gonna be a cake walk\"",
+        "link": "https://www.bjpenn.com/mma-news/ufc/arman-tsarukyan-urged-not-to-take-ufc-featherweight-division-lightly-it-aint-gonna-be-a-cake-walk",
+        "published_date": "2026-04-22T17:41:33Z"
+      },
+      {
+        "title": "Aljamain Sterling looks to snap Youssef Zalal's streak at UFC Fight Night",
+        "link": "https://www.sportsnet.ca/ufc/article/aljamain-sterling-looks-to-snap-youssef-zalals-streak-at-ufc-fight-night",
+        "published_date": "2026-04-22T13:09:05Z"
+      },
+      {
+        "title": "UFC Knockout Artist Wants To Retire Alexander Volkanovski",
+        "link": "https://www.wrestlinginc.com/2145348/mma-ufc-steve-garcia-alexander-volkanovski",
+        "published_date": "2026-04-11T01:38:24Z"
+      },
+      {
+        "title": "Steve Garcia Targets Alexander Volkanovski After Bold UFC Featherweight Title Claim",
+        "link": "https://www.sportpreferred.com/news/steve-garcia-targets-alexander-volkanovski-after-bold-ufc-featherweight-title-claim/12754",
+        "published_date": "2026-04-11T01:57:42Z"
+      },
+      {
+        "title": "UFC Legend Frankie Edgar Wants Alex Volkanovski to Retire Now (2026)",
+        "link": "https://custommapposter.com/article/ufc-legend-frankie-edgar-wants-alex-volkanovski-to-retire-now/12026",
+        "published_date": "2026-04-10T19:17:00Z"
+      },
+      {
+        "title": "UFC Title Shot Drama: Dana White's Take on Arman Tsarukyan's Headbutt Incident (2026)",
+        "link": "https://custommapposter.com/article/ufc-title-shot-drama-dana-white-s-take-on-arman-tsarukyan-s-headbutt-incident/12067",
+        "published_date": "2026-04-12T12:04:10Z"
+      },
+      {
+        "title": "Aussies, Stop Wasting Your Annual Leave! Here's How (2026)",
+        "link": "https://custommapposter.com/article/aussies-stop-wasting-your-annual-leave-here-s-how/12448",
+        "published_date": "2026-04-10T19:20:26Z"
+      },
+      {
+        "title": "Iga Swiatek Prepares for Australian Open: Coaching Insights & Training Secrets (2026)",
+        "link": "https://custommapposter.com/article/iga-swiatek-prepares-for-australian-open-coaching-insights-training-secrets/2835",
+        "published_date": "2026-04-12T10:02:28Z"
+      },
+      {
+        "title": "Claudia Hollingsworth Reinstated as 1,500m National Champion After Initial Disqualification (2026)",
+        "link": "https://custommapposter.com/article/claudia-hollingsworth-reinstated-as-1-500m-national-champion-after-initial-disqualification/12575",
+        "published_date": "2026-04-11T09:50:30Z"
+      },
+      {
+        "title": "Bernard Tomic's Hilarious Brain Problem - Dallas Challenger 2026 (2026)",
+        "link": "https://custommapposter.com/article/bernard-tomic-s-hilarious-brain-problem-dallas-challenger-2026/12628",
+        "published_date": "2026-04-13T06:58:22Z"
+      },
+      {
+        "title": "Indian Wells 2026: Svitolina's Dominant Win Sets Up R16 Clash",
+        "link": "https://custommapposter.com/article/indian-wells-2026-svitolina-s-dominant-win-sets-up-r16-clash-tennis-highlights/12612",
+        "published_date": "2026-04-12T05:12:49Z"
+      },
+      {
+        "title": "Rory McIlroy Makes Australian Open Cut with Dramatic 18th Hole Birdie",
+        "link": "https://custommapposter.com/article/rory-mcilroy-makes-australian-open-cut-with-dramatic-18th-hole-birdie-masters-champion-s-comeback/12041",
+        "published_date": "2026-04-12T09:02:00Z"
+      },
+      {
+        "title": "Why Carlos Alcaraz Could Dominate the 2026 Australian Open",
+        "link": "https://custommapposter.com/article/why-carlos-alcaraz-could-dominate-the-2026-australian-open-expert-analysis-by-alex-corretja/12678",
+        "published_date": "2026-04-13T06:50:26Z"
+      },
+      {
+        "title": "Makybe Diva: Remembering Australia's Triple Melbourne Cup Legend (2026)",
+        "link": "https://custommapposter.com/article/makybe-diva-remembering-australia-s-triple-melbourne-cup-legend/12736",
+        "published_date": "2026-04-13T05:33:05Z"
+      },
+      {
+        "title": "Australian Surf Showdown: Molly Picklum vs. Isabella Nichols at Bells Beach (2026)",
+        "link": "https://custommapposter.com/article/australian-surf-showdown-molly-picklum-vs-isabella-nichols-at-bells-beach/12617",
+        "published_date": "2026-04-11T13:49:47Z"
+      },
+      {
+        "title": "Australian Open 2026: Sabalenka's Political Storm & Djokovic's Legacy (2026)",
+        "link": "https://custommapposter.com/article/australian-open-2026-sabalenka-s-political-storm-djokovic-s-legacy/12100",
+        "published_date": "2026-04-13T03:08:09Z"
+      },
+      {
+        "title": "Australian Showdown at Bells Beach: Picklum vs Nichols",
+        "link": "https://custommapposter.com/article/australian-showdown-at-bells-beach-picklum-vs-nichols-world-surf-league-semifinal-highlights/12778",
+        "published_date": "2026-04-12T21:12:59Z"
+      },
+      {
+        "title": "Australian Open 2026: Sinner's Heat Rule Luck & Mental Resilience (2026)",
+        "link": "https://custommapposter.com/article/australian-open-2026-sinner-s-heat-rule-luck-mental-resilience/11981",
+        "published_date": "2026-04-11T11:06:26Z"
+      },
+      {
+        "title": "Max Verstappen's Angry Radio Rant: What Happened with Arvid Lindblad? (2026)",
+        "link": "https://custommapposter.com/article/max-verstappen-s-angry-radio-rant-what-happened-with-arvid-lindblad/12874",
+        "published_date": "2026-04-12T18:01:15Z"
+      },
+      {
+        "title": "Australia Warns Against Surrogacy in Argentina: Legal Risks & Ethical Concerns Explained (2026)",
+        "link": "https://custommapposter.com/article/australia-warns-against-surrogacy-in-argentina-legal-risks-ethical-concerns-explained/12884",
+        "published_date": "2026-04-11T07:44:15Z"
+      },
+      {
+        "title": "18-Year-Old Jovic Dominates Melbourne: Sets Up Quarter-Final Clash with Sabalenka! (2026)",
+        "link": "https://custommapposter.com/article/18-year-old-jovic-dominates-melbourne-sets-up-quarter-final-clash-with-sabalenka/12910",
+        "published_date": "2026-04-11T06:35:22Z"
+      },
+      {
+        "title": "Australian Open 2026: Carlos Alcaraz Battles Past Yannick Hanfmann",
+        "link": "https://custommapposter.com/article/australian-open-2026-carlos-alcaraz-battles-past-yannick-hanfmann-tennis-highlights/12919",
+        "published_date": "2026-04-13T07:57:25Z"
+      },
+      {
+        "title": "Venus Williams Wildcard Australian Open 2024 - 45-Year-Old Tennis Legend Makes History! (2026)",
+        "link": "https://custommapposter.com/article/venus-williams-wildcard-australian-open-2024-45-year-old-tennis-legend-makes-history/12527",
+        "published_date": "2026-04-11T20:40:47Z"
+      },
+      {
+        "title": "Max Verstappen Races a Ford Mustang Supercar!",
+        "link": "https://custommapposter.com/article/max-verstappen-races-a-ford-mustang-supercar-f1-star-vs-racing-bulls-rookie/12481",
+        "published_date": "2026-04-11T13:41:32Z"
+      },
+      {
+        "title": "2026 Australian Open Prize Money: ATP Tour Tennis (2026)",
+        "link": "https://custommapposter.com/article/2026-australian-open-prize-money-atp-tour-tennis/12566",
+        "published_date": "2026-04-10T20:09:34Z"
+      },
+      {
+        "title": "US-Iran War: Strait of Hormuz Closed, Death Toll Rises (2026)",
+        "link": "https://custommapposter.com/article/us-iran-war-strait-of-hormuz-closed-death-toll-rises/12377",
+        "published_date": "2026-04-11T05:54:19Z"
+      }
+    ]
+  },
+  {
+    "record_id": "7902293120451541308",
+    "record_title": "Movsar Evloev's potential title fight",
+    "enrichment": {
+      "event_name": null,
+      "location": null,
+      "fight_date": null,
+      "venue": null,
+      "fight_card_position": null,
+      "opponent": null,
+      "weight_class": "Featherweight",
+      "title_fight": "Yes",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "«Узнали легенду?» Евлоев поделился фотографией с Солом Кэмпбеллом",
+        "link": "https://www.sports.ru/boxing/1117131978-uznali-legendu-evloev-podelilsya-fotografiej-s-solom-kempbellom.html",
+        "published_date": "2026-04-10T11:05:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6703944288842815822",
+    "record_title": "Aaron Pico's potential challenge to Alexander Volkanovski",
+    "enrichment": {
+      "fight_date": null,
+      "fight_card_position": null,
+      "location": null,
+      "event_name": null,
+      "weight_class": "Featherweight",
+      "opponent": null,
+      "title_fight": null,
+      "venue": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Кормье: Пико станет проблемой для Евлоева и Волкановски",
+        "link": "https://www.livesport.ru/fights/2026/04/14/corm",
+        "published_date": "2026-04-14T14:34:00Z"
+      },
+      {
+        "title": "Аарон Пико — о реванше с Мёрфи: «Когда придет время, я буду готов»",
+        "link": "https://1istochnik.ru/news/166697",
+        "published_date": "2026-04-20T19:25:00Z"
+      },
+      {
+        "title": "Aaron Pico Ungkap Kekuatan Grappling Khamzat Chimaev di UFC",
+        "link": "https://www.asatunews.co.id/aaron-pico-puji-grappling-khamzat-chimaev",
+        "published_date": "2026-04-18T10:19:13Z"
+      },
+      {
+        "title": "Patricio Pitbull reveals injury during loss to Aaron Pico at UFC 327: \"I took a clean shot right to the eye\"",
+        "link": "https://www.bjpenn.com/mma-news/ufc/patricio-pitbull-reveals-injury-during-loss-to-aaron-pico-at-ufc-327-i-took-a-clean-shot-right-to-the-eye",
+        "published_date": "2026-04-15T18:49:57Z"
+      },
+      {
+        "title": "Daniel Cormier cree que Aaron Pico es un \"verdadero problema\" para Alexander Volkanovski y otros pesos pluma",
+        "link": "https://masmma.com.mx/noticias/daniel-cormier-cree-que-aaron-pico-es-un-verdadero-problema-para-alexander-volkanovski-y-otros-pesos-pluma/199817",
+        "published_date": "2026-04-14T07:27:33Z"
+      },
+      {
+        "title": "Aaron Pico cree que 'dominaría' a Lerone Murphy en la revancha de UFC: \"Cuando llegue ese momento, estaré listo\"",
+        "link": "https://masmma.com.mx/noticias/aaron-pico-cree-que-dominaria-a-lerone-murphy-en-la-revancha-de-ufc-cuando-llegue-ese-momento-estare-listo/203282",
+        "published_date": "2026-04-20T19:17:01Z"
+      },
+      {
+        "title": "Aaron Pico thinks he'd 'dominate' Lerone Murphy in UFC rematch: \"When that time comes, I'll be ready\"",
+        "link": "https://www.bjpenn.com/mma-news/ufc/aaron-pico-thinks-hed-dominate-lerone-murphy-in-ufc-rematch-when-that-time-comes-ill-be-ready",
+        "published_date": "2026-04-20T18:55:18Z"
+      },
+      {
+        "title": "Daniel Cormier thinks Aaron Pico is a 'real problem' for Alexander Volkanovski and other featherweights",
+        "link": "https://www.bjpenn.com/mma-news/ufc/daniel-cormier-thinks-aaron-pico-is-a-real-problem-for-alexander-volkanovski-and-other-featherweights",
+        "published_date": "2026-04-13T18:04:23Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6994427311616284231",
+    "record_title": "Mauricio Ruffy's Team Change and Volkanovski Conflict",
+    "enrichment": {
+      "fight_date": null,
+      "venue": null,
+      "weight_class": "Featherweight",
+      "event_name": null,
+      "fight_card_position": null,
+      "location": null,
+      "title_fight": null,
+      "opponent": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Ruffy nega explicação sobre saída da Fighting Nerds: ‘Não ganho dinheiro falando'",
+        "link": "https://www.superlutas.com.br/noticias/354319/ruffy-nega-explicacao-saida-fighting-nerds-ganho-dinheiro-falando",
+        "published_date": "2026-04-10T20:52:01Z"
+      }
+    ]
+  }
+]

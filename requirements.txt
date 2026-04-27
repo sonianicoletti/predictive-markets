@@ -13,3 +13,4 @@ groq
 gnews
 readability-lxml
 lxml
+newscatcher-catchall-sdk

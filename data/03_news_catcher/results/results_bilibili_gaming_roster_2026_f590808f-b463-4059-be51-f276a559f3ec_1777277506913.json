@@ -1,0 +1,1402 @@
+[
+  {
+    "record_id": "5957984556872523118",
+    "record_title": "Bilibili Gaming Considers Assam Acquisition",
+    "enrichment": {
+      "previous_team": {
+        "source_text": "null",
+        "confidence": 0,
+        "metadata": {
+          "name": "null",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "game_title": "League of Legends",
+      "change_type": "Signed",
+      "new_team": {
+        "source_text": "Blg",
+        "confidence": 1,
+        "metadata": {
+          "name": "Bilibili Gaming",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "source_url": null,
+      "player_name": "Assam",
+      "player_role": "Bot",
+      "announcement_date": "2026-04-18",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "阿萨姆很强 小Uzi 0回复/ 0亮36 浏览",
+        "link": "https://bbs.hupu.com/638543688.html",
+        "published_date": "2026-04-18T08:06:15Z"
+      }
+    ]
+  },
+  {
+    "record_id": "561607849886142782",
+    "record_title": "BLG Roster Update for Asian Games",
+    "enrichment": {
+      "announcement_date": "2026-04-20",
+      "player_role": "Substitute",
+      "new_team": {
+        "source_text": "blg",
+        "confidence": 1,
+        "metadata": {
+          "name": "Bilibili Gaming",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "game_title": "League of Legends",
+      "change_type": "Signed",
+      "source_url": null,
+      "player_name": "Jack",
+      "previous_team": {
+        "source_text": "null",
+        "confidence": 0,
+        "metadata": {
+          "name": "null",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "亚运会阵容出来了 7回复/ 2亮1166 浏览",
+        "link": "https://bbs.hupu.com/638612543.html",
+        "published_date": "2026-04-20T19:14:59Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5836152933073351415",
+    "record_title": "BLG Coach Dawei Trade Discussion",
+    "enrichment": {
+      "player_name": "Dawei",
+      "change_type": "Traded",
+      "player_role": "Coach",
+      "announcement_date": "2026-04-10",
+      "previous_team": {
+        "source_text": "Dawei delayed both sides of blg",
+        "confidence": 1,
+        "metadata": {
+          "name": "Bilibili Gaming",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "new_team": {
+        "source_text": "al actually being able to trade him for a Korean coach.",
+        "confidence": 1,
+        "metadata": {
+          "name": "AL",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "game_title": "League of Legends",
+      "source_url": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "还是那句话，教练太重要了 0回复/ 0亮83 浏览",
+        "link": "https://bbs.hupu.com/638375052.html",
+        "published_date": "2026-04-10T23:23:05Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8663836385927030262",
+    "record_title": "Bilibili Gaming Team Dynamics and Performance",
+    "enrichment": {
+      "previous_team": {
+        "source_text": "null",
+        "confidence": 0,
+        "metadata": {
+          "name": "null",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "change_type": null,
+      "player_role": "Mid",
+      "source_url": null,
+      "player_name": "左手",
+      "announcement_date": "2026-04-18",
+      "game_title": "League of Legends",
+      "new_team": {
+        "source_text": "null",
+        "confidence": 0,
+        "metadata": {
+          "name": "null",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "blg这个队上路选肉基本没 4回复/ 0亮281 浏览",
+        "link": "https://bbs.hupu.com/638441041.html",
+        "published_date": "2026-04-13T19:16:21Z"
+      },
+      {
+        "title": "直说了左手就是跟blg老三人组相性不合 4回复/ 0亮331 浏览",
+        "link": "https://bbs.hupu.com/638562335.html",
+        "published_date": "2026-04-18T19:08:42Z"
+      }
+    ]
+  },
+  {
+    "record_id": "4645071277365936673",
+    "record_title": "Speculation on Viper's future",
+    "enrichment": {
+      "player_name": "viper",
+      "change_type": "Other",
+      "previous_team": {
+        "source_text": "hle",
+        "confidence": 1,
+        "metadata": {
+          "name": "HLE",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "player_role": null,
+      "new_team": {
+        "source_text": "blg",
+        "confidence": 1,
+        "metadata": {
+          "name": "Bilibili Gaming",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "source_url": null,
+      "game_title": "League of Legends",
+      "announcement_date": "2026-04-21",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "viper为啥要出走hle 0回复/ 0亮16 浏览",
+        "link": "https://bbs.hupu.com/638628306.html",
+        "published_date": "2026-04-21T13:53:02Z"
+      },
+      {
+        "title": "史称Viper东巡 0回复/ 0亮223 浏览",
+        "link": "https://bbs.hupu.com/638403768.html",
+        "published_date": "2026-04-12T16:46:10Z"
+      },
+      {
+        "title": "viper还在混 1回复/ 1亮150 浏览",
+        "link": "https://bbs.hupu.com/638561298.html",
+        "published_date": "2026-04-18T18:10:33Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6398957637641835253",
+    "record_title": "BLG's Bin Performance in LPL",
+    "enrichment": {
+      "player_name": "Bin",
+      "announcement_date": "2026-04-17",
+      "player_role": "Top",
+      "game_title": "League of Legends",
+      "source_url": null,
+      "previous_team": {
+        "source_text": "null",
+        "confidence": 0,
+        "metadata": {
+          "name": "null",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "new_team": {
+        "source_text": "BLG",
+        "confidence": 1,
+        "metadata": {
+          "name": "Bilibili Gaming",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "change_type": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "籽岷转战方舟翻车了？老粉怒喷不尊重游戏，中年转型真有这么难？",
+        "link": "https://www.163.com/dy/article/KQ7H6ASV05467WNA.html",
+        "published_date": "2026-04-10T23:51:57Z"
+      },
+      {
+        "title": "籽岷转战方舟翻车了？老粉怒喷不尊重游戏，中年转型真有这么难？_手机网易网",
+        "link": "https://m.163.com/dy/article/KQ7H6ASV05467WNA.html",
+        "published_date": "2026-04-10T23:51:57Z"
+      },
+      {
+        "title": "某牙一哥旗下选手被爆开挂？两大主播开团，官方调查后赔偿20w",
+        "link": "https://www.163.com/dy/article/KR7SVB040552LCWJ.html",
+        "published_date": "2026-04-23T13:32:31Z"
+      },
+      {
+        "title": "Bin被新人打出耻辱战绩！TES中野拒绝跟Bin弯腰，zuian透露偶像_手机网易网",
+        "link": "https://m.163.com/dy/article/KQNB312G0546TPMR.html",
+        "published_date": "2026-04-17T03:13:04Z"
+      },
+      {
+        "title": "某牙一哥旗下选手被爆开挂？两大主播开团，官方调查后赔偿20w_手机网易网",
+        "link": "https://m.163.com/dy/article/KR7SVB040552LCWJ.html",
+        "published_date": "2026-04-23T13:32:31Z"
+      },
+      {
+        "title": "BLG发文内容不严谨，没把xun当团队的一员，引起粉丝的强烈不满_手机网易网",
+        "link": "https://m.163.com/dy/article/KQQ2URGU0523KDPA.html",
+        "published_date": "2026-04-18T04:46:52Z"
+      },
+      {
+        "title": "BLG发文内容不严谨，没把xun当团队的一员，引起粉丝的强烈不满",
+        "link": "https://m.sohu.com/a/1011250315_668577",
+        "published_date": "2026-04-18T04:46:41Z"
+      },
+      {
+        "title": "BLG赢比赛后又飘了？选手都不参与rank训练，反而是教练每天努力上分",
+        "link": "https://m.sohu.com/a/1008502037_668577",
+        "published_date": "2026-04-12T04:53:09Z"
+      },
+      {
+        "title": "LPL最强战队迎来赛季首败！Bin因比赛过于尽力而登上热议_手机网易网",
+        "link": "https://m.163.com/dy/article/KQE8DCGS0546TPMR.html",
+        "published_date": "2026-04-13T14:32:05Z"
+      },
+      {
+        "title": "有人说'把T1叫过来跟BLG碰一碰'，朱开：T1先把LCK打明白再说",
+        "link": "https://www.163.com/dy/article/KQFLIPS1054676SG.html",
+        "published_date": "2026-04-14T03:40:14Z"
+      },
+      {
+        "title": "LCK群访：Faker至今为止仍在被低估！大黄谈TES上单：369随便回归",
+        "link": "https://www.163.com/dy/article/KQBK4L6N0553AJXT.html",
+        "published_date": "2026-04-12T14:46:06Z"
+      },
+      {
+        "title": "LPL最强战队迎来赛季首败！Bin因比赛过于尽力而登上热议",
+        "link": "https://www.163.com/dy/article/KQE8DCGS0546TPMR.html",
+        "published_date": "2026-04-13T14:32:05Z"
+      },
+      {
+        "title": "有人说'把T1叫过来跟BLG碰一碰'，朱开：T1先把LCK打明白再说_手机网易网",
+        "link": "https://m.163.com/dy/article/KQFLIPS1054676SG.html",
+        "published_date": "2026-04-14T03:40:14Z"
+      },
+      {
+        "title": "[JR热议]SMK：Knight选手很厉害，想和BLG遇上较量一次 7回复/ 3亮984 浏览",
+        "link": "https://bbs.hupu.com/638568791.html",
+        "published_date": "2026-04-18T23:30:22Z"
+      },
+      {
+        "title": "AL战队0：2不敌BLG，现在AL打得有点抽象啊！_手机网易网",
+        "link": "https://m.163.com/dy/article/KQTL3QB8054676SG.html",
+        "published_date": "2026-04-19T14:02:05Z"
+      },
+      {
+        "title": "BLG丹尼复盘向Knight道歉，对你要求太高，Bin沉迷AD上单",
+        "link": "https://m.sohu.com/a/1013586907_120114095",
+        "published_date": "2026-04-23T09:33:55Z"
+      },
+      {
+        "title": "Doinb爆料Lqs离队，转会WBG与TS联手？BLG新赛季阵容确定！",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c0019048tyq.html",
+        "published_date": "2026-04-12T18:35:25Z"
+      },
+      {
+        "title": "AL战队0：2不敌BLG，现在AL打得有点抽象啊！",
+        "link": "https://www.163.com/dy/article/KQTL3QB8054676SG.html",
+        "published_date": "2026-04-19T14:02:05Z"
+      },
+      {
+        "title": "Chovy谈Bin形象管理：Bin自己满意不是一件好事吗？",
+        "link": "https://www.163.com/dy/article/KQI8OV5M054676SG.html",
+        "published_date": "2026-04-15T03:54:24Z"
+      },
+      {
+        "title": "BeryL评选最喜欢的LPL选手，3位是退役的RNG选手，两位BLG选手_手机网易网",
+        "link": "https://m.163.com/dy/article/KQSLKFLM0523KDPA.html",
+        "published_date": "2026-04-19T04:52:06Z"
+      },
+      {
+        "title": "BLG幕后故事引热议，Knight曾为团队牺牲，Daeny主动道歉认可中单",
+        "link": "https://www.163.com/dy/article/KR6MPPMT0546Q5OI.html",
+        "published_date": "2026-04-23T02:23:58Z"
+      },
+      {
+        "title": "Faker惨遭GEN粉丝开盒！拳头设计师宣布：厄塔汗将回归峡谷_手机网易网",
+        "link": "https://m.163.com/dy/article/KQKN0E3C0546Q5YF.html",
+        "published_date": "2026-04-16T02:43:51Z"
+      },
+      {
+        "title": "BLG戏耍小虎引热议，Bin化身六边形战士，19项数据第一统治联盟",
+        "link": "https://www.163.com/dy/article/KQDHOMO30546Q5OI.html",
+        "published_date": "2026-04-13T07:55:00Z"
+      },
+      {
+        "title": "LPL最刚选手诞生，Blg教练丹妮甩锅Bin，LPL第一打野终于直起腰了",
+        "link": "https://www.163.com/dy/article/KQNOBIUP0556DLOH.html",
+        "published_date": "2026-04-17T07:03:10Z"
+      },
+      {
+        "title": "BLG幕后故事引热议，Knight曾为团队牺牲，Daeny主动道歉认可中单_手机网易网",
+        "link": "https://m.163.com/dy/article/KR6MPPMT0546Q5OI.html",
+        "published_date": "2026-04-23T02:23:58Z"
+      },
+      {
+        "title": "Chovy谈Bin形象管理：Bin自己满意不是一件好事吗？_手机网易网",
+        "link": "https://m.163.com/dy/article/KQI8OV5M054676SG.html",
+        "published_date": "2026-04-15T03:54:24Z"
+      },
+      {
+        "title": "[JR热议]Chovy谈Bin外貌管理：Bin在做这些尝试，只要他满意粉丝也喜欢，不是一件很好的事情吗？ 7回复/ 1亮1321 浏览",
+        "link": "https://bbs.hupu.com/638448021.html",
+        "published_date": "2026-04-14T00:06:20Z"
+      },
+      {
+        "title": "BeryL评选最喜欢的LPL选手，3位是退役的RNG选手，两位BLG选手",
+        "link": "https://www.sohu.com/a/1011582127_668577",
+        "published_date": "2026-04-19T04:52:08Z"
+      },
+      {
+        "title": "LPL全华班反向补强！Jiejie刷新伤害下限，33分钟比赛伤害3400？",
+        "link": "https://www.163.com/dy/article/KQSB6GRL0546Q5YF.html",
+        "published_date": "2026-04-19T01:52:17Z"
+      },
+      {
+        "title": "LPL第二赛段大变天！全华班一胜难求，不被看好的IG登顶积分榜",
+        "link": "https://www.163.com/dy/article/KQABPPDO0546Q5YF.html",
+        "published_date": "2026-04-12T02:16:42Z"
+      },
+      {
+        "title": "小虞姬爆料北川近况，没有被卡合同，BLG允许他接陪玩已经很好了",
+        "link": "https://www.163.com/dy/article/KQFPUECO0523KDPA.html",
+        "published_date": "2026-04-14T04:56:49Z"
+      },
+      {
+        "title": "BLG王朝开始松动？下一场面对劲旅IG，BIN哥对战呼吸哥_手机网易网",
+        "link": "https://m.163.com/dy/article/KQPUJK3105568CIG.html",
+        "published_date": "2026-04-18T03:31:59Z"
+      },
+      {
+        "title": "宝蓝夸Meiko带IG井井有条，曝Rookie已回基地参加训练赛_手机网易网",
+        "link": "https://m.163.com/dy/article/KQI59CHD0556DLOH.html",
+        "published_date": "2026-04-15T02:53:06Z"
+      },
+      {
+        "title": "LPL最离谱比赛诞生！上单被打成0-4-0也能赢，Bin哥真无奈了_手机网易网",
+        "link": "https://m.163.com/dy/article/KQGL764H0552LCWJ.html",
+        "published_date": "2026-04-14T12:55:24Z"
+      },
+      {
+        "title": "小虞姬爆料北川近况，没有被卡合同，BLG允许他接陪玩已经很好了_手机网易网",
+        "link": "https://m.163.com/dy/article/KQFPUECO0523KDPA.html",
+        "published_date": "2026-04-14T04:56:49Z"
+      },
+      {
+        "title": "LPL'超雄'打野被斩杀！ON当众喊话Zhuo哥：我的鞋底有点痒了",
+        "link": "https://www.163.com/dy/article/KR1JDINL0546Q5YF.html",
+        "published_date": "2026-04-21T03:06:50Z"
+      },
+      {
+        "title": "BeryL道破GEN统治力下滑原因！金贡锐评LOL解说，容易带动舆论_手机网易网",
+        "link": "https://m.163.com/dy/article/KQE61ROE0553AJXT.html",
+        "published_date": "2026-04-13T15:48:21Z"
+      },
+      {
+        "title": "被VN单杀后，Bin哥以赛代练！BLG打出组合技，虚幻狗+发条大三个_手机网易网",
+        "link": "https://m.163.com/dy/article/KR0C4BCS0553AJXT.html",
+        "published_date": "2026-04-20T15:26:14Z"
+      },
+      {
+        "title": "BLG王朝开始松动？下一场面对劲旅IG，BIN哥对战呼吸哥",
+        "link": "https://m.sohu.com/a/1011211067_100201538",
+        "published_date": "2026-04-18T03:31:48Z"
+      },
+      {
+        "title": "Bin回应Kanavi:如果HLE能进MSI的话,也说明他们很有实力",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904kxc8.html",
+        "published_date": "2026-04-22T02:53:14Z"
+      },
+      {
+        "title": "blc现在再到处掺合al和pigwei迟早被反噬回旋镖 1回复/ 0亮82 浏览",
+        "link": "https://bbs.hupu.com/638382480.html",
+        "published_date": "2026-04-11T11:56:23Z"
+      },
+      {
+        "title": "LPL最刚选手诞生，Blg教练丹妮甩锅Bin，LPL第一打野终于直起腰了_手机网易网",
+        "link": "https://m.163.com/dy/article/KQNOBIUP0556DLOH.html",
+        "published_date": "2026-04-17T07:03:10Z"
+      },
+      {
+        "title": "BLG翻盘AL，香克斯熬出黑眼圈也没用，Bin放话以后会拿VN",
+        "link": "https://m.sohu.com/a/1011725240_491836",
+        "published_date": "2026-04-19T14:16:10Z"
+      },
+      {
+        "title": "教练朱开谈BLG不敌JDG:每个队都有输的时候,反正联赛第一保送的",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904bdjy.html",
+        "published_date": "2026-04-14T17:29:27Z"
+      },
+      {
+        "title": "理性讨论英雄联盟最强两个赛区教练水平差异 0回复/ 0亮16 浏览",
+        "link": "https://bbs.hupu.com/638398319.html",
+        "published_date": "2026-04-12T08:47:36Z"
+      },
+      {
+        "title": "打了LCK一个6:0，G2和LEC做了什么？",
+        "link": "https://www.163.com/dy/article/KQG0ICQJ05371CMM.html",
+        "published_date": "2026-04-14T07:53:28Z"
+      },
+      {
+        "title": "打了LCK一个6:0，G2和LEC做了什么？_手机网易网",
+        "link": "https://m.163.com/dy/article/KQG0ICQJ05371CMM.html",
+        "published_date": "2026-04-14T07:53:28Z"
+      },
+      {
+        "title": "AL领先6000多被BLG翻盘！Hope骑脸暴毙一波送完",
+        "link": "https://www.163.com/dy/article/KQTJ87PO05269B21.html",
+        "published_date": "2026-04-19T13:32:52Z"
+      },
+      {
+        "title": "打完先锋赛，LPL和LCK两支队伍一样了 1回复/ 0亮102 浏览",
+        "link": "https://bbs.hupu.com/638562408.html",
+        "published_date": "2026-04-18T19:14:51Z"
+      },
+      {
+        "title": "[LPL群访]Viper：今天JackeyLove选手打得很好，我的发挥就普通 14回复/ 6亮5609 浏览",
+        "link": "https://bbs.hupu.com/638530277.html",
+        "published_date": "2026-04-17T11:00:00Z"
+      },
+      {
+        "title": "呼吸教育Bin哥失败，IG小中单遭Knight爆锤！BLG曝光输TES语音_手机网易网",
+        "link": "https://m.163.com/dy/article/KQR1AJP10553AJXT.html",
+        "published_date": "2026-04-18T15:35:07Z"
+      },
+      {
+        "title": "\"It can be a really great source of momentum\" — HLE Gumayusi after beating Gen.G",
+        "link": "https://www.sheepesports.com/en/all/articles/it-can-be-a-really-great-source-of-momentum-hle-gumayusi-after-beating-gen-g/en",
+        "published_date": "2026-04-20T09:11:08Z"
+      },
+      {
+        "title": "[LPL群访]WE教练：BLG的中期进攻方向还有运营思路，值得我们学习 8回复/ 3亮3651 浏览",
+        "link": "https://m.hupu.com/bbs/638363917.html",
+        "published_date": "2026-04-10T11:08:09Z"
+      },
+      {
+        "title": "LPL又一国产AD崛起！拳打ELK脚踢Gala，场均线杀率碾压Viper",
+        "link": "https://www.163.com/dy/article/KQPN55060546Q5YF.html",
+        "published_date": "2026-04-18T01:32:46Z"
+      },
+      {
+        "title": "BLG戏耍小虎引热议，Bin化身六边形战士，19项数据第一统治联盟_手机网易网",
+        "link": "https://m.163.com/dy/article/KQDHOMO30546Q5OI.html",
+        "published_date": "2026-04-13T07:55:00Z"
+      },
+      {
+        "title": "LPL首场4V6比赛诞生！小徐刷新混子纪录，40分钟0-4-0也能赢？",
+        "link": "https://www.163.com/dy/article/KQFEHKT10546Q5YF.html",
+        "published_date": "2026-04-14T01:40:21Z"
+      },
+      {
+        "title": "LPL最佳教练咬牙切齿图火了，IG迎来新赛季首败，粉丝怀念ROOKIE_手机网易网",
+        "link": "https://m.163.com/dy/article/KQJJ80OQ0546TPMR.html",
+        "published_date": "2026-04-15T16:17:21Z"
+      },
+      {
+        "title": "伪强队初见端倪！WBG击败IG拿下第二赛段首胜_手机网易网",
+        "link": "https://m.163.com/dy/article/KQJC3SF705269B21.html",
+        "published_date": "2026-04-15T14:14:38Z"
+      },
+      {
+        "title": "IG连胜遭WBG终结，基地就差一丝血！Faker被举报后，住址又被曝光_手机网易网",
+        "link": "https://m.163.com/dy/article/KQJGPDOB0553AJXT.html",
+        "published_date": "2026-04-15T15:35:56Z"
+      },
+      {
+        "title": "Gumayusi hé lộ đối thủ muốn đối đầu nhất là 2 cái tên \"sừng sỏ\" của LMHT",
+        "link": "https://kenhtingame.com/esport/gumayusi-he-lo-doi-thu-muon-doi-dau-nhat-la-2-cai-ten-quot-sung-so-quot-cua-lmht/575045",
+        "published_date": "2026-04-21T13:08:30Z"
+      },
+      {
+        "title": "Rookie被爆回归训练赛！ON喊话老搭档ELK：下次记得Ban巴德",
+        "link": "https://www.163.com/dy/article/KQCUL5EI0546Q5YF.html",
+        "published_date": "2026-04-13T02:27:41Z"
+      },
+      {
+        "title": "[LPL群访]JackeyLove：BLG下路最近状态很好，今天下路的对线有输有赢 7回复/ 3亮2326 浏览",
+        "link": "https://bbs.hupu.com/638529768.html",
+        "published_date": "2026-04-17T10:30:00Z"
+      },
+      {
+        "title": "曝LPL某俱乐部收购反悔退款，锁定三支队伍，牵扯数亿资金",
+        "link": "https://www.sohu.com/a/1011700851_122116917",
+        "published_date": "2026-04-19T12:18:48Z"
+      },
+      {
+        "title": "LOL：LPL去EWC沙特杯队伍基本确定，BLG必去，JDG、AL和WBG中3选2_手机网易网",
+        "link": "https://m.163.com/dy/article/KR46HFRH054676SG.html",
+        "published_date": "2026-04-22T03:01:20Z"
+      },
+      {
+        "title": "LPL'超雄'打野被斩杀！ON当众喊话Zhuo哥：我的鞋底有点痒了_手机网易网",
+        "link": "https://m.163.com/dy/article/KR1JDINL0546Q5YF.html",
+        "published_date": "2026-04-21T03:06:50Z"
+      },
+      {
+        "title": "雷竞技资讯：输BLG后Meiko狂夸Viper！到贤还和曾经冰岛一样强_手机网易网",
+        "link": "https://m.163.com/dy/article/KQR29NA10526WRT0.html",
+        "published_date": "2026-04-18T13:55:23Z"
+      },
+      {
+        "title": "LPL 史上首场 4V6 名局诞生！小徐 40 分钟 0-4-0 躺赢刷新纪录_手机网易网",
+        "link": "https://m.163.com/dy/article/KQFI1GN50556L9YF.html",
+        "published_date": "2026-04-14T02:38:43Z"
+      },
+      {
+        "title": "BLG全员梦游急着放假？LNG三比一战胜BLG晋级",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904d66q.html",
+        "published_date": "2026-04-16T00:12:49Z"
+      },
+      {
+        "title": "LPL组内赛:老年皮划艇之战,IG能否成功复仇WBG?",
+        "link": "https://k.sina.com.cn/article_7857201856_1d45362c001904dcji.html",
+        "published_date": "2026-04-16T02:15:01Z"
+      },
+      {
+        "title": "LPL全华班反向补强！Jiejie刷新输出下限，33分钟比赛伤害3400？",
+        "link": "https://m.sohu.com/a/1011497897_121024409",
+        "published_date": "2026-04-19T01:52:24Z"
+      },
+      {
+        "title": "资讯：输BLG后Meiko狂夸Viper！到贤还和曾经冰岛一样强",
+        "link": "https://m.sohu.com/a/1011396905_100236968",
+        "published_date": "2026-04-18T13:54:41Z"
+      },
+      {
+        "title": "有人问'WBG如何面对BLG战队'，小虎透露了WBG两大问题_手机网易网",
+        "link": "https://m.163.com/dy/article/KQ82E92R054676SG.html",
+        "published_date": "2026-04-11T04:50:56Z"
+      },
+      {
+        "title": "Bin惨遭新人两度单杀，TES要去MSI了？JKL大夸Zuian敢打敢拼",
+        "link": "https://www.163.com/dy/article/KQM3LAI50553AJXT.html",
+        "published_date": "2026-04-16T15:46:09Z"
+      },
+      {
+        "title": "LPL首场4V6比赛诞生！小徐刷新混子纪录，40分钟0-4-0也能赢？_手机网易网",
+        "link": "https://m.163.com/dy/article/KQFEHKT10546Q5YF.html",
+        "published_date": "2026-04-14T01:40:21Z"
+      },
+      {
+        "title": "LPL超雄打野被斩杀！WE管理层已经破防，紧急换将，ON喊话Zhuo：我的鞋底痒了",
+        "link": "https://m.sohu.com/a/1012680445_122344175",
+        "published_date": "2026-04-21T16:07:48Z"
+      },
+      {
+        "title": "LPL最长的河诞生，LPL上单被疯狂打脸，LPL辅助遭官方公开处刑",
+        "link": "https://www.163.com/dy/article/KQV4IA9A0556DLOH.html",
+        "published_date": "2026-04-20T03:50:48Z"
+      },
+      {
+        "title": "Tabe:最近训练赛较困难!BLG中野辅是很紧密的 配合也很好-直播吧手机版",
+        "link": "https://k.sina.com.cn/article_7857201856_1d45362c001904aae0.html",
+        "published_date": "2026-04-14T00:30:32Z"
+      },
+      {
+        "title": "[流言板]AG教练：youze把他训练赛水平发挥出来了，训练赛都数据前三 0回复/ 0亮217 浏览",
+        "link": "https://bbs.hupu.com/638505984.html",
+        "published_date": "2026-04-16T11:25:54Z"
+      },
+      {
+        "title": "Knight:希望队伍成绩越来越好,对队友说的是更努力一点",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c0019049oua.html",
+        "published_date": "2026-04-13T13:08:02Z"
+      },
+      {
+        "title": "Bin哥点外卖价格曝光，一碗米线卖53.5，难道Bin又想胖回去吗？_手机网易网",
+        "link": "https://m.163.com/dy/article/KQKRLBEQ054676SG.html",
+        "published_date": "2026-04-16T04:02:35Z"
+      },
+      {
+        "title": "LPL最强战队被批一强带四区，LCK将重启分析LPL栏目",
+        "link": "https://www.163.com/dy/article/KQI551F70556DLOH.html",
+        "published_date": "2026-04-15T02:50:53Z"
+      },
+      {
+        "title": "伪强队实锤！IG遭遇4连败'梦回巅峰'泡沫破碎_手机网易网",
+        "link": "https://m.163.com/dy/article/KR058NGI05269B21.html",
+        "published_date": "2026-04-20T13:27:54Z"
+      },
+      {
+        "title": "LPL冠军上单报名考编！AL反向补强，Bigwei废话文学引粉丝众怒_手机网易网",
+        "link": "https://m.163.com/dy/article/KQ7H0CCS0546TPMR.html",
+        "published_date": "2026-04-10T23:47:11Z"
+      },
+      {
+        "title": "LPL冠军上单报名考编！AL反向补强，Bigwei废话文学引粉丝众怒",
+        "link": "https://www.163.com/dy/article/KQ7H0CCS0546TPMR.html",
+        "published_date": "2026-04-10T23:47:11Z"
+      },
+      {
+        "title": "虎娘:传奇全球总决赛即将打响 Caps耐心为新生选手发言开导_新闻",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c0019049ouk.html",
+        "published_date": "2026-04-13T13:08:02Z"
+      },
+      {
+        "title": "Daeny复盘向Knight道歉，BP给到了很大压力！AL教练复盘玩手机_手机网易网",
+        "link": "https://m.163.com/dy/article/KR5I6FHF0553AJXT.html",
+        "published_date": "2026-04-22T15:45:56Z"
+      },
+      {
+        "title": "拒绝连败？Bin交手呼吸哥，BLG大战iG_手机网易网",
+        "link": "https://m.163.com/dy/article/KQPR5LMD0526GCNB.html",
+        "published_date": "2026-04-18T02:32:54Z"
+      },
+      {
+        "title": "LPL线上赛战神陨落！Bin哥VN首秀封神，1V4还能反杀两个？",
+        "link": "https://m.sohu.com/a/1012352718_121024409",
+        "published_date": "2026-04-21T03:08:58Z"
+      },
+      {
+        "title": "资讯：TES零封BLG后出事故！小奶油硬刚Bin哥看懵姿态",
+        "link": "https://www.sohu.com/a/1010593875_100236968",
+        "published_date": "2026-04-16T20:18:33Z"
+      },
+      {
+        "title": "LPL最强战队遭遇2连败！Bin被新人'点菜'，小奶油赛后拒绝碰拳",
+        "link": "https://www.163.com/dy/article/KQN28OIB0546Q5YF.html",
+        "published_date": "2026-04-17T00:40:29Z"
+      },
+      {
+        "title": "雷竞技资讯：TES零封BLG后出事故！小奶油硬刚Bin哥看懵姿态",
+        "link": "https://www.163.com/dy/article/KQMJEOGB0526WRT0.html",
+        "published_date": "2026-04-16T20:19:44Z"
+      },
+      {
+        "title": "Bin神级薇恩，既能反杀Faker，又能1v4天秀！谁是LPL第一薇恩？_手机网易网",
+        "link": "https://m.163.com/dy/article/KR2698QV0556DLOH.html",
+        "published_date": "2026-04-21T08:18:46Z"
+      },
+      {
+        "title": "雷竞技资讯：TES零封BLG后出事故！小奶油硬刚Bin哥看懵姿态_手机网易网",
+        "link": "https://m.163.com/dy/article/KQMJEOGB0526WRT0.html",
+        "published_date": "2026-04-16T20:19:44Z"
+      },
+      {
+        "title": "Bin神级薇恩，既能反杀Faker，又能1v4天秀！谁是LPL第一薇恩？",
+        "link": "https://www.163.com/dy/article/KR2698QV0556DLOH.html",
+        "published_date": "2026-04-21T08:18:46Z"
+      },
+      {
+        "title": "中韩LOL赛场周报：DK打破心魔横扫GEN，BLG势如破竹再登联赛第一",
+        "link": "https://www.163.com/dy/article/KQE1HL9B05268DJR.html",
+        "published_date": "2026-04-13T13:09:32Z"
+      },
+      {
+        "title": "中韩LOL赛场周报：DK打破心魔横扫GEN，BLG势如破竹再登联赛第一_手机网易网",
+        "link": "https://m.163.com/dy/article/KQE1HL9B05268DJR.html",
+        "published_date": "2026-04-13T13:09:32Z"
+      },
+      {
+        "title": "BLG零封WBG斩获三连胜，小虎真的老了，沙皇大招一个不中，心酸",
+        "link": "https://m.sohu.com/a/1009067643_491836",
+        "published_date": "2026-04-13T13:20:50Z"
+      },
+      {
+        "title": "LPL最逆天AD诞生！稳赢局滑脸送团灭，水晶哥当场点名开喷",
+        "link": "https://www.163.com/dy/article/KQV0O78K0546Q5YF.html",
+        "published_date": "2026-04-20T02:52:32Z"
+      },
+      {
+        "title": "资讯：朱开谈BLG已经保送沙特杯所以输JDG！选手根本不想打",
+        "link": "https://www.sohu.com/a/1009457823_100236968",
+        "published_date": "2026-04-14T09:32:30Z"
+      },
+      {
+        "title": "Bin打出史诗级名场面！薇恩一打四反杀两人，BLG想去世界杯了_手机网易网",
+        "link": "https://m.163.com/dy/article/KR1H5J4J0546Q5OI.html",
+        "published_date": "2026-04-21T02:09:25Z"
+      },
+      {
+        "title": "雷竞技资讯：朱开谈BLG已经保送沙特杯所以输JDG！选手根本不想打_手机网易网",
+        "link": "https://m.163.com/dy/article/KQG9O3BC0526WRT0.html",
+        "published_date": "2026-04-14T09:33:36Z"
+      },
+      {
+        "title": "大爆冷！前脚刚分析完BLG就直接演示了一下！_手机网易网",
+        "link": "https://m.163.com/dy/article/KQE0HT6905269B21.html",
+        "published_date": "2026-04-13T12:17:13Z"
+      },
+      {
+        "title": "LPL第二赛段大变天！全华班一胜难求，不被看好的IG登顶积分榜_手机网易网",
+        "link": "https://m.163.com/dy/article/KQABPPDO0546Q5YF.html",
+        "published_date": "2026-04-12T02:16:42Z"
+      },
+      {
+        "title": "BLG战队突然翻车！夺冠功臣炸了，Bin被队友连累，On根本不想赢_手机网易网",
+        "link": "https://m.163.com/dy/article/KQFEL9OB0546Q5OI.html",
+        "published_date": "2026-04-14T01:39:12Z"
+      },
+      {
+        "title": "这么讲吧，常规赛有用的话，tes就不止到今天只有一个联赛冠军了 1回复/ 0亮226 浏览",
+        "link": "https://bbs.hupu.com/638494133.html",
+        "published_date": "2026-04-15T22:32:30Z"
+      },
+      {
+        "title": "Bin打出史诗级名场面！薇恩一打四反杀两人，BLG想去世界杯了",
+        "link": "https://www.163.com/dy/article/KR1H5J4J0546Q5OI.html",
+        "published_date": "2026-04-21T02:09:25Z"
+      },
+      {
+        "title": "大爆冷！NIP以2比0击败BLG！'世一上'先被小将锤又被老将揍_手机网易网",
+        "link": "https://m.163.com/dy/article/KR7TIV5K05269B21.html",
+        "published_date": "2026-04-23T13:45:38Z"
+      },
+      {
+        "title": "LPL最逆天AD诞生！稳赢局滑脸送团灭，水晶哥当场点名开喷_手机网易网",
+        "link": "https://m.163.com/dy/article/KQV0O78K0546Q5YF.html",
+        "published_date": "2026-04-20T02:52:32Z"
+      },
+      {
+        "title": "两场比赛，四个操作，让BLG上野辅的缺点完全暴露 0回复/ 0亮261 浏览",
+        "link": "https://bbs.hupu.com/638555260.html",
+        "published_date": "2026-04-18T14:02:21Z"
+      },
+      {
+        "title": "BeryL见BLG翻盘AL懵了，低头玩会手机就变了！IG三连胜后又三连败_手机网易网",
+        "link": "https://m.163.com/dy/article/KQTPNTH00553AJXT.html",
+        "published_date": "2026-04-19T15:26:12Z"
+      },
+      {
+        "title": "[流言板]Muggle：对前面两把的失利感到抱歉，后面会用表现去弥补 0回复/ 0亮411 浏览",
+        "link": "https://bbs.hupu.com/638385178.html",
+        "published_date": "2026-04-11T13:21:50Z"
+      },
+      {
+        "title": "LPL全华班反向补强！Jiejie刷新伤害下限，33分钟比赛伤害3400？_手机网易网",
+        "link": "https://m.163.com/dy/article/KQSB6GRL0546Q5YF.html",
+        "published_date": "2026-04-19T01:52:17Z"
+      },
+      {
+        "title": "Bin惨遭新人两度单杀，TES要去MSI了？JKL大夸Zuian敢打敢拼_手机网易网",
+        "link": "https://m.163.com/dy/article/KQM3LAI50553AJXT.html",
+        "published_date": "2026-04-16T15:46:09Z"
+      },
+      {
+        "title": "GEN惨遭HLE横扫，KT制霸LCK；IG不敌BLG，JDG背靠背拿下WBG！_手机网易网",
+        "link": "https://m.163.com/dy/article/KQSNA1IQ05268DJR.html",
+        "published_date": "2026-04-19T05:22:54Z"
+      },
+      {
+        "title": "[韩网翻译]Guma：BP的影响力在六成以上，想交手G2和BLG 8回复/ 0亮1477 浏览",
+        "link": "https://bbs.hupu.com/638562395.html",
+        "published_date": "2026-04-18T19:13:35Z"
+      },
+      {
+        "title": "LPL最强战队被批一强带四区，LCK将重启分析LPL栏目_手机网易网",
+        "link": "https://m.163.com/dy/article/KQI551F70556DLOH.html",
+        "published_date": "2026-04-15T02:50:53Z"
+      },
+      {
+        "title": "BLG战队突然翻车！夺冠功臣炸了，Bin被队友连累，On根本不想赢",
+        "link": "https://m.sohu.com/a/1009185174_120556587",
+        "published_date": "2026-04-14T01:39:52Z"
+      },
+      {
+        "title": "AL领先6000多被BLG翻盘！Hope骑脸暴毙一波送完_手机网易网",
+        "link": "https://m.163.com/dy/article/KQTJ87PO05269B21.html",
+        "published_date": "2026-04-19T13:32:52Z"
+      },
+      {
+        "title": "小明拒绝打老头杯，除非重组RNG！周最佳公布，Zuian把Bin哥压了_手机网易网",
+        "link": "https://m.163.com/dy/article/KR2V27MV0553AJXT.html",
+        "published_date": "2026-04-21T15:32:40Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3203845732454820151",
+    "record_title": "Bilibili Gaming Valorant Roster Overview",
+    "enrichment": {
+      "announcement_date": "2026-04-10",
+      "player_name": "whz",
+      "new_team": {
+        "source_text": "Bilibili Gaming",
+        "confidence": 1,
+        "metadata": {
+          "name": "Bilibili Gaming",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "source_url": null,
+      "game_title": "Valorant",
+      "previous_team": {
+        "source_text": "null",
+        "confidence": 0,
+        "metadata": {
+          "name": "null",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "player_role": null,
+      "change_type": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Bilibili Gaming",
+        "link": "https://polymarket.com/teams/valorant/bilibili-gaming",
+        "published_date": "2026-04-10T14:04:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3824860291266634803",
+    "record_title": "Discussion on BLG's roster with Elk",
+    "enrichment": {
+      "new_team": {
+        "source_text": "blg",
+        "confidence": 1,
+        "metadata": {
+          "name": "Bilibili Gaming",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "source_url": null,
+      "player_role": null,
+      "player_name": "elk",
+      "game_title": "League of Legends",
+      "announcement_date": "2026-04-15",
+      "previous_team": {
+        "source_text": "null",
+        "confidence": 0,
+        "metadata": {
+          "name": "null",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "change_type": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "喜欢以elk为核心，你就享受吧 3回复/ 0亮166 浏览",
+        "link": "https://bbs.hupu.com/638489397.html",
+        "published_date": "2026-04-15T19:33:35Z"
+      }
+    ]
+  },
+  {
+    "record_id": "4167237574193825765",
+    "record_title": "Discussion on Left Hand's future with BLG",
+    "enrichment": {
+      "player_role": null,
+      "announcement_date": "2026-04-18",
+      "player_name": "Left Hand",
+      "previous_team": {
+        "source_text": "blg",
+        "confidence": 0.5,
+        "metadata": {
+          "name": "Bilibili Gaming",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "new_team": {
+        "source_text": "blg",
+        "confidence": 0.5,
+        "metadata": {
+          "name": "Bilibili Gaming",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "change_type": null,
+      "source_url": null,
+      "game_title": "League of Legends",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "沙皇是不是左手一辈子的痛点？tes愿意给小奶油一年时间玩 10回复/ 1亮474 浏览",
+        "link": "https://bbs.hupu.com/638569276.html",
+        "published_date": "2026-04-18T23:58:36Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3731405235377782415",
+    "record_title": "LPL 2026 Split 2 Match Preview",
+    "enrichment": {
+      "announcement_date": "2026-04-22",
+      "previous_team": {
+        "source_text": "null",
+        "confidence": 0,
+        "metadata": {
+          "name": "null",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "change_type": null,
+      "source_url": null,
+      "game_title": "League of Legends",
+      "new_team": {
+        "source_text": "null",
+        "confidence": 0,
+        "metadata": {
+          "name": "null",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "player_name": null,
+      "player_role": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Ninjas in Pyjamas vs Bilibili Gaming Betting Tips – Ninjas in Pyjamas Can Surprise Bilibili Gaming in LPL 2026 Split 2",
+        "link": "https://www.freetips.com/esports/ninjas-in-pyjamas-vs-bilibili-gaming-betting-tips-20260422-0021",
+        "published_date": "2026-04-22T14:30:00Z"
+      },
+      {
+        "title": "Bilibili Gaming vs. Weibo Gaming Odds & Predictions (Apr. 26, 2026)",
+        "link": "https://polymarket.com/esports/league-of-legends/lpl/lol-wb-blg-2026-04-26",
+        "published_date": "2026-04-19T14:51:45Z"
+      },
+      {
+        "title": "Bilibili Gaming vs. Weibo Gaming Odds & Predictions (May 21, 2026)",
+        "link": "https://polymarket.com/esports/league-of-legends/esports-world-cup/lol-wb-blg-2026-05-21",
+        "published_date": "2026-04-21T00:07:10Z"
+      },
+      {
+        "title": "Anyone's Legend áp đảo NiP, Weibo Gaming thắng trắng Team WE tại LPL 2026 Split 2",
+        "link": "https://webthethao.vn/lien-minh-huyen-thoai/anyones-legend-ap-dao-nip-weibo-gaming-thang-trang-team-we-tai-lpl-2026-split-2-VK3txCiRR.htm",
+        "published_date": "2026-04-22T11:30:52Z"
+      },
+      {
+        "title": "Bilibili Gaming vs. Team WE Odds & Predictions (Apr. 29, 2026)",
+        "link": "https://polymarket.com/esports/league-of-legends/lpl/lol-we-blg-2026-04-29",
+        "published_date": "2026-04-22T03:31:24Z"
+      },
+      {
+        "title": "IG 0-1 BLG:暗黑法球倾泻峡谷,BLG首局击溃IG拿下胜利",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904hggu.html",
+        "published_date": "2026-04-19T12:10:56Z"
+      },
+      {
+        "title": "IG大战BLG2:0取胜,Rookie获两次MVP",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904hghc.html",
+        "published_date": "2026-04-19T12:10:57Z"
+      },
+      {
+        "title": "LPL第二赛段：完全表演局，BLG全员发力碾压WBG，速通取胜",
+        "link": "https://www.163.com/dy/article/KQBJC1K00526T21K.html",
+        "published_date": "2026-04-12T13:49:54Z"
+      },
+      {
+        "title": "大王归来?BLG击败IG拿下4连胜!首轮对手仅剩JDG",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904hghe.html",
+        "published_date": "2026-04-19T12:10:57Z"
+      },
+      {
+        "title": "WBG一胜难求？遭遇BLG，恐将迎来三连败！",
+        "link": "https://m.sohu.com/a/1008334650_100101897",
+        "published_date": "2026-04-11T17:12:13Z"
+      },
+      {
+        "title": "BLG战胜LGD！阿Bin刀妹天神下凡！帮助BLG保留季后赛可能！",
+        "link": "https://k.sina.com.cn/article_7857201856_1d45362c001904d68a.html",
+        "published_date": "2026-04-16T00:13:40Z"
+      },
+      {
+        "title": "VCTCN：f4ngeer韧性十足拒绝翻盘，AG 2-1战胜BLG晋级季后赛",
+        "link": "https://m.sohu.com/a/1010047408_537985",
+        "published_date": "2026-04-15T13:51:06Z"
+      },
+      {
+        "title": "EWC电竞世界杯：LPL战队分级严重！WBG零封OMG_手机网易网",
+        "link": "https://m.163.com/dy/article/KQVRJ4JG0526T21K.html",
+        "published_date": "2026-04-20T10:36:00Z"
+      },
+      {
+        "title": "BLG戏耍小虎引热议，Bin化身六边形战士，19项数据第一统治联盟",
+        "link": "https://www.sohu.com/a/1008952404_120556587",
+        "published_date": "2026-04-13T07:54:55Z"
+      },
+      {
+        "title": "LPL第二赛段：高地抓住机会一波翻盘，BLG直落两局横扫AL",
+        "link": "https://www.163.com/dy/article/KQTHSQO80526T21K.html",
+        "published_date": "2026-04-19T13:08:50Z"
+      },
+      {
+        "title": "一边全胜一边全败，BLG 2-0轻取WBG取得第二赛段三连胜",
+        "link": "https://www.163.com/dy/article/KQBJANPS0549BAP0.html",
+        "published_date": "2026-04-12T13:43:48Z"
+      },
+      {
+        "title": "LPL第二赛段：WBG挑战霸主BLG，冲击首胜！",
+        "link": "https://m.sohu.com/a/1008314694_100113016",
+        "published_date": "2026-04-11T14:56:50Z"
+      },
+      {
+        "title": "VCTCN：Knight正义四杀力挽狂澜，BLG拒绝让一追二战胜FPX",
+        "link": "https://m.sohu.com/a/1007938315_537985",
+        "published_date": "2026-04-10T14:17:35Z"
+      },
+      {
+        "title": "S14半决赛:BLG 3比0战胜WBG，晋级总决赛",
+        "link": "https://k.sina.com.cn/article_7857201856_1d45362c001904ah6o.html",
+        "published_date": "2026-04-14T02:23:25Z"
+      },
+      {
+        "title": "LPL第二赛段：BLG三局战胜IG，感觉他们第二局有问题_手机网易网",
+        "link": "https://m.163.com/dy/article/KQQRKHSV0526T21K.html",
+        "published_date": "2026-04-18T12:02:19Z"
+      },
+      {
+        "title": "LPL第二赛段：WBG挑战霸主BLG，冲击首胜！_手机网易网",
+        "link": "https://m.163.com/dy/article/KQ953D190526PKTM.html",
+        "published_date": "2026-04-11T14:56:47Z"
+      },
+      {
+        "title": "JDG赢了BLG!!!各种怎么看？ 2回复/ 0亮256 浏览",
+        "link": "https://bbs.hupu.com/638459069.html",
+        "published_date": "2026-04-14T15:05:14Z"
+      },
+      {
+        "title": "WBG不敌BLG战队后，已经遭遇四连败了",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c0019048yvo.html",
+        "published_date": "2026-04-12T22:52:31Z"
+      },
+      {
+        "title": "[赛后]BLG 1-0 WBG：中上两人接管团战，BLG拿下远古龙先下一城 140回复/ 50亮30588 浏览",
+        "link": "https://bbs.hupu.com/638407193.html",
+        "published_date": "2026-04-12T20:43:59Z"
+      },
+      {
+        "title": "LPL第二赛段：爆冷，世一上陨落！NIP横扫BLG",
+        "link": "https://www.sohu.com/a/1013677539_100112058",
+        "published_date": "2026-04-23T13:31:42Z"
+      },
+      {
+        "title": "Bin交手Zika，BLG冲击三连胜！Elk再次面对老东家_手机网易网",
+        "link": "https://m.163.com/dy/article/KQADSR4E0526GCNB.html",
+        "published_date": "2026-04-12T02:51:37Z"
+      },
+      {
+        "title": "LPL电竞春晚来袭，BLG迎战iG上路巅峰对决，Bin大战呼吸哥成焦点！",
+        "link": "https://m.sohu.com/a/1011052795_121742848",
+        "published_date": "2026-04-17T15:26:51Z"
+      },
+      {
+        "title": "EWC电竞世界杯：联赛和电竞世界杯，轮番吊打！AL横扫WBG",
+        "link": "https://www.163.com/dy/article/KQE4E9LC0526T21K.html",
+        "published_date": "2026-04-13T13:26:44Z"
+      },
+      {
+        "title": "LPL第二赛段：BLG止颓战IG，JDG与WBG死磕登峰组排名",
+        "link": "https://www.sohu.com/a/1011055326_100113016",
+        "published_date": "2026-04-17T15:36:54Z"
+      },
+      {
+        "title": "LPL第二赛段：完全表演局，BLG全员发力碾压WBG，速通取胜_手机网易网",
+        "link": "https://m.163.com/dy/article/KQBJC1K00526T21K.html",
+        "published_date": "2026-04-12T13:49:54Z"
+      },
+      {
+        "title": "AL横扫WE！WE已经五连败了，什么时候可以恭喜WE？",
+        "link": "https://m.sohu.com/a/1010531536_100112058",
+        "published_date": "2026-04-16T13:56:36Z"
+      },
+      {
+        "title": "LPL首场4V6比赛诞生！小徐刷新混子纪录，40分钟0-4-0也能赢？",
+        "link": "https://www.sohu.com/a/1009183792_121024409",
+        "published_date": "2026-04-14T01:40:26Z"
+      },
+      {
+        "title": "LPL第二赛段：找回状态，JDG成功让一追二击败WBG_手机网易网",
+        "link": "https://m.163.com/dy/article/KQR61H6E0526T21K.html",
+        "published_date": "2026-04-18T15:04:06Z"
+      },
+      {
+        "title": "LPL第二赛段：爆冷，世一上陨落！NIP横扫BLG_手机网易网",
+        "link": "https://m.163.com/dy/article/KR7SPSH00526T21K.html",
+        "published_date": "2026-04-23T13:32:23Z"
+      },
+      {
+        "title": "LPL第二赛段：让一追二，LGD战胜OMG，击碎涅槃大王_手机网易网",
+        "link": "https://m.163.com/dy/article/KQBCRTDB0526T21K.html",
+        "published_date": "2026-04-12T11:56:15Z"
+      },
+      {
+        "title": "LPL第二赛段：让一追二，LGD战胜OMG，击碎涅槃大王",
+        "link": "https://www.163.com/dy/article/KQBCRTDB0526T21K.html",
+        "published_date": "2026-04-12T11:56:15Z"
+      },
+      {
+        "title": "BLG bám đuổi TES, JDG hạ WBG tại LPL 2026 Split 2",
+        "link": "https://webthethao.vn/lien-minh-huyen-thoai/blg-bam-duoi-tes-jdg-ha-wbg-tai-lpl-2026-split-2-X0MilLigg.htm",
+        "published_date": "2026-04-18T19:31:11Z"
+      },
+      {
+        "title": "LPL线上赛战神陨落！Bin哥VN首秀封神，1V4还能反杀两个？",
+        "link": "https://www.sohu.com/a/1012352718_121024409",
+        "published_date": "2026-04-21T03:08:58Z"
+      },
+      {
+        "title": "JDG让一追二终结BLG十二连胜",
+        "link": "https://k.sina.cn/article_5042958097_12c956f1104001s9r2.html",
+        "published_date": "2026-04-13T19:47:50Z"
+      },
+      {
+        "title": "为什么blg现在还在给bin选塞恩？ 9回复/ 2亮774 浏览",
+        "link": "https://bbs.hupu.com/638443089.html",
+        "published_date": "2026-04-13T20:33:39Z"
+      },
+      {
+        "title": "LPL 2026: Ninjas in Pyjamas surpreende a JDG e entra no top-4 do grupo Ascend",
+        "link": "https://maisesports.com.br/lpl-2026-ninjas-in-pyjamas-surpreende-a-jdg-e-entra-no-top-4-do-grupo-ascend",
+        "published_date": "2026-04-17T14:22:15Z"
+      },
+      {
+        "title": "EWC电竞世界杯：BLG让一追二淘汰IG，看来大家都将重点放在联赛上_手机网易网",
+        "link": "https://m.163.com/dy/article/KR04FE6B0526T21K.html",
+        "published_date": "2026-04-20T13:16:28Z"
+      },
+      {
+        "title": "EWC电竞世界杯： LPL的仇，EWC报！JDG三局击败BLG_手机网易网",
+        "link": "https://m.163.com/dy/article/KQDV02RF0526T21K.html",
+        "published_date": "2026-04-13T11:51:24Z"
+      },
+      {
+        "title": "EWC电竞世界杯：OMG横扫WE，让其专注LPL赛场_手机网易网",
+        "link": "https://m.163.com/dy/article/KQGDG8510526T21K.html",
+        "published_date": "2026-04-14T10:43:06Z"
+      },
+      {
+        "title": "LPL全华班反向补强！Jiejie刷新输出下限，33分钟比赛伤害3400？",
+        "link": "https://www.sohu.com/a/1011497897_121024409",
+        "published_date": "2026-04-19T01:52:24Z"
+      },
+      {
+        "title": "LPL第二赛段：BLG三局战胜IG，感觉他们第二局有问题",
+        "link": "https://www.163.com/dy/article/KQQRKHSV0526T21K.html",
+        "published_date": "2026-04-18T12:02:19Z"
+      },
+      {
+        "title": "感觉今年的BLG和JDG能会师决赛 1回复/ 0亮1513 浏览",
+        "link": "https://bbs.hupu.com/638442978.html",
+        "published_date": "2026-04-13T20:28:50Z"
+      },
+      {
+        "title": "EWC电竞世界杯： LPL的仇，EWC报！JDG三局击败BLG",
+        "link": "https://www.163.com/dy/article/KQDV02RF0526T21K.html",
+        "published_date": "2026-04-13T11:51:24Z"
+      },
+      {
+        "title": "LPL第二赛段：找回状态，JDG成功让一追二击败WBG",
+        "link": "https://www.163.com/dy/article/KQR61H6E0526T21K.html",
+        "published_date": "2026-04-18T15:04:06Z"
+      },
+      {
+        "title": "[赛事视频]BLG次局集锦：落后六千经济成功翻盘，BLG连下两城击败AL 14回复/ 0亮16451 浏览",
+        "link": "https://bbs.hupu.com/638592987.html",
+        "published_date": "2026-04-19T21:02:33Z"
+      },
+      {
+        "title": "BLG战队突然翻车！夺冠功臣炸了，Bin被队友连累，On根本不想赢",
+        "link": "https://www.sohu.com/a/1009185174_120556587",
+        "published_date": "2026-04-14T01:39:52Z"
+      },
+      {
+        "title": "[赛事视频]BLG首局集锦：Knight辛德拉统治对局，BLG轻取IG先下一城 3回复/ 2亮12851 浏览",
+        "link": "https://bbs.hupu.com/638561074.html",
+        "published_date": "2026-04-18T17:57:08Z"
+      },
+      {
+        "title": "Assum真要竞争亚运AD！NIP爆冷2-0横扫BLG，战绩来到4胜2负_手机网易网",
+        "link": "https://m.163.com/dy/article/KR7T76D00549BAP0.html",
+        "published_date": "2026-04-23T13:35:22Z"
+      },
+      {
+        "title": "EWC LOL预选赛：JDG 2-1逆转BLG，结束对阵后者的四连败_手机网易网",
+        "link": "https://m.163.com/dy/article/KQDUJ3P80549BAP0.html",
+        "published_date": "2026-04-13T11:39:06Z"
+      },
+      {
+        "title": "EWC LOL预选赛：JDG 2-1逆转BLG，结束对阵后者的四连败",
+        "link": "https://www.163.com/dy/article/KQDUJ3P80549BAP0.html",
+        "published_date": "2026-04-13T11:39:06Z"
+      },
+      {
+        "title": "EWC电竞世界杯：联赛和电竞世界杯，轮番吊打！AL横扫WBG_手机网易网",
+        "link": "https://m.163.com/dy/article/KQE4E9LC0526T21K.html",
+        "published_date": "2026-04-13T13:26:44Z"
+      },
+      {
+        "title": "[赛后]IG 1-2 BLG：中期团战一波炸穿，BLG拒绝让一追二击败IG 59回复/ 5亮13480 浏览",
+        "link": "https://bbs.hupu.com/638562823.html",
+        "published_date": "2026-04-18T19:38:09Z"
+      },
+      {
+        "title": "LPL最离谱比赛诞生！上单被打成0-4-0也能赢，Bin哥真无奈了",
+        "link": "https://www.sohu.com/a/1009533097_120711645",
+        "published_date": "2026-04-14T12:55:30Z"
+      },
+      {
+        "title": "大爆冷！前脚刚分析完BLG就直接演示了一下！",
+        "link": "https://www.163.com/dy/article/KQE0HT6905269B21.html",
+        "published_date": "2026-04-13T12:17:13Z"
+      },
+      {
+        "title": "一边全胜一边全败，BLG 2-0轻取WBG取得第二赛段三连胜_手机网易网",
+        "link": "https://m.163.com/dy/article/KQBJANPS0549BAP0.html",
+        "published_date": "2026-04-12T13:43:48Z"
+      },
+      {
+        "title": "LPL第二赛段：BLG止颓战IG，JDG与WBG死磕登峰组排名_手机网易网",
+        "link": "https://m.163.com/dy/article/KQOLOJ0N0526PKTM.html",
+        "published_date": "2026-04-17T15:36:53Z"
+      },
+      {
+        "title": "BLG 1-2 JDG:后期拉扯你来我往,JDG让一追二击败BLG",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904aepi.html",
+        "published_date": "2026-04-14T01:41:15Z"
+      },
+      {
+        "title": "EWC电竞世界杯：BLG让一追二淘汰IG，看来大家都将重点放在联赛上",
+        "link": "https://www.163.com/dy/article/KR04FE6B0526T21K.html",
+        "published_date": "2026-04-20T13:16:28Z"
+      },
+      {
+        "title": "Knight两把大杀四方，BLG激战三局2-1战胜iG取得联赛第四胜",
+        "link": "https://www.163.com/dy/article/KQQR02S30549BAP0.html",
+        "published_date": "2026-04-18T11:46:24Z"
+      },
+      {
+        "title": "[赛后]BLG 1-0 AL：逐步推进无懈可击，BLG首局稳扎稳打击败AL 55回复/ 2亮6640 浏览",
+        "link": "https://bbs.hupu.com/638591708.html",
+        "published_date": "2026-04-19T19:55:22Z"
+      },
+      {
+        "title": "KT横扫KRX豪取七连胜，WE输给WBG继续连败，首胜遥遥无期！",
+        "link": "https://k.sina.com.cn/article_7857201856_1d45362c001904m69u.html",
+        "published_date": "2026-04-23T00:09:37Z"
+      },
+      {
+        "title": "拒绝连败？Bin交手呼吸哥，BLG大战iG",
+        "link": "https://www.163.com/dy/article/KQPR5LMD0526GCNB.html",
+        "published_date": "2026-04-18T02:32:54Z"
+      },
+      {
+        "title": "Knight两把大杀四方，BLG激战三局2-1战胜iG取得联赛第四胜_手机网易网",
+        "link": "https://m.163.com/dy/article/KQQR02S30549BAP0.html",
+        "published_date": "2026-04-18T11:46:24Z"
+      },
+      {
+        "title": "去年大小王之争重演，BLG 2-0战胜AL取得赛段第五胜_手机网易网",
+        "link": "https://m.163.com/dy/article/KQTL3DRK0549BAP0.html",
+        "published_date": "2026-04-19T14:01:05Z"
+      },
+      {
+        "title": "EWC电竞世界杯：LPL战队分级严重！WBG零封OMG",
+        "link": "https://www.163.com/dy/article/KQVRJ4JG0526T21K.html",
+        "published_date": "2026-04-20T10:36:00Z"
+      },
+      {
+        "title": "[最佳评选]BLG战胜iG，战况焦灼JDG收下第二胜，谁是今日最佳？ 1回复/ 0亮267 浏览",
+        "link": "https://bbs.hupu.com/638568380.html",
+        "published_date": "2026-04-18T23:07:04Z"
+      },
+      {
+        "title": "[赛后]BLG 1-2 JDG：后期拉扯你来我往，JDG让一追二击败BLG 163回复/ 0亮19083 浏览",
+        "link": "https://bbs.hupu.com/638441572.html",
+        "published_date": "2026-04-13T19:37:44Z"
+      },
+      {
+        "title": "去年大小王之争重演，BLG 2-0战胜AL取得赛段第五胜",
+        "link": "https://www.163.com/dy/article/KQTL3DRK0549BAP0.html",
+        "published_date": "2026-04-19T14:01:05Z"
+      },
+      {
+        "title": "Chovy状态不在GEN惨遭HLE横扫，KT六连胜制霸LCK；IG验牌失败不敌BLG，JDG触底反弹拿下WBG！",
+        "link": "https://m.sohu.com/a/1011590705_548161",
+        "published_date": "2026-04-19T05:22:53Z"
+      },
+      {
+        "title": "[赛后]IG 0-1 BLG：暗黑法球倾泻峡谷，BLG首局击溃IG拿下胜利 51回复/ 2亮7585 浏览",
+        "link": "https://bbs.hupu.com/638560954.html",
+        "published_date": "2026-04-18T17:50:48Z"
+      },
+      {
+        "title": "[一图流]EWC：BLG下路双人组激进对拼线杀JDG双人组 2回复/ 1亮10150 浏览",
+        "link": "https://bbs.hupu.com/638437804.html",
+        "published_date": "2026-04-13T17:19:24Z"
+      },
+      {
+        "title": "【竞技宝】LOL-2026LPL第一赛段:BLG横扫iG豪取四连胜",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904hghg.html",
+        "published_date": "2026-04-19T12:10:57Z"
+      },
+      {
+        "title": "LPL第二赛段：WBG陷入泥潭一胜难求，再遇BLG已是稳坐联赛大王_手机网易网",
+        "link": "https://m.163.com/dy/article/KQAGLSV705568CIG.html",
+        "published_date": "2026-04-12T03:39:31Z"
+      },
+      {
+        "title": "EWC2026预选赛：BLG马失前蹄掉入败者组，AL与JDG争夺首张门票",
+        "link": "https://www.163.com/dy/article/KQEDGU5J05268DJR.html",
+        "published_date": "2026-04-13T16:00:17Z"
+      },
+      {
+        "title": "LPL第二赛段：WBG陷入泥潭一胜难求，再遇BLG已是稳坐联赛大王",
+        "link": "https://www.163.com/dy/article/KQAGLSV705568CIG.html",
+        "published_date": "2026-04-12T03:39:31Z"
+      },
+      {
+        "title": "EWC2026预选赛：BLG马失前蹄掉入败者组，AL与JDG争夺首张门票_手机网易网",
+        "link": "https://m.163.com/dy/article/KQEDGU5J05268DJR.html",
+        "published_date": "2026-04-13T16:00:17Z"
+      },
+      {
+        "title": "明天ewc预选赛，omg vs wbg，blg vs ig。 4回复/ 1亮809 浏览",
+        "link": "https://bbs.hupu.com/638595402.html",
+        "published_date": "2026-04-19T23:10:27Z"
+      },
+      {
+        "title": "EWC电竞世界杯预选赛：BLG马失前蹄掉入败者组，AL与JDG争夺首张门票",
+        "link": "https://www.sohu.com/a/1009093259_548161",
+        "published_date": "2026-04-14T00:00:21Z"
+      },
+      {
+        "title": "如果BLG和JDG互换上单，JDG能擒BLG真不是玩笑吧？ 1回复/ 0亮353 浏览",
+        "link": "https://bbs.hupu.com/638523203.html",
+        "published_date": "2026-04-16T21:45:54Z"
+      }
+    ]
+  }
+]

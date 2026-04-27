@@ -1,0 +1,437 @@
+[
+  {
+    "record_id": "787624318314424644",
+    "record_title": "CHIP Token Launch and Valuation",
+    "enrichment": {
+      "source_reference": "https://coinmarketcap.com",
+      "total_supply": 10000000000,
+      "fdv_amount": 830000000,
+      "key_considerations": "CHIP can be used as a backstop token in case USDai encounters loan default scenarios or oracle malfunctions. This means that CHIP stakers could",
+      "fdv_currency": "USD",
+      "fdv_formula": "FDV = Total Supply × Current Price",
+      "fdv_method_name": "Standard FDV Calculation",
+      "token_or_asset": "CHIP token",
+      "token_price": 0.083,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "+130% per la crypto AI del momento. Il token CHIP di USD.AI debutta oltre ogni aspettativa",
+        "link": "https://www.criptovaluta.it/156469/token-chip-crypto-usd-ai-debutto",
+        "published_date": "2026-04-22T12:17:00Z"
+      },
+      {
+        "title": "Binance Boosts USD.AI Valuation with CHIP Listing",
+        "link": "https://www.valuethemarkets.com/cryptocurrency/news/binance-boosts-usdai-valuation-with-chip-listing",
+        "published_date": "2026-04-21T12:19:43Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5068080172974576162",
+    "record_title": "Lighter Token Listing Sparks 45% Rally",
+    "enrichment": {
+      "total_supply": 1000000000,
+      "key_considerations": null,
+      "fdv_currency": "USD",
+      "fdv_method_name": "Standard FDV Calculation",
+      "token_or_asset": "Lighter ($LIT)",
+      "source_reference": "CoinMarketCap Chart",
+      "fdv_formula": "FDV = Total Supply × Token Price",
+      "fdv_amount": 3880000000,
+      "token_price": 3.88,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Lighter Token Listing Sparks 45% Rally: What's Next?",
+        "link": "https://www.coingabbar.com/en/price-prediction/lighter-lit-price-prediction-why-lit-price-is-up-today",
+        "published_date": "2026-04-18T08:30:29Z"
+      }
+    ]
+  },
+  {
+    "record_id": "7541729680812800015",
+    "record_title": "DOGS Token Price Prediction and FDV Analysis",
+    "enrichment": {
+      "source_reference": null,
+      "fdv_currency": "USD",
+      "fdv_formula": "FDV = Total Supply × Current Price",
+      "key_considerations": "Prediction assumes typical market conditions, steady interest, and no extraordinary interventions. Scenarios depend on market enthusiasm, competition, and potential Binance listing.",
+      "token_or_asset": "DOGS token",
+      "total_supply": 550000000000,
+      "token_price": 0.0019,
+      "fdv_amount": 1000000000,
+      "fdv_method_name": "Anticipated FDV Calculation for Price Prediction",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "DOGS Price Prediction: What will be DOGS Listing Price",
+        "link": "https://www.coingabbar.com/en/price-prediction/dogs-price-prediction-predicting-the-dogs-listing-price",
+        "published_date": "2026-04-18T08:41:27Z"
+      }
+    ]
+  },
+  {
+    "record_id": "4780564762822084121",
+    "record_title": "SkyAI Token's Fully Diluted Valuation and Price Surge",
+    "enrichment": {
+      "fdv_amount": 173700000,
+      "source_reference": "Blockchain Magazine",
+      "token_price": 0.173963,
+      "fdv_currency": "USD",
+      "total_supply": 1000000000,
+      "token_or_asset": "SkyAI (SKYAI)",
+      "fdv_method_name": "FDV matching Market Capitalization due to near-full dilution",
+      "key_considerations": "Minimal token inflation pressure; nearly fully diluted.",
+      "fdv_formula": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "BREAKING: SkyAI Token Surges 27% to $0.174 on $96M Trading Volume",
+        "link": "https://blockchainmagazine.net/breaking-skyai-surges-2026-04-21",
+        "published_date": "2026-04-21T08:38:38Z"
+      },
+      {
+        "title": "BREAKING: SkyAI (SKYAI) Explodes 45% to $0.17 in 24 Hours",
+        "link": "https://blockchainmagazine.net/breaking-skyai-surges-2026-04-16",
+        "published_date": "2026-04-16T16:23:35Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5425895750516742349",
+    "record_title": "Cardano Price Prediction and FDV Overview",
+    "enrichment": {
+      "fdv_formula": null,
+      "token_price": 0.441,
+      "fdv_amount": 19860000000,
+      "source_reference": "CoinMarketCap",
+      "fdv_method_name": "Standard FDV Calculation",
+      "total_supply": 0,
+      "key_considerations": "Assumes all tokens are in circulation.",
+      "token_or_asset": "Cardano (ADA)",
+      "fdv_currency": "USD",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Cardano Price Prediction Signals ADA Stabilizing",
+        "link": "https://www.coingabbar.com/en/price-prediction/cardano-price-prediction-ada-holds-firm-04410",
+        "published_date": "2026-04-18T08:23:17Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1747036147522223558",
+    "record_title": "Deutsche Boerse Invests in Kraken and Implied Valuation",
+    "enrichment": {
+      "total_supply": 0,
+      "fdv_currency": "USD",
+      "key_considerations": "Valuation dropped from $20 billion to $13.3 billion, a significant decrease from previous funding.",
+      "source_reference": null,
+      "fdv_method_name": "Implied Fully Diluted Valuation from Equity Investment",
+      "fdv_amount": 13300000000,
+      "fdv_formula": "FDV = Investment Amount / Equity Stake Percentage",
+      "token_or_asset": "Kraken",
+      "token_price": 0,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Deutsche Boerse erwirbt 1,5%-Anteil an Kraken für 200 Millionen US-Dollar",
+        "link": "https://de.investing.com/news/stock-market-news/deutsche-boerse-erwirbt-15anteil-an-kraken-fur-200-millionen-usdollar-93CH-3426292",
+        "published_date": "2026-04-14T10:18:17Z"
+      },
+      {
+        "title": "Deutsche Boerse acquires 1.5% stake in Kraken for $200 million",
+        "link": "https://ca.investing.com/news/stock-market-news/deutsche-boerse-acquires-15-stake-in-kraken-for-200-million-93CH-4563240",
+        "published_date": "2026-04-14T10:18:17Z"
+      },
+      {
+        "title": "Deutsche Borse Invests $200M In Kraken To Expand Blockchain",
+        "link": "https://www.tronweekly.com/deutsche-borse-invests-200m-in-kraken-to-expand",
+        "published_date": "2026-04-14T11:30:00Z"
+      },
+      {
+        "title": "加密貨幣交易所 Kraken 證實秘密申請美國 IPO",
+        "link": "https://news.m.pchome.com.tw/finance/sunmedia/20260415/index-77623240061291329003.html",
+        "published_date": "2026-04-15T05:53:20Z"
+      },
+      {
+        "title": "德國交易所重金入股加密巨頭Kraken 強化傳統金融與數位資產連結",
+        "link": "https://tw.stock.yahoo.com/news/%E5%BE%B7%E5%9C%8B%E4%BA%A4%E6%98%93%E6%89%80%E9%87%8D%E9%87%91%E5%85%A5%E8%82%A1%E5%8A%A0%E5%AF%86%E5%B7%A8%E9%A0%ADkraken-%E5%BC%B7%E5%8C%96%E5%82%B3%E7%B5%B1%E9%87%91%E8%9E%8D%E8%88%87%E6%95%B8%E4%BD%8D%E8%B3%87%E7%94%A2%E9%80%A3%E7%B5%90-042859369.html",
+        "published_date": "2026-04-15T04:28:59Z"
+      },
+      {
+        "title": "Kraken apunta a salir a bolsa en el tercer trimestre tras su presentación confidencial y una nueva valoración de $13,300 millones",
+        "link": "https://crypto-economy.com/es/kraken-apunta-a-salir-a-bolsa",
+        "published_date": "2026-04-15T14:44:46Z"
+      },
+      {
+        "title": "Kraken has secretly filed for a US IPO with a latest valuation of approximately $13.3 billion",
+        "link": "https://www.odaily.news/en/newsflash/476759",
+        "published_date": "2026-04-15T00:17:19Z"
+      },
+      {
+        "title": "Deutsche Börse Acquires Kraken Stake in $200M Deal",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/deutsche-b-rse-acquires-kraken-115610773.html",
+        "published_date": "2026-04-14T11:56:10Z"
+      },
+      {
+        "title": "Kraken revives IPO plans as Deutsche Börse invests $200 million",
+        "link": "https://qz.com/kraken-ipo-deutsche-boerse-200-million-stake-041526",
+        "published_date": "2026-04-15T14:45:32Z"
+      },
+      {
+        "title": "Deutsche Börse Takes $200M Kraken Stake in TradFi Push",
+        "link": "https://coinmarketcap.com/academy/article/deutsche-borse-takes-dollar200m-kraken-stake-in-tradfi-push",
+        "published_date": "2026-04-14T17:04:22Z"
+      },
+      {
+        "title": "Kraken Targets Q3 IPO After Confidential Filing and Fresh $13.3B Valuation",
+        "link": "https://crypto-economy.com/kraken-targets-q3-ipo-after-confidential-filing",
+        "published_date": "2026-04-15T14:44:51Z"
+      },
+      {
+        "title": "Deutsche Börse Adquiere una Participación de $200M en Payward, Empresa Matriz de Kraken, ante una Posible Cotización en EE.UU.",
+        "link": "https://crypto-economy.com/es/deutsche-borse-adquiere-una-participacion-de-200m-en-payward-empresa-matriz-de-kraken-ante-una-posible-cotizacion-en-ee-uu",
+        "published_date": "2026-04-14T15:07:11Z"
+      },
+      {
+        "title": "Kraken sticks with IPO plans despite USD$6.7B valuation drop",
+        "link": "https://mugglehead.com/kraken-sticks-with-ipo-plans-despite-usd6-7b-valuation-drop",
+        "published_date": "2026-04-16T00:25:17Z"
+      },
+      {
+        "title": "Kraken Moves Toward IPO as Valuation Drops to $13.3B",
+        "link": "https://blockonomi.com/kraken-moves-toward-ipo-as-valuation-drops-to-13-3b",
+        "published_date": "2026-04-14T20:57:13Z"
+      },
+      {
+        "title": "Kraken Boss Hints IPO Plan Still On Despite Reports of Pause",
+        "link": "https://cointelegraph.com/news/kraken-boss-hints-ipo-plan-still-on",
+        "published_date": "2026-04-15T04:00:45Z"
+      },
+      {
+        "title": "Kraken boss signals IPO still in play despite reports of pause",
+        "link": "https://cryptonews.net/news/finance/32708964",
+        "published_date": "2026-04-15T04:15:00Z"
+      },
+      {
+        "title": "L'trade di criptovalute Kraken conferma di aver presentato in by way of confidenziale una IPO",
+        "link": "https://mariellaromano.it/cronaca/lexchange-di-criptovalute-kraken-conferma-di-aver-presentato-in-via-confidenziale-una-ipo/264392",
+        "published_date": "2026-04-14T00:00:00Z"
+      },
+      {
+        "title": "Kraken 秘密提交美国 IPO，估值降至 133 亿美元",
+        "link": "https://www.chaincatcher.com/article/2258653",
+        "published_date": "2026-04-15T00:16:44Z"
+      },
+      {
+        "title": "比特币回暖支撑估值修复，加密货币交易所Kraken趁势重启赴美上市",
+        "link": "https://www.163.com/dy/article/KQI1B43N05198UNI.html",
+        "published_date": "2026-04-15T01:44:07Z"
+      },
+      {
+        "title": "Deutsche Borse invests $200 million in Kraken parent Payward",
+        "link": "https://www.theblock.co/post/397332/deutsche-borse-invests-200-million-in-kraken-parent-payward",
+        "published_date": "2026-04-14T10:36:07Z"
+      },
+      {
+        "title": "Kraken IPO Plans Remain Active as CEO Dismisses Reports of Pause in 2026",
+        "link": "https://www.tronweekly.com/kraken-ipo-plans-remain-active",
+        "published_date": "2026-04-15T10:00:00Z"
+      },
+      {
+        "title": "Kraken Files for IPO After $200M Deutsche Börse Investment",
+        "link": "https://thecurrencyanalytics.com/altcoins/kraken-files-for-ipo-after-200m-deutsche-borse-investment-252690",
+        "published_date": "2026-04-15T10:01:24Z"
+      },
+      {
+        "title": "Deutsche Börse Group Announces $200M Stake in Investment Platform Kraken",
+        "link": "https://www.crowdfundinsider.com/2026/04/273492-deutsche-borse-group-announces-200m-stake-in-investment-platform-kraken",
+        "published_date": "2026-04-15T12:01:03Z"
+      },
+      {
+        "title": "Crypto exchange Kraken confirms it has confidentially filed for an IPO",
+        "link": "https://www.cnbc.com/2026/04/14/crypto-exchange-kraken-confirms-it-has-confidentially-filed-for-an-ipo.html",
+        "published_date": "2026-04-14T20:08:19Z"
+      },
+      {
+        "title": "Kraken secretly submits for a U.S. IPO, valuation drops to $13.3 billion",
+        "link": "https://www.chaincatcher.com/en/article/2258653",
+        "published_date": "2026-04-15T00:16:44Z"
+      },
+      {
+        "title": "Deutsche B�rse Buys $200M Stake in Kraken Parent Payward Ahead of Potential U.S. Listing",
+        "link": "https://article.wn.com/view/2026/04/14/Deutsche_B_rse_Buys_200M_Stake_in_Kraken_Parent_Payward_Ahea",
+        "published_date": "2026-04-14T00:00:00Z"
+      },
+      {
+        "title": "Deutsche Börse Invests $200 Million in Crypto Exchange Kraken",
+        "link": "https://news.bitcoin.com/deutsche-borse-invests-200-million-in-crypto-exchange-kraken",
+        "published_date": "2026-04-14T12:44:44Z"
+      },
+      {
+        "title": "Kraken Reveals Confidential IPO Filing, Secures $200M Deutsche Börse Investment",
+        "link": "https://payspacemagazine.com/news/kraken-reveals-confidential-ipo-filing-secures-200m-deutsche-borse-investment",
+        "published_date": "2026-04-15T08:01:43Z"
+      },
+      {
+        "title": "Deutsche Börse Buys $200M Stake in Kraken Parent Payward Ahead of Potential U.S. Listing",
+        "link": "https://crypto-economy.com/deutsche-borse-buys-200m-stake-in-kraken-parent-payward-ahead-of-potential-u-s-listing",
+        "published_date": "2026-04-14T15:07:57Z"
+      },
+      {
+        "title": "Deutsche Börse acquisisce l'1,5% di Kraken: operazione da 200 milioni di dollari",
+        "link": "https://www.investiremag.it/investire/2026/04/14/news/deutsche-borse-acquisisce-l15-di-kraken-operazione-da-200-milioni-di-dollari",
+        "published_date": "2026-04-14T11:25:50Z"
+      },
+      {
+        "title": "Kraken's Confidential IPO Filing, New Investors and Recent Extortion Attempt - The UCW Newswire : Global Financial, Business and Tech News",
+        "link": "https://www.ucwe.com/2026/04/15/krakens-confidential-ipo-filing-new-investors-and-recent-extortion-attempt",
+        "published_date": "2026-04-15T14:18:47Z"
+      },
+      {
+        "title": "Deutsche Boerse adquiere una participación del 1,5% en Kraken por 200 millones de dólares",
+        "link": "https://es.investing.com/news/stock-market-news/deutsche-boerse-adquiere-una-participacion-del-15-en-kraken-por-200-millones-de-dolares-93CH-3602083",
+        "published_date": "2026-04-14T10:17:41Z"
+      },
+      {
+        "title": "Deutsche Boerse adquiere participación de 1.5% en Kraken por $200 millones",
+        "link": "https://mx.investing.com/news/stock-market-news/deutsche-boerse-adquiere-participacion-de-15-en-kraken-por-200-millones-93CH-3562237",
+        "published_date": "2026-04-14T10:17:21Z"
+      },
+      {
+        "title": "Kraken 已秘密提交美国 IPO 申请，最新估值约 133 亿美元",
+        "link": "https://www.odaily.news/zh-CN/newsflash/476759",
+        "published_date": "2026-04-15T00:17:19Z"
+      },
+      {
+        "title": "Kraken CEO'su halka arz planlarına yanıt verdi",
+        "link": "https://www.haberler.com/kripto-para/kraken-ceosu-halka-arz-planlarina-yanit-verdi-19752398-haberi",
+        "published_date": "2026-04-15T14:08:49Z"
+      },
+      {
+        "title": "Kraken co-CEO confirms IPO filing",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/kraken-co-ceo-confirms-ipo-122342245.html",
+        "published_date": "2026-04-15T12:23:42Z"
+      },
+      {
+        "title": "Kraken CEO 表示 IPO 方案仍在推进，暂停传闻不属实",
+        "link": "https://0xzx.com/2026041512136215910.html",
+        "published_date": "2026-04-15T12:13:28Z"
+      },
+      {
+        "title": "Kraken Confirms Confidential IPO Filing as Deutsche Börse Takes $200M Stake",
+        "link": "https://thedefiant.io/news/cefi/kraken-confirms-confidential-ipo-filing-as-deutsche-boerse-takes-usd200m-stake",
+        "published_date": "2026-04-14T20:23:42Z"
+      },
+      {
+        "title": "Kraken Confirms Confidential US IPO Filing as Deutsche Borse Invests 200 Million",
+        "link": "https://financefeeds.com/kraken-confirms-confidential-us-ipo-filing-as-deutsche-borse-invests-200-million",
+        "published_date": "2026-04-15T08:21:41Z"
+      },
+      {
+        "title": "Deutsche Börse deepens Kraken bet — Arabian Post",
+        "link": "https://thearabianpost.com/deutsche-borse-deepens-kraken-bet",
+        "published_date": "2026-04-14T10:04:34Z"
+      }
+    ]
+  },
+  {
+    "record_id": "561118865476945045",
+    "record_title": "Brevis Token Listing and Valuation",
+    "enrichment": {
+      "key_considerations": null,
+      "fdv_method_name": "Standard Fully Diluted Valuation",
+      "fdv_currency": "USD",
+      "token_price": 0.4761,
+      "fdv_amount": 476100000,
+      "token_or_asset": "Brevis (BREV)",
+      "total_supply": 1000000000,
+      "source_reference": null,
+      "fdv_formula": "Total Supply × Current Price",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Brevis Price Outlook: Forecast and Market Expectations",
+        "link": "https://www.coingabbar.com/en/price-prediction/brev-pump-after-listing-price-prediction-market-analysis",
+        "published_date": "2026-04-18T08:23:28Z"
+      }
+    ]
+  },
+  {
+    "record_id": "86192704084767682",
+    "record_title": "Ozak AI's Projected $1.5 Billion FDV Post-Launch",
+    "enrichment": {
+      "total_supply": 1170000000,
+      "key_considerations": "Ozak AI's early-stage structure allows smaller liquidity injections to generate outsized valuation expansion. Projects that raise significant capital before listing often experience compressed repricing windows.",
+      "fdv_amount": 1500000000,
+      "fdv_method_name": "Liquidity-driven valuation models",
+      "fdv_currency": "USD",
+      "source_reference": null,
+      "fdv_formula": null,
+      "token_or_asset": "Ozak AI",
+      "token_price": 0.014,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Liquidity Forecasts Show Ozak AI Reaching a $1.5 Billion Fully Diluted Valuation Soon After Launch",
+        "link": "https://cryptocompass.com/articles/liquidity-forecasts-show-ozak-ai-reaching-a-1-5-billion-fully-diluted-valuation-soon-after-launch",
+        "published_date": "2026-04-22T14:01:58Z"
+      }
+    ]
+  },
+  {
+    "record_id": "776231877993888414",
+    "record_title": "Impact of DeFi Exploit on USD.AI FDV and Market Volatility",
+    "enrichment": {
+      "token_price": 0.22,
+      "key_considerations": "Systemic risks associated with agentic payment protocols, vulnerability within Kelp and Aave, and market's ability to bear systemic risks.",
+      "fdv_amount": 300000000,
+      "source_reference": null,
+      "fdv_method_name": "Market-based FDV",
+      "fdv_formula": null,
+      "fdv_currency": "USD",
+      "token_or_asset": "USD.AI",
+      "total_supply": 0,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Impact of $293 Million DeFi Exploit on USD.AI and Market Volatility",
+        "link": "https://www.valuethemarkets.com/cryptocurrency/news/impact-of-293-million-defi-exploit-on-usdai-and-market-volatility",
+        "published_date": "2026-04-21T11:20:43Z"
+      }
+    ]
+  },
+  {
+    "record_id": "9102641455529632196",
+    "record_title": "Yingpai Electronics Fully Diluted Valuation Post-Financing",
+    "enrichment": {
+      "fdv_amount": 329800,
+      "token_or_asset": null,
+      "source_reference": null,
+      "fdv_currency": "HKD",
+      "token_price": 0,
+      "fdv_formula": null,
+      "total_supply": 0,
+      "fdv_method_name": "Fully Diluted Valuation",
+      "key_considerations": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "翼菲智能、英派藥業昨通過上市聆訊 後者股東包括騰訊與藥明康德",
+        "link": "https://www.bastillepost.com/hongkong/article/15898847-%E7%BF%BC%E8%8F%B2%E6%99%BA%E8%83%BD%E3%80%81%E8%8B%B1%E6%B4%BE%E8%97%A5%E6%A5%AD%E6%98%A8%E9%80%9A%E9%81%8E%E4%B8%8A%E5%B8%82%E8%81%86%E8%A8%8A-%E5%BE%8C%E8%80%85%E8%82%A1%E6%9D%B1%E5%8C%85%E6%8B%AC",
+        "published_date": "2026-04-21T02:14:45Z"
+      }
+    ]
+  }
+]

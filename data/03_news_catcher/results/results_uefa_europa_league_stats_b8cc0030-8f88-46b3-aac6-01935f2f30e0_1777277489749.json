@@ -1,0 +1,242 @@
+[
+  {
+    "record_id": "505694266376952346",
+    "record_title": "Solskjaer Eager for Man Utd vs AC Milan Europa League Clash",
+    "enrichment": {
+      "competition_stage": "Round of 16",
+      "key_stats": "Zlatan Ibrahimovic scored 16 goals in all competitions for Milan.",
+      "home_score": 0,
+      "home_team": "Manchester United",
+      "top_scorer": "Zlatan Ibrahimovic",
+      "match_date": "2021-03-12",
+      "away_score": 16,
+      "away_team": "AC Milan",
+      "venue": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Liga Europa: Jelang MU vs Milan, Solskjaer tak sabar hadapi Ibrahimovic",
+        "link": "https://kalteng.antaranews.com/berita/459114/liga-europa-jelang-mu-vs-milan-solskjaer-tak-sabar-hadapi-ibrahimovic",
+        "published_date": "2026-04-20T04:49:40Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8303975373230726273",
+    "record_title": "Nottingham Forest's victory over Lech Poznan in the absence of Gholizadeh",
+    "enrichment": {
+      "home_score": 2,
+      "home_team": "Nottingham Forest",
+      "competition_stage": "Knockout Round Playoffs",
+      "venue": null,
+      "top_scorer": null,
+      "match_date": "2026-04-19",
+      "key_stats": null,
+      "away_score": 1,
+      "away_team": "Lech Poznan",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "پیروزی ناتینگهام فارست تا برد لخ‌پوزنان در غیاب قلی‌زاده",
+        "link": "https://vista.ir/n/farhikhtegandaily/9bw5d",
+        "published_date": "2026-04-19T09:55:05Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2879267216514106095",
+    "record_title": "Leverkusen vs AS Roma Europa League Semifinal",
+    "enrichment": {
+      "top_scorer": null,
+      "home_score": 0,
+      "home_team": "Leverkusen",
+      "match_date": null,
+      "venue": "Bayarena",
+      "competition_stage": "Semi-finals",
+      "key_stats": null,
+      "away_score": 1,
+      "away_team": "AS Roma",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Berita dan Informasi Bayarena Terbaru Hari Ini",
+        "link": "https://www.acehground.com/topik/bayarena",
+        "published_date": "2026-04-16T18:32:43Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5995545525144928720",
+    "record_title": "Natan Suspended for Braga Game",
+    "enrichment": {
+      "key_stats": "Natan received three yellow cards in the Europa League this campaign and will therefore miss the Thursday's return leg.",
+      "match_date": "2026-04-16",
+      "away_team": "Braga",
+      "away_score": 0,
+      "competition_stage": null,
+      "venue": null,
+      "top_scorer": null,
+      "home_score": 0,
+      "home_team": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Natan News: Suspended for Braga game",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-15T11:05:46Z"
+      }
+    ]
+  },
+  {
+    "record_id": "438295595666579309",
+    "record_title": "Liverpool Eliminated from Europa League Quarter-finals",
+    "enrichment": {
+      "competition_stage": "Quarter-finals",
+      "away_team": null,
+      "top_scorer": null,
+      "away_score": 0,
+      "key_stats": "Injury problems plagued the team throughout the season, and despite expected goals, they scored no goals in the elimination.",
+      "home_team": null,
+      "home_score": 0,
+      "match_date": null,
+      "venue": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "史洛怨傷兵持續一整季",
+        "link": "https://hk.sports.yahoo.com/news/%E5%8F%B2%E6%B4%9B%E6%80%A8%E5%82%B7%E5%85%B5%E6%8C%81%E7%BA%8C-%E6%95%B4%E5%AD%A3-224928825.html",
+        "published_date": "2026-04-14T22:49:28Z"
+      },
+      {
+        "title": "[축구]韓 축구, UECL+UEL 전멸 \"이재성 공백 이렇게 컸나\"",
+        "link": "https://bbs.ruliweb.com/news/board/1005/read/3735450",
+        "published_date": "2026-04-17T14:15:41Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1381454680841104151",
+    "record_title": "Europa League Playoff Draw; Live Report",
+    "enrichment": {
+      "home_team": null,
+      "venue": null,
+      "match_date": null,
+      "away_score": -1,
+      "key_stats": "The Europa League ended after eight weeks of competition and the final table of 36 teams of this tournament was formed.",
+      "competition_stage": "Knockout Round Playoffs",
+      "top_scorer": null,
+      "away_team": null,
+      "home_score": -1,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "قرعه‌ کشی پلی آف لیگ اروپا؛ گزارش زنده",
+        "link": "https://vista.ir/n/parsfootball/8voue",
+        "published_date": "2026-04-21T21:55:58Z"
+      }
+    ]
+  },
+  {
+    "record_id": "310249000765438892",
+    "record_title": "Jhon Lucumi Suspended for Europa League Match",
+    "enrichment": {
+      "home_score": 0,
+      "match_date": "2026-04-16",
+      "venue": null,
+      "competition_stage": null,
+      "key_stats": "Jhon Lucumi is suspended for the return leg due to yellow-card accumulation.",
+      "away_team": null,
+      "away_score": 0,
+      "home_team": null,
+      "top_scorer": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Jhon Lucumi News: Suspended for Aston Villa game",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-14T13:28:54Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2237585303538165442",
+    "record_title": "Pau Lopez's Europa League performance",
+    "enrichment": {
+      "top_scorer": null,
+      "home_team": null,
+      "venue": null,
+      "competition_stage": null,
+      "match_date": null,
+      "key_stats": "Pau Lopez recorded four saves, conceded three goals and kept one clean sheet in the Europa League.",
+      "away_team": null,
+      "away_score": -1,
+      "home_score": -1,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Alvaro Valles News: Concedes twice in victory",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-22T07:12:57Z"
+      },
+      {
+        "title": "Alvaro Valles News: Concedes one",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-13T09:30:34Z"
+      }
+    ]
+  },
+  {
+    "record_id": "4826420747280824042",
+    "record_title": "Derry Scherhant's potential role in UEL quarterfinal",
+    "enrichment": {
+      "match_date": null,
+      "home_score": 0,
+      "home_team": null,
+      "venue": null,
+      "top_scorer": null,
+      "competition_stage": "Quarter-finals",
+      "away_score": 0,
+      "away_team": null,
+      "key_stats": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Derry Scherhant News: Solid in service",
+        "link": "https://www.rotowire.com/soccer/news.php",
+        "published_date": "2026-04-13T02:38:03Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5015128518806506954",
+    "record_title": "Premier League's Potential Sixth Champions League Spot via Europa League",
+    "enrichment": {
+      "away_score": -1,
+      "home_team": null,
+      "competition_stage": null,
+      "home_score": -1,
+      "venue": null,
+      "match_date": null,
+      "key_stats": "The Premier League may usher in a historic change: Jovira or Forest win the Europa League, and a sixth Champions League spot will be born!",
+      "away_team": null,
+      "top_scorer": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "曼城超越阿森纳登顶，但英足总和第6到10名却魂牵梦绕另一件事！",
+        "link": "https://www.163.com/dy/article/KR68QRDK05527OVT.html",
+        "published_date": "2026-04-22T22:22:49Z"
+      }
+    ]
+  }
+]

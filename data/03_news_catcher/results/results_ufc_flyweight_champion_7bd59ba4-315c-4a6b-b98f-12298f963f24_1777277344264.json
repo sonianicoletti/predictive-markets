@@ -1,0 +1,562 @@
+[
+  {
+    "record_id": "8615807777638657004",
+    "record_title": "Joshua Van's First Title Defense Postponed",
+    "enrichment": {
+      "event_name": "UFC 323",
+      "title_defense_number": 1,
+      "opponent_name": "Alexandre Pantoja",
+      "champion_name": "Joshua Van",
+      "event_date": "2025-12-01",
+      "result_method": "technical knockout",
+      "location": "Las Vegas, USA",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Pantoja detalha processo de recuperação e traça prazo para voltar ao UFC: \"Estar no ápice\"",
+        "link": "https://www.uol.com.br/esporte/ultimas-noticias/ag-fight/2026/04/21/pantoja-detalha-processo-de-recuperacao-e-traca-prazo-para-voltar-ao-ufc-estar-no-apice.htm",
+        "published_date": "2026-04-21T15:08:49Z"
+      },
+      {
+        "title": "Pantoja fala sobre recuperação e indica quando poderá voltar a lutar",
+        "link": "https://www.terra.com.br/esportes/lutas/pantoja-fala-sobre-recuperacao-e-indica-quando-podera-voltar-a-lutar,72569cb091fbb6677d443c6b70fa3c98zs88jywj.html",
+        "published_date": "2026-04-21T19:48:00Z"
+      },
+      {
+        "title": "Pantoja detalha processo de recuperação e traça prazo para voltar ao UFC: 'Estar no ápice'",
+        "link": "https://agfight.com/entrevistas/pantoja-detalha-processo-de-recuperacao-e-traca-prazo-para-voltar-ao-ufc-estar-no-apice",
+        "published_date": "2026-04-21T15:08:49Z"
+      },
+      {
+        "title": "Recado dado! Pantoja garante estar pronto e mira luta pelo cinturão após presença no UFC 327",
+        "link": "https://www.superlutas.com.br/noticias/354535/pantoja-garante-estar-pronto-mira-luta-cinturao-presenca-ufc-327",
+        "published_date": "2026-04-12T12:37:59Z"
+      },
+      {
+        "title": "Current and all-time UFC champions",
+        "link": "https://www.espn.com/mma/story/_/id/14947566/current-all-ufc-champions",
+        "published_date": "2026-04-12T16:00:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1065113047297457604",
+    "record_title": "UFC Flyweight Title Bout Postponed at UFC 327",
+    "enrichment": {
+      "title_defense_number": 1,
+      "opponent_name": "Tatsuro Taira",
+      "location": "Kaseya Center, Miami, Florida",
+      "champion_name": "Joshua Van",
+      "result_method": null,
+      "event_date": "2026-04-11",
+      "event_name": "UFC 327",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "UFC Hall of Famer Retires After Scoring Jaw-Dropping Knockout at UFC 327",
+        "link": "https://www.si.com/fannation/mma/news/ufc-hall-of-famer-cub-swanson-retires-jaw-dropping-knockout-ufc-327",
+        "published_date": "2026-04-12T01:43:31Z"
+      },
+      {
+        "title": "Swanson Vs. Landwehr Odds, Full Fight Preview & Prediction",
+        "link": "https://sports.yahoo.com/articles/swanson-vs-landwehr-odds-full-170100700.html",
+        "published_date": "2026-04-10T17:01:00Z"
+      },
+      {
+        "title": "Cub Swanson Reflects on Career, Prepares for Final UFC Fight at UFC 327",
+        "link": "https://www.asatunews.co.id/en/cub-swanson-final-ufc-327-fight",
+        "published_date": "2026-04-11T05:45:31Z"
+      },
+      {
+        "title": "Cub Swanson Concludes Legendary UFC Career at UFC 327",
+        "link": "https://www.asatunews.co.id/en/cub-swanson-concludes-ufc-career",
+        "published_date": "2026-04-12T01:21:22Z"
+      },
+      {
+        "title": "Cub Swanson vs. Nate Landwehr: Odds, full fight preview and prediction",
+        "link": "https://www.mmamania.com/ufc-events-ppv/435047/cub-swanson-vs-nate-landwehr-odds-full-fight-preview-and-prediction-ufc-327",
+        "published_date": "2026-04-10T17:01:00Z"
+      },
+      {
+        "title": "UFC 327 Shock: Joshua Van Out, Tatsuro Taira Title Fight in Jeopardy (2026)",
+        "link": "https://custommapposter.com/article/ufc-327-shock-joshua-van-out-tatsuro-taira-title-fight-in-jeopardy/12619",
+        "published_date": "2026-04-10T22:09:07Z"
+      },
+      {
+        "title": "UFC 328 Poster: Khamzat Chimaev vs. Sean Strickland - 'Nowhere to Run' on May 9 in Newark (2026)",
+        "link": "https://custommapposter.com/article/ufc-328-poster-khamzat-chimaev-vs-sean-strickland-nowhere-to-run-on-may-9-in-newark/12262",
+        "published_date": "2026-04-10T15:02:21Z"
+      },
+      {
+        "title": "Muhammad Mokaev Names Kyoji Horiguchi as Top UFC Flyweight; Why Van Isn't #1 (2026)",
+        "link": "https://custommapposter.com/article/muhammad-mokaev-names-kyoji-horiguchi-as-top-ufc-flyweight-why-van-isn-t-1/13366",
+        "published_date": "2026-04-11T21:56:28Z"
+      },
+      {
+        "title": "Manel Kape: Why I Deserve the Next UFC Flyweight Title Shot (2026)",
+        "link": "https://custommapposter.com/article/manel-kape-why-i-deserve-the-next-ufc-flyweight-title-shot/12457",
+        "published_date": "2026-04-12T14:59:38Z"
+      },
+      {
+        "title": "UFC 327 Title Fight Rescheduled! Joshua Van vs. Tatsuro Taira Now at UFC 328 - Full Breakdown (2026)",
+        "link": "https://custommapposter.com/article/ufc-327-title-fight-rescheduled-joshua-van-vs-tatsuro-taira-now-at-ufc-328-full-breakdown/13324",
+        "published_date": "2026-04-11T09:52:42Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2553991496683496385",
+    "record_title": "Joshua Van vs. Tatsuro Taira: UFC Flyweight Title Defense at UFC 328",
+    "enrichment": {
+      "result_method": null,
+      "location": "Prudential Center, Newark, N.J.",
+      "champion_name": "Joshua Van",
+      "opponent_name": "Tatsuro Taira",
+      "event_name": "UFC 328",
+      "event_date": "2026-05-09",
+      "title_defense_number": 1,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "UFC 327 Weigh-in Results: Procházka vs Ulberg & Joshua Van vs Tatsuro Taira Headline Miami CardUFC 327 Weigh-in Results: Procházka vs Ulberg",
+        "link": "https://www.fightbookmma.com/ufc-327-weigh-in-results-prochazka-ulberg-joshua-van-taira-preview",
+        "published_date": "2026-04-10T13:08:41Z"
+      },
+      {
+        "title": "Деметриус Джонсон: Прохазка никогда не избавится от привычки держать руки опущенными",
+        "link": "https://www.championat.com/boxing/news-6429500-demetrius-dzhonson-prohazka-nikogda-ne-izbavitsya-ot-privychki-derzhat-ruki-opuschennymi.html",
+        "published_date": "2026-04-12T20:46:17Z"
+      },
+      {
+        "title": "Joshua Van vs. Tatsuro Taira: Odds and what to know ahead of UFC 328",
+        "link": "https://sports.yahoo.com/articles/joshua-van-vs-tatsuro-taira-125026946.html",
+        "published_date": "2026-04-21T12:50:26Z"
+      },
+      {
+        "title": "Тренер Стрикленда признался, как победить Чимаева в UFC",
+        "link": "https://alsport.kz/mma/trener-striklenda-priznalsia-kak-pobedit-chimaeva-v-ufc",
+        "published_date": "2026-04-22T13:18:05Z"
+      },
+      {
+        "title": "PARAMOUNT+ TRANSMITIRÁ EN VIVO Y EN EXCLUSIVA UFC 327: PROCHAZKA VS. ULBERG",
+        "link": "https://mninoticias.com/paramount-transmitira-en-vivo-y-en-exclusiva-ufc-327-prochazka-vs-ulberg",
+        "published_date": "2026-04-13T13:21:53Z"
+      },
+      {
+        "title": "UFC 328 Takes Big Hit as Light Heavyweight Contender Announces Withdrawal",
+        "link": "https://heavy.com/sports/ufc/ufc-328-light-heavyweight-announces-withdrawal",
+        "published_date": "2026-04-18T20:58:41Z"
+      },
+      {
+        "title": "Surprise record-setter lands on Khamzat Chimaev vs. Sean Strickland undercard",
+        "link": "https://sports.yahoo.com/articles/surprise-record-setter-lands-khamzat-214015289.html",
+        "published_date": "2026-04-11T21:40:15Z"
+      },
+      {
+        "title": "UFC 327 en vivo: resultados y videos de Prochazka vs. Ulberg, Ribovics, Prado y todas las peleas de la noche",
+        "link": "https://www.sportingnews.com/us-es/mma/news/ufc-resultados-videos-prochazka-ulberg-ribovics-prado/4b516aeb9e1f5362b3c9f5d5",
+        "published_date": "2026-04-11T21:24:40Z"
+      },
+      {
+        "title": "Joshua Van's Historic Flyweight Title Win at UFC 323 (2026)",
+        "link": "https://custommapposter.com/article/joshua-van-s-historic-flyweight-title-win-at-ufc-323/12124",
+        "published_date": "2026-04-10T14:58:05Z"
+      },
+      {
+        "title": "UFC 328: Khamzat Chimaev-Sean Strickland maçı ne zaman, saat kaçta ve hangi kanalda?",
+        "link": "https://www.aksam.com.tr/pusula/ufc-328-khamzat-chimaev-sean-strickland-maci-ne-zaman-saat-kacta-ve-hangi-kanalda/haber-1660040",
+        "published_date": "2026-04-19T08:37:00Z"
+      },
+      {
+        "title": "UFC 327 en Paramount+: Horarios y cartelera Prochazka vs. Ulberg",
+        "link": "https://geekzilla.tech/ufc-327-en-paramount-horarios-y-cartelera-prochazka-vs-ulberg",
+        "published_date": "2026-04-11T02:00:00Z"
+      },
+      {
+        "title": "UFC 327: Prochazka vs Ulberg",
+        "link": "https://www.tribute.ca/movies/ufc-327-prochazka-vs-ulberg/193547",
+        "published_date": "2026-04-11T00:00:00Z"
+      },
+      {
+        "title": "BORILAČKI TJEDAN: Ponajbolji hrvatski kikboksač kreće po treću uzastopnu pobjedu unutar Gloryja",
+        "link": "https://www.jutarnji.hr/sportske/fightsite/ostalo/borilacki-tjedan-ponajbolji-hrvatski-kikboksac-krece-po-trecu-uzastopnu-pobjedu-unutar-gloryja-15701160",
+        "published_date": "2026-04-21T18:42:04Z"
+      },
+      {
+        "title": "UFC 328 suffers big blow as former champion withdraws from card with injury",
+        "link": "https://talksport.com/mma/4193826/ufc-328-fighter-withdraws-card-injury-cancelled-blachowicz-guskov",
+        "published_date": "2026-04-18T12:05:00Z"
+      },
+      {
+        "title": "Jadwal UFC 327 Hari Ini: Ada Perebutan Gelar Juara Jiri Prochazka vs Carlos Ulberg",
+        "link": "https://www.tvonenews.com/sport/onepride/431225-jadwal-ufc-327-hari-ini-ada-perebutan-gelar-juara-jiri-prochazka-vs-carlos-ulberg",
+        "published_date": "2026-04-11T20:00:36Z"
+      },
+      {
+        "title": "UFC 328 ft Khamzat Chimaev vs Sean Strickland faces big shake-up as star fighter faces major injury and announces withdrawal",
+        "link": "https://timesofindia.indiatimes.com/sports/international-sports/ufc-328-ft-khamzat-chimaev-vs-sean-strickland-faces-big-shake-up-as-star-fighter-faces-major-injury-and-announces-withdrawal/articleshow/130353129.cms",
+        "published_date": "2026-04-18T12:20:00Z"
+      },
+      {
+        "title": "UFC 327: Joshua Van vs. Tatsuro Taira - First Title Defense Preview (2026)",
+        "link": "https://custommapposter.com/article/ufc-327-joshua-van-vs-tatsuro-taira-first-title-defense-preview/12021",
+        "published_date": "2026-04-13T06:20:45Z"
+      },
+      {
+        "title": "UFC 327 Results: Procházka vs. Ulberg Highlights and Interviews",
+        "link": "https://www.world-today-news.com/ufc-327-results-prochazka-vs-ulberg-highlights-and-interviews",
+        "published_date": "2026-04-10T22:55:50Z"
+      },
+      {
+        "title": "Why Was Joshua Van vs Tatsuro Taira Cancelled at UFC 327 and What Happens Next?",
+        "link": "https://www.essentiallysports.com/ufc-mma-news-why-was-joshua-van-vs-tatsuro-taira-cancelled-at-ufc-three-two-seven-and-what-happens-next",
+        "published_date": "2026-04-11T18:01:27Z"
+      },
+      {
+        "title": "UFC 327 'Embedded,' No. 6: Jiri Prochazka appearance draws mob of fans",
+        "link": "https://mmajunkie-eu.usatoday.com/story/sports/ufc/2026/04/11/ufc-327-embedded-no-6-jiri-prochazka-appearance-draws-mob-of-fans/89566820007",
+        "published_date": "2026-04-11T13:04:43Z"
+      },
+      {
+        "title": "UFC 328 Fighter Payouts: How Much Will the Headliners Earn?",
+        "link": "https://nyfights.com/mma/ufc-328-fighter-payouts-khamzat-chimaev",
+        "published_date": "2026-04-17T23:13:18Z"
+      },
+      {
+        "title": "UFC 327: Quem será o padrasto?",
+        "link": "https://bolanarede.pt/modalidades/desportos-de-combate/ufc/ufc-327-quem-sera-o-padrasto",
+        "published_date": "2026-04-11T09:26:26Z"
+      },
+      {
+        "title": "UFC 327: Flyweight Champion Joshua Van OUT of Title Fight",
+        "link": "https://usa-today-news.com/sports/ufc-327-flyweight-champion-joshua-van-out-of-title-fight",
+        "published_date": "2026-04-22T11:32:44Z"
+      },
+      {
+        "title": "UFC 328: первая защита титула Чимаевым и российский десант в США. LIVE",
+        "link": "https://sportmaps.ru/2026/04/13/ufc-328-pervaya-zashhita-titula-chimaevym-i-rossijskij-desant-v-ssha-live",
+        "published_date": "2026-04-13T10:02:03Z"
+      },
+      {
+        "title": "UFC 328 Card Suffers Massive Blow As Former Champion Withdraws After Suffering Torn Meniscus In Training",
+        "link": "https://www.lowkickmma.com/jan-blachowicz-out-ufc-328-torn-meniscus",
+        "published_date": "2026-04-18T10:57:59Z"
+      },
+      {
+        "title": "'Prochazka Will Never Break the Habit of Keeping Hands Down': Johnson",
+        "link": "https://www.telecomasia.net/news/mma/prochazka-will-never-break-the-habit-of-keeping-hands-down-johnson",
+        "published_date": "2026-04-13T07:59:36Z"
+      },
+      {
+        "title": "Joshua Van Faces First Title Defense Against Tatsuro Taira at UFC 328",
+        "link": "https://thebodylockmma.com/ufc/news-ufc/joshua-van-faces-first-title-defense-against-tatsuro-taira-at-ufc-328",
+        "published_date": "2026-04-21T15:14:58Z"
+      },
+      {
+        "title": "Sabadão vai ter transmissão do UFC 327 na Paramount+",
+        "link": "https://hospicionerd.com.br/sabadao-vai-ter-transmissao-do-ufc-327-na-paramount",
+        "published_date": "2026-04-10T19:12:40Z"
+      },
+      {
+        "title": "UFC 328 Main Event Prediction: Is Khamzat Chimaev Ready for the Sean Strickland Endurance Test?",
+        "link": "https://www.yardbarker.com/mma/articles/ufc_328_main_event_prediction_is_khamzat_chimaev_ready_for_the_sean_strickland_endurance_test/s1_17666_43726317",
+        "published_date": "2026-04-14T07:39:43Z"
+      },
+      {
+        "title": "Manager explains UFC 327 title shift, gives other key athlete updates",
+        "link": "https://sports.yahoo.com/articles/manager-explains-ufc-327-title-222602704.html",
+        "published_date": "2026-04-11T22:26:02Z"
+      },
+      {
+        "title": "Houston's Kevin Holland shines at UFC 327 in Miami",
+        "link": "https://www.houstonpress.com/news/houstons-kevin-holland-shines-at-ufc-327-in-miami",
+        "published_date": "2026-04-12T12:30:33Z"
+      },
+      {
+        "title": "UFC 327: Joshua Van Withdraws from Title Fight Against Tatsuro Taira (2026)",
+        "link": "https://custommapposter.com/article/ufc-327-joshua-van-withdraws-from-title-fight-against-tatsuro-taira/13167",
+        "published_date": "2026-04-11T09:50:44Z"
+      },
+      {
+        "title": "UFC 327 Start Time, Full Fight Card Details!",
+        "link": "https://sports.yahoo.com/articles/ufc-327-start-time-full-142900952.html",
+        "published_date": "2026-04-11T14:29:00Z"
+      },
+      {
+        "title": "平良達郎は翌月のお楽しみ……本日はプロハースカUFCと、RIZNランドマーク福岡",
+        "link": "https://m-dojo.hatenadiary.com/entry/2026/04/12/012635",
+        "published_date": "2026-04-11T16:26:35Z"
+      },
+      {
+        "title": "Link Live Streaming UFC 327: Tarung Siang Ini, Ada Duel Perebutan Gelar Juara Jiri Prochazka vs Carlos Ulberg",
+        "link": "https://www.tvonenews.com/sport/onepride/431273-link-live-streaming-ufc-327-tarung-siang-ini-ada-duel-perebutan-gelar-juara-jiri-prochazka-vs-carlos-ulberg",
+        "published_date": "2026-04-12T00:15:39Z"
+      },
+      {
+        "title": "UFC objavio kompletan ‘fight card‘ za lipanjsku priredbu: Belal Muhammad traži prekid crnog niza!",
+        "link": "https://www.jutarnji.hr/sportske/fightsite/ufc/ufc-objavio-kompletan-fight-card-za-lipanjsku-priredbu-belal-muhammad-trazi-prekid-crnog-niza-15701504",
+        "published_date": "2026-04-22T15:50:00Z"
+      },
+      {
+        "title": "UFC 328 adds record holder to the Khamzat Chimaev vs. Sean Strickland undercard",
+        "link": "https://bloodyelbow.com/2026/04/11/ufc-328-adds-record-holder-to-the-khamzat-chimaev-vs-sean-strickland-undercard",
+        "published_date": "2026-04-11T19:00:00Z"
+      },
+      {
+        "title": "UFC Flyweight Title Match Postponed to UFC 328 Due to Injury",
+        "link": "https://news.ssbcrack.com/ufc-flyweight-title-match-postponed-to-ufc-328-due-to-injury",
+        "published_date": "2026-04-12T04:33:29Z"
+      },
+      {
+        "title": "UFC 327: Jiri Prochazka Vs. Carlos Ulberg Full Fight Card & Preview",
+        "link": "https://www.wrestlinginc.com/2145072/mma-ufc-327-jiri-prochazka-carlos-ulberg-full-fight-card-preview-matches",
+        "published_date": "2026-04-11T01:30:00Z"
+      },
+      {
+        "title": "UFC 327: Jiří Procházka enfrenta Carlos Ulberg com transmissão exclusiva do Paramount+",
+        "link": "https://www.ouniversodatv.com/2026/04/ufc-327-jiri-prochazka-enfrenta-carlos.html",
+        "published_date": "2026-04-11T02:30:00Z"
+      },
+      {
+        "title": "3 Biggest Takeaways From UFC 327",
+        "link": "https://www.yardbarker.com/mma/articles/3_biggest_takeaways_from_ufc_327/s1_17702_43718340",
+        "published_date": "2026-04-12T12:17:11Z"
+      },
+      {
+        "title": "Why Jiri Prochazka Will Never Break His Habit—Demetrious Johnson Explains UFC 327 (2026)",
+        "link": "https://custommapposter.com/article/why-jiri-prochazka-will-never-break-his-habit-demetrious-johnson-explains-ufc-327/13714",
+        "published_date": "2026-04-13T03:27:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6169751445578485166",
+    "record_title": "Daria Zheleznyakova's Upcoming Fight and Title Ambitions",
+    "enrichment": {
+      "champion_name": null,
+      "location": "Winnipeg",
+      "event_date": "2026-04-19",
+      "event_name": "UFC Fight Night 273",
+      "result_method": null,
+      "title_defense_number": 0,
+      "opponent_name": "Melissa Croden",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Россиянка из UFC намерена привезти титул на родину",
+        "link": "https://sport.russia24.pro/425681882",
+        "published_date": "2026-04-18T07:58:27Z"
+      },
+      {
+        "title": "Россиянка из UFC намерена привезти титул на родину - Газета",
+        "link": "https://www.gazeta.press/sport/news/2026/04/18/28293853.shtml",
+        "published_date": "2026-04-18T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3125983405096089907",
+    "record_title": "UFC Returns to Macau: Song Yadong vs. Figueiredo",
+    "enrichment": {
+      "champion_name": null,
+      "opponent_name": null,
+      "location": "Galaxy Macau Arena, Macau",
+      "event_name": "UFC Fight Night: Song Yadong vs. Figueiredo",
+      "title_defense_number": 0,
+      "result_method": null,
+      "event_date": "2026-05-30",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "UFC重磅回归澳门三晚接力赛，宋亚东、菲格雷多领衔格斗之夜对决",
+        "link": "https://sports.sohu.com/a/1009507978_121332532",
+        "published_date": "2026-04-14T19:38:00Z"
+      },
+      {
+        "title": "UFC重磅回归澳门 宋亚东领衔'中国军团'主场作战",
+        "link": "https://www.sohu.com/a/1009431173_163278",
+        "published_date": "2026-04-14T08:27:00Z"
+      },
+      {
+        "title": "UFC下月底重磅回归澳门，宋亚东、张名扬、石铭等中国好手将先后亮相_手机网易网",
+        "link": "https://m.163.com/dy/article/KQHF4MMO05568W0A.html",
+        "published_date": "2026-04-14T20:26:04Z"
+      },
+      {
+        "title": "UFC下月底重磅回归澳门，宋亚东、张名扬、石铭等中国好手将先后亮相",
+        "link": "https://www.163.com/dy/article/KQHF4MMO05568W0A.html",
+        "published_date": "2026-04-14T20:26:04Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3959568306243400642",
+    "record_title": "Tsarukyan vs. Musumeci Match Announced",
+    "enrichment": {
+      "champion_name": "Mikey Musumeci",
+      "location": null,
+      "title_defense_number": 0,
+      "event_name": null,
+      "opponent_name": "Arman Tsarukyan",
+      "result_method": null,
+      "event_date": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Tsarukyan Reveals Tentative Date for His Fight With UFC BJJ Champion Musumeci",
+        "link": "https://www.telecomasia.net/news/mma/tsarukyan-reveals-tentative-date-for-his-fight-with-ufc-bjj-champion-musumeci",
+        "published_date": "2026-04-23T12:10:53Z"
+      }
+    ]
+  },
+  {
+    "record_id": "106715003315628633",
+    "record_title": "Demetrious Johnson Inducted into UFC Hall of Fame",
+    "enrichment": {
+      "opponent_name": null,
+      "champion_name": "Demetrious Johnson",
+      "event_name": "UFC Hall of Fame Induction Ceremony",
+      "event_date": null,
+      "location": null,
+      "title_defense_number": -1,
+      "result_method": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Demetrious Johnson Inducted into UFC Hall of Fame Class of 2026",
+        "link": "https://www.blackbeltmag.com/post/demetrious-johnson-named-to-ufc-hall-of-fame-class-of-2026",
+        "published_date": "2026-04-14T20:01:48Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6821904322416744660",
+    "record_title": "Suarez's Finishing Win Over Godinez",
+    "enrichment": {
+      "location": null,
+      "champion_name": null,
+      "result_method": "Finishing Win",
+      "title_defense_number": 1,
+      "event_date": null,
+      "event_name": null,
+      "opponent_name": "Loopy Godinez",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Suarez thrilled with being first to earn finish win over Godinez",
+        "link": "https://www.sportsnet.ca/ufc/video/suarez-thrilled-with-being-first-to-earn-finish-win-over-godinez",
+        "published_date": "2026-04-11T21:17:47Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2675797134072983955",
+    "record_title": "Brandon Moreno's TikTok Presence",
+    "enrichment": {
+      "result_method": null,
+      "opponent_name": null,
+      "location": null,
+      "champion_name": "Brandon Moreno",
+      "title_defense_number": 1,
+      "event_date": null,
+      "event_name": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "15 Proven Strategies for Remote Work Definition That Experts Agree On",
+        "link": "https://www.thedetroitbureau.com/www-news/15-proven-strategies-for-remote-work-definition-that-experts-agree-on-dhwm7n6muo5y",
+        "published_date": "2026-04-18T21:57:05Z"
+      },
+      {
+        "title": "The Evolving Landscape of Small Business Zoning— Beyond the Basics: The Role of About",
+        "link": "https://www.thedetroitbureau.com/www-news/the-evolving-landscape-of-small-business-zoning-beyond-the-basics-the-role-of-about-dhxdls447j16",
+        "published_date": "2026-04-19T19:25:03Z"
+      },
+      {
+        "title": "Separating Fact from Fiction on Tips Production House Owner for 2026 and Beyond",
+        "link": "https://www.thedetroitbureau.com/www-news/separating-fact-from-fiction-on-tips-production-house-owner-for-2026-and-beyond-dhy395u9jlqv",
+        "published_date": "2026-04-20T15:31:03Z"
+      },
+      {
+        "title": "Why Experts Are Watching Car Buying Guide Xpel: What Experts Are Saying: The Role of About",
+        "link": "https://www.thedetroitbureau.com/www-news/why-experts-are-watching-car-buying-guide-xpel-what-experts-are-saying-the-role-of-about-dhy1zlt83e5z",
+        "published_date": "2026-04-20T14:31:33Z"
+      },
+      {
+        "title": "Rethinking Our Approach to Car Mom Cx 90 Review Template for the Informed Reader",
+        "link": "https://www.thedetroitbureau.com/www-news/rethinking-our-approach-to-car-mom-cx-90-review-template-for-the-informed-reader-dhwnuf2c0t7g",
+        "published_date": "2026-04-18T23:13:51Z"
+      },
+      {
+        "title": "New Study Reveals Cloud Computing Stocks as Industry Shifts",
+        "link": "https://www.thedetroitbureau.com/www-news/new-study-reveals-cloud-computing-stocks-as-industry-shifts-dhx1bwsxn60f",
+        "published_date": "2026-04-19T09:47:56Z"
+      },
+      {
+        "title": "How Does Forrest Car Reviews Net Worth More Important Than You Think?",
+        "link": "https://www.thedetroitbureau.com/www-news/how-does-forrest-car-reviews-net-worth-more-important-than-you-think-dhwhvygktr86",
+        "published_date": "2026-04-18T18:33:45Z"
+      },
+      {
+        "title": "Why Auto Repair 98604, Experts Say",
+        "link": "https://www.thedetroitbureau.com/www-news/why-auto-repair-98604-experts-say-dhxht4itlq3h",
+        "published_date": "2026-04-19T22:42:43Z"
+      },
+      {
+        "title": "7 Surprising Facts About Car Review Videos Youtube in 2026 — Focus on Winner",
+        "link": "https://www.thedetroitbureau.com/www-news/7-surprising-facts-about-car-review-videos-youtube-in-2026-focus-on-winner-dhwjgfa6vb3u",
+        "published_date": "2026-04-18T19:47:30Z"
+      },
+      {
+        "title": "How Software Engineering 9th Edition Sommerville Test Bank — Here's What We Know",
+        "link": "https://www.thedetroitbureau.com/www-news/how-software-engineering-9th-edition-sommerville-test-bank-heres-what-we-know-dhyx607er6md",
+        "published_date": "2026-04-21T14:57:29Z"
+      },
+      {
+        "title": "The Complete Handbook on Ev Car Yearly Maintenance Cost in the Modern Era",
+        "link": "https://www.thedetroitbureau.com/www-news/the-complete-handbook-on-ev-car-yearly-maintenance-cost-in-the-modern-era-di06phb1nb0d",
+        "published_date": "2026-04-23T02:38:45Z"
+      },
+      {
+        "title": "The Promise and Pitfalls of Leadership Skills on Resume in 2026",
+        "link": "https://www.thedetroitbureau.com/www-news/the-promise-and-pitfalls-of-leadership-skills-on-resume-in-2026-di00p4adebvp",
+        "published_date": "2026-04-22T21:56:10Z"
+      },
+      {
+        "title": "Breaking Down Small Business Zoning, Experts Say",
+        "link": "https://www.thedetroitbureau.com/www-news/breaking-down-small-business-zoning-experts-say-dhx2nw4a9wl3",
+        "published_date": "2026-04-19T10:50:36Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2781390523018830492",
+    "record_title": "MMA pound-for-pound rankings (April 2026)",
+    "enrichment": {
+      "location": null,
+      "result_method": null,
+      "event_name": null,
+      "title_defense_number": 1,
+      "opponent_name": null,
+      "event_date": null,
+      "champion_name": "Valentina Shevchenko",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "MMA pound-for-pound rankings (April 2026): Did UFC 327 shake up the list?",
+        "link": "https://sports.yahoo.com/mma/article/mma-pound-for-pound-rankings-april-2026-did-ufc-327-shake-up-the-list-133000094.html",
+        "published_date": "2026-04-13T13:30:00Z"
+      }
+    ]
+  }
+]

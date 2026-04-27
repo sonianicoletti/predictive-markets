@@ -1,0 +1,287 @@
+[
+  {
+    "record_id": "140170717648639200",
+    "record_title": "Khamzat Chimaev's Upcoming Fight",
+    "enrichment": {
+      "event_location": null,
+      "opponent_name": "Sean Strickland",
+      "champion_name": "Khamzat Chimaev",
+      "event_name": "UFC 328",
+      "belt_type": null,
+      "event_date": "2026-05-10",
+      "weight_class": "Middleweight",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Хамзат Чимаев рассказал о своих отношениях с Хабибом Нурмагомедовым",
+        "link": "https://sportarena.kz/mma-ufc/1053097-khamzat-chimaev-rasskazal-o-svoikh-otnosheniyakh-s-khabibom-nurmagomedovym.html",
+        "published_date": "2026-04-16T17:35:00Z"
+      },
+      {
+        "title": "Хамзат Чимаев о Хабибе Нурмагомедове: проблем в отношениях нет – Zamin.uz, 17.04.2026",
+        "link": "https://zamin.uz/ru/sport/196812-hamzat-chimaev-habib-nurmagomedov-haqida-munosabatlarda-muammo-yoq.html",
+        "published_date": "2026-04-17T08:23:40Z"
+      },
+      {
+        "title": "Khamzat Chimaev sur Khabib Nurmagomedov: aucune tension entre eux – Zamin.uz, 17.04.2026",
+        "link": "https://zamin.uz/fr/sport/196812-khamzat-chimaev-sur-khabib-nurmagomedov-aucune-tension-entre-eux.html",
+        "published_date": "2026-04-17T08:23:40Z"
+      },
+      {
+        "title": "Hamzat Chimaev über Khabib Nurmagomedov: Keine Probleme in der Beziehung – Zamin.uz, 17.04.2026",
+        "link": "https://zamin.uz/de/sport/196812-hamzat-chimaev-habib-nurmagomedov-haqida-munosabatlarda-muammo-yoq.html",
+        "published_date": "2026-04-17T08:23:40Z"
+      },
+      {
+        "title": "Khamzat Chimaev Kuak Pandangan Jujurnya soal Khabib Nurmagomedov",
+        "link": "https://www.juara.net/read/324371718/khamzat-chimaev-kuak-pandangan-jujurnya-soal-khabib-nurmagomedov",
+        "published_date": "2026-04-17T05:00:00Z"
+      },
+      {
+        "title": "Khamzat Chimaev on Khabib Nurmagomedov: No Issues in Their Relationship – Zamin.uz, 17.04.2026",
+        "link": "https://zamin.uz/en/sport/196812-hamzat-chimaev-habib-nurmagomedov-haqida-munosabatlarda-muammo-yoq.html",
+        "published_date": "2026-04-17T08:23:40Z"
+      },
+      {
+        "title": "Hamzat Chimayev sobre Khabib Nurmagomedov: no hay problemas en la relación – Zamin.uz, 17.04.2026",
+        "link": "https://zamin.uz/es/deportes/196812-hamzat-chimaev-habib-nurmagomedov-haqida-munosabatlarda-muammo-yoq.html",
+        "published_date": "2026-04-17T08:23:40Z"
+      },
+      {
+        "title": "Hamzat Chimaev, Khabib Nurmagomedov Hakkında: İlişkilerde Sorun Yok – Zamin.uz, 17.04.2026",
+        "link": "https://zamin.uz/tr/spor/196812-hamzat-chimaev-habib-nurmagomedov-haqida-munosabatlarda-muammo-yoq.html",
+        "published_date": "2026-04-17T08:23:40Z"
+      },
+      {
+        "title": "Холланд: хочу отомстить всем парням, которые меня побеждали, за исключением Чимаева",
+        "link": "https://www.championat.com/boxing/news-6431262-holland-hochu-otomstit-vsem-parnyam-kotorye-menya-pobezhdali-za-isklyucheniem-chimaeva.html",
+        "published_date": "2026-04-14T09:50:49Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2907855508513957961",
+    "record_title": "Michelle Montague's Upcoming Fight Against Maira Bueno Silva",
+    "enrichment": {
+      "belt_type": null,
+      "event_location": "UFC Apex in Las Vegas, Nevada",
+      "weight_class": "Women's Bantamweight",
+      "champion_name": null,
+      "opponent_name": "Maira Bueno Silva",
+      "event_date": "2026-04-25",
+      "event_name": "UFC Fight Night",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Por que Michelle Montag precisa estar no seu radar antes de atrair os fãs do UFC.",
+        "link": "https://www.segundabase.com.br/noticias/por-que-michelle-montag-precisa-estar-no-seu-radar-antes-de-atrair-os-fas-do-ufc/233290",
+        "published_date": "2026-04-16T17:32:54Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6197944068568985614",
+    "record_title": "Cyril Gan vs Alex Pereira Title Fight",
+    "enrichment": {
+      "belt_type": "Interim",
+      "event_date": null,
+      "opponent_name": "Alex Pereira",
+      "event_location": "White House, USA",
+      "champion_name": null,
+      "weight_class": "Heavyweight",
+      "event_name": "UFC White House — Freedom 250",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Сириль Ган привлёк россиянина Артёма Вахитова к подготовке к бою против Алекса Перейры",
+        "link": "https://www.championat.com/boxing/news-6438930-siril-gan-privlyok-rossiyanina-artyoma-vahitova-k-podgotovke-k-boyu-protiv-aleksa-perejry.html",
+        "published_date": "2026-04-20T18:43:22Z"
+      },
+      {
+        "title": "Видео: россиянин Вахитов помогает Сирилу Гану готовиться к титульному бою UFC в Белом доме",
+        "link": "https://sport24.ru/mma/news-842959-video-rossiyanin-vakhitov-pomogayet-sirilu-ganu-gotovitsya-k-titulnomu-boyu-ufc-v-belom-dome",
+        "published_date": "2026-04-21T15:24:00Z"
+      },
+      {
+        "title": "Артем Вахитов помогает Сирилу Гану готовиться к бою с Алексом Перейрой",
+        "link": "https://www.bloodandsweat.ru/2026/04/artem-vaxitov-pomogaet-sirilu-ganu-gotovitsya-k-boyu-s-aleksom-perejroj",
+        "published_date": "2026-04-20T16:30:10Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2588880990625446985",
+    "record_title": "Marcus Buchecha vs. Ryan Spann Fight Details",
+    "enrichment": {
+      "belt_type": null,
+      "champion_name": null,
+      "event_location": "Las Vegas",
+      "weight_class": "Heavyweight",
+      "opponent_name": "Ryan Spann",
+      "event_date": "2026-04-25",
+      "event_name": "UFC Fight Night",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Who Is Marcus Buchecha? Meet the 13X BJJ Champion Struggling to Make a Place in UFC",
+        "link": "https://www.yardbarker.com/mma/articles/who_is_marcus_buchecha_meet_the_13x_bjj_champion_struggling_to_make_a_place_in_ufc/s1_17759_43745185",
+        "published_date": "2026-04-19T05:28:36Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5309283854524243205",
+    "record_title": "Daniel Rodriguez accepts fight with former champion Leon Edwards at UFC 329",
+    "enrichment": {
+      "event_name": "UFC 329",
+      "weight_class": "Welterweight",
+      "event_date": "2026-07-11",
+      "opponent_name": null,
+      "event_location": "T-Mobile Arena, Las Vegas",
+      "champion_name": null,
+      "belt_type": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Daniel Rodríguez afirma que peleará contra el ex campeón de UFC durante la Semana Internacional de la Lucha",
+        "link": "https://masmma.com.mx/noticias/daniel-rodriguez-afirma-que-peleara-contra-el-ex-campeon-de-ufc-durante-la-semana-internacional-de-la-lucha/200513",
+        "published_date": "2026-04-15T13:21:37Z"
+      },
+      {
+        "title": "Daniel Rodriguez Leaks Details On Next Match",
+        "link": "https://www.fightsports.tv/daniel-rodriguez-leaks-details-surrounding-next-ufc-appearance",
+        "published_date": "2026-04-16T00:00:00Z"
+      },
+      {
+        "title": "Daniel Rodríguez confirma que peleará contra Leon Edwards en UFC 329.",
+        "link": "https://ahoramismo.com/deportes/ufc/daniel-rodriguez-confirma-que-peleara-contra-leon-edwards-en-ufc-329",
+        "published_date": "2026-04-15T00:19:43Z"
+      },
+      {
+        "title": "Daniel Rodriguez says he accepted offer to fight Leon Edwards at UFC 329",
+        "link": "https://sports.yahoo.com/articles/daniel-rodriguez-says-accepted-offer-161018837.html",
+        "published_date": "2026-04-15T16:10:18Z"
+      },
+      {
+        "title": "Leon Edwards' UFC 329 Opponent Gets Leaked",
+        "link": "https://www.mmanews.com/article/leon-edwards-ufc-329-opponent-gets-leaked",
+        "published_date": "2026-04-15T09:30:31Z"
+      },
+      {
+        "title": "Leon Edwards får motståndare: 8 månader i mexikanskt fängelse",
+        "link": "https://www.kimura.se/leon-edwards-far-motstandare-8-manader-i-mexikanskt-fangelse",
+        "published_date": "2026-04-15T11:21:51Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3948935434640876597",
+    "record_title": "Aljamain Sterling vs. Petr Yan",
+    "enrichment": {
+      "event_name": "UFC 259",
+      "champion_name": "Aljamain Sterling",
+      "weight_class": "Bantamweight",
+      "event_date": null,
+      "event_location": null,
+      "opponent_name": "Petr Yan",
+      "belt_type": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Top Finalizaciones: Aljamain Sterling",
+        "link": "https://www.ufc.com/video/108425",
+        "published_date": "2026-04-20T18:16:06Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6522850562928798939",
+    "record_title": "UFC 329 First Fight Announced",
+    "enrichment": {
+      "opponent_name": null,
+      "champion_name": null,
+      "event_name": "UFC 329",
+      "belt_type": null,
+      "weight_class": "Middleweight",
+      "event_location": "T-Mobile Arena, Las Vegas",
+      "event_date": "2026-07-12",
+      "enrichment_confidence": "low"
+    },
+    "citations": [
+      {
+        "title": "Стал известен первый бой карда UFC 329 в рамках Международной бойцовской недели — источник",
+        "link": "https://www.championat.com/boxing/news-6436364-stal-izvesten-pervyj-boj-karda-ufc-329-v-ramkah-mezhdunarodnoj-bojcovskoj-nedeli-istochnik.html",
+        "published_date": "2026-04-18T13:11:26Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8906106798536982138",
+    "record_title": "Magomedov vs Olekseychuk Fight",
+    "enrichment": {
+      "belt_type": null,
+      "opponent_name": null,
+      "event_date": "2026-06-27",
+      "champion_name": null,
+      "event_location": "Baku",
+      "event_name": "UFC Fight Night",
+      "weight_class": "Middleweight",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Бой Абуса Магомедова и Михала Олексейчука может возглавить турнир UFC в Баку",
+        "link": "https://www.sports.ru/boxing/1117141086-boj-abusupyana-magomedova-i-mixala-oleksijchuka-mozhet-vozglavit-turni.html",
+        "published_date": "2026-04-17T14:15:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5315401058220109750",
+    "record_title": "Mory Kromah prepares for title fight with Miloš Cvjetićaninom with help from UFC star Cyril Gane.",
+    "enrichment": {
+      "event_name": null,
+      "weight_class": "Heavyweight",
+      "opponent_name": null,
+      "event_date": "2026-06-13",
+      "champion_name": null,
+      "event_location": "Rotterdam",
+      "belt_type": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Brušenje forme kod elite: Mory Kromah za rat s Milošem Cvjetićaninom priprema se uz pomoć UFC zvijezde!",
+        "link": "https://www.jutarnji.hr/sportske/fightsite/k1-i-boks/brusenje-forme-kod-elite-mory-kromah-za-rat-s-milosem-cvjeticaninom-priprema-se-uz-pomoc-ufc-zvijezde-15701513",
+        "published_date": "2026-04-22T16:46:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6272673577432492421",
+    "record_title": "Volkov vs. Cortes-Acosta Fight Preview",
+    "enrichment": {
+      "event_location": null,
+      "champion_name": null,
+      "event_date": "2026-05-09",
+      "opponent_name": "Waldo Cortes-Acosta",
+      "event_name": null,
+      "weight_class": "Heavyweight",
+      "belt_type": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "«Вальдо мерзкий типок. Александр его разберёт». Орловский — о бое Волков — Кортес-Акоста",
+        "link": "https://sport.russia24.pro/orel-obl/425403070",
+        "published_date": "2026-04-14T15:39:17Z"
+      }
+    ]
+  }
+]

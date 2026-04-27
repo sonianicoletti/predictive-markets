@@ -1,0 +1,320 @@
+[
+  {
+    "record_id": "4701872599305542932",
+    "record_title": "AL Team's Decline in LPL 2026",
+    "enrichment": {
+      "lpl_season_or_split": "2026 Season",
+      "prediction_topic": "roster changes",
+      "prediction_confidence": "speculative",
+      "predicted_team": "AL",
+      "publication_date": "2026-04-12",
+      "predicted_outcome": "AL's Korean players are likely to leave the team and may even return to the LCK division.",
+      "prediction_source": "Some analysts",
+      "predicted_player": "Tarzan",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "LPL 抗韩奇侠轰然倒塌！昔日第一韩援遭针对，AL 战队深陷困境_手机网易网",
+        "link": "https://m.163.com/dy/article/KQAQQNLS0556L9YF.html",
+        "published_date": "2026-04-12T06:35:43Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1202602491151302648",
+    "record_title": "Lanka Premier League Season 6 Announcements",
+    "enrichment": {
+      "prediction_confidence": "moderate",
+      "predicted_team": null,
+      "publication_date": "2026-04-13",
+      "predicted_player": "Chris Gayle",
+      "lpl_season_or_split": "Season 6 (July-August 2026)",
+      "predicted_outcome": "Season 6 projected to feature largest-ever LPL player pool of 500-600 athletes and Chris Gayle expected as Brand Ambassador.",
+      "prediction_source": "urban-gro, Inc.",
+      "prediction_topic": "LPL Season 6 expansion and ambassador appointment",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "urban-gro, Inc. (Nasdaq: UGRO) Announces Lanka Premier League Season 6 -- Potential Record 600-Player Pool, World-Class Marquee Talent, and Expected Appointment of Chris Gayle as Global Brand Ambassador",
+        "link": "https://financialpost.com/globe-newswire/urban-gro-inc-nasdaq-ugro-announces-lanka-premier-league-season-6-potential-record-600-player-pool-world-class-marquee-talent-and-expected-appointment-of-chris-gayle-as-global-brand-ambassad",
+        "published_date": "2026-04-13T11:07:39Z"
+      },
+      {
+        "title": "Urban-gro Announces Lanka Premier League Season Six with 600-Player Pool and Chris Gayle as Global Ambassador",
+        "link": "https://www.geneonline.com/urban-gro-announces-lanka-premier-league-season-six-with-600-player-pool-and-chris-gayle-as-global-ambassador",
+        "published_date": "2026-04-13T11:17:47Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1557989706073606553",
+    "record_title": "Bin and Xun 1500 Total Kills Milestone Preview",
+    "enrichment": {
+      "predicted_player": "Bin and Xun",
+      "prediction_confidence": "high",
+      "lpl_season_or_split": "2026 LPL Second Stage",
+      "prediction_source": "Hupu",
+      "prediction_topic": "Player Kill Milestone",
+      "publication_date": "2026-04-16",
+      "predicted_outcome": "Bin and Xun are about to reach the 1,500 total kill milestone.",
+      "predicted_team": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "[流言板]里程碑预告：Bin和Xun二人组合即将达成1500总击杀里程碑 1回复/ 0亮884 浏览",
+        "link": "https://bbs.hupu.com/638520586.html",
+        "published_date": "2026-04-16T19:26:19Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6779177118904464567",
+    "record_title": "Bin responds to Kanavi's MSI challenge and comments on HLE's potential",
+    "enrichment": {
+      "predicted_team": "HLE",
+      "prediction_source": "Bin",
+      "prediction_confidence": "speculative",
+      "predicted_outcome": "If HLE can get into MSI, it also shows that they are very capable.",
+      "publication_date": "2026-04-22",
+      "lpl_season_or_split": "2026 LPL Regular Season",
+      "prediction_topic": "HLE's potential to qualify for MSI and their capability",
+      "predicted_player": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Bin回应Kanavi:如果HLE能进MSI的话,也说明他们很有实力",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904kxc8.html",
+        "published_date": "2026-04-22T02:53:14Z"
+      },
+      {
+        "title": "[LPL群访]Monki：一到中期游戏进行不下去，兵线运营非常差劲还有失误 6回复/ 0亮1458 浏览",
+        "link": "https://bbs.hupu.com/638400223.html",
+        "published_date": "2026-04-12T11:30:00Z"
+      },
+      {
+        "title": "[LPL群访]Xiaohu：要把训练赛的状态发挥到比赛里，调整BP和加强对线 6回复/ 1亮1590 浏览",
+        "link": "https://bbs.hupu.com/638364169.html",
+        "published_date": "2026-04-10T11:24:40Z"
+      },
+      {
+        "title": "[LPL群访]下场对阵BLG，ZUIAN：希望扛住Bin的进攻，他对线特别厉害 10回复/ 0亮2068 浏览",
+        "link": "https://bbs.hupu.com/638399386.html",
+        "published_date": "2026-04-12T10:21:18Z"
+      },
+      {
+        "title": "Knight:希望队伍成绩越来越好,对队友说的是更努力一点",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c0019049oua.html",
+        "published_date": "2026-04-13T13:08:02Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3282722925962270131",
+    "record_title": "Riot's new League of Legends champion Locke launching in 2026",
+    "enrichment": {
+      "predicted_player": null,
+      "prediction_source": "Callum Mercer",
+      "prediction_topic": "Impact of new champion Locke on LPL meta",
+      "publication_date": "2026-04-16",
+      "predicted_team": null,
+      "predicted_outcome": "If Locke is playable quickly, teams in leagues such as the LEC, LCK and LPL could be forced to decide whether this is a real meta pick or just another red-side ban sink before Worlds prep ramps up.",
+      "lpl_season_or_split": "Summer 2026",
+      "prediction_confidence": "speculative",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "When is Riot's new League of Legends champion Locke launching in 2026?",
+        "link": "https://esports-news.co.uk/2026/04/16/locke-release-date-2026",
+        "published_date": "2026-04-16T14:46:51Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5071350982737242946",
+    "record_title": "Light's Retirement from LPL",
+    "enrichment": {
+      "predicted_player": "Light",
+      "prediction_topic": "player retirement",
+      "publication_date": "2026-04-12",
+      "prediction_confidence": null,
+      "predicted_outcome": "Light completely disappeared from the public eye and quietly left the professional arena in the 2026 season.",
+      "lpl_season_or_split": "2026 season",
+      "prediction_source": null,
+      "predicted_team": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Uzi都觉得'任性'的选手！前LPL一线AD光速退役，近照曝光引热议",
+        "link": "https://www.sohu.com/a/1008629446_120711645",
+        "published_date": "2026-04-12T13:33:23Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2682593628656016361",
+    "record_title": "LPL Stage 2 Regular Season Match Preview",
+    "enrichment": {
+      "predicted_player": null,
+      "prediction_topic": null,
+      "lpl_season_or_split": "2026 LPL Stage 2 Regular Season Group Competition W3D2&D4",
+      "publication_date": "2026-04-23",
+      "predicted_outcome": null,
+      "predicted_team": "NIP, TES, BLG",
+      "prediction_source": "Hupu News",
+      "prediction_confidence": null,
+      "enrichment_confidence": "low"
+    },
+    "citations": [
+      {
+        "title": "[流言板]LPL焦点战预告：登峰组战况如火如荼，对决一触即发 2回复/ 0亮332 浏览",
+        "link": "https://bbs.hupu.com/638684042.html",
+        "published_date": "2026-04-23T12:04:00Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段周最佳阵容—组内赛阶段Week 1",
+        "link": "https://news.17173.com/content/04152026/092502564.shtml",
+        "published_date": "2026-04-15T01:25:02Z"
+      },
+      {
+        "title": "LPL第二赛段：后期拉扯，你来我往，LGD鏖战50分钟拿下EDG_手机网易网",
+        "link": "https://m.163.com/dy/article/KR7LH4880526T21K.html",
+        "published_date": "2026-04-23T11:26:19Z"
+      },
+      {
+        "title": "有人说'把T1叫过来跟BLG碰一碰'，朱开：T1先把LCK打明白再说_手机网易网",
+        "link": "https://m.163.com/dy/article/KQFLIPS1054676SG.html",
+        "published_date": "2026-04-14T03:40:14Z"
+      },
+      {
+        "title": "Tian Leads Top Esports to Dominant 2-0 Sweep Over Bilibili Gaming",
+        "link": "https://happygamer.com/tes-beats-blg-2-0-tian-mvp-lpl-split-2-148056",
+        "published_date": "2026-04-16T19:20:00Z"
+      },
+      {
+        "title": "阿水交手Viper，TES大战BLG！WE恐遭遇五连败_手机网易网",
+        "link": "https://m.163.com/dy/article/KQKTALJN0526GCNB.html",
+        "published_date": "2026-04-16T04:33:45Z"
+      },
+      {
+        "title": "阿水交手Viper，TES大战BLG！WE恐遭遇五连败",
+        "link": "https://m.sohu.com/a/1010277699_99891440",
+        "published_date": "2026-04-16T04:34:12Z"
+      },
+      {
+        "title": "[流言板]LPL焦点战预告：Bin和JackeyLove再次交手，谁将脱颖而出？ 8回复/ 0亮656 浏览",
+        "link": "https://bbs.hupu.com/638507366.html",
+        "published_date": "2026-04-16T12:04:55Z"
+      },
+      {
+        "title": "[流言板]LPL焦点战预告：Flandre、Viper互有胜负，谁更胜一筹？ 3回复/ 0亮504 浏览",
+        "link": "https://bbs.hupu.com/638584844.html",
+        "published_date": "2026-04-19T12:03:34Z"
+      },
+      {
+        "title": "LPL电竞春晚来袭，BLG迎战iG上路巅峰对决，Bin大战呼吸哥成焦点！",
+        "link": "https://m.sohu.com/a/1011052795_121742848",
+        "published_date": "2026-04-17T15:26:51Z"
+      },
+      {
+        "title": "LPL两大顶级强队对决，版本更迭AL跌落神坛，TES换人后彻底起飞！",
+        "link": "https://www.sohu.com/a/1011402181_121742848",
+        "published_date": "2026-04-18T14:46:46Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月23日首发名单",
+        "link": "https://news.17173.com/content/04232026/110930894.shtml",
+        "published_date": "2026-04-23T03:09:30Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月16日首发名单",
+        "link": "https://news.17173.com/content/04162026/153235608.shtml",
+        "published_date": "2026-04-16T07:32:35Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月15日首发名单",
+        "link": "https://news.17173.com/content/04152026/092415102.shtml",
+        "published_date": "2026-04-15T01:24:15Z"
+      },
+      {
+        "title": "[流言板]LPL第二赛段W3D1每日TOP5：Tarzan巨龙撞击，天崩困敌 0回复/ 0亮32725 浏览",
+        "link": "https://bbs.hupu.com/638686645.html",
+        "published_date": "2026-04-23T13:29:39Z"
+      },
+      {
+        "title": "[流言板]LPL第二赛段W2D4每日TOP5：GALA秘术射击，精华跃动 0回复/ 0亮7501 浏览",
+        "link": "https://bbs.hupu.com/638586086.html",
+        "published_date": "2026-04-19T13:04:50Z"
+      },
+      {
+        "title": "[流言板]W1D5每日TOP5：Vampire超级粉丝，万花齐放缚四魂 2回复/ 0亮3434 浏览",
+        "link": "https://bbs.hupu.com/638386648.html",
+        "published_date": "2026-04-11T15:02:05Z"
+      },
+      {
+        "title": "《英雄联盟》2026英雄联盟LPL第二赛段常规赛组内赛：JDG vs TES 第1局比赛录像回放",
+        "link": "https://news.17173.com/content/04142026/121213730.shtml",
+        "published_date": "2026-04-14T04:12:13Z"
+      },
+      {
+        "title": "《英雄联盟》2026英雄联盟LPL第二赛段常规赛组内赛：BLG vs WBG 第1局比赛录像回放",
+        "link": "https://news.17173.com/content/04142026/121412184.shtml",
+        "published_date": "2026-04-14T04:14:12Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5831816439989903276",
+    "record_title": "League of Legends Esports 2026: Strongest Teams and New Power Balance",
+    "enrichment": {
+      "publication_date": "2026-04-16",
+      "prediction_source": null,
+      "predicted_team": null,
+      "prediction_confidence": null,
+      "lpl_season_or_split": "2026 Season",
+      "prediction_topic": "LPL team characteristics and potential",
+      "predicted_outcome": "The Chinese league represents 'deep squad' and 'high ceiling' in 2026. LPL teams can turn momentum and break matches quickly.",
+      "predicted_player": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "League of Legends Esports 2026: En Güçlü Takımlar ve Yeni Güç Dengesi",
+        "link": "https://www.ayancikgazetesi.com/league-of-legends-esports-2026-en-guclu-takimlar-ve-yeni-guc-dengesi/114969",
+        "published_date": "2026-04-16T10:45:01Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6598733069912209960",
+    "record_title": "Teams with highest average age in LoL 2026",
+    "enrichment": {
+      "lpl_season_or_split": "2026 Season",
+      "predicted_team": null,
+      "publication_date": "2026-04-22",
+      "prediction_topic": "team performance based on age",
+      "prediction_confidence": null,
+      "predicted_player": null,
+      "prediction_source": null,
+      "predicted_outcome": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "LoL: Conheça os times com as maiores médias de idade",
+        "link": "https://maisesports.com.br/lol-conheca-os-times-com-as-maiores-medias-de-idade",
+        "published_date": "2026-04-22T16:44:14Z"
+      },
+      {
+        "title": "LoL: Conheça os times com as menores médias de idade",
+        "link": "https://maisesports.com.br/lol-conheca-os-times-com-as-menores-medias-de-idade",
+        "published_date": "2026-04-22T18:18:46Z"
+      }
+    ]
+  }
+]

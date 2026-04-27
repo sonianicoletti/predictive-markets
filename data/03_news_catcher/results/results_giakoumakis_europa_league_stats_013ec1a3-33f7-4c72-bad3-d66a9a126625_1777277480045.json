@@ -1,0 +1,50 @@
+[
+  {
+    "record_id": "1961002464120632483",
+    "record_title": "PAOK's Cup Final Preparation and Europa League Hopes",
+    "enrichment": {
+      "competition_stage": null,
+      "opponent": null,
+      "other_stats": "knocked out for the rest of the season",
+      "assists": 0,
+      "appearances": 0,
+      "minutes_played": 0,
+      "goals": 0,
+      "player_name": "Giorgos Giakoumakis",
+      "team": "PAOK",
+      "match_date": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "ΠΑΟΚ: Περιμένει πολλά ο Λουτσέσκου από το… βαρύ «πυροβολικό» του!",
+        "link": "https://monobala.gr/paok-perimenei-polla-o-loutseskou-apo-to-vary-pyrovoliko-tou",
+        "published_date": "2026-04-22T19:10:22Z"
+      }
+    ]
+  },
+  {
+    "record_id": "7956704744461788575",
+    "record_title": "Giakoumakis leads Greek scorers in Europa League",
+    "enrichment": {
+      "assists": 0,
+      "minutes_played": 0,
+      "opponent": null,
+      "team": "PAOK",
+      "other_stats": null,
+      "goals": 6,
+      "player_name": "Giorgos Giakoumakis",
+      "competition_stage": null,
+      "match_date": null,
+      "appearances": 0,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Ο πρώτος Έλληνας σκόρερ φέτος στα Κύπελλα Ευρώπης PaixeBala.gr",
+        "link": "https://www.paixebala.gr/podosfairo/diethni/o-protos-ellinas-skorer-fetos-sta-kypella-evropis",
+        "published_date": "2026-04-13T13:48:00Z"
+      }
+    ]
+  }
+]

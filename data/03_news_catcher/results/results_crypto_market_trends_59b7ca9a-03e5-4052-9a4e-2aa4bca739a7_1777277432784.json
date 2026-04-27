@@ -1,0 +1,337 @@
+[
+  {
+    "record_id": "6669480241130884125",
+    "record_title": "Bitmine increases Ether holdings",
+    "enrichment": {
+      "trend_summary": "Bitmine is increasing its Ether holdings, pushing its total supply towards 5%.",
+      "market_cap_currency": "USD",
+      "price_change_direction": "bullish",
+      "event_date": "2026-04-13",
+      "cryptocurrency_name": "Ether",
+      "price_currency": "USD",
+      "involved_company": {
+        "source_text": "Bitmine",
+        "confidence": 1,
+        "metadata": {
+          "name": "Bitmine",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "market_cap_amount": 1,
+      "price_amount": 1,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Today News Check_20260413 06:00",
+        "link": "https://steemit.com/pircoin/@netscape/news-check-20260413210003",
+        "published_date": "2026-04-13T21:00:03Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1723668804163784579",
+    "record_title": "Where to Buy BTC and Altcoins",
+    "enrichment": {
+      "market_cap_currency": "USD",
+      "cryptocurrency_name": "Bitcoin",
+      "trend_summary": "The article provides an introduction to cryptocurrencies, distinguishing between Bitcoin and altcoins, and explains how to buy them through Midas Crypto.",
+      "market_cap_amount": 1,
+      "involved_company": {
+        "source_text": "Midas Crypto",
+        "confidence": 0.9,
+        "metadata": {
+          "name": "Midas Crypto",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "price_change_direction": "mixed",
+      "event_date": "2026-04-21",
+      "price_amount": 1,
+      "price_currency": "USD",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "BTC ve Altcoin'leri Nereden Alabilirsiniz?",
+        "link": "https://www.inegolonline.com/haber/btc-ve-altcoin-leri-nereden-alabilirsiniz-352372",
+        "published_date": "2026-04-21T13:13:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "7889420284726581855",
+    "record_title": "MOVE (Movement) 24-hour volatility reaches 45.1% with trading volume surging, triggering price pump and pullback.",
+    "enrichment": {
+      "cryptocurrency_name": "MOVE",
+      "price_currency": "USD",
+      "market_cap_amount": 1650000,
+      "involved_company": {
+        "source_text": "X platform",
+        "confidence": 1,
+        "metadata": {
+          "name": "X platform",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "market_cap_currency": "USD",
+      "price_amount": 0.02,
+      "trend_summary": "MOVE experienced 45.1% volatility in 24 hours, with trading volume surging, leading to a price pump and pullback.",
+      "event_date": "2026-04-19",
+      "price_change_direction": "mixed",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "MOVE (Movement) 24-hour volatility reaches 45.1%: Trading volume surges by $250 million, triggering price pump followed by pullback",
+        "link": "https://www.bitget.com/amp/news/detail/12560605374266",
+        "published_date": "2026-04-19T18:29:05Z"
+      }
+    ]
+  },
+  {
+    "record_id": "7212784217704741494",
+    "record_title": "Coinremitter Offers Lower Crypto Transaction Fees",
+    "enrichment": {
+      "price_change_direction": "neutral",
+      "price_amount": 0,
+      "market_cap_currency": "USD",
+      "price_currency": "USD",
+      "cryptocurrency_name": "Bitcoin",
+      "market_cap_amount": 0,
+      "trend_summary": "The article highlights how crypto payment gateways, such as Coinremitter, offer significantly lower transaction fees and other benefits compared to traditional credit card processors.",
+      "involved_company": {
+        "source_text": "Coinremitter",
+        "confidence": 1,
+        "metadata": {
+          "name": "Coinremitter",
+          "domain_url": "coinremitter.com",
+          "domain_url_confidence": "high"
+        }
+      },
+      "event_date": "2026-04-22",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Stop Overpaying Crypto Transaction Fees, Try Coinremitter",
+        "link": "https://www.thesportsbank.net/the-bank/stop-overpaying-crypto-transaction-fees-try-coinremitter",
+        "published_date": "2026-04-22T05:51:17Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2455222874256715923",
+    "record_title": "XRP Leads ETF Inflows, Shiba Inu Burn Rate Surges, and Satoshi Nakamoto Identity Debated",
+    "enrichment": {
+      "market_cap_amount": 159000000,
+      "price_amount": 24,
+      "cryptocurrency_name": "XRP",
+      "price_change_direction": "mixed",
+      "event_date": "2026-04-08",
+      "trend_summary": "XRP has surpassed Bitcoin and Ethereum in daily ETF inflows, reflecting capital rotation, while Shiba Inu's burn rate has significantly increased, signaling a bullish price trend.",
+      "market_cap_currency": "USD",
+      "involved_company": {
+        "source_text": "Shibburn",
+        "confidence": 0.9,
+        "metadata": {
+          "name": "Shibburn",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "price_currency": "USD",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "XRP bat Bitcoin et Ethereum dans les flux ETF, le taux de combustion de Shiba Inu grimpe de 3 230 %, Saylor démystifie les affirmations selon lesquelles Adam Back est Satoshi — U.Today Crypto Digest",
+        "link": "https://www.journaldutoken.com/bitcoin/xrp-bat-bitcoin-et-ethereum-dans-les-flux-etf-le-taux-de-combustion-de-shiba-inu-grimpe-de-3-230-saylor-demystifie-les-affirmations-selon-lesquelles-adam-back-est-satoshi-u-today-crypto-d",
+        "published_date": "2026-04-11T10:44:44Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5527802569368928524",
+    "record_title": "Dmitry Shubov Outlines New Strategic U.S. Commercial Law Readiness for Southeast Asian Asset Tokenization Startups",
+    "enrichment": {
+      "price_change_direction": "bullish",
+      "market_cap_amount": 0,
+      "price_amount": 0,
+      "market_cap_currency": "USD",
+      "price_currency": "USD",
+      "event_date": "2026-04-17",
+      "cryptocurrency_name": null,
+      "trend_summary": "The article highlights tokenized Real-World Assets (RWAs) as the next frontier for capital markets.",
+      "involved_company": {
+        "source_text": "Sidley Blockchain Bulletin",
+        "confidence": 0.8,
+        "metadata": {
+          "name": "Sidley",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Dmitry Shubov Outlines New Strategic U.S. Commercial Law Readiness for Southeast Asian Asset Tokenization Startups",
+        "link": "https://article.wn.com/view/2026/04/17/Dmitry_Shubov_Outlines_New_Strategic_US_Commercial_Law_Readi",
+        "published_date": "2026-04-17T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "4262058028448341814",
+    "record_title": "US Lawmakers' Crypto Investment Portfolios",
+    "enrichment": {
+      "price_currency": null,
+      "market_cap_currency": null,
+      "trend_summary": "U.S. lawmakers' digital asset investment portfolios, while centered on Bitcoin, are gradually expanding into major altcoins, indicating increasing investments considering blockchain usability and ecosystem growth.",
+      "market_cap_amount": 0,
+      "price_amount": 0,
+      "involved_company": {
+        "source_text": "Coinfedia",
+        "confidence": 1,
+        "metadata": {
+          "name": "Coinfedia",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "price_change_direction": "neutral",
+      "cryptocurrency_name": "Bitcoin",
+      "event_date": "2026-04-20",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "미 의원들 코인 투자 포트폴리오 들여다봤더니… 최애 코인은 ‘이것'",
+        "link": "https://www.blockmedia.co.kr/archives/1081244",
+        "published_date": "2026-04-21T04:17:51Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3050930704253177261",
+    "record_title": "Hong Kong Web3 Festival 2026 Program Unveiled",
+    "enrichment": {
+      "market_cap_amount": 0,
+      "trend_summary": "The Hong Kong Web3 Festival 2026 will explore key developments in crypto finance, AI integration with Web3, real-world asset tokenization, and institutional adoption of blockchain technology.",
+      "price_amount": 0,
+      "event_date": "2026-04-20",
+      "market_cap_currency": null,
+      "price_currency": null,
+      "price_change_direction": null,
+      "cryptocurrency_name": "Ethereum",
+      "involved_company": {
+        "source_text": "Binance",
+        "confidence": 1,
+        "metadata": {
+          "name": "Binance",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Hongkong Web3 Festiwal 2026 prezentuje pełny, czterodniowy program, skupiający się na sztucznej inteligencji, tokenizacji i instytucjonalnej adopcji technologii blockchain",
+        "link": "https://mpost.io/pl/hong-kong-web3-festival-2026-unveils-full-four-day-programme-spotlighting-ai-tokenisation-and-institutional-blockchain-adoption",
+        "published_date": "2026-04-13T08:41:31Z"
+      },
+      {
+        "title": "Хонг Конг Web3 Фестивал 2026 представя пълна четиридневна програма, фокусирана върху изкуствения интелект, токенизацията и институционалното приемане на блокчейн",
+        "link": "https://mpost.io/bg/hong-kong-web3-festival-2026-unveils-full-four-day-programme-spotlighting-ai-tokenisation-and-institutional-blockchain-adoption",
+        "published_date": "2026-04-13T08:41:31Z"
+      },
+      {
+        "title": "Hong Kong Web3 Il Festival 2026 svela il programma completo di quattro giorni, incentrato su intelligenza artificiale, tokenizzazione e adozione istituzionale della blockchain.",
+        "link": "https://mpost.io/it/hong-kong-web3-festival-2026-unveils-full-four-day-programme-spotlighting-ai-tokenisation-and-institutional-blockchain-adoption",
+        "published_date": "2026-04-13T08:41:31Z"
+      },
+      {
+        "title": "Hồng Kông Web3 Lễ hội 2026 công bố chương trình đầy đủ kéo dài bốn ngày, tập trung vào Trí tuệ nhân tạo (AI), Mã hóa token và việc áp dụng blockchain trong các tổ chức.",
+        "link": "https://mpost.io/vi/hong-kong-web3-festival-2026-unveils-full-four-day-programme-spotlighting-ai-tokenisation-and-institutional-blockchain-adoption",
+        "published_date": "2026-04-13T08:41:31Z"
+      },
+      {
+        "title": "Hong Kong Web3 Festival 2026 Memperkenalkan Program Penuh Empat Hari yang Mengetengahkan AI, Tokenisasi dan Penerimaan Rantaian Blok Institusi",
+        "link": "https://mpost.io/ms/hong-kong-web3-festival-2026-unveils-full-four-day-programme-spotlighting-ai-tokenisation-and-institutional-blockchain-adoption",
+        "published_date": "2026-04-13T08:41:31Z"
+      },
+      {
+        "title": "Hongkong Web3 Das Festival 2026 präsentiert sein vollständiges viertägiges Programm mit Fokus auf KI, Tokenisierung und institutionelle Blockchain-Einführung.",
+        "link": "https://mpost.io/de/hong-kong-web3-festival-2026-unveils-full-four-day-programme-spotlighting-ai-tokenisation-and-institutional-blockchain-adoption",
+        "published_date": "2026-04-13T08:41:31Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2953059467477593023",
+    "record_title": "eToro Crypto: Everything You Need to Know",
+    "enrichment": {
+      "market_cap_amount": 0,
+      "market_cap_currency": null,
+      "price_change_direction": null,
+      "involved_company": {
+        "source_text": "eToro",
+        "confidence": 1,
+        "metadata": {
+          "name": "eToro",
+          "domain_url": "etoro.com",
+          "domain_url_confidence": "high"
+        }
+      },
+      "event_date": "2026-04-23",
+      "price_currency": null,
+      "cryptocurrency_name": "Bitcoin",
+      "price_amount": 0,
+      "trend_summary": "eToro is a leading social trading and investment platform that has revolutionized crypto trading by offering a user-friendly interface and copy trading.",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "eToro Crypto: Everything You Need to Know",
+        "link": "https://www.benzinga.com/money/etoro-crypto",
+        "published_date": "2026-04-23T08:28:05Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1274766842049649998",
+    "record_title": "DeFi Technologies (DEFT) Stock Price, News & Analysis $DEFT",
+    "enrichment": {
+      "market_cap_currency": null,
+      "market_cap_amount": 0,
+      "price_amount": 0,
+      "event_date": "2026-04-18",
+      "trend_summary": "DeFi Technologies Inc. focuses on decentralized finance and digital asset investments, aiming to provide investors with exposure to leading DeFi protocols.",
+      "price_currency": null,
+      "involved_company": {
+        "source_text": "DeFi Technologies Inc.",
+        "confidence": 1,
+        "metadata": {
+          "name": "DeFi Technologies Inc.",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "cryptocurrency_name": null,
+      "price_change_direction": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "DeFi Technologies (DEFT) Stock Price, News & Analysis $DEFT",
+        "link": "https://www.marketbeat.com/stocks/NASDAQ/DEFT",
+        "published_date": "2026-04-18T00:00:00Z"
+      }
+    ]
+  }
+]

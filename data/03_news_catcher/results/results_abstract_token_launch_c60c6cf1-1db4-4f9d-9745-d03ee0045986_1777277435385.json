@@ -1,0 +1,34 @@
+[
+  {
+    "record_id": "2729610720274171060",
+    "record_title": "Abstract TGE upcoming",
+    "enrichment": {
+      "subject_company": {
+        "source_text": "Abstract TGE",
+        "confidence": 0.8,
+        "metadata": {
+          "name": "Abstract",
+          "domain_url": null,
+          "domain_url_confidence": null
+        }
+      },
+      "blockchain_network": null,
+      "initial_price_amount": 0,
+      "use_case": null,
+      "launch_date": null,
+      "exchange_platform": null,
+      "initial_price_currency": null,
+      "total_supply": 0,
+      "token_type": null,
+      "token_name": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "UNC memecoin airdrop announced, Abstract TGE upcoming, AI market trends discussed. Potential market activity anticipated.",
+        "link": "https://www.mexc.co/en-PH/news/flash/166191437",
+        "published_date": "2026-04-16T17:38:30Z"
+      }
+    ]
+  }
+]

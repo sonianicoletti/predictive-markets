@@ -1,0 +1,222 @@
+[
+  {
+    "record_id": "4119927194134119893",
+    "record_title": "LPL Teams Confirmed for EWC Saudi Cup",
+    "enrichment": {
+      "location": "Saudi Arabia",
+      "event_date": "2026-04-22",
+      "players_mentioned": null,
+      "event_type": "tournament_news",
+      "match_result": "BLG defeated iG",
+      "tournament_stage": "EWC qualifiers, LPL second stage",
+      "teams_involved": "BLG, JDG, AL, WBG, iG, TES",
+      "summary": "The article discusses the LPL teams confirmed for the EWC Esports World Cup in Saudi Arabia. BLG is confirmed.",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "LOL：LPL去EWC沙特杯队伍基本确定，BLG必去，JDG、AL和WBG中3选2_手机网易网",
+        "link": "https://m.163.com/dy/article/KR46HFRH054676SG.html",
+        "published_date": "2026-04-22T03:01:20Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5393042251307031006",
+    "record_title": "LPL 2021 Spring Split Finals Preview",
+    "enrichment": {
+      "teams_involved": null,
+      "summary": "The finals of the LPL 2021 Spring Split will be held in Wuhan, Jiangcheng tomorrow. The winner will represent LPL in Iceland for MSI.",
+      "tournament_stage": "2021 Spring Split finals",
+      "location": "Wuhan, Jiangcheng",
+      "event_date": "2026-04-12",
+      "players_mentioned": null,
+      "match_result": null,
+      "event_type": "tournament_news",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "明日江城之战，春决漫画曝光。",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c0019047vay.html",
+        "published_date": "2026-04-11T22:08:22Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8444636750158951789",
+    "record_title": "WBG vs IG Match Draw",
+    "enrichment": {
+      "summary": "WBG tied with IG in the second game after a difficult save, as reported on April 15th.",
+      "location": null,
+      "teams_involved": "WBG, IG",
+      "players_mentioned": null,
+      "event_date": "2026-04-15",
+      "match_result": "WBG drew with IG in the second game",
+      "event_type": "match_result",
+      "tournament_stage": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "[赛事视频]WBG次局集锦：地裂天崩拯救局势，WBG次局艰难战平IG 2回复/ 0亮9030 浏览",
+        "link": "https://bbs.hupu.com/638491652.html",
+        "published_date": "2026-04-15T21:02:36Z"
+      }
+    ]
+  },
+  {
+    "record_id": "2267750563236726858",
+    "record_title": "IG's World Championship Qualification Chances",
+    "enrichment": {
+      "tournament_stage": "World Championship qualification",
+      "match_result": null,
+      "summary": "The article discusses IG's high probability of qualifying for the World Championship, with LPL teams IG, TES, AL, and WBG competing for second place.",
+      "location": null,
+      "event_date": "2026-04-14",
+      "event_type": "tournament_news",
+      "teams_involved": "IG, TES, AL, WBG",
+      "players_mentioned": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "IG要进世界赛了。。。 3回复/ 0亮286 浏览",
+        "link": "https://bbs.hupu.com/638464221.html",
+        "published_date": "2026-04-14T19:54:13Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6057050779528478086",
+    "record_title": "Discussion on LPL Strong Teams",
+    "enrichment": {
+      "event_type": "tournament_news",
+      "tournament_stage": null,
+      "summary": "The article discusses the definition of strong teams in the LPL, highlighting Top Esports and Bilibili Gaming as currently meeting these criteria.",
+      "location": null,
+      "match_result": null,
+      "players_mentioned": null,
+      "teams_involved": "Tes, blg",
+      "event_date": "2026-04-20",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "客观讨论，强队的定义是什么，是逆风韧性，顺风摧枯拉朽，团战不白给，任何资源都会置换，打团落点快 3回复/ 0亮98 浏览",
+        "link": "https://bbs.hupu.com/638603682.html",
+        "published_date": "2026-04-20T10:00:38Z"
+      }
+    ]
+  },
+  {
+    "record_id": "4119357078135091669",
+    "record_title": "Extreme Home Guard! IG forced a wave but the base was resurrected.",
+    "enrichment": {
+      "summary": "IG attempted a final push, but WBG successfully defended their base.",
+      "teams_involved": "IG, WBG",
+      "event_date": "2026-04-15",
+      "event_type": "match_result",
+      "location": null,
+      "match_result": null,
+      "tournament_stage": null,
+      "players_mentioned": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "[一图流]极限守家！IG强行一波但是基地被复活的WBG众人守住 48回复/ 19亮50464 浏览",
+        "link": "https://bbs.hupu.com/638491225.html",
+        "published_date": "2026-04-15T20:47:46Z"
+      }
+    ]
+  },
+  {
+    "record_id": "7980308131254827821",
+    "record_title": "New League of Legends Champion Locke Launch Impact on LPL",
+    "enrichment": {
+      "event_type": "tournament_news",
+      "match_result": null,
+      "event_date": "2026-07-29",
+      "location": null,
+      "summary": "Riot's new League of Legends champion, Locke, is expected to launch around July 29, 2026, potentially impacting the LPL summer competition and Worlds preparation.",
+      "tournament_stage": "summer competition",
+      "teams_involved": null,
+      "players_mentioned": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "When is Riot's new League of Legends champion Locke launching in 2026?",
+        "link": "https://esports-news.co.uk/2026/04/16/locke-release-date-2026",
+        "published_date": "2026-04-16T14:46:51Z"
+      }
+    ]
+  },
+  {
+    "record_id": "191124651161008149",
+    "record_title": "IG Mid-Laner Change: Is the Gap So Big?",
+    "enrichment": {
+      "event_date": "2026-04-14",
+      "event_type": "roster_change",
+      "location": null,
+      "summary": "Ig changed to a mid-order, is the gap so big? Is it said that IG's small middle order is the first middle order of LPL?",
+      "match_result": null,
+      "players_mentioned": null,
+      "teams_involved": "Ig",
+      "tournament_stage": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Ig换了个中单，差距这么大吗？难道说ig小中单才是lpl第一中单？ 10回复/ 0亮524 浏览",
+        "link": "https://bbs.hupu.com/638464088.html",
+        "published_date": "2026-04-14T19:49:18Z"
+      }
+    ]
+  },
+  {
+    "record_id": "3037679382784989141",
+    "record_title": "HLE's MSI Entry and Performance Against LPL Teams",
+    "enrichment": {
+      "event_date": "2026-04-20",
+      "location": null,
+      "event_type": "tournament_news",
+      "players_mentioned": null,
+      "match_result": null,
+      "teams_involved": "HLE, LPL team",
+      "tournament_stage": null,
+      "summary": "HLE is about to enter MSI, and despite their abstract first stage, they perform strongly against LPL teams, suggesting LCK's dominance in MSI.",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "看这架势，今年msi已经是lck囊中之物了呀 8回复/ 0亮411 浏览",
+        "link": "https://bbs.hupu.com/638602970.html",
+        "published_date": "2026-04-20T09:29:09Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6074643882983107048",
+    "record_title": "LPL Star Player Dislike Poll",
+    "enrichment": {
+      "teams_involved": null,
+      "players_mentioned": null,
+      "match_result": null,
+      "location": null,
+      "summary": "The article discusses a poll asking LPL fans which star players they dislike the most, referencing last year's voting results.",
+      "event_type": "other",
+      "tournament_stage": null,
+      "event_date": "2026-04-21",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "抛开粉丝因素，LPL目前的明星选手你最讨厌的是谁？ 7回复/ 2亮511 浏览",
+        "link": "https://bbs.hupu.com/638634954.html",
+        "published_date": "2026-04-21T21:45:49Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "record_id": "5806430855891391803",
+    "record_title": "NBP Average Exchange Rates Table 071/A/NBP/2026",
+    "enrichment": {
+      "key_driver": null,
+      "percentage_change": -0.99,
+      "source_institution": "NBP",
+      "rate_direction": "weakening",
+      "rate_date": "2026-04-14",
+      "currency_pair": "USD/PLN",
+      "exchange_rate": 3.6015,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Tabela kursów średnich NBP nr 071/A/NBP/2026",
+        "link": "https://biznes.pap.pl/wiadomosci/gospodarka/tabela-kursow-srednich-nbp-nr-071anbp2026",
+        "published_date": "2026-04-14T11:49:00Z"
+      },
+      {
+        "title": "Tabela kursów średnich NBP nr 077/A/NBP/2026",
+        "link": "https://biznes.pap.pl/wiadomosci/gospodarka/tabela-kursow-srednich-nbp-nr-077anbp2026",
+        "published_date": "2026-04-22T11:49:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "1636895858368476513",
+    "record_title": "Hemlo Mining Corp. 2025 Annual Information Form",
+    "enrichment": {
+      "key_driver": null,
+      "percentage_change": 0,
+      "rate_direction": null,
+      "source_institution": "Bank of Canada",
+      "currency_pair": "USD/CAD",
+      "exchange_rate": 1.3757,
+      "rate_date": "2026-04-14",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Hemlo Mining : 2025 Annual Information Form (2025 Annual Information Form)",
+        "link": "https://www.marketscreener.com/news/hemlo-mining-2025-annual-information-form-2025-annual-information-form-ce7e50ddd98ffe25",
+        "published_date": "2026-04-15T23:48:08Z"
+      }
+    ]
+  },
+  {
+    "record_id": "7320533824370759856",
+    "record_title": "Valutakurser 17.04",
+    "enrichment": {
+      "rate_date": "2026-04-17",
+      "rate_direction": "weakening",
+      "exchange_rate": 9.3388,
+      "key_driver": null,
+      "source_institution": null,
+      "percentage_change": -0.4076,
+      "currency_pair": "USD/NOK",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Valutakurser 17.04 (16.04)",
+        "link": "https://www.abcnyheter.no/nyheter/valutakurser-1704-1604/1510280",
+        "published_date": "2026-04-17T14:32:24Z"
+      },
+      {
+        "title": "Valutakurser 13.04 (10.04)",
+        "link": "https://www.abcnyheter.no/nyheter/valutakurser-1304-1004/1504429",
+        "published_date": "2026-04-13T14:07:39Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8609836745440402205",
+    "record_title": "USD Price Action Setups",
+    "enrichment": {
+      "exchange_rate": 0,
+      "rate_direction": null,
+      "percentage_change": 0,
+      "source_institution": "FOREX.com",
+      "rate_date": "2026-04-11",
+      "currency_pair": null,
+      "key_driver": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "USD Price Action Setups: EUR/USD, GBP/USD, USD/JPY, USD/CAD, EUR/JPY, EUR/GBP",
+        "link": "https://fxnews24.co.uk/forex/usd-price-action-setups-eur-usd-gbp-usd-usd-jpy-usd-cad-eur-jpy-eur-gbp-forex-com",
+        "published_date": "2026-04-11T20:14:44Z"
+      },
+      {
+        "title": "'Una sombra voraz': juegos teatrales entre la realidad y la ficción",
+        "link": "https://www.pagina12.com.ar/2026/04/10/una-sombra-voraz-juegos-teatrales-entre-la-realidad-y-la-ficcion",
+        "published_date": "2026-04-10T21:10:09Z"
+      },
+      {
+        "title": "Antirracismo desde América Latina para el mundo",
+        "link": "https://www.pagina12.com.ar/2026/04/10/antirracismo-desde-america-latina-para-el-mundo",
+        "published_date": "2026-04-10T14:27:13Z"
+      },
+      {
+        "title": "En busca de la Palma",
+        "link": "https://www.pagina12.com.ar/2026/04/10/en-busca-de-la-palma",
+        "published_date": "2026-04-10T18:19:00Z"
+      },
+      {
+        "title": "A siete años de la muerte de Sergio Denis, el emotivo recuerdo de su hija y el reclamo de justicia",
+        "link": "https://www.pagina12.com.ar/2026/04/10/a-siete-anos-de-la-muerte-de-sergio-denis-el-emotivo-recuerdo-de-su-hija-y-el-reclamo-de-justicia",
+        "published_date": "2026-04-10T18:48:23Z"
+      },
+      {
+        "title": "Leopoldo Luque se declaró inocente en el juicio por la muerte de Maradona",
+        "link": "https://www.pagina12.com.ar/2026/04/16/leopoldo-luque-se-declaro-inocente-en-el-juicio-por-la-muerte-de-maradona",
+        "published_date": "2026-04-16T20:39:13Z"
+      },
+      {
+        "title": "Caso Ángel López: la investigación apunta a un posible homicidio",
+        "link": "https://www.pagina12.com.ar/2026/04/10/caso-angel-lopez-la-investigacion-apunta-a-un-posible-homicidio",
+        "published_date": "2026-04-10T17:38:20Z"
+      },
+      {
+        "title": "Muerte de Maitena Garófalo: qué se sabe del caso que conmociona a Merlo",
+        "link": "https://www.pagina12.com.ar/2026/04/10/muerte-de-maitena-garofalo-que-se-sabe-del-caso-que-conmociona-a-merlo",
+        "published_date": "2026-04-10T13:42:13Z"
+      },
+      {
+        "title": "'Quizás no tiene el cuero tan duro como yo': el ninguneo de Patricia Bullrich a Manuel Adorni",
+        "link": "https://www.pagina12.com.ar/2026/04/10/quizas-no-tiene-el-cuero-tan-duro-como-yo-el-ninguneo-de-patricia-bullrich-a-manuel-adorni",
+        "published_date": "2026-04-10T20:14:58Z"
+      },
+      {
+        "title": "Néstor Mazzini: 'ojalá esta película sirva para reflexionar'",
+        "link": "https://www.pagina12.com.ar/2026/04/10/nestor-mazzini-ojala-esta-pelicula-sirva-para-reflexionar",
+        "published_date": "2026-04-10T19:57:58Z"
+      },
+      {
+        "title": "Los Bunkers: 'Somos una banda atenta a lo que está pasando'",
+        "link": "https://www.pagina12.com.ar/2026/04/10/los-bunkers-somos-una-banda-atenta-a-lo-que-esta-pasando",
+        "published_date": "2026-04-10T20:23:39Z"
+      },
+      {
+        "title": "📰 Poco espacio para las películas latinoamericanas",
+        "link": "https://www.pagina12.com.ar/2026/04/10/poco-espacio-para-las-peliculas-latinoamericanas",
+        "published_date": "2026-04-10T18:57:00Z"
+      },
+      {
+        "title": "Hallan una película desconocida de Georges Méliès",
+        "link": "https://www.pagina12.com.ar/2026/04/13/hallan-una-pelicula-desconocida-de-georges-melies",
+        "published_date": "2026-04-13T19:57:52Z"
+      },
+      {
+        "title": "El gobierno de China, Falun Dafa y una disputa que se trasladó a la Argentina",
+        "link": "https://www.pagina12.com.ar/2026/04/13/la-reunificacion-china-falun-dafa-y-una-disputa-que-llego-a-buenos-aires",
+        "published_date": "2026-04-13T15:12:42Z"
+      },
+      {
+        "title": "📰 Miedo, censura y exilio forzado",
+        "link": "https://www.pagina12.com.ar/2026/04/16/miedo-censura-y-exilio-forzado",
+        "published_date": "2026-04-15T23:37:14Z"
+      },
+      {
+        "title": "La patente N° 100 para autos históricos de colección",
+        "link": "https://www.pagina12.com.ar/2026/04/10/la-patente-n-100-para-autos-historicos-de-coleccion",
+        "published_date": "2026-04-10T16:59:04Z"
+      },
+      {
+        "title": "Mi no anécdota con Fito",
+        "link": "https://www.pagina12.com.ar/2026/04/10/mi-no-anecdota-con-fito",
+        "published_date": "2026-04-10T13:24:07Z"
+      },
+      {
+        "title": "Amplían una denuncia contra Milei por el acto en el Movistar Arena después de la revelación de Pagina/12",
+        "link": "https://www.pagina12.com.ar/2026/04/13/amplian-una-denuncia-contra-milei-por-el-acto-en-el-movistar-arena-despues-de-la-revelacion-de-pagina12",
+        "published_date": "2026-04-13T21:21:40Z"
+      },
+      {
+        "title": "Rubén Mattos y la historia de 'Salta, pequeña langosta', la canción que marcó a una generación",
+        "link": "https://www.pagina12.com.ar/2026/04/14/ruben-mattos-y-la-historia-de-salta-pequena-langosta-la-cancion-que-marco-a-una-generacion",
+        "published_date": "2026-04-14T18:27:21Z"
+      },
+      {
+        "title": "'Adorni, resistí': la súplica de Lilia Lemoine en medio de la causa por enriquecimiento ilícito",
+        "link": "https://www.pagina12.com.ar/2026/04/16/adorni-resisti-la-suplica-de-lilia-lemoine-en-medio-de-la-causa-por-enriquecimiento-ilicito",
+        "published_date": "2026-04-16T21:19:52Z"
+      },
+      {
+        "title": "Scioli y la lengua del 'idiotes' facho",
+        "link": "https://www.pagina12.com.ar/2026/04/16/scioli-y-la-lengua-del-idiotes-facho",
+        "published_date": "2026-04-16T15:06:21Z"
+      },
+      {
+        "title": "Leonardo Sbaraglia fue distinguido como Personalidad Destacada de la Cultura",
+        "link": "https://www.pagina12.com.ar/2026/04/16/leonardo-sbaraglia-fue-distinguido-como-personalidad-destacada-de-la-cultura",
+        "published_date": "2026-04-16T20:49:06Z"
+      }
+    ]
+  },
+  {
+    "record_id": "5452250543123350090",
+    "record_title": "US dollar's global dominance challenged",
+    "enrichment": {
+      "currency_pair": null,
+      "exchange_rate": 0,
+      "rate_date": "2026-04-12",
+      "percentage_change": 0,
+      "source_institution": null,
+      "rate_direction": null,
+      "key_driver": "Desire to de-risk from the United States and global currency structure changes",
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "We are stuck in a currency doom loop",
+        "link": "https://ftchinese.com/story/001109435/en",
+        "published_date": "2026-04-12T16:00:00Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8514087390737535494",
+    "record_title": "Currency and Crypto Rates",
+    "enrichment": {
+      "percentage_change": 0,
+      "source_institution": null,
+      "key_driver": null,
+      "rate_date": "2026-04-21",
+      "rate_direction": null,
+      "exchange_rate": 1.1786,
+      "currency_pair": "EUR/USD",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "GUINEA EKUATORIALE – Papa Leone XIV apel për drejtësi",
+        "link": "https://24-ore.com/guinea-ekuatoriale-papa-leone-xiv-apel-per-drejtesi",
+        "published_date": "2026-04-21T16:01:41Z"
+      },
+      {
+        "title": "Papa Leo: Bota ka nevojë për unitet, jo përçarje! Vizita ime në Afrikë ofron një mesazh uniteti",
+        "link": "https://24-ore.com/papa-leo-bota-ka-nevoje-per-unitet-jo-percarje-vizita-ime-ne-afrike-ofron-nje-mesazh-uniteti",
+        "published_date": "2026-04-15T17:07:21Z"
+      },
+      {
+        "title": "Seydikemer İzzettin Mahallesi'nden Başkan Akdenizli'ye teşekkür",
+        "link": "https://www.gercekfethiye.com/seydikemer-izzettin-mahallesi-nden-baskan-akdenizli-ye-tesekkur/120521",
+        "published_date": "2026-04-21T09:10:52Z"
+      },
+      {
+        "title": "Yjet më të Mirë të Veshur në Çmimet SAG 2023",
+        "link": "https://24-ore.com/yjet-me-te-mire-te-veshur-ne-cmimet-sag-2023",
+        "published_date": "2026-04-23T01:08:39Z"
+      }
+    ]
+  },
+  {
+    "record_id": "7245748005016340957",
+    "record_title": "Dollar Price for Purchase and Sale",
+    "enrichment": {
+      "currency_pair": null,
+      "source_institution": null,
+      "exchange_rate": 0,
+      "rate_date": "2026-04-16",
+      "rate_direction": null,
+      "percentage_change": 0,
+      "key_driver": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Lionel Messi sumó un nuevo club a su plantilla",
+        "link": "https://www.pagina12.com.ar/2026/04/16/lionel-messi-sumo-un-nuevo-club-a-su-plantilla",
+        "published_date": "2026-04-16T20:24:22Z"
+      },
+      {
+        "title": "La NBA tiene casi todo listo para los playoffs",
+        "link": "https://www.pagina12.com.ar/2026/04/13/la-nba-tiene-casi-todo-listo-para-los-playoffs",
+        "published_date": "2026-04-13T21:14:57Z"
+      },
+      {
+        "title": "En marzo, el costo total de manutención de un niño superó los 500 mil pesos",
+        "link": "https://www.pagina12.com.ar/2026/04/16/en-marzo-el-costo-total-de-manutencion-de-un-nino-supero-los-500-mil-pesos",
+        "published_date": "2026-04-16T21:22:16Z"
+      },
+      {
+        "title": "Torneo Apertura: una fecha con tres clásicos y un posible clasificado a los playoffs",
+        "link": "https://www.pagina12.com.ar/2026/04/10/torneo-apertura-una-fecha-con-tres-clasicos-y-un-posible-clasificado-a-los-playoffs",
+        "published_date": "2026-04-10T14:41:28Z"
+      },
+      {
+        "title": "ATP 500 de Barcelona: Ugo Carabelli consiguió un triunfazo ante Khachanov",
+        "link": "https://www.pagina12.com.ar/2026/04/14/atp-500-de-barcelona-ugo-carabelli-consiguio-un-triunfazo-ante-khachanov",
+        "published_date": "2026-04-14T18:19:57Z"
+      },
+      {
+        "title": "Lanzan la segunda edición del programa 'Saber Garpa'",
+        "link": "https://www.pagina12.com.ar/2026/04/10/lanzan-la-segunda-edicion-del-programa-saber-garpa",
+        "published_date": "2026-04-10T16:50:23Z"
+      },
+      {
+        "title": "El Ministerio de Capital Humano anunció un programa de cursos para quienes cobraban el Potenciar Trabajo",
+        "link": "https://www.pagina12.com.ar/2026/04/13/el-ministerio-de-capital-humano-anuncio-un-programa-de-cursos-para-quienes-cobraban-el-potenciar-trabajo",
+        "published_date": "2026-04-13T17:39:44Z"
+      },
+      {
+        "title": "Qué cambios afrontarán los astronautas de la Artemis II al volver a la Tierra",
+        "link": "https://www.pagina12.com.ar/2026/04/10/que-cambios-afrontaran-los-astronautas-de-la-artemis-ii-al-volver-a-la-tierra",
+        "published_date": "2026-04-10T19:43:39Z"
+      },
+      {
+        "title": "Beltrán adelanta el futuro, Brey todavía no",
+        "link": "https://www.pagina12.com.ar/2026/04/13/beltran-adelanta-el-futuro-brey-todavia-no",
+        "published_date": "2026-04-13T21:31:28Z"
+      },
+      {
+        "title": "Qué hay detrás del boom de la inteligencia artificial en la educación: ¿Riesgo o beneficio?",
+        "link": "https://www.pagina12.com.ar/2026/04/10/que-hay-detras-del-boom-de-la-inteligencia-artificial-en-la-educacion-riesgo-o-beneficio",
+        "published_date": "2026-04-10T13:34:07Z"
+      },
+      {
+        "title": "El mapa de los oficios bonaerenses",
+        "link": "https://www.pagina12.com.ar/2026/04/10/el-mapa-de-los-oficios-bonaerenses",
+        "published_date": "2026-04-10T19:49:25Z"
+      },
+      {
+        "title": "Cerúndolo avanzó a los cuartos en el ATP de Múnich",
+        "link": "https://www.pagina12.com.ar/2026/04/16/cerundolo-avanzo-a-los-cuartos-en-el-atp-de-munich",
+        "published_date": "2026-04-16T16:42:30Z"
+      },
+      {
+        "title": "Ganaron Cerúndolo y Etcheverry; juegan Navone, Báez y compañía",
+        "link": "https://www.pagina12.com.ar/2026/04/13/ganaron-cerundolo-y-etcheverry-juegan-navone-baez-y-compania",
+        "published_date": "2026-04-13T21:39:23Z"
+      },
+      {
+        "title": "Mascherano dejó de ser el entrenador de Inter Miami por motivos personales",
+        "link": "https://www.pagina12.com.ar/2026/04/14/mascherano-dejo-de-ser-el-entrenador-de-inter-miami-por-motivos-personales",
+        "published_date": "2026-04-14T17:43:29Z"
+      },
+      {
+        "title": "Buscando plata con el Banco Mundial de garante",
+        "link": "https://www.pagina12.com.ar/2026/04/16/buscando-plata-con-el-banco-mundial-de-garante",
+        "published_date": "2026-04-16T21:31:32Z"
+      },
+      {
+        "title": "Murió el histórico periodista deportivo Julio Ricardo",
+        "link": "https://www.pagina12.com.ar/2026/04/13/murio-el-historico-periodista-deportivo-julio-ricardo",
+        "published_date": "2026-04-13T12:47:49Z"
+      },
+      {
+        "title": "Las fotos de Agustín Moreno",
+        "link": "https://www.pagina12.com.ar/2026/04/16/las-fotos-de-agustin-moreno",
+        "published_date": "2026-04-16T20:05:21Z"
+      },
+      {
+        "title": "'Si no puede rendir cuentas, debe ser desplazado': Paula Oliveto también le soltó la mano a Manuel Adorni",
+        "link": "https://www.pagina12.com.ar/2026/04/13/si-no-puede-rendir-cuentas-debe-ser-desplazado-paula-oliveto-tambien-le-solto-la-mano-a-manuel-adorni",
+        "published_date": "2026-04-13T19:24:25Z"
+      },
+      {
+        "title": "Paredes y Montiel palpitaron el Superclásico del domingo",
+        "link": "https://www.pagina12.com.ar/2026/04/17/paredes-y-montiel-palpitaron-el-superclasico-del-domingo",
+        "published_date": "2026-04-17T20:21:06Z"
+      },
+      {
+        "title": "Frente a la agresividad de Trump, León XIV no se amilana y recibe el respaldo de Meloni",
+        "link": "https://www.pagina12.com.ar/2026/04/13/frente-a-la-agresividad-de-trump-leon-xiv-no-se-amilana-y-recibe-el-respaldo-de-meloni",
+        "published_date": "2026-04-13T21:18:05Z"
+      },
+      {
+        "title": "Karina Milei se mostró junto a Adorni, en un nuevo gesto de respaldo del Gobierno",
+        "link": "https://www.pagina12.com.ar/2026/04/13/karina-milei-se-mostro-junto-a-adorni-en-un-nuevo-gesto-de-respaldo-del-gobierno",
+        "published_date": "2026-04-13T17:34:15Z"
+      },
+      {
+        "title": "Intiman penalmente al Ceo de Shell-Raizen para que reincorpore a un despedido",
+        "link": "https://www.pagina12.com.ar/2026/04/16/intiman-penalmente-al-ceo-de-shell-raizen-para-que-reincorpore-a-un-despedido",
+        "published_date": "2026-04-16T14:58:51Z"
+      },
+      {
+        "title": "Miles de Riquelme: cómo el ídolo xeneize se transformó en ícono inesperado en Brasil",
+        "link": "https://www.pagina12.com.ar/2026/04/13/miles-de-riquelme-como-el-idolo-xeneize-se-transformo-en-icono-inesperado-en-brasil",
+        "published_date": "2026-04-13T13:20:28Z"
+      },
+      {
+        "title": "Presentan un proyecto de ley para instituir el 'Día Nacional del Papa Francisco'",
+        "link": "https://www.pagina12.com.ar/2026/04/16/presentan-un-proyecto-de-ley-para-instituir-el-dia-nacional-del-papa-francisco",
+        "published_date": "2026-04-16T13:12:31Z"
+      },
+      {
+        "title": "Delirium tremens",
+        "link": "https://www.pagina12.com.ar/2026/04/13/delirium-tremens",
+        "published_date": "2026-04-13T17:52:03Z"
+      },
+      {
+        "title": "Vicente López: ahora toda la Patrulla Municipal está armada con pistolas de baja letalidad",
+        "link": "https://www.pagina12.com.ar/2026/04/16/vicente-lopez-ahora-toda-la-patrulla-municipal-esta-armada-con-pistolas-de-baja-letalidad",
+        "published_date": "2026-04-16T13:46:47Z"
+      },
+      {
+        "title": "La ley no se toca y los intendentes no tendrán los fondos libres que reclamaron en La Plata",
+        "link": "https://www.pagina12.com.ar/2026/04/13/la-ley-no-se-toca-y-los-intendentes-no-tendran-los-fondos-libres-que-reclamaron-en-la-plata",
+        "published_date": "2026-04-13T19:44:04Z"
+      },
+      {
+        "title": "Tangos para arreglos de cuerdas",
+        "link": "https://www.pagina12.com.ar/2026/04/16/tangos-para-arreglos-de-cuerdas",
+        "published_date": "2026-04-16T20:24:39Z"
+      },
+      {
+        "title": "Ignacio Lago: salir del closet en el fútbol argentino",
+        "link": "https://www.pagina12.com.ar/2026/04/13/ignacio-lago-salir-del-closet-en-el-futbol-argentino",
+        "published_date": "2026-04-13T19:34:58Z"
+      },
+      {
+        "title": "San Lorenzo, un equipo que se hace al andar",
+        "link": "https://www.pagina12.com.ar/2026/04/17/san-lorenzo-un-equipo-que-se-hace-al-andar",
+        "published_date": "2026-04-17T20:09:54Z"
+      },
+      {
+        "title": "'50 años del golpe: 50 portadas de Página/12' en España",
+        "link": "https://www.pagina12.com.ar/2026/04/16/50-anos-del-golpe-50-portadas-de-pagina12-en-espana",
+        "published_date": "2026-04-16T15:57:57Z"
+      },
+      {
+        "title": "Curso sobre 'Literatura de Rosario'",
+        "link": "https://www.pagina12.com.ar/2026/04/10/curso-sobre-literatura-de-rosario",
+        "published_date": "2026-04-10T17:10:31Z"
+      },
+      {
+        "title": "Rosario, destino turístico",
+        "link": "https://www.pagina12.com.ar/2026/04/20/rosario-destino-turistico",
+        "published_date": "2026-04-20T17:28:59Z"
+      },
+      {
+        "title": "Se presenta la segunda edición de 'ADN - Historias de aparecidos'",
+        "link": "https://www.pagina12.com.ar/2026/04/16/se-presenta-la-segunda-edicion-de-adn-historias-de-aparecidos",
+        "published_date": "2026-04-16T20:13:27Z"
+      },
+      {
+        "title": "'No le temo': la respuesta del papa León XIV a Trump",
+        "link": "https://www.pagina12.com.ar/2026/04/13/no-le-temo-la-respuesta-del-papa-leon-xiv-a-trump",
+        "published_date": "2026-04-13T13:32:12Z"
+      },
+      {
+        "title": "Día del Arquero: ¿por qué se celebra hoy?",
+        "link": "https://www.pagina12.com.ar/2026/04/14/dia-del-arquero-por-que-se-celebra-hoy",
+        "published_date": "2026-04-14T17:41:27Z"
+      },
+      {
+        "title": "Denuncian 'conexiones narco' de la escribana de Adorni con un cártel de México",
+        "link": "https://www.pagina12.com.ar/2026/04/16/denuncian-conexiones-narco-de-la-escribana-de-adorni-con-un-cartel-de-mexico",
+        "published_date": "2026-04-16T15:34:42Z"
+      },
+      {
+        "title": "Ultimas imágenes del naufragio de la industria",
+        "link": "https://www.pagina12.com.ar/2026/04/13/ultimas-imagenes-del-naufragio-de-la-industria",
+        "published_date": "2026-04-13T21:43:32Z"
+      },
+      {
+        "title": "Karina Milei corrió a Agustín Romo de la presidencia y un hombre de Pareja quedará a cargo del bloque libertario",
+        "link": "https://www.pagina12.com.ar/2026/04/16/karina-milei-corrio-a-agustin-romo-de-la-presidencia-y-un-hombre-de-pareja-quedara-a-cargo-del-bloque-libertario",
+        "published_date": "2026-04-16T17:55:27Z"
+      },
+      {
+        "title": "Alberto Samid: 'La sociedad quiere degollar a Adorni, y yo soy parte de la sociedad'",
+        "link": "https://www.pagina12.com.ar/2026/04/13/alberto-samid-la-sociedad-quiere-degollar-a-adorni-y-yo-soy-parte-de-la-sociedad",
+        "published_date": "2026-04-13T13:58:54Z"
+      },
+      {
+        "title": "La esposa de Pedro Sánchez fue procesada por cuatro delitos",
+        "link": "https://www.pagina12.com.ar/2026/04/13/la-esposa-de-pedro-sanchez-fue-procesada-por-cuatro-delitos",
+        "published_date": "2026-04-13T13:23:25Z"
+      }
+    ]
+  },
+  {
+    "record_id": "728101783367015634",
+    "record_title": "Adorni scandal and dollar price",
+    "enrichment": {
+      "exchange_rate": 0,
+      "rate_date": "2026-04-13",
+      "key_driver": null,
+      "rate_direction": null,
+      "percentage_change": 0,
+      "currency_pair": null,
+      "source_institution": null,
+      "enrichment_confidence": "low"
+    },
+    "citations": [
+      {
+        "title": "El escándalo Adorni le haría perder a Milei 1 de cada 4 votos",
+        "link": "https://www.pagina12.com.ar/2026/04/13/el-escandalo-adorni-le-haria-perder-a-milei-1-de-cada-4-votos",
+        "published_date": "2026-04-13T18:52:57Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8479368065127994554",
+    "record_title": "Cuti Romero's injury and dollar price",
+    "enrichment": {
+      "percentage_change": 0,
+      "exchange_rate": 0,
+      "currency_pair": null,
+      "rate_date": "2026-04-13",
+      "source_institution": null,
+      "rate_direction": null,
+      "key_driver": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Se confirmó la lesión de Cuti Romero: ¿llegará al Mundial?",
+        "link": "https://www.pagina12.com.ar/2026/04/13/se-confirmo-la-lesion-de-cuti-romero-llegara-al-mundial",
+        "published_date": "2026-04-13T14:42:50Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6379240716744023781",
+    "record_title": "Milei's dismantling of INTI and dollar price",
+    "enrichment": {
+      "currency_pair": null,
+      "percentage_change": 0,
+      "exchange_rate": 0,
+      "rate_date": "2026-04-16",
+      "source_institution": null,
+      "rate_direction": null,
+      "key_driver": null,
+      "enrichment_confidence": "medium"
+    },
+    "citations": [
+      {
+        "title": "Milei concretó el desguace del INTI y ahora los privados autocontrolarán sus productos",
+        "link": "https://www.pagina12.com.ar/2026/04/16/milei-concreto-el-desguace-del-inti-y-ahora-los-privados-autocontrolaran-sus-productos",
+        "published_date": "2026-04-16T13:45:33Z"
+      }
+    ]
+  }
+]

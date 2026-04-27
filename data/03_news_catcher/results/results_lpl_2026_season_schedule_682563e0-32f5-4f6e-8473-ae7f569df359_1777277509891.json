@@ -1,0 +1,659 @@
+[
+  {
+    "record_id": "2900407879447304976",
+    "record_title": "LPL 2026 Season Schedule and Key Changes",
+    "enrichment": {
+      "location": "SSC, Colombo; RPICS, Colombo; PICS, Pallekele; RDICS, Dambulla",
+      "broadcast_info": null,
+      "end_date": "2026-08-05",
+      "key_changes": "Postponement from late 2025 to July-August 2026. Revised dates: July 10 to August 5. First time at 4 venues, including SSC. No sixth team. Player draft instead of auction.",
+      "season_name": "LPL 2026",
+      "start_date": "2026-07-10",
+      "teams_mentioned": null,
+      "format_details": "Five-team event, full player draft for player allocation.",
+      "event_type": "regular_season",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Sri Lanka Cricket makes tweaks to revised schedule of LPL 6",
+        "link": "https://www.geosuper.tv/latest/55420-sri-lanka-cricket-makes-tweaks-to-revised-schedule-of-lpl-2026",
+        "published_date": "2026-04-22T14:38:00Z"
+      },
+      {
+        "title": "Lanka Premier League",
+        "link": "https://www.sacricketmag.com/all-t20/lanka-premier-league",
+        "published_date": "2026-04-15T16:56:15Z"
+      },
+      {
+        "title": "LPL 2026: Sri Lanka Cricket reveals dates and four venues for upcoming season",
+        "link": "https://cricketaddictor.com/cricket-news/lpl-2026-sri-lanka-cricket-reveals-dates-and-four-venues-for-upcoming-season-440467",
+        "published_date": "2026-04-22T09:36:08Z"
+      },
+      {
+        "title": "Lanka Premier League 2026 to clash with the Hundred as SLC finalises dates",
+        "link": "https://www.insidesport.in/cricket/lanka-premier-league-2026-to-clash-with-the-hundred-as-slc-finalises-dates",
+        "published_date": "2026-04-22T09:12:59Z"
+      },
+      {
+        "title": "LPL 2026 from July 10 to August 5",
+        "link": "https://urallnews.com/sri-lanka-cricket-lpl-2026-from-july-10-to-august-5",
+        "published_date": "2026-04-22T11:35:04Z"
+      },
+      {
+        "title": "लंका प्रीमियर लीग 10 जुलाई से 5 अगस्त के बीच खेला जाएगा छठा सीजन",
+        "link": "https://www.bhaskarhindi.com/other/lanka-premier-league-10-july-se-5-august-ke-beech-khela-jayega-6th-season-1284810",
+        "published_date": "2026-04-22T12:31:38Z"
+      },
+      {
+        "title": "लंका प्रीमियर लीग: 10 जुलाई से 5 अगस्त के बीच खेला जाएगा छठा सीजन",
+        "link": "https://samacharnama.com/sports/lanka-premier-league-10-july-se-5-august-ke-beech-khela/cid18553983.htm",
+        "published_date": "2026-04-22T12:29:36Z"
+      },
+      {
+        "title": "मशहूर T20 लीग को लेकर आई बड़ी खबर, 2 साल के लंबे अंतराल के बाद होगा आयोजन",
+        "link": "https://www.indiatv.in/sports/cricket/lanka-premier-league-2026-to-be-held-from-july-10-to-aug-5-2026-04-22-1213412",
+        "published_date": "2026-04-22T11:54:47Z"
+      },
+      {
+        "title": "Dates Set for Lanka Premier League 2026",
+        "link": "https://srilankacricket.lk/2026/04/dates-set-for-lanka-premier-league-2026",
+        "published_date": "2026-04-22T08:40:27Z"
+      },
+      {
+        "title": "UGC to accept Uni. applications from April 27",
+        "link": "https://srilankamirror.com/news/ugc-to-accept-uni-applications-from-april-27",
+        "published_date": "2026-04-22T09:06:39Z"
+      },
+      {
+        "title": "Sri Lanka Cricket 2026 from July 10 to August 5",
+        "link": "https://dunyanews.tv/en/Sports/947433-sri-lanka-cricket-2026-from-july-10-to-august-5",
+        "published_date": "2026-04-22T19:48:22Z"
+      },
+      {
+        "title": "Lanka Premier League 2026 To Be Held From July 10 To Aug 5",
+        "link": "https://menafn.com/1111015917/Lanka-Premier-League-2026-To-Be-Held-From-July-10-To-Aug-5",
+        "published_date": "2026-04-22T06:15:18Z"
+      },
+      {
+        "title": "Lanka Premier League Set to Begin on July 10, Final on August 5",
+        "link": "https://ground.news/article/lanka-premier-league-2026-to-clash-with-the-hundred-as-slc-finalises-dates-inside-sport-india",
+        "published_date": "2026-04-22T09:12:59Z"
+      }
+    ]
+  },
+  {
+    "record_id": "8923562478607793872",
+    "record_title": "LPL 2026 Stage 2 Regular Season Matchups and Replays",
+    "enrichment": {
+      "broadcast_info": null,
+      "season_name": "LPL 2026 Stage 2 Regular Season",
+      "end_date": "2026-04-19",
+      "event_type": "regular_season",
+      "location": null,
+      "start_date": "2026-04-10",
+      "teams_mentioned": "AL, BLG, EDG, IG, JDG, LGD, LNG, OMG, TES, WBG, WE",
+      "key_changes": null,
+      "format_details": "BO3",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月19日首发名单",
+        "link": "https://news.17173.com/content/04192026/083059198.shtml",
+        "published_date": "2026-04-19T00:30:59Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月16日首发名单",
+        "link": "https://news.17173.com/content/04162026/153235608.shtml",
+        "published_date": "2026-04-16T07:32:35Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月10日首发名单",
+        "link": "https://news.17173.com/content/04102026/194525349.shtml",
+        "published_date": "2026-04-10T11:45:25Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月12日首发名单",
+        "link": "https://news.17173.com/content/04122026/094033725.shtml",
+        "published_date": "2026-04-12T01:40:33Z"
+      },
+      {
+        "title": "《英雄联盟》2026英雄联盟LPL第二赛段常规赛组内赛：LGD vs OMG 第1局比赛录像回放",
+        "link": "https://news.17173.com/content/04142026/121335117.shtml",
+        "published_date": "2026-04-14T04:13:35Z"
+      },
+      {
+        "title": "《英雄联盟》2026英雄联盟LPL第二赛段常规赛组内赛：WE vs TES 第1局比赛录像回放",
+        "link": "https://news.17173.com/content/04142026/121604375.shtml",
+        "published_date": "2026-04-14T04:16:04Z"
+      },
+      {
+        "title": "[流言板]4月11日首发：iG面对WE能否取得三连胜，JunJia野区对位Tian 4回复/ 0亮671 浏览",
+        "link": "https://bbs.hupu.com/638375084.html",
+        "published_date": "2026-04-10T23:24:54Z"
+      },
+      {
+        "title": "[流言板]4月12日首发：Burdol回归LPL后首战，Knight大战Xiaohu 8回复/ 1亮1468 浏览",
+        "link": "https://bbs.hupu.com/638395152.html",
+        "published_date": "2026-04-11T23:26:56Z"
+      },
+      {
+        "title": "[流言板]4月23日首发：Tangyuan交手Angel，Bin上路对阵HOYA 3回复/ 0亮398 浏览",
+        "link": "https://bbs.hupu.com/638670264.html",
+        "published_date": "2026-04-22T23:53:23Z"
+      },
+      {
+        "title": "[流言板]WBG vs BLG赛前海报：春日寻芳；花间小憩 1回复/ 0亮946 浏览",
+        "link": "https://bbs.hupu.com/638392533.html",
+        "published_date": "2026-04-11T21:15:45Z"
+      },
+      {
+        "title": "[流言板]LPL第二赛段W2D4每日TOP5：GALA秘术射击，精华跃动 0回复/ 0亮7501 浏览",
+        "link": "https://bbs.hupu.com/638586086.html",
+        "published_date": "2026-04-19T13:04:50Z"
+      },
+      {
+        "title": "[流言板]W1D5每日TOP5：Vampire超级粉丝，万花齐放缚四魂 2回复/ 0亮3434 浏览",
+        "link": "https://bbs.hupu.com/638386648.html",
+        "published_date": "2026-04-11T15:02:05Z"
+      },
+      {
+        "title": "[流言板]战胜IG，赛后BLG官方发布赛场合照：再接再厉 2回复/ 0亮1262 浏览",
+        "link": "https://bbs.hupu.com/638564949.html",
+        "published_date": "2026-04-18T21:09:24Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月18日首发名单",
+        "link": "https://news.17173.com/content/04182026/084556464.shtml",
+        "published_date": "2026-04-18T00:45:56Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月23日首发名单",
+        "link": "https://news.17173.com/content/04232026/110930894.shtml",
+        "published_date": "2026-04-23T03:09:30Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月8日首发名单",
+        "link": "https://news.17173.com/content/04102026/194227573.shtml",
+        "published_date": "2026-04-10T11:42:27Z"
+      },
+      {
+        "title": "[流言板]4月16日首发：Shanks对线Karis，BLG与TES针尖对麦芒 11回复/ 3亮1248 浏览",
+        "link": "https://bbs.hupu.com/638494933.html",
+        "published_date": "2026-04-15T23:13:56Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月15日首发名单",
+        "link": "https://news.17173.com/content/04152026/092415102.shtml",
+        "published_date": "2026-04-15T01:24:15Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月9日首发名单",
+        "link": "https://news.17173.com/content/04102026/194332272.shtml",
+        "published_date": "2026-04-10T11:43:32Z"
+      },
+      {
+        "title": "《英雄联盟》2026LPL第二赛段常规赛组内赛4月11日首发名单",
+        "link": "https://news.17173.com/content/04112026/104706494.shtml",
+        "published_date": "2026-04-11T02:47:06Z"
+      },
+      {
+        "title": "[流言板]LPL焦点战预告：登峰组战况如火如荼，对决一触即发 2回复/ 0亮332 浏览",
+        "link": "https://bbs.hupu.com/638684042.html",
+        "published_date": "2026-04-23T12:04:00Z"
+      },
+      {
+        "title": "[流言板]LPL第二赛段W3D1每日TOP5：Tarzan巨龙撞击，天崩困敌 0回复/ 0亮32725 浏览",
+        "link": "https://bbs.hupu.com/638686645.html",
+        "published_date": "2026-04-23T13:29:39Z"
+      },
+      {
+        "title": "《英雄联盟》2026英雄联盟LPL第二赛段常规赛组内赛：WE vs TES 第2局比赛录像回放",
+        "link": "https://news.17173.com/content/04142026/121631672.shtml",
+        "published_date": "2026-04-14T04:16:31Z"
+      },
+      {
+        "title": "《英雄联盟》2026英雄联盟LPL第二赛段常规赛组内赛：IG vs NIP 第2局比赛录像回放",
+        "link": "https://news.17173.com/content/04142026/121726512.shtml",
+        "published_date": "2026-04-14T04:17:26Z"
+      },
+      {
+        "title": "《英雄联盟》2026英雄联盟LPL第二赛段常规赛组内赛：JDG vs TES 第1局比赛录像回放",
+        "link": "https://news.17173.com/content/04142026/121213730.shtml",
+        "published_date": "2026-04-14T04:12:13Z"
+      },
+      {
+        "title": "iG新赛段阵容大换血，Rookie替补反倒迎来连胜？阿水复出状态复苏",
+        "link": "https://m.sohu.com/a/1007892011_121742848",
+        "published_date": "2026-04-10T12:14:32Z"
+      },
+      {
+        "title": "Chovy状态不在GEN惨遭HLE横扫，KT六连胜制霸LCK；IG验牌失败不敌BLG，JDG触底反弹拿下WBG！",
+        "link": "https://m.sohu.com/a/1011590705_548161",
+        "published_date": "2026-04-19T05:22:53Z"
+      },
+      {
+        "title": "KT横扫KRX豪取七连胜，WE输给WBG继续连败，首胜遥遥无期！",
+        "link": "https://k.sina.com.cn/article_7857201856_1d45362c001904m69u.html",
+        "published_date": "2026-04-23T00:09:37Z"
+      },
+      {
+        "title": "GEN惨遭HLE横扫，KT制霸LCK；IG不敌BLG，JDG背靠背拿下WBG！_手机网易网",
+        "link": "https://m.163.com/dy/article/KQSNA1IQ05268DJR.html",
+        "published_date": "2026-04-19T05:22:54Z"
+      },
+      {
+        "title": "Bin无缘周最佳上单！前RNG副总谈全华班：有号召力，但像一座牢笼",
+        "link": "https://www.163.com/dy/article/KR40NJHF0546Q5YF.html",
+        "published_date": "2026-04-22T01:24:36Z"
+      },
+      {
+        "title": "EWC电竞世界杯：OMG横扫WE，让其专注LPL赛场",
+        "link": "https://www.163.com/dy/article/KQGDG8510526T21K.html",
+        "published_date": "2026-04-14T10:43:06Z"
+      },
+      {
+        "title": "Anyone's Legend áp đảo NiP, Weibo Gaming thắng trắng Team WE tại LPL 2026 Split 2",
+        "link": "https://webthethao.vn/lien-minh-huyen-thoai/anyones-legend-ap-dao-nip-weibo-gaming-thang-trang-team-we-tai-lpl-2026-split-2-VK3txCiRR.htm",
+        "published_date": "2026-04-22T11:30:52Z"
+      },
+      {
+        "title": "TES再战IG，能否复仇成功稳住榜首位置？",
+        "link": "https://m.sohu.com/a/1011519957_100101897",
+        "published_date": "2026-04-19T02:39:45Z"
+      },
+      {
+        "title": "LGD Gaming vs EDward Gaming Betting Tips – LGD Gaming Chase Upset Win Over EDG in LPL 2026 Split 2",
+        "link": "https://www.freetips.com/esports/lgd-gaming-vs-edward-gaming-betting-tips-20260422-0022",
+        "published_date": "2026-04-22T14:40:00Z"
+      },
+      {
+        "title": "Ninjas in Pyjamas vs Anyone's Legend Betting Tips – Ninjas in Pyjamas Can Upset Anyone's Legend",
+        "link": "https://www.freetips.com/esports/ninjas-in-pyjamas-vs-anyones-legend-betting-tips-20260421-0041",
+        "published_date": "2026-04-21T17:57:00Z"
+      },
+      {
+        "title": "Top Esports vs Bilibili Gaming Betting Tips – Can TES Stop the Surging Bilibili Gaming?",
+        "link": "https://www.freetips.com/esports/top-esports-vs-bilibili-gaming-betting-tips-20260415-0038",
+        "published_date": "2026-04-15T16:33:00Z"
+      },
+      {
+        "title": "Ninjas in Pyjamas vs JD Gaming Betting Tips – Ninjas in Pyjamas Can Surprise JD Gaming in LPL Split 2",
+        "link": "https://www.freetips.com/esports/ninjas-in-pyjamas-vs-jd-gaming-betting-tips-20260416-0037",
+        "published_date": "2026-04-16T15:57:00Z"
+      },
+      {
+        "title": "Anyone's Legend vs Team WE Betting Tips – Anyone's Legend Chase a Bounce-Back Win in LPL 2026 Split 2",
+        "link": "https://www.freetips.com/esports/anyones-legend-vs-team-we-betting-tips-20260415-0027",
+        "published_date": "2026-04-15T13:20:00Z"
+      },
+      {
+        "title": "LPL国产AD最高的山，17岁的世界冠军，25岁还是能当LPL的排面",
+        "link": "https://www.163.com/dy/article/KQV4EFHC0556DLOH.html",
+        "published_date": "2026-04-20T03:48:40Z"
+      },
+      {
+        "title": "LPL国产AD最高的山，17岁的世界冠军，25岁还是能当LPL的排面_手机网易网",
+        "link": "https://m.163.com/dy/article/KQV4EFHC0556DLOH.html",
+        "published_date": "2026-04-20T03:48:40Z"
+      },
+      {
+        "title": "Weibo Gaming vs Team WE Betting Tips – Team WE Have Yet To Prove They Belong",
+        "link": "https://www.freetips.com/esports/weibo-gaming-vs-team-we-betting-tips-20260421-0039",
+        "published_date": "2026-04-21T17:49:00Z"
+      },
+      {
+        "title": "Oh My God vs LNG Esports Betting Tips – LNG Esports To Bounce Back in LPL 2026 Split 2",
+        "link": "https://www.freetips.com/esports/oh-my-god-vs-lng-esports-betting-tips-20260423-0020",
+        "published_date": "2026-04-23T13:49:00Z"
+      },
+      {
+        "title": "Ninjas in Pyjamas vs Bilibili Gaming Betting Tips – Ninjas in Pyjamas Can Surprise Bilibili Gaming in LPL 2026 Split 2",
+        "link": "https://www.freetips.com/esports/ninjas-in-pyjamas-vs-bilibili-gaming-betting-tips-20260422-0021",
+        "published_date": "2026-04-22T14:30:00Z"
+      },
+      {
+        "title": "Kanavi承认是跟红米是绑定的，说LPL像矛断了很多次_手机网易网",
+        "link": "https://m.163.com/dy/article/KR4RQ7P10556DLOH.html",
+        "published_date": "2026-04-22T09:13:24Z"
+      },
+      {
+        "title": "Invictus Gaming vs JD Gaming Betting Tips – Clash of Two Mid-Table Teams in LPL 2026 Split 2",
+        "link": "https://www.freetips.com/esports/invictus-gaming-vs-jd-gaming-betting-tips-20260423-0019",
+        "published_date": "2026-04-23T13:41:00Z"
+      },
+      {
+        "title": "BLG全员梦游急着放假？LNG三比一战胜BLG晋级",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904d66q.html",
+        "published_date": "2026-04-16T00:12:49Z"
+      },
+      {
+        "title": "LPL第二赛段:强队开会!哥哥复出手感全无,能否完成自我救赎?",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904aeqa.html",
+        "published_date": "2026-04-14T01:41:15Z"
+      },
+      {
+        "title": "S14半决赛:BLG 3比0战胜WBG，晋级总决赛",
+        "link": "https://k.sina.com.cn/article_7857201856_1d45362c001904ah6o.html",
+        "published_date": "2026-04-14T02:23:25Z"
+      },
+      {
+        "title": "LPL 2026: Top Esports vence Bilibili e assume liderança do grupo Ascend",
+        "link": "https://maisesports.com.br/lpl-2026-top-esports-vence-bilibili-e-assume-lideranca-do-grupo-ascend",
+        "published_date": "2026-04-16T16:37:16Z"
+      },
+      {
+        "title": "LPL 2026: Ninjas in Pyjamas surpreende a JDG e entra no top-4 do grupo Ascend",
+        "link": "https://maisesports.com.br/lpl-2026-ninjas-in-pyjamas-surpreende-a-jdg-e-entra-no-top-4-do-grupo-ascend",
+        "published_date": "2026-04-17T14:22:15Z"
+      },
+      {
+        "title": "Tian Leads Top Esports to Dominant 2-0 Sweep Over Bilibili Gaming",
+        "link": "https://happygamer.com/tes-beats-blg-2-0-tian-mvp-lpl-split-2-148056",
+        "published_date": "2026-04-16T19:20:00Z"
+      },
+      {
+        "title": "金贡接受媒体采访，对LPL解说群体开喷，直言他们太会带节奏了_手机网易网",
+        "link": "https://m.163.com/dy/article/KQIAM6CQ0523KDPA.html",
+        "published_date": "2026-04-15T04:28:10Z"
+      },
+      {
+        "title": "LPL电竞春晚来袭，BLG迎战iG上路巅峰对决，Bin大战呼吸哥成焦点！",
+        "link": "https://m.sohu.com/a/1011052795_121742848",
+        "published_date": "2026-04-17T15:26:51Z"
+      },
+      {
+        "title": "阿水交手Viper，TES大战BLG！WE恐遭遇五连败_手机网易网",
+        "link": "https://m.163.com/dy/article/KQKTALJN0526GCNB.html",
+        "published_date": "2026-04-16T04:33:45Z"
+      },
+      {
+        "title": "阿水交手Viper，TES大战BLG！WE恐遭遇五连败",
+        "link": "https://m.sohu.com/a/1010277699_99891440",
+        "published_date": "2026-04-16T04:34:12Z"
+      },
+      {
+        "title": "LOL-LPL第二赛段：TES横扫JDG豪取三连胜",
+        "link": "https://www.163.com/dy/article/KQAQE6CJ0556KVV5.html",
+        "published_date": "2026-04-12T06:28:48Z"
+      },
+      {
+        "title": "TES领跑LPL！小Tian和阿水盘活队伍！369回归无期！_手机网易网",
+        "link": "https://m.163.com/dy/article/KR4R0P630552QN4H.html",
+        "published_date": "2026-04-22T09:01:38Z"
+      },
+      {
+        "title": "LOL-LPL第二赛段：TES横扫JDG豪取三连胜_手机网易网",
+        "link": "https://m.163.com/dy/article/KQAQE6CJ0556KVV5.html",
+        "published_date": "2026-04-12T06:28:48Z"
+      },
+      {
+        "title": "IG官方辟谣：ROOKIE暂时没有归队！LPL官方发布Bin哥神级美图_手机网易网",
+        "link": "https://m.163.com/dy/article/KQDAL9MH0546TPMR.html",
+        "published_date": "2026-04-13T05:50:52Z"
+      },
+      {
+        "title": "LPL彻底凉了？继RNG、FPX退出后，又一俱乐部悔购席位",
+        "link": "https://www.163.com/dy/article/KQV04ABG0552H31S.html",
+        "published_date": "2026-04-20T02:33:03Z"
+      },
+      {
+        "title": "全体起立！LPL顶级解说官宣回归，自律减肥大变样，连腹肌都有了_手机网易网",
+        "link": "https://m.163.com/dy/article/KQGHLN320526DF5J.html",
+        "published_date": "2026-04-14T11:51:08Z"
+      },
+      {
+        "title": "Faker惨遭GEN粉丝开盒！拳头设计师宣布：厄塔汗将回归峡谷_手机网易网",
+        "link": "https://m.163.com/dy/article/KQKN0E3C0546Q5YF.html",
+        "published_date": "2026-04-16T02:43:51Z"
+      },
+      {
+        "title": "Bin无缘周最佳上单！前RNG副总谈全华班：有号召力，但像一座牢笼_手机网易网",
+        "link": "https://m.163.com/dy/article/KR40NJHF0546Q5YF.html",
+        "published_date": "2026-04-22T01:24:36Z"
+      },
+      {
+        "title": "OMG官宣前IG选手加盟！T1斩获赛段第三胜，Faker两场0阵亡拿MVP",
+        "link": "https://www.163.com/dy/article/KQV0RNST0546Q5YF.html",
+        "published_date": "2026-04-20T02:49:43Z"
+      },
+      {
+        "title": "LPL解说报考事业单位！LCK黑马战队陨落，开赛连输3场1胜难求",
+        "link": "https://www.163.com/dy/article/KQ7OO81E0546Q5YF.html",
+        "published_date": "2026-04-11T02:05:35Z"
+      },
+      {
+        "title": "LOL-2026 LPL第二赛段：JDG让一追二击败WBG_手机网易网",
+        "link": "https://m.163.com/dy/article/KQSO8QRH0556KA8L.html",
+        "published_date": "2026-04-19T05:37:15Z"
+      },
+      {
+        "title": "LOL-LPL第二赛段：WE五连败，AL关键运营制胜止颓势_手机网易网",
+        "link": "https://m.163.com/dy/article/KQNLPR7C0556KA8L.html",
+        "published_date": "2026-04-17T06:17:54Z"
+      },
+      {
+        "title": "LOL：LPL去EWC沙特杯队伍基本确定，BLG必去，JDG、AL和WBG中3选2_手机网易网",
+        "link": "https://m.163.com/dy/article/KR46HFRH054676SG.html",
+        "published_date": "2026-04-22T03:01:20Z"
+      },
+      {
+        "title": "LPL解说报考事业单位！LCK黑马战队陨落，开赛连输3场1胜难求_手机网易网",
+        "link": "https://m.163.com/dy/article/KQ7OO81E0546Q5YF.html",
+        "published_date": "2026-04-11T02:05:35Z"
+      },
+      {
+        "title": "世界冠军锐评LPL解说话语影响，过分放大问题，带选手节奏",
+        "link": "https://www.sohu.com/a/1009058200_122116917",
+        "published_date": "2026-04-13T12:58:35Z"
+      },
+      {
+        "title": "LPL两大顶级强队对决，版本更迭AL跌落神坛，TES换人后彻底起飞！",
+        "link": "https://www.sohu.com/a/1011402181_121742848",
+        "published_date": "2026-04-18T14:46:46Z"
+      },
+      {
+        "title": "虎娘:传奇全球总决赛即将打响 Caps耐心为新生选手发言开导_新闻",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c0019049ouk.html",
+        "published_date": "2026-04-13T13:08:02Z"
+      },
+      {
+        "title": "LOL-LPL第二赛段：WE五连败，AL关键运营制胜止颓势",
+        "link": "https://www.163.com/dy/article/KQNLPR7C0556KA8L.html",
+        "published_date": "2026-04-17T06:17:54Z"
+      },
+      {
+        "title": "有大BOSS!Tarzan无敌蝎王一抗五 Shanks梅尔轰平WE AL赢首局",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c001904el8w.html",
+        "published_date": "2026-04-17T02:05:53Z"
+      },
+      {
+        "title": "有人说'把T1叫过来跟BLG碰一碰'，朱开：T1先把LCK打明白再说_手机网易网",
+        "link": "https://m.163.com/dy/article/KQFLIPS1054676SG.html",
+        "published_date": "2026-04-14T03:40:14Z"
+      },
+      {
+        "title": "TES领跑LPL！小Tian和阿水盘活队伍！369回归无期！",
+        "link": "https://www.163.com/dy/article/KR4R0P630552QN4H.html",
+        "published_date": "2026-04-22T09:01:38Z"
+      },
+      {
+        "title": "Bin神级薇恩，既能反杀Faker，又能1v4天秀！谁是LPL第一薇恩？_手机网易网",
+        "link": "https://m.163.com/dy/article/KR2698QV0556DLOH.html",
+        "published_date": "2026-04-21T08:18:46Z"
+      },
+      {
+        "title": "Bin神级薇恩，既能反杀Faker，又能1v4天秀！谁是LPL第一薇恩？",
+        "link": "https://www.163.com/dy/article/KR2698QV0556DLOH.html",
+        "published_date": "2026-04-21T08:18:46Z"
+      },
+      {
+        "title": "LPL最大黑马杀疯了，IG四杀TES成功晋级，网友劝Rookie别回来了",
+        "link": "https://www.sohu.com/a/1009744496_120556587",
+        "published_date": "2026-04-15T03:12:51Z"
+      },
+      {
+        "title": "LPL闹剧结束了！TES晋升联赛大王，十连胜彻底杀疯，JKL证明自己",
+        "link": "https://www.163.com/dy/article/KQV1QVT40546Q5OI.html",
+        "published_date": "2026-04-20T03:03:00Z"
+      },
+      {
+        "title": "LPL闹剧结束了！TES晋升联赛大王，十连胜彻底杀疯，JKL证明自己_手机网易网",
+        "link": "https://m.163.com/dy/article/KQV1QVT40546Q5OI.html",
+        "published_date": "2026-04-20T03:03:00Z"
+      },
+      {
+        "title": "LPL最大黑马杀疯了，IG四杀TES成功晋级，网友劝Rookie别回来了_手机网易网",
+        "link": "https://m.163.com/dy/article/KQI6A67H0546Q5OI.html",
+        "published_date": "2026-04-15T03:11:04Z"
+      },
+      {
+        "title": "LPL全华班采访彻底爆了！冠军打野遭清算，粉丝恳请换朱开当教练",
+        "link": "https://www.163.com/dy/article/KQSKKPQI0546TPMR.html",
+        "published_date": "2026-04-19T04:34:38Z"
+      },
+      {
+        "title": "大黄Wayward：369跟Rookie一样，想回归就回归，除非你是超级新人_手机网易网",
+        "link": "https://m.163.com/dy/article/KQFLLMVS054676SG.html",
+        "published_date": "2026-04-14T03:41:43Z"
+      },
+      {
+        "title": "LPL第二赛段：WBG挑战霸主BLG，冲击首胜！_手机网易网",
+        "link": "https://m.163.com/dy/article/KQ953D190526PKTM.html",
+        "published_date": "2026-04-11T14:56:47Z"
+      },
+      {
+        "title": "有人问'WBG如何面对BLG战队'，小虎透露了WBG两大问题",
+        "link": "https://www.163.com/dy/article/KQ82E92R054676SG.html",
+        "published_date": "2026-04-11T04:50:56Z"
+      },
+      {
+        "title": "LPL第二赛段：BLG止颓战IG，JDG与WBG死磕登峰组排名",
+        "link": "https://www.sohu.com/a/1011055326_100113016",
+        "published_date": "2026-04-17T15:36:54Z"
+      },
+      {
+        "title": "LPL第二赛段：BLG止颓战IG，JDG与WBG死磕登峰组排名_手机网易网",
+        "link": "https://m.163.com/dy/article/KQOLOJ0N0526PKTM.html",
+        "published_date": "2026-04-17T15:36:53Z"
+      },
+      {
+        "title": "[流言板]趣味数据：Creme伤害转化率第一，对位单杀数HongQ第二 14回复/ 4亮3012 浏览",
+        "link": "https://bbs.hupu.com/638387296.html",
+        "published_date": "2026-04-11T15:58:27Z"
+      },
+      {
+        "title": "[最佳评选]TT拿下两连胜，NIP横扫JDG拿下第三胜，谁是今日最佳？ 0回复/ 0亮136 浏览",
+        "link": "https://bbs.hupu.com/638540811.html",
+        "published_date": "2026-04-17T23:20:06Z"
+      },
+      {
+        "title": "KSG夺冠；TES击败JDG；Rockstar遭黑客；任天堂推银河同捆",
+        "link": "https://www.163.com/dy/article/KQBUV9L305567S3E.html",
+        "published_date": "2026-04-12T17:07:17Z"
+      },
+      {
+        "title": "[LPL群访]明凯：之前Leave很容易暴毙，Jwei加入后对AD的帮助照顾很多 0回复/ 0亮703 浏览",
+        "link": "https://bbs.hupu.com/638384168.html",
+        "published_date": "2026-04-11T12:40:50Z"
+      },
+      {
+        "title": "[LPL群访]Tabe教练：今天对阵TES的比赛，能够带给我们很多积极的部分 5回复/ 3亮1876 浏览",
+        "link": "https://bbs.hupu.com/638399653.html",
+        "published_date": "2026-04-12T10:45:00Z"
+      },
+      {
+        "title": "[LPL群访]Monki：一到中期游戏进行不下去，兵线运营非常差劲还有失误 6回复/ 0亮1458 浏览",
+        "link": "https://bbs.hupu.com/638400223.html",
+        "published_date": "2026-04-12T11:30:00Z"
+      },
+      {
+        "title": "[LPL群访]Zhuo：WBG下路打得还是比较凶的，打的时候也吃到很大压力 5回复/ 3亮1789 浏览",
+        "link": "https://bbs.hupu.com/638364535.html",
+        "published_date": "2026-04-10T11:48:07Z"
+      },
+      {
+        "title": "[LPL群访]JackeyLove：BLG下路最近状态很好，今天下路的对线有输有赢 7回复/ 3亮2326 浏览",
+        "link": "https://bbs.hupu.com/638529768.html",
+        "published_date": "2026-04-17T10:30:00Z"
+      },
+      {
+        "title": "[LPL群访]Renard：我自己这几场的发挥，我自认为是还算不错的 2回复/ 0亮508 浏览",
+        "link": "https://bbs.hupu.com/638399852.html",
+        "published_date": "2026-04-12T11:00:00Z"
+      },
+      {
+        "title": "[LPL群访]WE教练：BLG的中期进攻方向还有运营思路，值得我们学习 8回复/ 3亮3651 浏览",
+        "link": "https://m.hupu.com/bbs/638363917.html",
+        "published_date": "2026-04-10T11:08:09Z"
+      },
+      {
+        "title": "[LPL群访]Xiaohu：要把训练赛的状态发挥到比赛里，调整BP和加强对线 6回复/ 1亮1590 浏览",
+        "link": "https://bbs.hupu.com/638364169.html",
+        "published_date": "2026-04-10T11:24:40Z"
+      },
+      {
+        "title": "Tabe:最近训练赛较困难!BLG中野辅是很紧密的 配合也很好-直播吧手机版",
+        "link": "https://k.sina.com.cn/article_7857201856_1d45362c001904aae0.html",
+        "published_date": "2026-04-14T00:30:32Z"
+      },
+      {
+        "title": "[LPL群访]BigWei教练：更重要的是，我们要找到属于AL最好赢游戏方式 28回复/ 10亮4670 浏览",
+        "link": "https://bbs.hupu.com/638383431.html",
+        "published_date": "2026-04-11T12:22:03Z"
+      },
+      {
+        "title": "Knight:希望队伍成绩越来越好,对队友说的是更努力一点",
+        "link": "https://k.sina.cn/article_7857201856_1d45362c0019049oua.html",
+        "published_date": "2026-04-13T13:08:02Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6465652215982484574",
+    "record_title": "AL vs NIP LPL 2026 Match",
+    "enrichment": {
+      "broadcast_info": null,
+      "format_details": null,
+      "location": null,
+      "key_changes": null,
+      "start_date": "2026-04-22",
+      "season_name": "LPL 2026 Stage 2 Regular Season",
+      "teams_mentioned": "AL, NIP",
+      "end_date": null,
+      "event_type": "regular_season",
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "[流言板]AL vs NIP赛前海报：观赛饮品推荐-珍珠奶茶；忍者小队加油 8回复/ 2亮1445 浏览",
+        "link": "https://bbs.hupu.com/638634254.html",
+        "published_date": "2026-04-21T21:00:04Z"
+      }
+    ]
+  },
+  {
+    "record_id": "6785409440245031592",
+    "record_title": "Light's Retirement from LPL 2026 Season",
+    "enrichment": {
+      "teams_mentioned": "WBG",
+      "broadcast_info": null,
+      "end_date": null,
+      "format_details": null,
+      "season_name": "LPL 2026 season",
+      "event_type": "other",
+      "start_date": "2026-01-01",
+      "key_changes": null,
+      "location": null,
+      "enrichment_confidence": "high"
+    },
+    "citations": [
+      {
+        "title": "Uzi都觉得'任性'的选手！前LPL一线AD光速退役，近照曝光引热议",
+        "link": "https://www.sohu.com/a/1008629446_120711645",
+        "published_date": "2026-04-12T13:33:23Z"
+      }
+    ]
+  }
+]

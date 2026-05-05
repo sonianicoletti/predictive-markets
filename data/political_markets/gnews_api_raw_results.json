@@ -1,0 +1,1893 @@
+[
+  {
+    "question": "Will the AfD be the Berlin State Election Winner?",
+    "queries": [
+      {
+        "query": "AfD Berlin election polls",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "articlesRemovedFromResponse": {
+            "historicalArticles": {
+              "message": "7 articles were removed from the response because historical data beyond 30 days is only available on paid plans. Upgrade your plan here to access historical data: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 7,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin state election schedule",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD popularity in Berlin",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 1,
+          "articles": [
+            {
+              "id": "1649d06544aabd9348f8ea967ab9e7a3",
+              "title": "‘Remigration’ and Russian lessons: German far-right party promises radical measures if elected",
+              "description": "By Sebastian Shukla, CNN Berlin (CNN) — As one European nationalist party saw its grip on power end abruptly in Hungary over the weekend, another was riding a wave of popularity that is strengthening its hold on German politics. The Alternative for Deutschland (AfD) chapter in the former East German state of Saxony-Anhalt held its",
+              "content": "By Sebastian Shukla, CNN\nBerlin (CNN) — As one European nationalist party saw its grip on power end abruptly in Hungary over the weekend, another was riding a wave of popularity that is strengthening its hold on German politics.\nThe Alternative for D... [4059 chars]",
+              "url": "https://abc17news.com/news/national-world/cnn-world/2026/04/15/remigration-and-russian-lessons-german-far-right-party-promises-radical-measures-if-elected/",
+              "image": "https://abc17news.b-cdn.net/abc17news.com/2026/04/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW56djBrMGcwMDBwM2I2cWk1cWkxd3Nt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntbnp1eG1mYjAwMHkyN3FxZmV4MmN2bms-860x573.jpg",
+              "publishedAt": "2026-04-15T09:50:02Z",
+              "lang": "en",
+              "source": {
+                "id": "d5a02d07558c5563d72576efc406e608",
+                "name": "ABC17News.com",
+                "url": "https://abc17news.com",
+                "country": "us"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "Berlin election candidate list",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD Berlin election campaign",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin state election predictions",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD campaign issues Berlin",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin election AfD chances",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD vs other parties Berlin election",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin state election winner",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      }
+    ]
+  },
+  {
+    "question": "Strait of Hormuz traffic returns to normal by end of April?",
+    "queries": [
+      {
+        "query": "Strait of Hormuz traffic update",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "articlesRemovedFromResponse": {
+            "historicalArticles": {
+              "message": "3 articles were removed from the response because historical data beyond 30 days is only available on paid plans. Upgrade your plan here to access historical data: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 4,
+          "articles": [
+            {
+              "id": "5be111310b817d4a13a2881acc40aa87",
+              "title": "UPDATE 1-Shipping traffic remains at virtual standstill through Hormuz, data shows",
+              "description": "Shipping traffic ​through the Strait of Hormuz ‌remained at ​a virtual standstill on Monday with just three crossings in the space of ‌12 hours, according to shipping data. The oil products tanker Nero, which is under British sanctions for Russian oil activities, left the Gulf ‌and was sailing through the Strait, according to satellite analysis ‌from data analytics specialists SynMax and tracking data from the Kpler platform.",
+              "content": "Shipping traffic ​through the Strait of Hormuz ‌remained at ​a virtual standstill on Monday with just three crossings in the space of ‌12 hours, according to shipping data.\nThe oil products tanker Nero, which is under British sanctions for Russian oi... [1012 chars]",
+              "url": "https://www.devdiscourse.com/article/headlines/3880441-update-1-shipping-traffic-remains-at-virtual-standstill-through-hormuz-data-shows",
+              "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_01_02_8802375.jpg?width=920&format=jpeg",
+              "publishedAt": "2026-04-20T10:45:03Z",
+              "lang": "en",
+              "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "Hormuz shipping lane news",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "articlesRemovedFromResponse": {
+            "historicalArticles": {
+              "message": "4 articles were removed from the response because historical data beyond 30 days is only available on paid plans. Upgrade your plan here to access historical data: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 5,
+          "articles": [
+            {
+              "id": "76248c85a7fdeb4c617c89d83486ec03",
+              "title": "Iran publishes chart showing it may have put sea mines in Strait of Hormuz as shaky ceasefire holds",
+              "description": "Iran's semiofficial news agencies have published a chart suggesting the Revolutionary Guard placed sea mines in the Strait of Hormuz, a critical shipping lane, during the war. The reports from the ISNA news agency and Tasnim, which is believed to be close to the Guard, show a \"danger zone\" over the Traffic Separation Scheme. That route is used by ships through the strait. It suggests ships travel north through waters closer to Iran’s mainland. The dates on the chart ran from February 28 to Thursday, April 9. It’s unclear if the Guard cleared the mines. This likely serves as a pressure tactic in two-week ceasefire and ahead of possible negotiations in Islamabad. The reports come as uncertainty hangs over a two-week tentative ceasefire announced early Wednesday.",
+              "content": "DUBAI, United Arab Emirates (AP) — Semiofficial news agencies in Iran published a chart Thursday suggesting the country’s paramilitary Revolutionary Guard put sea mines into the Strait of Hormuz during the war, in a message that may be intended to pr... [5570 chars]",
+              "url": "https://www.ajc.com/news/2026/04/iran-publishes-chart-showing-it-may-have-put-sea-mines-in-strait-of-hormuz-as-shaky-ceasefire-holds/",
+              "image": "https://images.ajc.com/resizer/v2/UHYLQKKVAFE5LMV66N2TWFDPNU.jpg?auth=6e2fa1b639aa888a4cf28f7923eec36a25af16a10714fc0611384f855d2c9395&width=1200&height=630&smart=true",
+              "publishedAt": "2026-04-09T07:01:21Z",
+              "lang": "en",
+              "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "IMF Portwatch Strait data",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Strait of Hormuz maritime news",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 69,
+          "articles": [
+            {
+              "id": "b1490a78237d5a8e106e41af5f1debd0",
+              "title": "Great Nicobar Island: India's new economic and military outpost that can threaten China's energy security",
+              "description": "News News: The closure of the Strait of Hormuz has once again put the spotlight on the global dependence on maritime trade. The closure of the critical waterway .",
+              "content": "The closure of the Strait of Hormuz has once again put the spotlight on the global dependence on maritime trade. The closure of the critical waterway has restricted access to 20% of the global hydrocarbon trade, causing turmoil in the global energy m... [7217 chars]",
+              "url": "https://timesofindia.indiatimes.com/defence/news/great-nicobar-island-indias-new-economic-and-military-outpost-that-can-threaten-chinas-energy-security/articleshow/130553190.cms",
+              "image": "https://static.toiimg.com/thumb/msid-130553487,width-1280,height-720,imgsize-250488,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+              "publishedAt": "2026-04-27T12:04:00Z",
+              "lang": "en",
+              "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "997776b2a4fd791caee348dcbce434cb",
+              "title": "Iran offers US new deal to end war, reopen Strait of Hormuz; proposes to hold nuclear talks 'later'",
+              "description": "According to a report by news outlet Axios, nuclear discussions would \"begin only at a later stage,\" specifically after the maritime passage is cleared and the",
+              "content": "Iran has reportedly made a new proposal to the United States through Pakistani intermediaries to de-escalate regional tensions.\nAccording to a report by news outlet Axios, the proposal outlined a framework \"to reopen the Strait of Hormuz and end the ... [2684 chars]",
+              "url": "https://www.newindianexpress.com/world/2026/Apr/27/iran-offers-us-new-deal-to-end-war-reopen-strait-of-hormuz-proposes-to-hold-nuclear-talks-later",
+              "image": "https://media.newindianexpress.com/newindianexpress%2F2026-04-27%2F087c0hjs%2FAP26108447326306.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+              "publishedAt": "2026-04-27T05:38:38Z",
+              "lang": "en",
+              "source": {
+                "id": "448094ed3f9461bb87a99a218cdaecfe",
+                "name": "The New Indian Express",
+                "url": "https://www.newindianexpress.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "20a3e5bc790af6a6f5a86ad0911db295",
+              "title": "The global toll map: Why moving goods across borders comes at uneven costs",
+              "description": "International Business News: Amid Iran’s move to control traffic passing through the Strait of Hormuz, the world’s most critical maritime chokepoint has become a litmus test for h.",
+              "content": "This image is used for representation purpose only (AI-generated)\nAmid Iran’s move to control traffic passing through the Strait of Hormuz, the world’s most critical maritime chokepoint has become a litmus test for how far states can go in monetising... [12847 chars]",
+              "url": "https://timesofindia.indiatimes.com/business/international-business/the-global-toll-map-why-moving-goods-across-borders-comes-at-uneven-costs/articleshow/130495604.cms",
+              "image": "https://static.toiimg.com/thumb/msid-130495706,width-1280,height-720,imgsize-119710,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+              "publishedAt": "2026-04-24T13:46:00Z",
+              "lang": "en",
+              "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "46f7b74e354bf89595e3b2dfd7843475",
+              "title": "'Layered system of threats': How Iran’s use of 'fast",
+              "description": "International News: Iran’s use of swarms of small, fast boats to seize two container ships near the Strait of Hormuz is raising fresh concerns over maritime security. It .",
+              "content": "Iran’s use of swarms of small, fast boats to seize two container ships near the Strait of Hormuz is raising fresh concerns over maritime security. It also challenges claims that US forces have neutralised Tehran’s naval threat and highlights the diff... [2847 chars]",
+              "url": "https://timesofindia.indiatimes.com/defence/international/layered-system-of-threats-how-irans-use-of-fast-attack-ships-is-choking-hormuz/articleshow/130482691.cms",
+              "image": "https://static.toiimg.com/thumb/msid-130482689,width-1280,height-720,imgsize-652416,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+              "publishedAt": "2026-04-24T03:25:00Z",
+              "lang": "en",
+              "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "fe85e9c7d84ecb9364c2a5d2a95d713a",
+              "title": "Iran Seizes 2 Ships in Hormuz, Fires On Third; 21 Indians Onboard Safe, Says Govt",
+              "description": "Iran recently escalated maritime tensions by seizing two foreign container ships in the Strait of Hormuz, one of which had an Indian seafarer among its crew. , India News, Times Now",
+              "content": "All 21 Indian seafarers aboard a Panama-flagged container ship that came under fire in the Strait of Hormuz are safe, the government said on Wednesday, amid escalating maritime tensions between Iran and the United States. One Indian seafarer was amon... [1705 chars]",
+              "url": "https://www.timesnownews.com/india/iran-seizes-2-ships-in-hormuz-fires-on-third-21-indians-onboard-safe-says-government-article-154154245",
+              "image": "https://images.timesnownews.com/thumb/msid-154154245,width-1280,height-720,resizemode-75/154154245.jpg",
+              "publishedAt": "2026-04-24T02:57:53Z",
+              "lang": "en",
+              "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "c71b7588b10ec18261d91e28474d8806",
+              "title": "‘21 Indian crew on Panama-flagged ship attacked in Hormuz strait safe’: Govt",
+              "description": "Real-time tracking of maritime traffic in the strait, has been affected by widespread jamming as well as spoofing of transponder data| India News",
+              "content": "The Euphoria is one of three ships that were attacked by the Islamic Revolutionary Guard Corps (IRGC) on Wednesday as Tehran pushed back against a US blockade of its shipping, seeking to reassert its control of the strait that is normally the route f... [2184 chars]",
+              "url": "https://www.hindustantimes.com/india-news/21-indian-crew-on-panama-flagged-ship-attacked-in-hormuz-strait-safe-govt-101776989170321.html",
+              "image": "https://www.hindustantimes.com/ht-img/img/2026/04/24/550x309/Emirates-Iran-War-0_1776989364046_1776989379736.jpg",
+              "publishedAt": "2026-04-24T00:11:25Z",
+              "lang": "en",
+              "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "85d69c2d4f64d66c7d6c5e238428d1c5",
+              "title": "Indian seafarer among crew of ship held by Iran in Strait of Hormuz",
+              "description": "NEW DELHI, Apr 23: At least one Indian seafarer was among the crew of a vessel taken into custody by Iran in the latest maritime escalation near the Strait of Hormuz. Two of the three foreign-flagged commercial vessels fired upon by Iranian forces in the strait on Wednesday had 22 Indian seafarers, Mukesh Mangal, Additional Secretary in Ministry of Ports, Shipping & Waterways, said at a news briefing. “All seafarers on board both the vessels are safe,” he said. There […]",
+              "content": "NEW DELHI, Apr 23: At least one Indian seafarer was among the crew of a vessel taken into custody by Iran in the latest maritime escalation near the Strait of Hormuz.\nTwo of the three foreign-flagged commercial vessels fired upon by Iranian forces in... [2549 chars]",
+              "url": "https://www.dailyexcelsior.com/indian-seafarer-among-crew-of-ship-held-by-iran-in-strait-of-hormuz/",
+              "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/shipppp.jpg",
+              "publishedAt": "2026-04-23T22:30:55Z",
+              "lang": "en",
+              "source": {
+                "id": "28bc60a23a7bf89e60f893506992a3fe",
+                "name": "Daily Excelsior",
+                "url": "https://www.dailyexcelsior.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "d6568e7abc6d6376e626e5a7519e2939",
+              "title": "Indian Navy lists Hormuz as ‘primary area’ of interest, one of the key ‘choke points’",
+              "description": "India News: NEW DELHI: Amid the ongoing blockade of the Strait of Hormuz and resultant spike in crude oil prices, the Indian Navy has made public its maritime sec.",
+              "content": ".\nNEW DELHI: Amid the ongoing blockade of the Strait of Hormuz and resultant spike in crude oil prices, the Indian Navy has made public its maritime security strategy, released recently by Navy chief Admiral D K Tripathi, which mentions Hormuz as “pr... [3059 chars]",
+              "url": "https://timesofindia.indiatimes.com/india/indian-navy-lists-hormuz-as-primary-area-of-interest-one-of-the-key-choke-points/articleshow/130478481.cms",
+              "image": "https://static.toiimg.com/thumb/msid-130478492,width-1280,height-720,imgsize-50386,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+              "publishedAt": "2026-04-23T20:05:00Z",
+              "lang": "en",
+              "source": {
+                "id": "9a9a0fb79c70bbf499d39baca94921ae",
+                "name": "Times of India",
+                "url": "https://timesofindia.indiatimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "cd01fcbe9fc719aba8313eb1418de5c1",
+              "title": "The Middle Eastʼs leading independent news source since 2012",
+              "description": "DUBAI, April 22 (Reuters) - At least three container ships were hit by gunfire in the Strait of Hormuz on Wednesday, maritime security sources and the United Kingdom Maritime Trade Operations (UKMTO) said.Iran has imposed restrictions on ships using the strait, first in retaliation for the U.S.-Israeli bombardment of the country, and then in response to a U.S. blockade of Iranian ports.A Liberia-flagged container ship sustained damage to its bridge after being hit by gunfire and rocket-propelled grenades northeast of Oman.",
+              "content": "DUBAI, April 22 (Reuters) - At least three container ships were hit by gunfire in the Strait of Hormuz on Wednesday, maritime security sources and the United Kingdom Maritime Trade Operations (UKMTO) said.\nIran has imposed restrictions on ships using... [1540 chars]",
+              "url": "https://www.al-monitor.com/originals/2026/04/three-vessels-hit-gunfire-strait-hormuz-crews-safe",
+              "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-04/2026-04-22T090719Z_1_LYNXMPEM3L0FN_RTROPTP_4_IRAN-CRISIS-HORMUZ.JPG?h=0f4230fa&itok=GF8zWZaz",
+              "publishedAt": "2026-04-22T09:07:19Z",
+              "lang": "en",
+              "source": {
+                "id": "df3038aaa802741cdad6eb4698aa1552",
+                "name": "Al-Monitor",
+                "url": "https://www.al-monitor.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "7713174541fdbe83bfac41420ba324c6",
+              "title": "‘Biggest crisis in history’: Global body chief flags energy shock amid Iran-US-Israel war",
+              "description": "The escalation in the Middle East has disrupted maritime traffic through the Strait of Hormuz, a key route that carries roughly one-fifth of global oil. | World News",
+              "content": "The ongoing conflict involving Iran, the United States and Israel is triggering what could become the most severe energy crisis in history, according to the head of the International Energy Agency.\n\"This is indeed the biggest crisis in history,\" Fati... [1980 chars]",
+              "url": "https://www.hindustantimes.com/world-news/biggest-crisis-in-history-global-body-iea-chief-flags-energy-shock-amid-iran-us-israel-war-101776778750428.html",
+              "image": "https://www.hindustantimes.com/ht-img/img/2026/04/21/550x309/PTI03-29-2026-000238A-0_1776779447934_1776779509161.jpg",
+              "publishedAt": "2026-04-21T14:16:13Z",
+              "lang": "en",
+              "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "Recent Hormuz ship traffic",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "articlesRemovedFromResponse": {
+            "historicalArticles": {
+              "message": "2 articles were removed from the response because historical data beyond 30 days is only available on paid plans. Upgrade your plan here to access historical data: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 5,
+          "articles": [
+            {
+              "id": "85af9af25a555f31714ba855d3995404",
+              "title": "Iran oil tankers turned back by US blockade, Hormuz traffic sparse",
+              "description": "Six tankers loaded with Iranian oil have been forced back to Iran by the U.S. blockade in recent days, ship-tracking data shows, underscoring the impact the Iran war is having on traffic through the...\n-April 27, 2026 at 11:02 am EDT\n- MarketScreener",
+              "content": "LONDON, April 27 (Reuters) - Six tankers loaded with Iranian oil have been forced back to Iran by the U.S. blockade in recent days, ship-tracking data shows, underscoring the impact the Iran war is having on traffic through the Strait of Hormuz, a ma... [2598 chars]",
+              "url": "https://www.marketscreener.com/news/iran-oil-tankers-turned-back-by-us-blockade-hormuz-traffic-sparse-ce7f59ddd98cf420",
+              "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-27T114224Z_2_LYNXMPEM3Q0PR_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+              "publishedAt": "2026-04-27T15:02:50Z",
+              "lang": "en",
+              "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+              }
+            },
+            {
+              "id": "eb2ee1269f0f989efeb2e89cf0026a7f",
+              "title": "Shipping traffic through Hormuz remains muted with no US-Iran deal in sight, data shows",
+              "description": "LONDON, April 27 (Reuters) - At least seven ships - mainly dry bulk vessels - have crossed the Strait of Hormuz in the past 24 hours, in line with muted activity in recent days, shipping data showed on Monday, while talks between Iran and the United States have stalled.The vessels included ships leaving from Iraqi ports and one dry bulk vessel from an Iranian port, according to ship tracking data from Kpler and separate satellite analysis from data analytics specialists SynMax.",
+              "content": "LONDON, April 27 (Reuters) - At least seven ships - mainly dry bulk vessels - have crossed the Strait of Hormuz in the past 24 hours, in line with muted activity in recent days, shipping data showed on Monday, while talks between Iran and the United ... [1035 chars]",
+              "url": "https://www.al-monitor.com/originals/2026/04/shipping-traffic-through-hormuz-remains-muted-no-us-iran-deal-sight-data-shows",
+              "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-04/2026-04-27T114224Z_2_LYNXMPEM3Q0PR_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.JPG?h=6a00fd0a&itok=rAQVlPrD",
+              "publishedAt": "2026-04-27T11:49:03Z",
+              "lang": "en",
+              "source": {
+                "id": "df3038aaa802741cdad6eb4698aa1552",
+                "name": "Al-Monitor",
+                "url": "https://www.al-monitor.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "a4050c0d8d12f05a1341ea5eda246838",
+              "title": "Trump: 34 Ships Transited Hormuz on Sunday",
+              "description": "President Donald Trump on Monday said ship traffic through the Strait of Hormuz had surged, describing the development as a sign that recent disruptions to the critical maritime corridor may be easing.",
+              "content": "President Donald Trump on Monday said ship traffic through the Strait of Hormuz had surged, describing the development as a sign that recent disruptions to the critical maritime corridor may be easing.\nTrump wrote in a post on Truth Social that \"34 s... [1792 chars]",
+              "url": "https://www.newsmax.com/newsfront/strait-of-hormuz-donald-trump-ships/2026/04/13/id/1252747/",
+              "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=34b32eb8-e402-421f-a2ff-0a42d1628c99&SiteName=Newsmax",
+              "publishedAt": "2026-04-13T17:53:08Z",
+              "lang": "en",
+              "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "Strait of Hormuz ship traffic update",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "IMF Portwatch Strait of Hormuz data",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Normal traffic levels Strait of Hormuz",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "articlesRemovedFromResponse": {
+            "historicalArticles": {
+              "message": "1 article was removed from the response because historical data beyond 30 days is only available on paid plans. Upgrade your plan here to access historical data: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 4,
+          "articles": [
+            {
+              "id": "becfba49ef74d8999a3130e79fb23a38",
+              "title": "Strait of Hormuz closed as Iran seizes ships after Trump ceasefire extension",
+              "description": "Ship traffic in the Strait of Hormuz is still way below normal levels before the war when more than 100 vessels crossed daily.",
+              "content": "Ship traffic through the Strait of Hormuz remained very light on Wednesday, the first day since President Donald Trump extended the ceasefire with Iran.\nTrump's decision to unilaterally extend the truce has not opened the strait. Iran is still trying... [2629 chars]",
+              "url": "https://www.cnbc.com/2026/04/22/iran-war-strait-hormuz-tanker-ship-trump-blockade.html",
+              "image": "https://image.cnbcfm.com/api/v1/image/108293657-1776873642797-108293657-17766029382026-04-18t130032z_1433448002_rc2orkamayew_rtrmadp_0_iran-crisis-oman-hormuz.jpg?v=1776873653&w=1920&h=1080",
+              "publishedAt": "2026-04-22T15:51:00Z",
+              "lang": "en",
+              "source": {
+                "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+                "name": "CNBC",
+                "url": "https://www.cnbc.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "1d625816d1f8b65b8ebb3f879f3ac5e8",
+              "title": "Hormuz Shipping Traffic Remains Far Below Normal as Double Blockade Persists",
+              "description": "Shipping through the Strait of Hormuz, the waterway that’s become a focal point for the global economy, stayed far below peacetime levels as an effective double blockade stifles vessel movements.",
+              "content": "Shipping through the Strait of Hormuz, the waterway that’s become a focal point for the global economy, stayed far below peacetime levels as an effective double blockade stifles vessel movements.\nThe number of commercial ships observed sailing throug... [328 chars]",
+              "url": "https://www.bloomberg.com/news/articles/2026-04-15/double-blockade-keeps-hormuz-shipping-at-fraction-of-peace-level",
+              "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVfJcweyo2DU/v1/1200x800.jpg",
+              "publishedAt": "2026-04-15T13:52:42Z",
+              "lang": "en",
+              "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "de71c92cb562ea99ed277fc52999d828",
+              "title": "Oil tankers reportedly moving through Strait of Hormuz, CEO says, as prices slide",
+              "description": "Gristedes CEO John Catsimatidis says limited tanker traffic is beginning to move through the Strait of Hormuz, with flow still far below normal levels as o",
+              "content": "Iran closes Strait of Hormuz again despite Trump's ceasefire deal\nThe Islamic Revolutionary Guard Corps (IRGC) said it had closed the Strait of Hormuz after U.S. President Donald Trump agreed to a ceasefire that required the waterway to remain open. ... [4538 chars]",
+              "url": "https://www.newsbreak.com/fox-business-1600402/4582060042147-oil-tankers-reportedly-moving-through-strait-of-hormuz-ceo-says-as-prices-slide",
+              "image": "https://img.particlenews.com/img/id/2OJmZl_1AHzm6l700",
+              "publishedAt": "2026-04-08T18:30:41Z",
+              "lang": "en",
+              "source": {
+                "id": "b270331faaf20dc58f78e3a4fb5c2faf",
+                "name": "NewsBreak",
+                "url": "https://www.newsbreak.com",
+                "country": "us"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "Strait of Hormuz news April 2026",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 28,
+          "articles": [
+            {
+              "id": "4906f01caebbd64e66dedcb398aff03f",
+              "title": "President Trump cancels talks in Iran as US expands Hormuz blockade | Morning News Bulletin 26 April 2026",
+              "description": "President Trump cancels talks in Iran, as US expands blockade of Strait of Hormuz; governments from around 50 countries meet to discuss move away from fossil fuels; and in NRL, the Storm suffers a record loss against the Rabbitohs.",
+              "content": "Listen to Australian and world news, and follow trending topics with SBS News Podcasts.\nTRANSCRIPT\nPresident Trump cancels talks in Iran, as US expands blockade of Strait of Hormuz\nGovernments from around 50 countries meet to discuss move away from f... [4658 chars]",
+              "url": "https://www.sbs.com.au/news/podcast-episode/president-trump-cancels-talks-in-iran-as-us-expands-hormuz-blockade-morning-news-bulletin-26-april-2026/06rgz00pb",
+              "image": "https://assets.sbs.com.au/dims4/default/72fbdfc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F0e%2F1f%2F4ab0f1584986beedae10e669bc0f%2Fmorning-bulletin-1.png",
+              "publishedAt": "2026-04-25T20:33:58Z",
+              "lang": "en",
+              "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+              }
+            },
+            {
+              "id": "5e6f5444b6bcdb9b0ac2b01d8d9ff441",
+              "title": "Trump orders US military to 'shoot and kill' Iranian boats laying mines | Morning News Bulletin 24 April 2026",
+              "description": "Donald Trump orders the US military to 'shoot and kill' Iranian boats laying mines in the Strait of Hormuz; Fears remote Indigenous communities could be left without any power; Jamarra Ugle-Hagan to make his long-awaited debut with the Gold Coast Suns.",
+              "content": "Listen to Australian and world news, and follow trending topics with SBS News Podcasts.\nTRANSCRIPT\nUS President Donald Trump has ordered the US military to \"shoot and kill\" Iranian small boats laying mines in the Strait of Hormuz.\nIn a social media p... [4309 chars]",
+              "url": "https://www.sbs.com.au/news/podcast-episode/trump-orders-us-military-to-shoot-and-kill-iranian-boats-laying-mines-morning-news-bulletin-24-april-2026/z9zvi1ft2",
+              "image": "https://assets.sbs.com.au/dims4/default/062b01f/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F39%2Fb0%2Fe7c445864ee285b8aeb4036a2536%2Fmorning-bulletin-240426.png",
+              "publishedAt": "2026-04-23T20:30:03Z",
+              "lang": "en",
+              "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+              }
+            },
+            {
+              "id": "80a8b3e718be0be96a57a72860c7e5cd",
+              "title": "Deutsche Börse News: Market sentiment 'stripped of hope'",
+              "description": "April 23, 2026. FRANKFURT . Hopes that the Strait of Hormuz might be reopened propelled the DAX to a gain of as much as 3.1 percent at the end of the week compared to our previous sentiment survey....",
+              "content": "FRANKFURT (DEUTSCHE BOERSE AG) - April 23, 2026. FRANKFURT (Goldberg & Goldberg). Hopes that the Strait of Hormuz might be reopened propelled the DAX to a gain of as much as 3.1 percent at the end of the week compared to our previous sentiment survey... [3488 chars]",
+              "url": "https://www.marketscreener.com/news/deutsche-borse-news-market-sentiment-stripped-of-hope-ce7f59d9d18cf226",
+              "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2015-08-06T074906Z_1007120001_LYNXNPEB750E3_RTROPTP_2_OFRBS-MARCHES-SYNTHESE-2.JPG",
+              "publishedAt": "2026-04-23T11:48:20Z",
+              "lang": "en",
+              "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+              }
+            },
+            {
+              "id": "9684a122214ec1768ae019df08498f83",
+              "title": "Iran seizes ships crossing Hormuz | Morning News Bulletin 23 April 2026",
+              "description": "In this bulletin, Iran says it has seized cargo ships near the Strait of Hormuz, the Coalition says there's been little consultation on changes to the NDIS. And in NRL, St George Illawarra’s Kade Reed says he's looking forward to his Anzac Day debut.",
+              "content": "Listen to Australian and world news, and follow trending topics with SBS News Podcasts.\nTRANSCRIPT\nIranian forces have targeted three container ships overnight, seizing two.\nIran's Revolutionary Guard says its naval forces stopped two ships attemptin... [4671 chars]",
+              "url": "https://www.sbs.com.au/news/podcast-episode/iran-seizes-ships-crossing-hormuz-morning-news-bulletin-23-april-2026/zsbqhpqsk",
+              "image": "https://assets.sbs.com.au/dims4/default/c1b6ffd/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa4%2F00%2F3e7b09f84e36886f933737330b64%2Fmorning-bulletin-230426.png",
+              "publishedAt": "2026-04-22T20:26:11Z",
+              "lang": "en",
+              "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+              }
+            },
+            {
+              "id": "7e5399a262806e9e99d516e8591338d5",
+              "title": "Government announces major cuts to NDIS | Evening News Bulletin 22 April 2026",
+              "description": "The federal government tightens access to the NDIS; Military planners meeting in London on how to re-open the Strait of Hormuz; Essendon's Jordan Ridley sidelined with a calf strain days before an iconic Anzac Day match.",
+              "content": "Listen to Australian and world news, and follow trending topics with SBS News Podcasts.\nTRANSCRIPT:\nThe federal government tightens access to the NDIS;\nMilitary planners meeting in London on how to re-open the Strait of Hormuz;\nEssendon's Jordan Ridl... [4981 chars]",
+              "url": "https://www.sbs.com.au/news/podcast-episode/government-announces-major-cuts-to-ndis-evening-news-bulletin-22-april-2026/bruoqpz7x",
+              "image": "https://assets.sbs.com.au/dims4/default/7580dd7/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F0d%2F98%2Feec34c6445a9b67566c1055403b0%2F2204226-afternoon-bulletin.jpg",
+              "publishedAt": "2026-04-22T06:00:00Z",
+              "lang": "en",
+              "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+              }
+            },
+            {
+              "id": "a07b0692313e9cea51f973965ad8c0f8",
+              "title": "Australia backs calls for more talks over Strait of Hormuz | Morning News Bulletin 21 April 2026",
+              "description": "Australia calls for a negotiated settlement to re-open the Strait of Hormuz; Israeli and Lebanese representatives expected to hold talks in Washington DC on Thursday; And in AFL, Port Adelaide's Zak Butters cleared of umpire abuse.",
+              "content": "Listen to Australian and world news, and follow trending topics with SBS News Podcasts.\nIn this bulletin;\nAustralia calls for a negotiated settlement to re-open the Strait of Hormuz;\nIsraeli and Lebanese representatives expected to hold talks in Wash... [4962 chars]",
+              "url": "https://www.sbs.com.au/news/podcast-episode/australia-backs-calls-for-more-talks-over-strait-of-hormuz-morning-news-bulletin-21-april-2026/7mlnjp39q",
+              "image": "https://assets.sbs.com.au/dims4/default/bffe8e6/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F08%2Ffb%2Feb865724407aadd93f3948859f91%2Fmorning-bulletin-image-21-april-2026.jpg",
+              "publishedAt": "2026-04-20T20:06:38Z",
+              "lang": "en",
+              "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+              }
+            },
+            {
+              "id": "251641db21ea91859a9cb4c26ffca044",
+              "title": "Deputy PM says matter of global urgency to reopen Strait of Hormuz | Evening News Bulletin 19 April 2026",
+              "description": "In this bulletin, Ben Roberts-Smith says he will use his trial to clear his name over alleged war crimes; Deputy PM Marles says it's a matter of global urgency to reopen Strait of Hormuz; and in sport, Manchester City prepare for do or die show-down with Arsenal.",
+              "content": "Listen to Australian and world news, and follow trending topics with SBS News Podcasts.\nTRANSCRIPT\nIn this bulletin;\nBen Roberts-Smith says he will use his trial to clear his name over alleged war crimes\nDeputy PM Marles says it's a matter of global ... [6207 chars]",
+              "url": "https://www.sbs.com.au/news/podcast-episode/deputy-pm-says-matter-of-global-urgency-to-reopen-strait-of-hormuz-evening-news-bulletin-19-april-2026/cuyhe1nmv",
+              "image": "https://assets.sbs.com.au/dims4/default/9dc9e96/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F6f%2F5a%2F7b08c08c476ea6ff74a211fcc31b%2Fafternoon-news-bulletin-image-19-april-2026.jpg",
+              "publishedAt": "2026-04-19T06:06:30Z",
+              "lang": "en",
+              "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+              }
+            },
+            {
+              "id": "60757205b2f844878f08be8cd631fc8e",
+              "title": "Morning Digest: NDA will remove hurdles before women’s reservation, says PM; Iran closes Hormuz Strait again over U.S. blockade, and more",
+              "description": "The Hindu Morning Digest gives a select list of stories to start the day. Read the top news today on April 19, 2026",
+              "content": "A day after the government failed to secure passage of the Constitution (131st Amendment) Act and the Delimitation Bill—which sought to implement 33% reservation for women in the Lok Sabha and State Assemblies—Prime Minister Narendra Modi said the ND... [570 chars]",
+              "url": "https://www.thehindu.com/news/morning-digest-april-19-2026/article70879046.ece",
+              "image": "https://th-i.thgim.com/public/incoming/i633av/article70879920.ece/alternates/LANDSCAPE_1200/PTI04_18_2026_000774B.jpg",
+              "publishedAt": "2026-04-19T03:30:22Z",
+              "lang": "en",
+              "source": {
+                "id": "b33a42ef1c098421f66aad47a76d6a3c",
+                "name": "The Hindu",
+                "url": "https://www.thehindu.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "edf09c4bd4bbea1a06c574a0d0048028",
+              "title": "European leaders continue plans to open Hormuz | Evening News Bulletin 18 April 2026",
+              "description": "** The UK and France say plans continue for an international maritime security mission in the Strait of Hormuz... Energy Minister Bowen says fuel shortages are easing, and extends temporary relaxation of sulfur limits ... and in sport, eighteen-year-old sprint star Gout Gout claims the National Juniors 100 metre gold.",
+              "content": "Listen to Australian and world news and follow trending topics with SBS News Podcasts.\nTRANSCRIPT\nThe UK and France say they intend to continue planning for an international mission to restore maritime security in the Strait of Hormuz, despite Iran a... [4379 chars]",
+              "url": "https://www.sbs.com.au/news/podcast-episode/european-leaders-continue-plans-to-open-hormuz-evening-news-bulletin-18-april-2026/quwyrbu9h",
+              "image": "https://assets.sbs.com.au/dims4/default/f0ab2e9/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F97%2F4f%2F65c12222443e9d4a0ec98ed00eb7%2Fafternoon-bulletin-3.jpg",
+              "publishedAt": "2026-04-18T06:07:16Z",
+              "lang": "en",
+              "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+              }
+            },
+            {
+              "id": "5b85745f5a4f0d0760af08390c197d9e",
+              "title": "Australia, world shipping warily welcomes Hormuz Strait opening | Midday News Bulletin 18 April 2026",
+              "description": "Major shipping companies and world leaders wary as the Strait of Hormuz reopens to commercial traffic; No extra fuel security measures after a Geelong oil refinery inferno; Carlos Alcaraz out of the upcoming Madrid Open.",
+              "content": "Listen to Australian and world news, and follow trending topics with SBS News Podcasts.\nTRANSCRIPT\nMajor shipping companies and world leaders wary as the Strait of Hormuz reopens to commercial traffic\nNo extra fuel security measures after a Geelong o... [5272 chars]",
+              "url": "https://www.sbs.com.au/news/podcast-episode/australia-world-shipping-warily-welcomes-hormuz-strait-opening-midday-news-bulletin-18-april-2026/yu2s3j3ya",
+              "image": "https://assets.sbs.com.au/dims4/default/4074060/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F1a%2F02%2F053b18bd41ce8759a145a743fe4b%2Fmidday-news-bulletin-image-18-april-2026.jpg",
+              "publishedAt": "2026-04-18T02:01:11Z",
+              "lang": "en",
+              "source": {
+                "id": "94466d37d8c67a438250646866df36df",
+                "name": "SBS Australia",
+                "url": "https://www.sbs.com.au",
+                "country": "au"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "IMF Portwatch transit calls report",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      }
+    ]
+  },
+  {
+    "question": "US x Iran permanent peace deal by May 31?",
+    "queries": [
+      {
+        "query": "US Iran peace talks",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 2510,
+          "articles": [
+            {
+              "id": "44cfed6c3511323044436685b2791a29",
+              "title": "Iran-US War Ceasefire News Live Updates: Trump Unhappy With Tehran’s Hormuz Blockade Proposal",
+              "description": "US-Iran War Ceasefire News, Peace Talks Live Updates: Trump rejects Irans de-escalation proposal which includes removal of blockade over Strait of Hormuz",
+              "content": "US-Iran War Ceasefire News Live Updates: Donald Trump has rejected a fresh proposal from Iran aimed at de-escalating tensions, with officials saying Washington is dissatisfied with the sequencing and conditions outlined by Tehran.\nThe proposal report... [1315 chars]",
+              "url": "https://www.news18.com/world/us-israel-iran-war-ceasefire-news-live-updates-donald-trump-shehbaz-sharif-islamabad-peace-talks-strait-of-hormuz-blockade-latest-news-liveblog-ws-l-10061241.html",
+              "image": "https://images.news18.com/ibnlive/uploads/2026/04/donald-trump-2026-04-4911a99cbceec3ead1cd6c1c82e490c7-1200x675.png",
+              "publishedAt": "2026-04-28T04:55:21Z",
+              "lang": "en",
+              "source": {
+                "id": "ca84296ef941bfa461f4239a2290cb99",
+                "name": "News18",
+                "url": "https://www.news18.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "11f4b700d63f04f49b285fe55170e828",
+              "title": "Gold edges down with US-Iran talks, central bank decisions in focus",
+              "description": "Gold prices eased on Tuesday, as investors watched for the impact of the Middle East conflict and stalled U.S.-Iran peace talks on the interest rate outlook of key central banks that meet this week.\n...",
+              "content": "April 28 (Reuters) - Gold prices eased on Tuesday, as investors watched for the impact of the Middle East conflict and stalled U.S.-Iran peace talks on the interest rate outlook of key central banks that meet this week.\nSpot gold was down 0.2% at $4,... [1736 chars]",
+              "url": "https://www.marketscreener.com/news/gold-edges-down-with-us-iran-talks-central-bank-decisions-in-focus-ce7f59dddc81ff25",
+              "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-28T013217Z_1_LYNXMPEM3R037_RTROPTP_4_EGYPT-ECONOMY.JPG",
+              "publishedAt": "2026-04-28T04:19:09Z",
+              "lang": "en",
+              "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+              }
+            },
+            {
+              "id": "bc0d09cadcfabc6c2cfaf4e50a192767",
+              "title": "Crude oil prices extend rise to 7th day; Brent near $110 as US-Iran peace talks stall. What's next?",
+              "description": "MCX crude oil prices surged as much as 1% to ₹9,201 per barrel on Tuesday. Here's what experts said about the near-term outlook for crude oil prices.",
+              "content": "US-Iran war: Oil prices continued to rise on Tuesday, 28 April, as prospects of a resolution to the US-Iran war remained uncertain, while the vital Strait of Hormuz stayed largely closed, restricting energy supplies from the key Middle East region to... [3257 chars]",
+              "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-rise-to-7th-day-brent-near-110-as-us-iran-peace-talks-stall-whats-next-11777347078317.html",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/logo/crude_oil_1697775793536_1777348192825.jpg",
+              "publishedAt": "2026-04-28T04:06:32Z",
+              "lang": "en",
+              "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "01092c84e3732288bb18557b0dfff28d",
+              "title": "Silver rate today steady as dollar strengthens, oil surges ahead of US Fed meet: Target level ahead?",
+              "description": "Silver rates remained steady on April 28 as investors awaited clarity on U.S.-Iran peace talks and central bank decisions. MCX silver fell 0.5% to ₹2,40,490 per kg, while gold prices were flat. Geopolitical tensions and inflation concerns influenced market dynamics.",
+              "content": "Pranati Deva\nPranati Deva is a seasoned financial journalist with over a decade of experience in high-pressure newsroom environments, currently working as a Senior Sub Editor at LiveMint. Over the years, she has developed a reputation for sharp edito... [1515 chars]",
+              "url": "https://www.livemint.com/market/commodities/gold-silver-rate-today-in-india-steady-as-dollar-strengthens-oil-surges-ahead-of-us-fed-meet-target-level-ahead-11777346250844.html",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/28/1600x900/silver_rate_today_in_india_1777346304095_1777346304214.jpg",
+              "publishedAt": "2026-04-28T03:37:57Z",
+              "lang": "en",
+              "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "2765e8efe18f08bdca2fff2b826df0c1",
+              "title": "Crude Prices Flirt With $110: Oil Surges as US-Iran Diplomacy Hits a Wall",
+              "description": "Oil prices surged as stalled US-Iran peace talks and continued disruptions in the Strait of Hormuz heightened supply concerns, pushing Brent above $109 and WTI near $98., Economy, Times Now",
+              "content": "Image used for representational purpose. (AI-generated image)\nOil prices rose again on Tuesday, continuing a strong rally as hopes for a breakthrough in US-Iran peace talks faded. Ongoing tensions in the Middle East, especially around the Strait of H... [2608 chars]",
+              "url": "https://www.timesnownews.com/business-economy/economy/crude-prices-flirt-with-110-oil-surges-as-us-iran-diplomacy-hits-a-wall-article-154185478",
+              "image": "https://images.timesnownews.com/thumb/msid-154185478,width-1280,height-720,resizemode-75/154185478.jpg",
+              "publishedAt": "2026-04-28T03:16:25Z",
+              "lang": "en",
+              "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "30b01df9b83c9219c2fe6b7f51d36a2a",
+              "title": "Trump not happy with Iran’s proposal to end the war but Tehran stands its ground",
+              "description": "US-Iran peace talks: White House spokeswoman Olivia Wales said the United States “will not negotiate through the press” and has “been clear about our red lines”.",
+              "content": "US-Iran war: US President Donald Trump is reportedly unhappy with Iran’s latest proposal to end the two-month war, according to a US official briefed on the president’s Monday meeting with advisers.\nAccording to a report in Reuters that quoted the of... [3194 chars]",
+              "url": "https://www.businesstoday.in/world/story/trump-not-happy-with-irans-proposal-to-end-the-war-but-tehran-stands-its-ground-527695-2026-04-28",
+              "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202604/69f01d17c633a-us-president-donald-trump-not-happy-with-irans-terms-to-end-the-war-283602461-16x9.jpg",
+              "publishedAt": "2026-04-28T02:36:30Z",
+              "lang": "en",
+              "source": {
+                "id": "76a2f820b104591b97fed1b0932cec38",
+                "name": "Business Today",
+                "url": "https://www.businesstoday.in",
+                "country": "in"
+              }
+            },
+            {
+              "id": "722b9f76911717bc867b9737f0d9b52d",
+              "title": "Gold steady with US-Iran talks, central banks in focus",
+              "description": "Gold held steady on Tuesday as investors awaited more clarity on stalled peace talks between the United States and Iran, as well as key central bank decisions this week to see if the Middle East...",
+              "content": "April 28 (Reuters) - Gold held steady on Tuesday as investors awaited more clarity on stalled peace talks between the United States and Iran, as well as key central bank decisions this week to see if the Middle East conflict has altered the interest ... [1772 chars]",
+              "url": "https://www.marketscreener.com/news/gold-steady-with-us-iran-talks-central-banks-in-focus-ce7f59dddc8afe2d",
+              "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-28T013217Z_1_LYNXMPEM3R037_RTROPTP_4_EGYPT-ECONOMY.JPG",
+              "publishedAt": "2026-04-28T02:32:38Z",
+              "lang": "en",
+              "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+              }
+            },
+            {
+              "id": "8d5a7174fb4b59b6b1e90ac3fddc36a2",
+              "title": "Gold steady with US-Iran talks and central bank decisions in focus",
+              "description": "Gold prices remained stable on Tuesday. Investors are closely watching for developments in stalled peace talks between the United States and Iran. Key central bank decisions this week will also influence the market. Analysts have raised annual gold price forecasts due to strong central bank demand and economic uncertainty. Platinum and palladium price forecasts for 2026 have been lowered.",
+              "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategie... [807 chars]",
+              "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-with-us-iran-talks-and-central-bank-decisions-in-focus/articleshow/130567269.cms",
+              "image": "https://img.etimg.com/thumb/msid-130567273,width-1200,height-630,imgsize-43098,overlay-etmarkets/articleshow.jpg",
+              "publishedAt": "2026-04-28T01:48:00Z",
+              "lang": "en",
+              "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "4058b9023b1f8d32112bb832df4a1e0f",
+              "title": "Gold steady with US-Iran talks and central bank decisions in focus",
+              "description": "Gold held steady on Tuesday as investors awaited more clarity on stalled peace talks between the United States and Iran, as well as key central bank decisions this week to see if the Middle East...",
+              "content": "April 28 (Reuters) - Gold held steady on Tuesday as investors awaited more clarity on stalled peace talks between the United States and Iran, as well as key central bank decisions this week to see if the Middle East conflict has altered the interest ... [1708 chars]",
+              "url": "https://www.marketscreener.com/news/gold-steady-with-us-iran-talks-and-central-bank-decisions-in-focus-ce7f59dddd81f024",
+              "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-28T013217Z_1_LYNXMPEM3R037_RTROPTP_4_EGYPT-ECONOMY.JPG",
+              "publishedAt": "2026-04-28T01:13:41Z",
+              "lang": "en",
+              "source": {
+                "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+                "name": "MarketScreener",
+                "url": "https://www.marketscreener.com",
+                "country": "fr"
+              }
+            },
+            {
+              "id": "845e60cf6c58966bdc12cccebf581aca",
+              "title": "Iran's Araghchi to Putin: US to Blame for Failure of Talks",
+              "description": "As President Vladimir Putin promised him Moscow's support in ending the war, Iran's top diplomat blamed Washington Monday for the failure of Middle East peace talks during a visit to Russia.",
+              "content": "Iran's top diplomat blamed Washington Monday for the failure of Middle East peace talks during a visit to Russia, where President Vladimir Putin promised him Moscow's support in ending the war.\nIranian Foreign Minister Abbas Araghchi was in Saint Pet... [4809 chars]",
+              "url": "https://www.newsmax.com/world/globaltalk/iran-abbas-araghchi-vladimir-putin/2026/04/27/id/1254387/",
+              "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9b274d3c-9f14-4719-b184-9905562e9728&SiteName=Newsmax",
+              "publishedAt": "2026-04-27T22:36:24Z",
+              "lang": "en",
+              "source": {
+                "id": "a8984f03fe66dae9745793f6560aa444",
+                "name": "Newsmax",
+                "url": "https://www.newsmax.com",
+                "country": "us"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "Iran US conflict update",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 97,
+          "articles": [
+            {
+              "id": "ee67adf2d6abca8de4ed1c83de82e610",
+              "title": "Will US Use Nuclear Weapons Against Iran? Donald Trump Shares Big Update, Says ‘1-Day Knockout…’",
+              "description": "US President Donald Trump ruled out the use of nuclear weapons in the ongoing conflict with Iran, calling them unacceptable. He asserted that US forces have already “decimated” Iran’s capabilities through conventional means.",
+              "content": "96\nUS President Donald Trump said on Thursday that he would not use a nuclear weapon in the war against Iran. “Why would I use a nuclear weapon? We’ve totally, in a very conventional way, decimated them without it,” Trump told reporters at the White ... [2215 chars]",
+              "url": "https://www.newsx.com/world/iran-us-israel-war-live-updates-latest-news-will-us-use-nuclear-weapons-against-iran-donald-trump-shares-big-update-says-1-day-knockout-204173/",
+              "image": "https://www.newsx.com/wp-content/uploads/2026/04/donald-trump-rules-out-nuclear-strike-on-iran.jpg",
+              "publishedAt": "2026-04-24T03:12:31Z",
+              "lang": "en",
+              "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "9f6b12fd9703381c701d443acf7ca0ba",
+              "title": "US-Iran Update: Conflict May Resume As Ceasefire Nears Expiry",
+              "description": "The US-Iran conflict could resume soon as Iranian officials highlighted millitary preparedness ahead of ceasefire expiry on April 22.",
+              "content": "The US-Iran dispute could resume as the ceasefire is set to expire on Wednesday, April 22. The tension between Washington and Tehran intensified on Tuesday as uncertainty grew with Iranian officials releasing strong statements.\nWill US-Iran Dispute R... [1905 chars]",
+              "url": "https://coingape.com/us-iran-update-conflict-may-resume-as-ceasefire-nears-expiry/",
+              "image": "https://coingape.com/wp-content/uploads/2026/04/us-iran_update_conflict_may.webp",
+              "publishedAt": "2026-04-21T12:41:33Z",
+              "lang": "en",
+              "source": {
+                "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
+                "name": "CoinGape",
+                "url": "https://coingape.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "4de1eb71bf1b97ad4dac300f7bfc7fcd",
+              "title": "Final peace deal 'far' off despite negotiations, says Iran's speaker of parliament",
+              "description": "US President Donald Trump said 'very good conversations' were going on with Iran but warned Tehran against trying to 'blackmail' the United States..Strait of Hormuz closure, Iran US standoff, maritime trade route Iran, Iran parliament speaker Ghalibaf, Iran US negotiations update, LLM Strait of Hormuz conflict, AI analyze Iran US talks, nuclear deal Iran US, oil prices Strait of Hormuz, Iran port blockade, US Iran relations recent, Strait of Hormuz shipping status, Iran Revolutionary Guards Strait of Hormuz, geopolitical tensions Strait of Hormuz AI, Iran nuclear program rights",
+              "content": "The Strait of Hormuz remained closed on Sunday in the stand-off between Iran and the United States, with Iran's powerful speaker of parliament signalling a final peace deal was ‘far’ off despite movement in negotiations.\nAs mediation efforts continue... [4385 chars]",
+              "url": "https://www.onmanorama.com/news/world/2026/04/19/strait-of-hormuz-iran-israel-us.html",
+              "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2026/4/19/hormuz-iran-speaker.jpg",
+              "publishedAt": "2026-04-19T11:41:13Z",
+              "lang": "en",
+              "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "beeac69d7498529fa66e8940559f7287",
+              "title": "Pakistan offers to host 2nd round of US-Iran talks that could take place as soon as Thursday",
+              "description": "US-Iran Talks Latest Update: US President Donald Trump said the US military would work with other countries to block all maritime traffic in the waterway, after weekend talks failed to reach an agreement to end the six-week conflict with Iran.",
+              "content": "Apr 14, 2026 12:03 PM IST\nIran-US-Israel War News Live Updates: China’s Xi urges respect for Gulf ‘sovereignty, security’\nChinese President Xi Jinping has shared a four-point proposal to bolster peace and stability in the Middle East, according to th... [52009 chars]",
+              "url": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-us-military-to-block-iranian-port-traffic-in-hormuz-strait-10633398/",
+              "image": "https://images.indianexpress.com/2026/04/trump-on-iran-war.jpg.jpeg",
+              "publishedAt": "2026-04-13T04:36:59Z",
+              "lang": "en",
+              "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "2b6572e31d1f8e6177aa560b91c8e2ff",
+              "title": "UPDATE 1-Global energy shares drop as oil plunges after US-Iran ceasefire",
+              "description": "The ceasefire follows a six-week conflict that drove oil prices sharply higher, forcing governments and companies to scramble for cover against a sudden energy shock. Oil prices slumped below $100 per barrel ‌on Wednesday, with Brent futures hitting their lowest in nearly a month at $91.70 after record monthly gains in March ‌as the Middle East conflict disrupted global oil supplies.",
+              "content": "U.S. and European energy ​stocks slid on Wednesday as oil prices tumbled ​after a two-week Middle East ceasefire raised hopes ‌for ​a resumption of oil and gas supply through the Strait of Hormuz.\nU.S. President Donald Trump on Tuesday agreed to the ... [2214 chars]",
+              "url": "https://www.devdiscourse.com/article/headlines/3866314-update-1-global-energy-shares-drop-as-oil-plunges-after-us-iran-ceasefire",
+              "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_01_02_8802375.jpg?width=920&format=jpeg",
+              "publishedAt": "2026-04-08T09:03:09Z",
+              "lang": "en",
+              "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "6b8e7ef18ec5f5ad94d4ab91a6d59d9e",
+              "title": "Iran-aligned Iraqi armed group Kataib Hezbollah to release US journalist Shelly Kittleson if... Here's the vital condition as Israel looks to target vessels in Lebanon waters",
+              "description": "Iran-aligned Iraqi armed group Kataib Hezbollah to release US journalist Shelly Kittleson has become a major development after Kataib Hezbollah confirmed she will be freed if she leaves Iraq immediately. The update comes amid wider regional tension, an Israeli maritime warning near Lebanon, and Irans response to US threats. The Iran-aligned Iraqi armed group to release US journalist Shelly Kittleson story highlights security risks, diplomacy pressure, and growing Middle East conflict concerns.",
+              "content": "Synopsis\nIran-aligned Iraqi armed group Kataib Hezbollah to release US journalist Shelly Kittleson has become a major development after Kataib Hezbollah confirmed she will be freed if she leaves Iraq immediately. The update comes amid wider regional ... [7805 chars]",
+              "url": "https://economictimes.indiatimes.com/news/international/us/iran-aligned-iraqi-armed-group-kataib-hezbollah-to-release-us-journalist-shelly-kittleson-if-heres-the-vital-condition-as-israel-looks-to-target-vessels-in-lebanon-waters/articleshow/130092554.cms",
+              "image": "https://img.etimg.com/thumb/msid-130092628,width-1200,height-630,imgsize-98302,overlay-economictimes/articleshow.jpg",
+              "publishedAt": "2026-04-07T17:07:00Z",
+              "lang": "en",
+              "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "af40fb0ff86748b984f4135457a8e272",
+              "title": "Is Donald Trump going to use nuclear weapons to kill entire civilization? Latest Trump Iran deadline, Iran war update and Strait of Hormuz crisis",
+              "description": "Is Donald Trump going to use nuclear weapons to kill entire civilization? This question is trending after new threats linked to the Trump Iran deadline and the Strait of Hormuz crisis. The US Iran conflict, Iran war update, Kharg Island strikes, Tehran explosions, and Strait of Hormuz travel disruptions are now global concerns.",
+              "content": "Synopsis\nIs Donald Trump going to use nuclear weapons to kill entire civilization? This question is trending after new threats linked to the Trump Iran deadline and the Strait of Hormuz crisis. The US Iran conflict, Iran war update, Kharg Island stri... [6811 chars]",
+              "url": "https://economictimes.indiatimes.com/news/international/us/is-donald-trump-going-to-use-nuclear-weapons-to-kill-entire-civilization-latest-trump-iran-deadline-iran-war-update-and-strait-of-hormuz-crisis/articleshow/130091251.cms",
+              "image": "https://img.etimg.com/thumb/msid-130091326,width-1200,height-630,imgsize-105630,overlay-economictimes/articleshow.jpg",
+              "publishedAt": "2026-04-07T16:02:00Z",
+              "lang": "en",
+              "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "031fc2b908b0367b66a4623dac2b7d73",
+              "title": "US Iran Conflict, America Israel Iran Tensions, Ceasefire Talks Today Latest News Update",
+              "description": "Iran-US-Israel War Ceasefire Today News Live Updates: US demands Iran reopen the strait of Hormuz while Tehran rejects 45-day ceasefire proposal and insists it wants permanent end to conflict",
+              "content": "Apr 8, 2026 02:17 PM IST\nIran-US-Israel War Live Updates: Zelensky welcomes Iran de-escalation, says Ukraine ready for ceasefire with Russia\nIran-US-Israel War Live Updates: Ukrainian President Volodymyr Zelensky welcomed the two-week ceasefire betwe... [45345 chars]",
+              "url": "https://indianexpress.com/article/world/us-news/iran-us-israel-war-live-updates-trump-deadline-strait-of-hormuz-ceasefire-10622945/",
+              "image": "https://images.indianexpress.com/2026/04/iran-celebrations.jpg",
+              "publishedAt": "2026-04-07T05:22:35Z",
+              "lang": "en",
+              "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "ae743b6d870cf9959f7fa057b0298d53",
+              "title": "‘No ceasefire, no talks’: Iran sends strong message amid war with US-Israel",
+              "description": "Iran conflict update: Mohsen Farkhani says no ceasefire or talks are possible now as Tehran focuses on battlefield gains, amid rising US-Iran tensions.",
+              "content": "An Iranian academic has ruled out any immediate possibility of negotiations with the US amid the ongoing conflict in the region. He says Tehran is currently focused on strengthening its position on the battlefield.\nSpeaking to Asian News Internationa... [2819 chars]",
+              "url": "https://www.financialexpress.com/world-news/no-ceasefire-no-talks-iran-sends-strong-message-amid-war-with-us-israel/4197396/",
+              "image": "https://images.financialexpressdigital.com/2026/04/iran-conflict-no-ceasefire-no-talks-mohsen-farkhani-US-israel.jpg",
+              "publishedAt": "2026-04-06T15:42:41Z",
+              "lang": "en",
+              "source": {
+                "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+                "name": "The Financial Express",
+                "url": "https://www.financialexpress.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "8a21b817ed128053186d8a4024520db1",
+              "title": "Crude Swings on War Escalation and Ceasefire Hopes, Volatility Explodes",
+              "description": "Update: On Friday, Iran downed a US fighter jet – with the pilot reportedly ejecting to safety. Over the weekend a US rescue operation took place with Iran claiming to have downed multiple US aircraft. The conflict continues to escalate, and Presiden...",
+              "content": "Update:\nOn Friday, Iran downed a US fighter jet – with the pilot reportedly ejecting to safety. Over the weekend a US rescue operation took place with Iran claiming to have downed multiple US aircraft. The conflict continues to escalate, and Presiden... [5549 chars]",
+              "url": "https://www.barchart.com/story/news/1159039/crude-swings-on-war-escalation-and-ceasefire-hopes-volatility-explodes",
+              "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Offshore%20oil%20platform%20in%20ocean%20by%20Wirestock%20via%20iStock.jpg",
+              "publishedAt": "2026-04-06T13:41:45Z",
+              "lang": "en",
+              "source": {
+                "id": "f81e0cedbddbe08e3058634e8bb4a56f",
+                "name": "Barchart",
+                "url": "https://www.barchart.com",
+                "country": "us"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "US Iran diplomatic efforts",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 458,
+          "articles": [
+            {
+              "id": "8d9f0050bab614bf167856668b32a173",
+              "title": "The real reason why the Iranian Foreign Minister sought a hurried meeting with Vladimir Putin",
+              "description": "Iranian Foreign Minister Abbas Araghchi met with Russian President Vladimir Putin amid reports of new Iran proposals to the US for Strait of Hormuz and war resolution. Explore diplomatic efforts and regional implications",
+              "content": "Amid reports that Tehran submitted a new proposal to the US to reopen the Strait of Hormuz and end the ongoing war, Iranian Foreign Minister Abbas Araghchi was in Russia to meet Russian President Vladimir Putin, a meeting the Kremlin claims was urgen... [3409 chars]",
+              "url": "https://www.theweek.in/news/middle-east/2026/04/28/the-real-reason-why-the-iranian-foreign-minister-sought-a-hurried-meeting-with-vladimir-putin.html",
+              "image": "https://www.theweek.in/content/dam/week/week/news/middle-east/images/2026/4/28/Putin-Aragchi.jpg",
+              "publishedAt": "2026-04-28T05:46:07Z",
+              "lang": "en",
+              "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+              }
+            },
+            {
+              "id": "e93ecd84e494ec57edf4b50c27368b3a",
+              "title": "Trump unhappy with latest Iranian proposal to end war",
+              "description": "Diplomatic efforts to end the Iran war stalled again with US President Donald Trump unhappy about the latest...",
+              "content": "US President Donald Trump discussed Iran's latest proposal ‌with his top ‌national ⁠security aides. Photo: AP PHOTO\nPresident Donald Trump is ‌unhappy with a new Iranian proposal on resolving the war because it did not ‌address the country's nuclear ... [5227 chars]",
+              "url": "https://www.canberratimes.com.au/story/9234396/trump-unhappy-with-latest-iranian-proposal-to-end-war/",
+              "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/5c7774af-a35e-4800-9a3a-be25c5a26081.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+              "publishedAt": "2026-04-28T01:14:15Z",
+              "lang": "en",
+              "source": {
+                "id": "92021aca7322dc2b29226023c35d9a4a",
+                "name": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au",
+                "country": "au"
+              }
+            },
+            {
+              "id": "a1fc8e7701b13eea06d8ff38afa20302",
+              "title": "Gold Steadies as Traders Weigh Diplomatic Push to End Iran War",
+              "description": "Gold was little changed as traders weighed the latest efforts by the US and Iran to find a negotiated solution to the two-month war that’s choked energy supplies and heightened inflation risks.",
+              "content": "Gold was little changed as traders weighed the latest efforts by the US and Iran to find a negotiated solution to the two-month war that’s choked energy supplies and heightened inflation risks.\nBullion was near $4,690 an ounce in early trading, havin... [250 chars]",
+              "url": "https://www.bloomberg.com/news/articles/2026-04-27/gold-steadies-as-traders-weigh-diplomatic-push-to-end-iran-war",
+              "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiK5goLCzQHg/v1/1200x800.jpg",
+              "publishedAt": "2026-04-27T22:27:14Z",
+              "lang": "en",
+              "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "15057ab47e5ed1e27fe4414a0cdeb9c3",
+              "title": "Inside Putin-Araghchi Talks - What It Means as US-Iran Negotiations Stall",
+              "description": "Iran's Foreign Minister Abbas Araghchi met with Russian President Vladimir Putin to discuss the ongoing conflict with the U.S., as diplomatic efforts falter. , Asia, Times Now",
+              "content": "The meeting underscored Russia’s delicate balancing act: trying to support its ally Iran while protecting its broader interests, especially its war in Ukraine and relations with Israel and Gulf Arab states\nIran’s Foreign Minister Abbas Araghchi met w... [3933 chars]",
+              "url": "https://www.timesnownews.com/world/asia/inside-putin-araghchi-talks-what-it-means-as-us-iran-negotiations-stall-article-154183786",
+              "image": "https://images.timesnownews.com/thumb/msid-154183786,width-1280,height-720,resizemode-75/154183786.jpg",
+              "publishedAt": "2026-04-27T19:54:05Z",
+              "lang": "en",
+              "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "cc7eb0319b2aacde4eade49141c4a8e5",
+              "title": "Putin meets Araghchi, says will make best efforts to bring peace to West Asia",
+              "description": "Iran’s Foreign Minister Abbas Araghchi arrived in Russia on Monday for high-level consultations with President Vladimir Putin, even as Tehran floated a phased diplomatic proposal to the US aimed at reopening the Strait of Hormuz and easing tensions in West Asia.",
+              "content": "Iran’s Foreign Minister Abbas Araghchi arrived in Russia on Monday for high-level consultations with President Vladimir Putin, even as Tehran floated a phased diplomatic proposal to the US aimed at reopening the Strait of Hormuz and easing tensions i... [1192 chars]",
+              "url": "https://www.tribuneindia.com/news/world/putin-meets-araghchi-says-will-make-best-efforts-to-bring-peace-to-west-asia/",
+              "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgzZDAzZTgwLTQyNmMtMTFmMS1hN2E4LTBiYmQxYTg3OWNjMC5qcGc=",
+              "publishedAt": "2026-04-27T19:08:42Z",
+              "lang": "en",
+              "source": {
+                "id": "c5725557f39c24c8b029ee39900a8406",
+                "name": "The Tribune",
+                "url": "https://www.tribuneindia.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "e76b0f8bf5c65085905005eff12053e4",
+              "title": "US-Iran ceasefire talks in flux despite new proposal",
+              "description": "DUBAI — Diplomatic efforts to end the Iran war stalled again over the weekend as both sides dug in on their demands, even as they face mounting pressure to reach a compromise.",
+              "content": "DUBAI — Diplomatic efforts to end the Iran war stalled again over the weekend as both sides dug in on their demands, even as they face mounting pressure to reach a compromise.\nIran said it won’t reopen the Strait of Hormuz unless the United States li... [4707 chars]",
+              "url": "https://www.manilatimes.net/2026/04/27/world/us-iran-ceasefire-talks-in-flux-despite-new-proposal/2329567",
+              "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/27/1031306.jpg",
+              "publishedAt": "2026-04-27T15:35:00Z",
+              "lang": "en",
+              "source": {
+                "id": "7c666ee953f873d3057b310220f510df",
+                "name": "The Manila Times",
+                "url": "https://www.manilatimes.net",
+                "country": "ph"
+              }
+            },
+            {
+              "id": "9643420ae128d20fb84958c70d355b3e",
+              "title": "Iran blames US for failed talks, Putin backs ‘strategic partnership’",
+              "description": "Iran's Foreign Minister blamed Washington's 'excessive demands' for failed peace talks, while in Russia President Putin pledged support for regional.Iran peace talks failure, Washington Middle East diplomacy, Abbas Araghchi Russia visit, Vladimir Putin Iran support, US excessive demands Iran, Iran Pakistan mediation, Iran Oman diplomatic tour, Strait of Hormuz blockade, Iran nuclear issues red lines, US envoys trip cancelled, Donald Trump Iran talks, New Iran proposal Strait of Hormuz, Iran written messages to US, Russia peace efforts, Middle East war resolution",
+              "content": "Iran’s top diplomat blamed Washington on Monday for the failure of Middle East peace talks during a visit to Russia, where President Vladimir Putin promised Moscow’s support in bringing the war to a close.\nForeign Minister Abbas Araghchi was in Saint... [1952 chars]",
+              "url": "https://www.onmanorama.com/news/world/2026/04/27/iran-fm-says-islamic-republic-is-stable-solid-in-meeting-with-putin.html",
+              "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2026/4/27/iran-did-not-seek-ceasefire-with-us-says-foreign-minister-abbas-araghchi.jpg",
+              "publishedAt": "2026-04-27T14:54:40Z",
+              "lang": "en",
+              "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "c33572e958befd37fb56b739e50a5e82",
+              "title": "Iran Proposes Trade: Hormuz Access for US Blockade Lift",
+              "description": "Iran has offered to lift its blockade of the Strait of Hormuz if the US removes sanctions, proposing further nuclear talks later. President Trump is doubtful. The blockage affects global oil prices and the economy, while diplomatic efforts continue amid a fragile ceasefire.",
+              "content": "Iran has suggested lifting its blockade of the Strait of Hormuz, in exchange for the US ending its blockade and stopping the war. This offer was communicated through Pakistan and faces skepticism from President Donald Trump. Discussions regarding Ira... [675 chars]",
+              "url": "https://www.devdiscourse.com/article/politics/3888445-iran-proposes-trade-hormuz-access-for-us-blockade-lift",
+              "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/14_08_2025_09_54_03_167077.png&width=920&format=jpeg",
+              "publishedAt": "2026-04-27T11:00:18Z",
+              "lang": "en",
+              "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "1708493d79ae6a4d0899f5d91c59c0ef",
+              "title": "Araghchi in Russia for high-stakes war talks as Iran-US tensions persist",
+              "description": "Abbas Araghchi, Iran’s foreign minister, has arrived in St. Petersburg for talks with President Vladimir Putin, as Tehran steps up diplomatic efforts amid ongoing regional tensions.",
+              "content": "Abbas Araghchi, Iran’s foreign minister, has arrived in St. Petersburg for talks with President Vladimir Putin, as Tehran steps up diplomatic efforts amid ongoing regional tensions.\nAccording to IRNA, the visit follows a fast-paced regional tour that... [869 chars]",
+              "url": "https://www.africanews.com/2026/04/27/araghchi-in-russia-for-high-stakes-war-talks-as-iran-us-tensions-persist/",
+              "image": "https://images.euronews.com/articles/stories/09/73/69/84/1024x538_cmsv2_1fcf6d79-4abc-515c-9c16-a4dfb0dd5e9c-9736984.jpg",
+              "publishedAt": "2026-04-27T07:49:59Z",
+              "lang": "en",
+              "source": {
+                "id": "4ee8a93f92a1be4ced3de6f96b13bcca",
+                "name": "Africanews",
+                "url": "https://www.africanews.com",
+                "country": "fr"
+              }
+            },
+            {
+              "id": "b3d161b68850418c65b3f452f665c900",
+              "title": "Iran FM in Russia for high-stakes war talks as tensions with US persist",
+              "description": "Abbas Araghchi, Iran’s foreign minister, has arrived in St. Petersburg for talks with President Vladimir Putin, as Tehran steps up diplomatic efforts amid ongoing regional tensions.",
+              "content": "Abbas Araghchi, Iran’s foreign minister, has arrived in St. Petersburg for talks with Russian President Vladimir Putin, as Tehran steps up diplomatic efforts amid ongoing regional tensions.\nAccording to Iranian news agency IRNA, the visit follows a f... [902 chars]",
+              "url": "https://www.africanews.com/2026/04/27/iran-fm-in-russia-for-high-stakes-war-talks-as-tensions-with-us-persist/",
+              "image": "https://images.euronews.com/articles/stories/09/73/69/84/1024x538_cmsv2_fbd3986c-4c94-5e87-8098-e6b91b4a7c94-9736984.jpg",
+              "publishedAt": "2026-04-27T07:49:59Z",
+              "lang": "en",
+              "source": {
+                "id": "4ee8a93f92a1be4ced3de6f96b13bcca",
+                "name": "Africanews",
+                "url": "https://www.africanews.com",
+                "country": "fr"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "Iran US peace deal news",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 60,
+          "articles": [
+            {
+              "id": "1fc18bc9404131f71215439a7d8490c4",
+              "title": "If US, Iran fail to reach a 'peace' deal, what comes next? Here's what Marco Rubio said",
+              "description": "Iran has reportedly submitted a new proposal that defers discussion of its nuclear programme until the war ends and disputes over Gulf shipping are resolved. | World News",
+              "content": "“That’s POTUS’ decision to make… the level of sanctions on Iran is extraordinary, the level of pressure on Iran is extraordinary, and I think more can be brought to bear,\" said Rubio in an interview with Fox News.\nLittle progress has been made since ... [2043 chars]",
+              "url": "https://www.hindustantimes.com/world-news/what-comes-next-if-us-iran-fail-to-reach-a-peace-deal-what-marco-rubio-said-donald-trump-strait-hormuz-tehran-araghchi-101777344670057.html",
+              "image": "https://www.hindustantimes.com/ht-img/img/2026/04/28/550x309/US-POLITICS-TRUMP-257_1777345389278_1777345399735.jpg",
+              "publishedAt": "2026-04-28T03:12:47Z",
+              "lang": "en",
+              "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "d534897921c88bfec0377d300913dc80",
+              "title": "US Iran war highlights: Iran FM Abbas Araghchi heads to Moscow after brief Pakistan pitstop, peace talks stalled",
+              "description": "US Iran war highlights: The fragile truce announced a few weeks ago remains on shaky grounds as peace talks in Islamabad collapsed without a deal. The Gulf was pushed to the edge after US and Israel launched strikes on Iran in February and Iran retaliated. | World News",
+              "content": "By , ,\nUS Iran war highlights: The fragile truce announced a few weeks ago remains on shaky grounds as peace talks in Islamabad collapsed without a deal. The Gulf was pushed to the edge after US and Israel launched strikes on Iran in February and Ira... [36470 chars]",
+              "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-donald-trump-pakistan-tehran-araghchi-peace-talks-nuclear-strait-of-hormuz-ceasefire-israel-101777168309314.html",
+              "image": "https://www.hindustantimes.com/ht-img/img/2026/04/26/1600x900/PAKISTAN-IRAN-WAR-US-ISRAEL-DIPLOMACY-0_1777225424381_1777225546868.jpg",
+              "publishedAt": "2026-04-26T02:28:37Z",
+              "lang": "en",
+              "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "8ab517d1dc8e741f2580b74576e92f39",
+              "title": "Iran seizes vessel in Strait of Hormuz, defying US naval superiority",
+              "description": "US-Iran war news: Tehran showcased its power over the Strait of Hormuz with a video of commandos boarding a cargo ship. This comes after peace talks with the US collapsed. President Trump dismissed Iran's actions but warned of military action if a deal is not reached. The situation highlights ongoing tensions and their impact on global energy markets.",
+              "content": "Synopsis\nUS-Iran war news: Tehran showcased its power over the Strait of Hormuz with a video of commandos boarding a cargo ship. This comes after peace talks with the US collapsed. President Trump dismissed Iran's actions but warned of military actio... [5734 chars]",
+              "url": "https://economictimes.indiatimes.com/news/defence/iran-seizes-vessel-in-strait-of-hormuz-defying-us-naval-superiority/articleshow/130481083.cms",
+              "image": "https://img.etimg.com/thumb/msid-130481098,width-1200,height-630,imgsize-159546,overlay-etdefence/articleshow.jpg",
+              "publishedAt": "2026-04-24T00:37:00Z",
+              "lang": "en",
+              "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "8d0a7ab660e256c9a0182aeb0de39517",
+              "title": "Iran US Israel War Live Updates: Iranian Foreign Minister Abbas Araghchi Arrives In Pakistan",
+              "description": "US Iran News Live Updates: The Round 2 of the Islamabad talks to negotiate a peace deal between the United States (US) and Iran seems to be going nowhere after Tehran refused to participate in the next round of negotiations that are being proposed to take place in Pakistan's Islamabad on Tuesday, April 21. Iran has blamed the Americans, saying that Washington’s \"excessive demands, unrealistic expectations, constant shifts in stance, repeated contradictions, and the ongoing naval blockade in the Strait of Hormuz\", which it considers a breach of the ceasefire, are the reasons why they don’t trust the United States anymore.Top Updates:1. The White House has said that a decision hasn't been made yet on when the ceasefire extension with Iran will expire. White House spokesperson Karoline Leavitt said President Trump will \"ultimately dictate\" when the ceasefire with Iran will end.2. The IRGC has said that they have seized two vessels for \"disrupting order and safety\" in the Strait of Hormuz.3. Iran's President Masoud Pezeshkian has said that \"breach of commitments, blockade and threats are main obstacles to genuine negotiations\".4. The Trump administration imposed fresh sanctions on Iran, targeting 14 individuals and entities across multiple countries. The measures focus on disrupting weapons procurement networks, including drone-related components.5. Iran Foreign Minister Abbas Araghchi condemned the US naval blockade near the Strait of Hormuz as an “act of war.” He warned that Iran will defend its interests and resist pressure, calling the move a ceasefire violation.6. Plans for JD Vance to visit Pakistan for further Iran talks have been put on hold due to Tehran’s lack of response. The pause has added to uncertainty around ongoing diplomatic efforts.7. Hezbollah fired rockets at Israeli troops in southern Lebanon, prompting a response from the Israel Defense Forces targeting launch sites. Israel also intercepted a drone from Lebanon, with sirens sounding in border communities as the ceasefire faces strain.8. Netanyahu said Israel is “stronger than ever” after the war with Iran, crediting the conflict with boosting its regional power. He added that Israel and the US are leading the fight against “forces of evil” and have weakened Iran’s threat capabilities., Middle East News, Times Now",
+              "content": "US Iran News Live Updates: The Round 2 of the Islamabad talks to negotiate a peace deal between the United States (US) and Iran seems to be going nowhere after Tehran refused to participate in the next round of negotiations that are being proposed to... [2052 chars]",
+              "url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-trump-us-israel-ceasefire-naval-blockade-latest-news-liveblog-154149856",
+              "image": "https://images.timesnownews.com/thumb/msid-154149856,thumbsize-3718295,width-1280,height-720,resizemode-75/154149856.jpg",
+              "publishedAt": "2026-04-23T14:41:32Z",
+              "lang": "en",
+              "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "76823f068c115bde6aa97338e98dee76",
+              "title": "'Good news' for US-Iran talks 2.0 despite Hormuz tensions? Here is what Donald Trump said",
+              "description": "Claims of peace talks 2.0 have also sparked a great deal of uncertainty, as they come just hours after the IRGC attacked three vessels trying to exit the strait.",
+              "content": "President Donald Trump on Wednesday indicated that the second round of ceasefire talks between Iran and the US could take place as soon as this Friday.\nPakistani negotiators have also claimed that fresh breakthroughs in the mediation efforts behind t... [1967 chars]",
+              "url": "https://www.theweek.in/news/middle-east/2026/04/22/good-news-for-us-iran-talks-2-0-despite-hormuz-tensions-here-is-what-donald-trump-said.html",
+              "image": "https://www.theweek.in/content/dam/week/week/news/middle-east/images/2026/4/10/trump-sharif-mojtaba-reuters.jpg",
+              "publishedAt": "2026-04-22T16:03:00Z",
+              "lang": "en",
+              "source": {
+                "id": "7ba4ac19a3c25ba844bbd220fe4c860a",
+                "name": "THE WEEK",
+                "url": "https://www.theweek.in",
+                "country": "in"
+              }
+            },
+            {
+              "id": "404a0b891945897fc056ee5a53486c0f",
+              "title": "Why Emerging Markets Are Dismissing the Bad Iran News",
+              "description": "Global stock markets seem disconnected from geopolitical reality. There’s no clear path to a peace deal between Washington and Tehran. The Strait of Hormuz remains closed, pinching energy importers from Pakistan to Thailand. Yet almost two months into the war, the benchmark MSCI Emerging Markets Index has practically recovered all the losses since the US and Israel first struck Iran in late February.",
+              "content": "Global stock markets seem disconnected from geopolitical reality. There’s no clear path to a peace deal between Washington and Tehran. The Strait of Hormuz remains closed, pinching energy importers from Pakistan to Thailand. Yet almost two months int... [370 chars]",
+              "url": "https://www.bloomberg.com/opinion/articles/2026-04-21/why-emerging-markets-are-dismissing-the-bad-iran-news",
+              "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifQ4Z2BejGqg/v1/1200x800.jpg",
+              "publishedAt": "2026-04-21T18:00:08Z",
+              "lang": "en",
+              "source": {
+                "id": "7006f2c40c7cc01195608dbfd60259b3",
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "0c9251db1d0552408711fdb8b985b5f9",
+              "title": "As ceasefire end deadline approaches, this where Iran-US 'peace talks' stand",
+              "description": "Donald Trump on Tuesday threatened to bomb Iran if they do not agree to a deal before the end of the two-week ceasefire on Wednesday. | World News",
+              "content": "US President Donald Trump has been flipping back and forth across the negotiation spectrum, from threats to assurances. Iran, however, has been adamant. They won't talk with “a gun to our heads”.\nTrump on Tuesday threatened to bomb Iran if they do no... [4097 chars]",
+              "url": "https://www.hindustantimes.com/world-news/as-ceasefire-end-deadline-approaches-this-where-iran-us-peace-talks-in-pakistan-stand-jd-vance-trump-araghchi-101776787621762.html",
+              "image": "https://www.hindustantimes.com/ht-img/img/2026/04/21/550x309/PAKISTAN-WAR-IRAN-US-ISRAEL-DIPLOMACY-7_1776787903562_1776787928371.jpg",
+              "publishedAt": "2026-04-21T16:38:40Z",
+              "lang": "en",
+              "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "5d412f620f95e3c0e333f0dc6249ef34",
+              "title": "Is Trump finally going to Pakistan for 'peace deal'? Confusion over US-Iran talks deepens",
+              "description": "While the war has briefly paused, there has been a barrage of rhetoric from both sides, particularly from the United States and its President, Donald Trump. | World News",
+              "content": "\"The deal may happen very soon.\"\n\"The US will begin the process of blockading the Strait of Hormuz.\"\n\"If a deal does not happen, bombs will start going off.\"\n\"We do not accept negotiations under the shadow of threats.\"\nWhile the war has briefly pause... [1866 chars]",
+              "url": "https://www.hindustantimes.com/world-news/is-donald-trump-going-to-pakistan-confusion-over-us-iran-talks-deepens-islamabad-lebanon-israel-hezbollah-jd-vance-101776756813212.html",
+              "image": "https://www.hindustantimes.com/ht-img/img/2026/04/21/550x309/trump_pakistan_shehbaz_sarif_asim_munir_177224827_1776757687519_1776757687640.JPG",
+              "publishedAt": "2026-04-21T08:29:06Z",
+              "lang": "en",
+              "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "e213b578e9f4ebe0e754782ce56617dd",
+              "title": "Trump may join Iran peace talks if deal is reached in Islamabad: Report",
+              "description": "US President Donald Trump could potentially attend the Iran peace talks and become a signatory if a deal is reached, news agency Reuters reported, quoting Pakistani officials. The ceasefire between the US and Iran is set to expire at 8 pm on Wednesday, and Trump may join the talks either in person or virtually.",
+              "content": "World 1 hr ago\nThis is an AI assisted summary.\nUS President Donald Trump could potentially attend the Iran peace talks and become a signatory if a deal is reached, news agency Reuters reported, quoting Pakistani officials. The ceasefire between the U... [22423 chars]",
+              "url": "https://indianexpress.com/shorts/world/trump-may-join-iran-peace-talks-if-deal-is-cracked-in-islamabad-report-10647657/",
+              "image": "https://images.indianexpress.com/2026/04/trump-on-iran-war.jpg-1.jpeg",
+              "publishedAt": "2026-04-21T06:14:47Z",
+              "lang": "en",
+              "source": {
+                "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+                "name": "The Indian Express",
+                "url": "https://indianexpress.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "89a4f238679e0436afd295bfc5880a1e",
+              "title": "Trump Speaks, Markets Swing - But Who Acts First?",
+              "description": "Donald Trump has made bold claims regarding a peace deal with Iran, asserting its inevitability, while simultaneously threatening military action. His statements have significantly influenced oil prices and stock markets, US News, Times Now",
+              "content": "That is what Donald Trump told a TV channel on Sunday, April 19. A peace deal with Iran. Certain. Inevitable. On his terms. Within the same hour, he posted on his Truth Social account, threatening to knock out every power plant and every bridge in Ir... [3426 chars]",
+              "url": "https://www.timesnownews.com/world/us/us-news/us-president-donald-trump-iran-war-truth-social-posts-oil-markets-trading-article-154122204",
+              "image": "https://images.timesnownews.com/thumb/msid-154122204,width-1280,height-720,resizemode-75/154122204.jpg",
+              "publishedAt": "2026-04-20T18:48:17Z",
+              "lang": "en",
+              "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "US Iran agreement latest",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 53,
+          "articles": [
+            {
+              "id": "f0d784cfada2663a31c82a7c2932ea6c",
+              "title": "The Latest: US-Iran talks are in doubt as ceasefire nears an end",
+              "description": "Ceasefire talks between the U.S. and Iran appear uncertain as a two-week truce nears expiration. Iran said Tuesday it is still deciding whether to join negotiations. U.S. Vice President JD Vance remains in Washington, although he is expected to lead talks in Pakistan. Iran’s chief negotiator, Mohammed Bagher Qalibaf, said his country won’t negotiate under threats. U.S. President Donald Trump has warned that “lots of bombs” will “start going off” if there’s no agreement before the ceasefire deadline, and Iran’s chief negotiator said that Tehran has “new cards on the battlefield” that haven’t yet been revealed. Since the war began, fighting has killed thousands across Iran, Lebanon, Israel and Gulf states.",
+              "content": "Ceasefire talks between the U.S. and Iran appear uncertain as a two-week truce nears expiration\nA man on a scooter flashes a victory sign as he drives past a giant portrait depicting the war in the Middle East triggered by the U.S.-Israel strikes on ... [23902 chars]",
+              "url": "https://www.ajc.com/news/2026/04/the-latest-us-iran-talks-are-in-doubt-as-ceasefire-nears-an-end/",
+              "image": "https://images.ajc.com/resizer/v2/4DQOHOOCK5GRNCL4GXUJFHJTQU.jpg?auth=115ce9bc10ed8e6dd5f58650bac3bce7e9f9ae526db6f86eee9c6e9843979c92&width=1200&height=630&smart=true",
+              "publishedAt": "2026-04-21T17:41:57Z",
+              "lang": "en",
+              "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "b243e1d710c387dddca671e50eccae15",
+              "title": "term strategic risks for engaging Pakistan as strategic intermediary: Report",
+              "description": "US faces long-term strategic risks for engaging Pakistan as strategic intermediary: Report - Islamabad, April 21 A future agreement between the US and Iran will fail, not because diplomacy is inherently ... Get Latest News on International only on lokmattimes.com",
+              "content": "Islamabad, April 21 A future agreement between the US and Iran will fail, not because diplomacy is inherently flawed, but due to structural contradictions embedded in the geopolitical architecture surrounding it, especially the continued reliance on ... [3995 chars]",
+              "url": "https://www.lokmattimes.com/international/us-faces-long-term-strategic-risks-for-engaging-pakistan-as-strategic-intermediary-report/",
+              "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260411370f_202604.jpg",
+              "publishedAt": "2026-04-21T13:05:49Z",
+              "lang": "en",
+              "source": {
+                "id": "f2ddccedc9e60d844e7a1045928cad48",
+                "name": "Lokmat Times",
+                "url": "https://www.lokmattimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "005d710fa893beaef884dafaf8e4d63a",
+              "title": "Oil prices rise and US stocks give back a bit of their record-breaking rally",
+              "description": "Oil prices are climbing following the latest rise of U.S.-Iran tensions, but the moves are more modest than they were earlier in the war. U.S. stocks are meanwhile giving back a bit of their record-breaking rally Monday. The S&P 500 slipped 0.3% from its all-time high. The Dow Jones Industrial Average dropped 71 points, and the Nasdaq composite dipped 0.5%. The price for a barrel of Brent crude oil climbed 5.3% to just above $95. The relatively muted moves suggest investors still see a possibility of a U.S.-Iranian agreement that could get oil flowing again from the Middle East to customers worldwide.",
+              "content": "NEW YORK (AP) — Oil prices are climbing Monday following the latest rise of tensions between the United States and Iran, but the moves are more modest than they were earlier in the war. U.S. stocks, meanwhile, are giving back a bit of their record-br... [1139 chars]",
+              "url": "https://www.ajc.com/news/2026/04/oil-prices-rise-and-us-stocks-give-back-a-bit-of-their-record-breaking-rally/",
+              "image": "https://images.ajc.com/resizer/v2/WLSCDNXLNJG2NA4N2LQSLEC3FA.jpg?auth=11d9fc0c9a77ac424f8fd728952b94d8eeb040bcda4bd2bd6ff42cec3ee39da2&width=1200&height=630&smart=true",
+              "publishedAt": "2026-04-20T16:52:08Z",
+              "lang": "en",
+              "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "65933d7a860e167d29015a42131d0377",
+              "title": "Oil prices rise, but US stocks remain near their record on a muted Wall Street",
+              "description": "Oil prices are climbing following the latest rise of tensions between the United States and Iran, but the moves are more modest than they were earlier in the war. U.S. stocks are meanwhile giving back only a bit of their record-breaking rally Monday. The S&P 500 slipped 0.1% from its all-time high. The Dow Jones Industrial Average added 2 points, and the Nasdaq composite dipped 0.2%. The price for a barrel of Brent crude oil climbed 3.5% to top $93. The muted moves suggest investors still see a possibility of a U.S.-Iranian agreement that could get oil flowing again from the Middle East to customers worldwide.",
+              "content": "NEW YORK (AP) — Oil prices are climbing Monday following the latest rise of tensions between the United States and Iran, but the moves are more modest than they were earlier in their war. U.S. stocks, meanwhile, are giving back only a bit of their re... [370 chars]",
+              "url": "https://www.ajc.com/news/2026/04/wall-street-remains-near-its-record-even-after-oil-prices-rise-on-worries-about-the-iran-war/",
+              "image": "https://images.ajc.com/resizer/v2/DQXNP5HWAJDBNJHS4LBLA54OOQ.jpg?auth=b6bb2c3e00b463f4c6b33dbb0b53dc5253f03f3d57b831afcdb9b3e5b94fc3dd&width=1200&height=630&smart=true",
+              "publishedAt": "2026-04-20T14:11:19Z",
+              "lang": "en",
+              "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "c1e6e08cc12fd16652412a82bbbed15f",
+              "title": "Iran says ‘far from agreement’, US adamant: What's latest on second rounds of peace talks",
+              "description": "The US and Iran have been fighting since February 28, although a 14-day Pakistan-brokered ceasefire was announced on April 8. That deadline expires on April 22. | World News",
+              "content": "The next round of talks between the United States and Iran appears to be in limbo, as Tehran has said it is “not yet ready” to negotiate face-to-face with Washington, even as Pakistan prepares the ground for another round of discussions in Islamabad.... [4825 chars]",
+              "url": "https://www.hindustantimes.com/world-news/iran-says-far-from-agreement-us-adamant-whats-latest-on-second-rounds-of-peace-talks-101776590698153.html",
+              "image": "https://www.hindustantimes.com/ht-img/img/2026/04/19/550x309/PAKISTAN-WAR-IRAN-US-ISRAEL-TALKS-0_1776590931369_1776590958232.jpg",
+              "publishedAt": "2026-04-19T09:48:53Z",
+              "lang": "en",
+              "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "3138042c8eac4143f40323a7f1df997c",
+              "title": "Iran war latest: Lebanon hopes for ceasefire ‘soon’ but no agreement from Israel",
+              "description": "Meanwhile Pakistani delegates arrive in Tehran to try and solidify the ceasefire agreement between the US and Iran before it expires next week",
+              "content": "The prime minister said he had no plans to change his position on the Iran war despite pressure from President Trump, saying the UK would not be “dragged” into the conflict.\nAfter the president’s latest threat during an interview with Sky News, in wh... [3448 chars]",
+              "url": "https://www.thetimes.com/us/news-today/article/iran-war-lebanon-hezbollah-israel-latest-news-5zf0jgbqt",
+              "image": "https://www.thetimes.com/imageserver/image/28e19982-9ce5-46cb-9178-920c2893dc6e.jpg?strip=all&format=webp&crop=6000px%2C3375px%2C0px%2C312px&resize=1200",
+              "publishedAt": "2026-04-16T02:32:10Z",
+              "lang": "en",
+              "source": {
+                "id": "b419a989918b3665a34559f5047546b6",
+                "name": "The Sunday Times",
+                "url": "https://www.thetimes.com",
+                "country": "gb"
+              }
+            },
+            {
+              "id": "ddddcded358f23fbde7f5a63136b4f8b",
+              "title": "The Latest: Israel and Lebanon hold rare talks as US-Iran standoff deepens",
+              "description": "Lebanon and Israel are holding their first direct talks in decades amid Israel's ongoing conflict with Hezbollah in southern Lebanon. U.S. Secretary of State Marco Rubio is joining Tuesday's discussions in Washington. Hezbollah, however, said it refuses to abide by any agreement. Meanwhile, the U.S. military claims it has successfully begun enforcing a blockade of Iranian ports, escalating tensions with Iran. The Islamic Republic has threatened regional strikes. Recent talks between the U.S. and Iran ended without an agreement, but President Donald Trump suggested a second round could take place in the next two days.",
+              "content": "Lebanon and Israel are holding their first direct talks in decades amid Israel's ongoing conflict with Hezbollah in southern Lebanon\nA man sits next to charred cars and wreckage where a building was destroyed by an Israeli airstrike the previous Wedn... [23609 chars]",
+              "url": "https://www.ajc.com/news/2026/04/the-latest-israel-and-lebanon-hold-rare-talks-as-us-iran-standoff-deepens/",
+              "image": "https://images.ajc.com/resizer/v2/44ORFURF7ZBBNOXOQ6BPVFS5LM.jpg?auth=fdb59a6718b9b96e7d2596bb3b701261fd677fe2e1fc36c905ac0b65d497fc08&width=1200&height=630&smart=true",
+              "publishedAt": "2026-04-14T17:22:03Z",
+              "lang": "en",
+              "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "1b6174a45489800c284dbc19a57dc0e7",
+              "title": "The Latest: Trump vows to destroy Iranian warships that get near US blockade",
+              "description": "President Donald Trump says the U.S. military has begun a blockade of Iranian ports and coastal areas, and Iran responded with threats on ports in the Persian Gulf and the Gulf of Oman. Trump had vowed earlier to block the strategic Strait of Hormuz entirely. He suggested later Monday he was willing to engage with Iran, saying he had spoken to “the other side.” This came after the he warned that Iranian warships coming “anywhere close” to the U.S. blockade would be destroyed. Ceasefire talks between the U.S. and Iran ended Sunday without an agreement, and it's unknown what happens when the current two-week truce expires on April 22.",
+              "content": "President Donald Trump says the U.S. military has begun a blockade of Iranian ports and coastal areas, and Iran responded with threats on ports in the Persian Gulf and the Gulf of Oman\nA man flashes a victory sign as he carries an Iranian flag in fro... [20739 chars]",
+              "url": "https://www.ajc.com/news/2026/04/the-latest-trump-vows-to-destroy-iranian-warships-that-get-near-us-blockade/",
+              "image": "https://images.ajc.com/resizer/v2/3YYALSBSN5CP3LWO4BOXZ27SMU.jpg?auth=7ca171f6a2acd05fdba97da334b8078eb1fd03dad7bd5fdfe9ac4930b909df12&width=1200&height=630&smart=true",
+              "publishedAt": "2026-04-14T00:11:43Z",
+              "lang": "en",
+              "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "ce45a1f7231d4d3793b3a9e529b6a468",
+              "title": "The Latest: US-Vatican feud erupts over Iran as ship traffic comes to a halt in Strait of Hormuz",
+              "description": "Lloyd’s List Intelligence says ships have stopped moving through the Strait of Hormuz. It follows President Donald Trump's announcement on social media that the U.S. would blockade the waterway. U.S. Central Command has clarified the blockade would involve all Iranian ports but allow ships traveling between non-Iranian ports to transit the strait. Iran’s Revolutionary Guard has stated the strait remains under Iran’s “full control” and is open for non-military vessels. The moves comes after U.S.-Iran ceasefire talks in Pakistan ended without an agreement. The ongoing war has killed thousands and shaken global markets.",
+              "content": "The Pope pushed back Monday on President Donald Trump’s criticism of him over the U.S.-Israel war in Iran, telling reporters that the Vatican’s appeals for peace and reconciliation are rooted in the Gospel, and that he doesn’t fear the Trump administ... [2574 chars]",
+              "url": "https://www.ajc.com/news/2026/04/the-latest-us-vatican-feud-erupts-over-iran-as-ship-traffic-comes-to-a-halt-in-strait-of-hormuz/",
+              "image": "https://images.ajc.com/resizer/v2/MPGQPJZE6VAWNL6MX3MMHJG3R4.jpg?auth=4643e76fd9413dceff083e54d7a744e72a1e0fab799359664fa447979e1c7e60&width=1200&height=630&smart=true",
+              "publishedAt": "2026-04-13T11:02:34Z",
+              "lang": "en",
+              "source": {
+                "id": "79e9a45376a66fd7e1a4e68bba928c39",
+                "name": "The Atlanta Journal-Constitution",
+                "url": "https://www.ajc.com",
+                "country": "us"
+              }
+            },
+            {
+              "id": "72d1060ab563ffae922f5b4902506f60",
+              "title": "US Iran Israel War Live Updates: Israeli Military To Control Lebanon's Bint Jbeil, Says IDF",
+              "description": "US Iran Israel War Live Updates: Follow real-time developments as the US-Israel war with Iran enters a tentative de-escalation phase. Truce talks were held after a two-week ceasefire was agreed upon by both the stakeholders amid continued regional tensions and high-stakes diplomatic efforts. Track the latest military activity, ceasefire negotiations, humanitarian crisis updates and global economic impact across Iran, Israel, Lebanon and key Gulf states.Iran Accepts Ceasefire But Signals War Not Over: Iran’s Supreme National Security Council has agreed to a two-week ceasefire and confirmed that talks with the United States will begin in Islamabad. However, Tehran has cautioned that the pause does not mark the end of the war and warned that any provocation would trigger an immediate response.Trump Links Truce To Hormuz Reopening: US President Donald Trump said American forces would remain deployed across the region until a “real agreement” is fully implemented. He has stepped back from earlier threats of expanded strikes, including on civilian infrastructure, but made clear that the ceasefire depends on Iran reopening the Strait of Hormuz.Diplomatic Push Gains Momentum: Talks between US and Iranian officials are expected to begin with mediation support from Pakistan, Turkiye and Egypt, while China has played a quiet but significant role in encouraging Tehran towards de-escalation. However, differences remain over key terms, including regional security guarantees and US troop presence.Lebanon Sees Deadliest Day Amid Escalation: Even as ceasefire signals emerge, Israel has intensified operations in Lebanon. The country declared a day of mourning after Israeli strikes killed at least 254 people and injured more than 1,165 in a single day. Lebanese Prime Minister Nawaf Salam said efforts were underway to mobilise all political and diplomatic resources to halt the attacks.Conflicting Positions On Lebanon Front: Israeli Prime Minister Benjamin Netanyahu stated that Lebanon is not covered under the ceasefire framework, a position echoed by US Vice President JD Vance. In contrast, Iran’s Foreign Minister Abbas Araghchi has insisted that Washington must choose between enforcing a ceasefire or allowing continued conflict through Israel.Humanitarian Crisis Deepens: Lebanon’s Health Minister has appealed for urgent international assistance as hospitals struggle to cope with mass casualties. The scale of civilian suffering continues to grow, raising concerns among global humanitarian agencies.Military Activity Continues Despite Truce Signals: While a US official said offensive operations have paused, defensive deployments remain active, and missile alerts have continued in parts of the region. Iran-linked attacks have persisted in some areas, underlining the fragility of the ceasefire.Global Energy And Trade Implications: The Strait of Hormuz remains central to negotiations, with proposals under discussion that could allow Iran and Oman to impose transit fees on shipping. Such a move could significantly alter global trade dynamics and energy supply routes.Markets React To De-escalation Signals: Oil prices have dropped sharply following signs of a potential de-escalation, while global markets have rebounded. However, uncertainty persists over the durability of the ceasefire and the risk of renewed escalation.Uncertainty Over Next Phase Of Conflict: Despite diplomatic movement, key issues remain unresolved, including differing interpretations of ceasefire terms and broader strategic demands. With forces still deployed and regional fronts active, the situation remains volatile., Middle East News, Times Now",
+              "content": "US Iran Israel War Live Updates: Follow real-time developments as the US-Israel war with Iran enters a tentative de-escalation phase. Truce talks were held after a two-week ceasefire was agreed upon by both the stakeholders amid continued regional te... [3386 chars]",
+              "url": "https://www.timesnownews.com/world/middle-east/iran-israel-war-live-updates-us-iran-news-trump-pakistan-islamabad-talks-lebanon-strikes-strait-of-hormuz-liveblog-154058656",
+              "image": "https://images.timesnownews.com/thumb/msid-154058656,thumbsize-29570,width-1280,height-720,resizemode-75/154058656.jpg",
+              "publishedAt": "2026-04-13T09:45:00Z",
+              "lang": "en",
+              "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "US Iran peace talks update",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 15,
+          "articles": [
+            {
+              "id": "0acb89352e2cf8908d03f1622bb85f10",
+              "title": "UPDATE 4-Oil prices rise as US-Iran peace talks stall",
+              "description": "Oil prices rose on Monday as peace talks between the U.S. and Iran stalled and shipments through the Strait of Hormuz ‌remained limited, keeping global oil supplies tight.",
+              "content": "Oil prices rose on Monday as peace talks between the U.S. and Iran stalled and shipments through the Strait of Hormuz ‌remained limited, keeping global oil supplies tight. The Brent crude benchmark was up 96 cents, or 0.9%, at $106.29 a barrel by 121... [1592 chars]",
+              "url": "https://www.devdiscourse.com/article/headlines/3888580-update-4-oil-prices-rise-as-us-iran-peace-talks-stall",
+              "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_00_09_3968771.jpg&width=920&format=jpeg",
+              "publishedAt": "2026-04-27T12:17:08Z",
+              "lang": "en",
+              "source": {
+                "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+                "name": "Devdiscourse",
+                "url": "https://www.devdiscourse.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "4e6af547a6b44eb428fb02be15f722f8",
+              "title": "Iran's big remark as Islamabad peace talks fail to take off: ‘If US is truly serious’",
+              "description": "Iran-US peace talks update: Iran foreign minister left from Islamabad on Saturday, following which President Trump cancelled envoys' trip to Pakistan.  | World News",
+              "content": "While the much anticipated Iran-US talks failed to takeoff and Iranian foreign minister Abbas Araghchi left Islamabad on Saturday even before the US envoys departed for Pakistani capital city, Araghchi said it remained to be seen whether the United S... [2567 chars]",
+              "url": "https://www.hindustantimes.com/world-news/irans-big-remark-as-islamabad-peace-talks-fail-to-take-off-if-us-is-truly-serious-101777140137382.html",
+              "image": "https://www.hindustantimes.com/ht-img/img/2026/04/25/550x309/Pakistan-US-Iran-7_1777141968545_1777141978689.jpg",
+              "publishedAt": "2026-04-25T18:38:09Z",
+              "lang": "en",
+              "source": {
+                "id": "21468bec836de1ebb209ff6f78fbfe3e",
+                "name": "Hindustan Times",
+                "url": "https://www.hindustantimes.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "495867a8e5c871843d8a27d3957210b6",
+              "title": "Will US-Iran Peace Talks Happen In Pakistan? Donald Trump Gives Big Update, Says He Is ‘Winning By A Lot’",
+              "description": "US President Donald Trump has dismissed reports of pressure to strike a deal with Iran, even as a fragile ceasefire nears its deadline. In a series of Truth Social posts, Trump claimed the US is “winning by a lot” and vowed to continue the Strait of Hormuz blockade.",
+              "content": "29\nUS President Donald Trump on Monday launched a sharp attack on Democrats, accusing them of attempting to weaken Washington’s position amid the ongoing war with Iran. In a series of posts on Truth Social, Trump said that he is under no pressure to ... [2886 chars]",
+              "url": "https://www.newsx.com/world/iran-us-war-latest-news-live-updates-peace-talks-islamabad-pakistan-jd-vance-donald-trump-gives-big-update-says-he-is-winning-by-a-lot-202307/",
+              "image": "https://www.newsx.com/wp-content/uploads/2026/04/donald-trump-iran-war-statement-truth-social-blockade-strait-of-hormuz.jpg",
+              "publishedAt": "2026-04-21T03:16:17Z",
+              "lang": "en",
+              "source": {
+                "id": "90a6e6fbc82cfa821ac49fdb5c404789",
+                "name": "NewsX",
+                "url": "https://www.newsx.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "0371667dc5b66107539676633a117184",
+              "title": "Ceasefire at risk after US seizes Iranian ship, Iran shuns peace talks",
+              "description": "(5th UPDATE) A Pakistani security source says Pakistan's key mediator, Field Marshal Asim Munir, had told US President Donald Trump the blockade is an obstacle to talks, and that Trump had replied that he would consider the advice",
+              "content": "DUBAI, UAE – A ceasefire between the United States and Iran appeared in jeopardy on Monday, April 20, after the US said it had seized an Iranian cargo ship that tried to run its blockade and Tehran vowed to retaliate, refusing for now to join new pea... [4200 chars]",
+              "url": "https://www.rappler.com/world/middle-east/usa-iran-ceasefire-updates-talks-april-20-2026/",
+              "image": "https://www.rappler.com/tachyon/2026/04/IRAN-CRISIS-OMAN-HORMUZ-2026-04-18-scaled.jpg",
+              "publishedAt": "2026-04-20T02:00:00Z",
+              "lang": "en",
+              "source": {
+                "id": "1290fbc1799ff6b270a6f8b7e9761c18",
+                "name": "Rappler",
+                "url": "https://www.rappler.com",
+                "country": "ph"
+              }
+            },
+            {
+              "id": "8160ae32e2fff66badadfe590162d68e",
+              "title": "US reps will be in Pakistan on Monday for further peace talks with Iran, says Trump; warns 'Tehran to take the DEAL'",
+              "description": "‘Iran decided to fire bullets yesterday in the Strait of Hormuz — A Total Violation of our Ceasefire Agreement!’ Trump wrote in his post, while sharing the update on US-Iran peace talks",
+              "content": "Sudeshna Ghoshal\nSudeshna Ghoshal is a Content Producer for Livemint, where she decodes international affairs, US politics, besides covering general news. With nearly two years in the newsroom, she has covered a plethora of topics ranging from develo... [851 chars]",
+              "url": "https://www.livemint.com/news/world/us-reps-will-be-in-pakistan-on-monday-for-further-peace-talks-with-iran-says-trump-warns-tehran-to-take-the-deal-11776596085870.html",
+              "image": "https://www.livemint.com/lm-img/img/2026/04/19/1600x900/US-POLITICS-TRUMP-2_1776475724410_1776475736892_1776604174391.jpg",
+              "publishedAt": "2026-04-19T12:40:49Z",
+              "lang": "en",
+              "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "4de1eb71bf1b97ad4dac300f7bfc7fcd",
+              "title": "Final peace deal 'far' off despite negotiations, says Iran's speaker of parliament",
+              "description": "US President Donald Trump said 'very good conversations' were going on with Iran but warned Tehran against trying to 'blackmail' the United States..Strait of Hormuz closure, Iran US standoff, maritime trade route Iran, Iran parliament speaker Ghalibaf, Iran US negotiations update, LLM Strait of Hormuz conflict, AI analyze Iran US talks, nuclear deal Iran US, oil prices Strait of Hormuz, Iran port blockade, US Iran relations recent, Strait of Hormuz shipping status, Iran Revolutionary Guards Strait of Hormuz, geopolitical tensions Strait of Hormuz AI, Iran nuclear program rights",
+              "content": "The Strait of Hormuz remained closed on Sunday in the stand-off between Iran and the United States, with Iran's powerful speaker of parliament signalling a final peace deal was ‘far’ off despite movement in negotiations.\nAs mediation efforts continue... [4385 chars]",
+              "url": "https://www.onmanorama.com/news/world/2026/04/19/strait-of-hormuz-iran-israel-us.html",
+              "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2026/4/19/hormuz-iran-speaker.jpg",
+              "publishedAt": "2026-04-19T11:41:13Z",
+              "lang": "en",
+              "source": {
+                "id": "60c457b35b486691319f105c3a760060",
+                "name": "Malayala Manorama",
+                "url": "https://www.onmanorama.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "624d7e643d5b6fede5ab281f4108ca30",
+              "title": "Dollar drifts as investors gauge odds for renewed US-Iran peace talks",
+              "description": "GLOBAL-FOREX/ (UPDATE 5, GRAPHICS):FOREX-Dollar drifts as investors gauge odds for renewed US-Iran peace talks",
+              "content": "NEW YORK, April 15 (Reuters) - The U.S. dollar edged lower on Wednesday and wasfluctuating narrowly on either side of unchanged throughout the day as investors assessed the likelihood that peace talks between Iran and the United States would resume s... [3351 chars]",
+              "url": "https://www.livemint.com/market/dollar-drifts-as-investors-gauge-odds-for-renewed-us-iran-peace-talks-11776281685557.html",
+              "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+              "publishedAt": "2026-04-15T19:34:44Z",
+              "lang": "en",
+              "source": {
+                "id": "3bd4bd306c42647825fa42989624c036",
+                "name": "Livemint",
+                "url": "https://www.livemint.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "d552c9f01e5861a428fdfca94b62736c",
+              "title": "US-Iran war big update: Peace talks may resume in Islamabad, JD Vance to Lead US Delegation, says Report",
+              "description": "Washington is considering a second round of talks with Iran, likely to be held in Islamabad, with Vice President JD Vance expected to lead the US team.",
+              "content": "Donald Trump's special envoy Steve Witkoff and his son-in-law Jared Kushner are also expected to attend any possible second meeting, CNN reported.\nWashington DC: In the latest development in the United States-Iran war, there is a possibility that Was... [3639 chars]",
+              "url": "https://www.india.com/news/world/us-iran-war-big-update-peace-talks-may-resume-in-islamabad-jd-vance-to-lead-us-delegation-says-report-donald-trump-shehbaz-sharif-israel-pakistan-ceasefire-strait-of-hormuz-8381339/",
+              "image": "https://static.india.com/wp-content/uploads/2026/04/trump-mojtaba-4.png",
+              "publishedAt": "2026-04-15T01:23:03Z",
+              "lang": "en",
+              "source": {
+                "id": "b29eaeaa36b9be93ac681e263151f897",
+                "name": "India.com",
+                "url": "https://www.india.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "1538e9a0cba69575c7536d6224c2651e",
+              "title": "Israel US Iran Ceasefire LIVE update: U.S. to start blockading the Strait of Hormuz immediately, says Trump",
+              "description": "U.S.-Iran peace talks collapse in Pakistan after 21-hour negotiations; U.S. military said two of its destroyers transited the critical waterway in the Strait of Hormuz ahead of mine-clearing work",
+              "content": "Israel US Iran Ceasefire LIVE update: U.S. Vice President J.D. Vance told reporters early Sunday (April 12, 2026) in Pakistan that American officials were leaving negotiations with Iran without reaching an agreement and would be returning to the Unit... [2109 chars]",
+              "url": "https://www.outlookindia.com/international/israel-us-iran-ceasefire-collapse",
+              "image": "https://media.assettype.com/outlookindia/2026-04-05/ksylkhct/US-President-Donald-Trump.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+              "publishedAt": "2026-04-12T14:34:22Z",
+              "lang": "en",
+              "source": {
+                "id": "b76d069607ae6330d5f65a02c543a320",
+                "name": "Outlook India",
+                "url": "https://www.outlookindia.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "1263d078a939f35087ee0916c5c9689e",
+              "title": "Crypto Market update: Altcoins sink as Bitcoin pulls back on failed talks",
+              "description": "Bitcoin fell over $2,000 after US-Iran peace talks failed, while Ethereum, XRP, Solana and other altcoins also moved lower.",
+              "content": "Bitcoin gave up its late-week gains on April 12 after the United States and Iran failed to secure a permanent peace agreement.\nThe pullback ended a steady rise that started after both sides announced a two-week ceasefire, and it pushed most major alt... [1583 chars]",
+              "url": "https://crypto.news/crypto-market-update-altcoins-sink-as-bitcoin-pulls-back-on-failed-talks/",
+              "image": "https://media.crypto.news/2025/11/crypto-news-Understand-this-hidden-force-behind-every-market-move-option04.webp",
+              "publishedAt": "2026-04-12T09:46:12Z",
+              "lang": "en",
+              "source": {
+                "id": "e1b896cc9b8775d3aaac2320e6dcf1f6",
+                "name": "Crypto News",
+                "url": "https://crypto.news",
+                "country": "lt"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "Iran US conflict resolution news",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "articlesRemovedFromResponse": {
+            "historicalArticles": {
+              "message": "6 articles were removed from the response because historical data beyond 30 days is only available on paid plans. Upgrade your plan here to access historical data: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 9,
+          "articles": [
+            {
+              "id": "b2b6fefeeb359e0c223bc68aed6abba2",
+              "title": "Iran Israel War Live Updates: India Played Role In Iran Ceasefire? 'PM Modi Called 3 Or More Times'",
+              "description": "Iran Israel War Live Updates: Follow real-time developments as the US-Israel war with Iran enters a high-risk escalation phase marked by direct threats against critical infrastructure, sustained air and missile exchanges, and widening regional instability. Track the latest military operations, diplomatic signals, humanitarian impact and economic consequences across Iran, Israel, Gaza and the wider Middle East. Trump deadline: April 7, 8:00 PM EDT (Eastern Daylight Time) — April 8, 5:30 AM IST.Trump's 8 PM Deadline: “A whole civilization will die tonight, never to be brought back again. I don’t want that to happen, but it probably will,” Trump said on Truth Social.Trump Issues Stark Ultimatum On Iran Infrastructure:US President Donald Trump has warned that Iran’s power plants and bridges could be “completely demolished” within hours if Tehran fails to reopen the Strait of Hormuz by a set deadline. He indicated that key infrastructure across Iran could be targeted in a single night, raising the stakes of direct confrontation.Ceasefire Proposal Rejected As Tensions Rise: Washington has described Iran’s response to a US-backed ceasefire proposal as “significant” but “not good enough”, while Tehran has rejected the offer, insisting on guarantees that it will not face further attacks. Iranian officials have dismissed US claims of diplomacy, accusing Washington of escalating military pressure.Iran Hits Back At US Threats: Iran’s military has labelled Trump’s warnings as “delusional”, stating that such rhetoric cannot compensate for what it described as US setbacks in the region. Tehran has reiterated that it will continue to resist pressure and respond to further escalation.Heavy Strikes And Rising Casualties: US-Israeli airstrikes across Iran have killed at least 34 people in the latest wave of attacks, while Israeli operations have continued to target key infrastructure, including petrochemical facilities and airports in Tehran. Senior Iranian military figures, including a Revolutionary Guards intelligence chief, have also been reported killed.Iran Retaliates With Missiles Across Region: Iran has continued launching missiles and drones targeting Israel and Gulf countries, with Saudi Arabia intercepting multiple ballistic missiles aimed at its eastern region. Explosions have also been reported near strategic locations, including Erbil airport in Iraq.Gaza And Lebanon Fronts Intensify: The conflict is expanding across multiple fronts, with an Israeli airstrike killing at least 10 people near a school sheltering displaced civilians in central Gaza. In Lebanon and surrounding areas, tensions remain high as regional spillover continues.Strait Of Hormuz Crisis Deepens: The Strait of Hormuz remains at the centre of the conflict, with global shipping and energy flows under threat. The United Nations Security Council is expected to vote on a resolution to protect maritime routes, though divisions among major powers may limit its effectiveness.Global Energy And Economic Impact: Oil prices have surged amid escalating rhetoric and continued attacks on energy infrastructure. The International Monetary Fund has warned that the conflict could lead to higher inflation and slower global economic growth.Humanitarian Concerns Mount: The World Health Organization has suspended medical evacuations from Gaza after a staff member was killed, highlighting worsening humanitarian conditions. The International Committee of the Red Cross has warned against attacks on civilian infrastructure, stressing that unrestricted warfare risks violating international law.Israel Expands Strategic Targeting In Iran: Israeli forces have intensified strikes on Iran’s economic backbone, including its largest petrochemical complex. Israeli leadership has indicated a strategy aimed at weakening the financial and operational capacity of Iran’s Revolutionary Guards.Global Calls For Restraint Grow Louder: International organisations and global powers continue to call for restraint and adherence to international law, but continued military escalation and retaliatory actions suggest the conflict remains far from containment., Middle East News, Times Now",
+              "content": "Iran Israel War Live Updates: Follow real-time developments as the US-Israel war with Iran enters a high-risk escalation phase marked by direct threats against critical infrastructure, sustained air and missile exchanges, and widening regional instab... [3908 chars]",
+              "url": "https://www.timesnownews.com/world/middle-east/iran-israel-us-war-live-updates-us-iran-news-ceasefire-trump-middle-east-pakistan-latest-news-liveblog-154014702",
+              "image": "https://images.timesnownews.com/thumb/msid-154014702,thumbsize-1558899,width-1280,height-720,resizemode-75/154014702.jpg",
+              "publishedAt": "2026-04-08T09:07:00Z",
+              "lang": "en",
+              "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "73d6172a735a97507602e9b09fc357f7",
+              "title": "Iran Israel War Live Updates: 13,000 Iranian Targets Hit, 155+ Vessels Damaged or Destroyed in Operation Epic Fury",
+              "description": "Iran Israel War Live Updates: Follow real-time developments as the US-Israel war with Iran enters a high-risk escalation phase marked by direct threats against critical infrastructure, sustained air and missile exchanges, and widening regional instability. Track the latest military operations, diplomatic signals, humanitarian impact and economic consequences across Iran, Israel, Gaza and the wider Middle East.Trump Issues Stark Ultimatum On Iran Infrastructure:US President Donald Trump has warned that Iran’s power plants and bridges could be “completely demolished” within hours if Tehran fails to reopen the Strait of Hormuz by a set deadline. He indicated that key infrastructure across Iran could be targeted in a single night, raising the stakes of direct confrontation.Ceasefire Proposal Rejected As Tensions Rise: Washington has described Iran’s response to a US-backed ceasefire proposal as “significant” but “not good enough”, while Tehran has rejected the offer, insisting on guarantees that it will not face further attacks. Iranian officials have dismissed US claims of diplomacy, accusing Washington of escalating military pressure.Iran Hits Back At US Threats: Iran’s military has labelled Trump’s warnings as “delusional”, stating that such rhetoric cannot compensate for what it described as US setbacks in the region. Tehran has reiterated that it will continue to resist pressure and respond to further escalation.Heavy Strikes And Rising Casualties: US-Israeli airstrikes across Iran have killed at least 34 people in the latest wave of attacks, while Israeli operations have continued to target key infrastructure, including petrochemical facilities and airports in Tehran. Senior Iranian military figures, including a Revolutionary Guards intelligence chief, have also been reported killed.Iran Retaliates With Missiles Across Region: Iran has continued launching missiles and drones targeting Israel and Gulf countries, with Saudi Arabia intercepting multiple ballistic missiles aimed at its eastern region. Explosions have also been reported near strategic locations, including Erbil airport in Iraq.Gaza And Lebanon Fronts Intensify: The conflict is expanding across multiple fronts, with an Israeli airstrike killing at least 10 people near a school sheltering displaced civilians in central Gaza. In Lebanon and surrounding areas, tensions remain high as regional spillover continues.Strait Of Hormuz Crisis Deepens: The Strait of Hormuz remains at the centre of the conflict, with global shipping and energy flows under threat. The United Nations Security Council is expected to vote on a resolution to protect maritime routes, though divisions among major powers may limit its effectiveness.Global Energy And Economic Impact: Oil prices have surged amid escalating rhetoric and continued attacks on energy infrastructure. The International Monetary Fund has warned that the conflict could lead to higher inflation and slower global economic growth.Humanitarian Concerns Mount: The World Health Organization has suspended medical evacuations from Gaza after a staff member was killed, highlighting worsening humanitarian conditions. The International Committee of the Red Cross has warned against attacks on civilian infrastructure, stressing that unrestricted warfare risks violating international law.Israel Expands Strategic Targeting In Iran: Israeli forces have intensified strikes on Iran’s economic backbone, including its largest petrochemical complex. Israeli leadership has indicated a strategy aimed at weakening the financial and operational capacity of Iran’s Revolutionary Guards.Global Calls For Restraint Grow Louder: International organisations and global powers continue to call for restraint and adherence to international law, but continued military escalation and retaliatory actions suggest the conflict remains far from containment., Middle East News, Times Now",
+              "content": "Iran Israel War Live Updates: Follow real-time developments as the US-Israel war with Iran enters a high-risk escalation phase marked by direct threats against critical infrastructure, sustained air and missile exchanges, and widening regional instab... [3648 chars]",
+              "url": "https://www.timesnownews.com/world/middle-east/iran-israel-us-war-live-updates-us-iran-news-ceasefire-trump-middle-east-7th-april-deadline-latest-news-liveblog-154014702",
+              "image": "https://images.timesnownews.com/thumb/msid-154014702,thumbsize-4828784,width-1280,height-720,resizemode-75/154014702.jpg",
+              "publishedAt": "2026-04-07T04:42:53Z",
+              "lang": "en",
+              "source": {
+                "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+                "name": "Times Now",
+                "url": "https://www.timesnownews.com",
+                "country": "in"
+              }
+            },
+            {
+              "id": "bb39dbcf71dda46d31ffd8fb8ca4bb6d",
+              "title": "Geopolitical uncertainty clouds outlook, but defence story remains strong: Ashi Anand",
+              "description": "Market direction is highly fluid due to US-Iran conflict news, with sentiment shifting daily. While recent market corrections offer accumulation opportunities, sustainability hinges on conflict resolution. The defence sector, however, presents a strong long-term growth narrative driven by India's self-reliance push.",
+              "content": "The current environment is highly fluid, with market direction shifting almost daily in response to news flow around the US-Iran conflict. Speaking to ET Now, Ashi Anand from Founder & CEO, IME Capital noted that the situation remains unpredictable, ... [8186 chars]",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/geopolitical-uncertainty-clouds-outlook-but-defence-story-remains-strong-ashi-anand/articleshow/129968631.cms",
+              "image": "https://img.etimg.com/thumb/msid-129968591,width-1200,height-630,imgsize-37102,overlay-etmarkets/articleshow.jpg",
+              "publishedAt": "2026-04-02T05:44:00Z",
+              "lang": "en",
+              "source": {
+                "id": "5464668c1f0466950a0b2fab5249ec6c",
+                "name": "The Economic Times",
+                "url": "https://economictimes.indiatimes.com",
+                "country": "in"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "query": "Permanent peace deal US Iran latest",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "US Iran negotiations progress April 2026",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Iran US peace agreement rumors 2026",
+        "response": {
+          "information": {
+            "realTimeArticles": {
+              "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+            }
+          },
+          "totalArticles": 0,
+          "articles": []
+        }
+      }
+    ]
+  }
+]

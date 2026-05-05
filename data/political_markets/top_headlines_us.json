@@ -1,0 +1,271 @@
+[
+  {
+    "question": "Will the AfD be the Berlin State Election Winner?",
+    "queries": [
+      {
+        "query": "AfD Berlin election polls",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin state election schedule",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD popularity in Berlin",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin election candidate list",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD Berlin election campaign",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin state election predictions",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD campaign issues Berlin",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin election AfD chances",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD vs other parties Berlin election",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin state election winner",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      }
+    ]
+  },
+  {
+    "question": "Strait of Hormuz traffic returns to normal by end of April?",
+    "queries": [
+      {
+        "query": "Strait of Hormuz traffic update",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Hormuz shipping lane news",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "IMF Portwatch Strait data",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Strait of Hormuz maritime news",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Recent Hormuz ship traffic",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Strait of Hormuz ship traffic update",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "IMF Portwatch Strait of Hormuz data",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Normal traffic levels Strait of Hormuz",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Strait of Hormuz news April 2026",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "IMF Portwatch transit calls report",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      }
+    ]
+  },
+  {
+    "question": "US x Iran permanent peace deal by May 31?",
+    "queries": [
+      {
+        "query": "US Iran peace talks",
+        "response": {
+          "status": "ok",
+          "totalResults": 1,
+          "articles": [
+            {
+              "source": {
+                "id": null,
+                "name": "NPR"
+              },
+              "author": "NPR Staff",
+              "title": "Iran’s flurry of diplomacy, as Trump insists U.S. has ‘the cards’ - NPR",
+              "description": "Iran's foreign minister arrived in Russia on Monday, after a whirlwind weekend of diplomacy, seeking to gain political leverage and foreign backing as peace talks with the U.S. remain on hold.",
+              "url": "https://www.npr.org/2026/04/27/nx-s1-5800669/iran-middle-east-updates",
+              "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+166/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2Fc4%2Fd6b353f5471ab80954ba5f71efa4%2Fgettyimages-2272365298.jpg",
+              "publishedAt": "2026-04-27T11:32:55Z",
+              "content": "Iran's foreign minister arrived in Russia on Monday, after a whirlwind weekend of diplomacy, seeking to gain political leverage and foreign backing as peace talks with the U.S. remain on hold.\r\nBut m… [+3060 chars]"
+            }
+          ]
+        }
+      },
+      {
+        "query": "Iran US conflict update",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "US Iran diplomatic efforts",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Iran US peace deal news",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "US Iran agreement latest",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "US Iran peace talks update",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Iran US conflict resolution news",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Permanent peace deal US Iran latest",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "US Iran negotiations progress April 2026",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Iran US peace agreement rumors 2026",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      }
+    ]
+  }
+]

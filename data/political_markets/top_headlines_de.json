@@ -1,0 +1,257 @@
+[
+  {
+    "question": "Will the AfD be the Berlin State Election Winner?",
+    "queries": [
+      {
+        "query": "AfD Berlin election polls",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin state election schedule",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD popularity in Berlin",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin election candidate list",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD Berlin election campaign",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin state election predictions",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD campaign issues Berlin",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin election AfD chances",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "AfD vs other parties Berlin election",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Berlin state election winner",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      }
+    ]
+  },
+  {
+    "question": "Strait of Hormuz traffic returns to normal by end of April?",
+    "queries": [
+      {
+        "query": "Strait of Hormuz traffic update",
+        "response": {
+          "status": "ok",
+          "totalResults": 0,
+          "articles": []
+        }
+      },
+      {
+        "query": "Hormuz shipping lane news",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "IMF Portwatch Strait data",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Strait of Hormuz maritime news",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Recent Hormuz ship traffic",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Strait of Hormuz ship traffic update",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "IMF Portwatch Strait of Hormuz data",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Normal traffic levels Strait of Hormuz",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Strait of Hormuz news April 2026",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "IMF Portwatch transit calls report",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      }
+    ]
+  },
+  {
+    "question": "US x Iran permanent peace deal by May 31?",
+    "queries": [
+      {
+        "query": "US Iran peace talks",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Iran US conflict update",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "US Iran diplomatic efforts",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Iran US peace deal news",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "US Iran agreement latest",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "US Iran peace talks update",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Iran US conflict resolution news",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Permanent peace deal US Iran latest",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "US Iran negotiations progress April 2026",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      },
+      {
+        "query": "Iran US peace agreement rumors 2026",
+        "response": {
+          "status": "error",
+          "code": "rateLimited",
+          "message": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        }
+      }
+    ]
+  }
+]

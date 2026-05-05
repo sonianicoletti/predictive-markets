@@ -14,3 +14,4 @@ gnews
 readability-lxml
 lxml
 newscatcher-catchall-sdk
+matplotlib-venn

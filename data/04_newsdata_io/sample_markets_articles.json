@@ -1,0 +1,1206 @@
+[
+  {
+    "question": "Will Aljamain Sterling fight Alexander Volkanovski next?",
+    "resolution_criteria": "This market will resolve according to the next UFC fighter that Alexander Volkanovski is officially announced to face in a UFC bout.\n\nResolution for this market will be based on the next UFC fighter that Alexander Volkanovski is officially announced to fight, regardless of whether the fight ends up taking place.\n\nOnly official announcements from the UFC, which include a scheduled date for the bout, will count. Announcements with no date or which do not confirm that the fight is official, speculation, or other unofficial announcements will not count.\n\nIf Volkanovski is officially announced to fight any non-listed fighter or no qualifying announcement is made by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the UFC (https://www.ufc.com/).",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-02-02T00:00:00",
+    "close_date": "2027-01-01T00:00:00",
+    "search_queries": [
+      "Volkanovski next fight",
+      "UFC upcoming bouts",
+      "Alexander Volkanovski schedule",
+      "Alexander Volkanovski next fight",
+      "Volkanovski upcoming UFC bout",
+      "UFC announces Volkanovski opponent"
+    ],
+    "articles": [
+      {
+        "query": "Volkanovski next fight",
+        "title": "Aljamain Sterling calls for title shot against Alexander Volkanovski: 'Give me my damn title shot'",
+        "source": "cbssports",
+        "published_date": "2026-04-27 17:23:00",
+        "url": "https://www.cbssports.com/ufc/news/aljamain-sterling-title-shot-alexander-volkanovski/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "4 Fights We Need to See After UFC Fight: Sterling vs. Zalal",
+        "source": "bleacherreport",
+        "published_date": "2026-04-27 11:00:41",
+        "url": "https://bleacherreport.com/articles/25422684-4-fights-we-need-see-after-ufc-fight-sterling-vs-zalal",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "Aljamain Sterling dominates Zalal at UFC Vegas 116",
+        "source": "yardbarker",
+        "published_date": "2026-04-27 00:01:02",
+        "url": "https://www.yardbarker.com/mma/articles/aljamain_sterling_dominates_zalal_at_ufc_vegas_116/s1_17349_43776739",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "UFC Vegas 116 results: Matches to make for ‘Sterling vs. Zalal’ main card winners",
+        "source": "mmamania",
+        "published_date": "2026-04-26 23:00:00",
+        "url": "https://www.mmamania.com/ufc-results/439213/ufc-vegas-116-results-matches-to-make-for-sterling-vs-zalal-main-card-winners",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "Khamzat Chimaev and Sean Strickland’s ‘friction’ encouraged by Jon Anik despite Dana White’s concern",
+        "source": "bloodyelbow",
+        "published_date": "2026-04-26 22:00:00",
+        "url": "https://bloodyelbow.com/2026/04/26/khamzat-chimaev-and-sean-stricklands-friction-encouraged-by-jon-anik-despite-dana-whites-concern/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "Josh Hokit predicted to be UFC heavyweight champion by the end of 2026 by Chael Sonnen",
+        "source": "bloodyelbow",
+        "published_date": "2026-04-26 21:00:00",
+        "url": "https://bloodyelbow.com/2026/04/26/josh-hokit-predicted-to-be-ufc-heavyweight-champion-by-the-end-of-2026-by-chael-sonnen/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "‘Cut him’... Fans think BJJ legend’s MMA career is over after scary KO loss at UFC Vegas 116",
+        "source": "bloodyelbow",
+        "published_date": "2026-04-26 19:00:00",
+        "url": "https://bloodyelbow.com/2026/04/26/cut-him-fans-think-bjj-legends-mma-career-is-over-after-scary-ko-loss-at-ufc-vegas-116/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "Aljamain Sterling turns up the heat on critics following convincing win over Youssef Zalal",
+        "source": "yahoo",
+        "published_date": "2026-04-26 18:40:00",
+        "url": "https://sports.yahoo.com/articles/aljamain-sterling-turns-heat-critics-184000519.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "Aljamain Sterling turns up the heat on critics following convincing win over Youssef Zalal",
+        "source": "hitc",
+        "published_date": "2026-04-26 18:10:00",
+        "url": "https://www.hitc.com/aljamain-sterling-turns-up-the-heat-on-critics-following-convincing-win-over-youssef-zalal/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Volkanovski next fight",
+        "title": "Aljamain Sterling turns up the heat on critics following convincing win over Youssef Zalal",
+        "source": "yardbarker",
+        "published_date": "2026-04-26 18:10:00",
+        "url": "https://www.yardbarker.com/mma/articles/aljamain_sterling_turns_up_the_heat_on_critics_following_convincing_win_over_youssef_zalal/s1_17664_43775719",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      }
+    ]
+  },
+  {
+    "question": "Will Bilibili Gaming win the LPL 2026 season?",
+    "resolution_criteria": "This market will resolve according to the winner of the League of Legends Pro League (LPL) 2026 season.\n\nIf the 2026 LPL season is postponed after December 31, 2026 11:59 PM ET, canceled, or a winner has not been declared in this timeframe, this market will resolve to “Other”.\n\nIf multiple teams are declared winner, this market will resolve in favor of the team whose listed team name comes first alphabetically.\n\nThe resolution source for this market will be official information from the LPL league organizers; however, a consensus of credible reporting may also be used.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2025-11-20T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "LPL 2026 schedule",
+      "Bilibili Gaming roster",
+      "LPL season updates",
+      "LPL 2026 season schedule",
+      "Bilibili Gaming roster 2026",
+      "LPL 2026 predictions"
+    ],
+    "articles": [
+      {
+        "query": "LPL season updates",
+        "title": "urban-gro, Inc. (Nasdaq: UGRO) Issues Comprehensive Business Update: Strategic Transformation from Controlled Environment Agriculture to Sports, Media, and Experiential Platform; Restored Nasdaq Listing Compliance; Cricket Strategy Aligned with LA28 Olympic Inclusion and Growth of US Collegiate Cricket",
+        "source": "manilatimes",
+        "published_date": "2026-04-27 11:35:05",
+        "url": "https://www.manilatimes.net/2026/04/27/tmt-newswire/globenewswire/urban-gro-inc-nasdaq-ugro-issues-comprehensive-business-update-strategic-transformation-from-controlled-environment-agriculture-to-sports-media-and-experiential-platform-restored-nasdaq-listing-compliance-cricket-strategy-aligned-with-la28-olympic-inclusion-and-growth-of-us-collegiate-cricket/2329217",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "LPL season updates",
+        "title": "urban-gro, Inc. (Nasdaq: UGRO) Issues Comprehensive Business Update: Strategic Transformation from Controlled Environment Agriculture to Sports, Media, and Experiential Platform; Restored Nasdaq Listing Compliance; Cricket Strategy Aligned with LA28 Olympic Inclusion and Growth of US Collegiate Cricket",
+        "source": "montrealgazette",
+        "published_date": "2026-04-27 11:34:35",
+        "url": "https://montrealgazette.com/press-releases/globe-newswire/urban-gro-inc-nasdaq-ugro-issues-comprehensive-business-update-strategic-transformation-from-controlled-environment-agriculture-to-sports-media-and-experiential-platform-restored-nasdaq-listi/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "LPL season updates",
+        "title": "urban-gro, Inc. (Nasdaq: UGRO) Issues Comprehensive Business Update: Strategic Transformation from Controlled Environment Agriculture to Sports, Media, and Experiential Platform; Restored Nasdaq Listing Compliance; Cricket Strategy Aligned with LA28 Olympic Inclusion and Growth of US Collegiate Cricket",
+        "source": "financialpost",
+        "published_date": "2026-04-27 11:34:33",
+        "url": "https://financialpost.com/globe-newswire/urban-gro-inc-nasdaq-ugro-issues-comprehensive-business-update-strategic-transformation-from-controlled-environment-agriculture-to-sports-media-and-experiential-platform-restored-nasdaq-listi",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "LPL season updates",
+        "title": "Flash Sport & Media Inc: urban-gro, Inc. (Nasdaq: UGRO) Issues Comprehensive Business Update: Strategic Transformation from Controlled Environment Agriculture to Sports, Media, and Experiential Platform; Restored Nasdaq Listing Compliance; Cricket Strateg",
+        "source": "finanznachrichten_de",
+        "published_date": "2026-04-27 11:34:00",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-04/68311345-flash-sport-media-inc-urban-gro-inc-nasdaq-ugro-issues-comprehensive-business-update-strategic-transformation-from-controlled-environment-agr-399.htm",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "LPL season updates",
+        "title": "urban-gro, Inc. (Nasdaq: UGRO) Issues Comprehensive Business Update: Strategic Transformation ...",
+        "source": "postregister",
+        "published_date": "2026-04-27 11:33:47",
+        "url": "https://www.postregister.com/businessreport/healthcare/urban-gro-inc-nasdaq-ugro-issues-comprehensive-business-update-strategic-transformation/article_e62cc904-3373-5fa7-96ae-73c3ec2aef37.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "LPL season updates",
+        "title": "urban-gro, Inc. (Nasdaq: UGRO) Issues Comprehensive Business Update: Strategic Transformation from Controlled Environment Agriculture to Sports, Media, and Experiential Platform; Restored Nasdaq Listing Compliance; Cricket Strategy Aligned with LA28 Olympic Inclusion and Growth of US Collegiate Cricket",
+        "source": "norfolkdailynews",
+        "published_date": "2026-04-27 11:30:00",
+        "url": "https://norfolkdailynews.com/online_features/press_releases/urban-gro-inc-nasdaq-ugro-issues-comprehensive-business-update-strategic-transformation-from-controlled-environment-agriculture/article_328ba95a-96c5-5cc8-b147-2f2693eaa3b5.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "LPL season updates",
+        "title": "urban-gro, Inc. (Nasdaq: UGRO) Issues Comprehensive Business Update: Strategic Transformation from Controlled Environment Agriculture to Sports, Media, and Experiential Platform; Restored Nasdaq Listing Compliance; Cricket Strategy Aligned with LA28 Olympic Inclusion and Growth of US Collegiate Cricket",
+        "source": "globenewswire_fr",
+        "published_date": "2026-04-27 11:30:00",
+        "url": "https://www.globenewswire.com/fr/news-release/2026/04/27/3281519/0/en/urban-gro-Inc-Nasdaq-UGRO-Issues-Comprehensive-Business-Update-Strategic-Transformation-from-Controlled-Environment-Agriculture-to-Sports-Media-and-Experiential-Platform-Restored-N.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "LPL season updates",
+        "title": "urban-gro, Inc. (Nasdaq: UGRO) Issues Comprehensive Business Update: Strategic Transformation from Controlled Environment Agriculture to Sports, Media, and Experiential Platform; Restored Nasdaq Listing Compliance; Cricket Strategy Aligned with LA28",
+        "source": "financialcontent",
+        "published_date": "2026-04-27 11:30:00",
+        "url": "https://www.financialcontent.com/article/gnwcq-2026-4-27-urban-gro-inc-nasdaq-ugro-issues-comprehensive-business-update-strategic-transformation-from-controlled-environment-agriculture-to-sports-media-and-experiential-platform-restored-nasdaq-listing-compliance-cricket-strategy-aligned-with-la28",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "LPL season updates",
+        "title": "urban-gro, Inc. (Nasdaq: UGRO) Issues Comprehensive Business Update: Strategic Transformation from Controlled Environment Agriculture to Sports, Media, and Experiential Platform; Restored Nasdaq Listing Compliance; Cricket Strategy Aligned with LA28 Olympic Inclusion and Growth of US Collegiate Cricket",
+        "source": "globenewswire",
+        "published_date": "2026-04-27 11:30:00",
+        "url": "https://www.globenewswire.com/news-release/2026/04/27/3281519/0/en/urban-gro-Inc-Nasdaq-UGRO-Issues-Comprehensive-Business-Update-Strategic-Transformation-from-Controlled-Environment-Agriculture-to-Sports-Media-and-Experiential-Platform-Restored-N.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      }
+    ]
+  },
+  {
+    "question": "Will Giorgos Giakoumakis record the most cards in 2025-26 UEFA Europa League?",
+    "resolution_criteria": "This market will resolve to the player who records the most disciplinary cards through all main tournament rounds of the 2025-26 UEFA Europa League competition.\n\nFor the purpose of this market, a disciplinary card will count as a yellow card, a direct red card, or a red card resulting from the accumulation of two yellow cards in the same match. A 2nd yellow card accumulated in a match which results in a red card will count as one card in the final count, not a separate yellow and red card. The tally of these cards will be counted as reflected on the official UEFA Europa League website (https://www.uefa.com/uefaeuropaleague/statistics/players/disciplinary/?sortBy=red_cards&order=desc).\n\nIn the event of a tie, this market will resolve according to the official leader as determined by UEFA Europa League rules. If multiple leaders are announced then this market will resolve to the player whose listed last name comes first alphabetically.\n\nIf the 2025-26 Europa League competition is cancelled, postponed after June 31, 2026, 11:59 PM ET, or there is otherwise no official leader declared within that timeframe, this market will resolve to “Other”.\n\nThe resolution source for this market will be official information from UEFA; however, a consensus of credible reporting may also be used.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-02-24T00:00:00",
+    "close_date": "2026-05-21T00:00:00",
+    "search_queries": [
+      "Giakoumakis disciplinary record",
+      "UEFA Europa League stats",
+      "Europa League yellow cards",
+      "Giorgos Giakoumakis disciplinary record",
+      "UEFA Europa League card leaders",
+      "Giakoumakis Europa League stats"
+    ],
+    "articles": [
+      {
+        "query": "Europa League yellow cards",
+        "title": "Explained: Europa League semi-final suspension rules after Aston Villa's yellow card headache",
+        "source": "birminghammail",
+        "published_date": "2026-04-27 11:05:34",
+        "url": "https://www.birminghammail.co.uk/sport/football/football-news/explained-europa-league-semi-final-33843496",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Europa League yellow cards",
+        "title": "The Score: Greedy Liverpool, Newcastle’s big headache and green shoots for Spurs",
+        "source": "inews",
+        "published_date": "2026-04-27 05:00:00",
+        "url": "https://inews.co.uk/sport/football/the-score-liverpool-newcastle-tottenham-4381347",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      }
+    ]
+  },
+  {
+    "question": "Will the official USD to ARS exchange rate be between 1700.00 and 1799.99 at the end of December 2026?",
+    "resolution_criteria": "This is a market about Argentina’s official wholesale U.S. dollar exchange rate at market close on the last business day of December 2026, as published by the Central Bank of Argentina (BCRA).\n\nThis market will resolve according to the official wholesale USD to ARS exchange rate (Tipo de Cambio Mayorista, ($ por USD) Com. A 3500 | Referencia) at market close on the final business day of December 2026, as published by the BCRA on its official website (https://www.bcra.gob.ar/).\n\nIf the official rate for that date has not been published by the end of the 7th day after the end of the specified month, the market will resolve according to the most recently published official wholesale rate preceding that date.\n\nThe resolution source for this market will be the official BCRA publication. Resolution will occur once this figure is available.\n\nNote: the resolution source for this market will be the Central Bank of Argentina (BCRA), which reports the Wholesale Exchange Rate to two decimal points (e.g., 1,408.02 ARS per USD). Thus, this is the level of precision that will be used when resolving the market.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-26T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "Argentina economy",
+      "USD exchange rates",
+      "Argentina inflation",
+      "Argentina exchange rate forecast",
+      "BCRA USD to ARS rate",
+      "Argentina currency forecast"
+    ],
+    "articles": [
+      {
+        "query": "Argentina economy",
+        "title": "AP Strange SummaryBrief at 5:00 p.m. EDT",
+        "source": "timesargus",
+        "published_date": "2026-04-27 21:00:49",
+        "url": "https://www.timesargus.com/news/national/ap-strange-summarybrief-at-5-00-p-m-edt/article_7c71a4d7-1294-552a-b790-3d4c35b34804.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina economy",
+        "title": "AP Strange SummaryBrief at 5:00 p.m. EDT",
+        "source": "chronicleonline",
+        "published_date": "2026-04-27 21:00:49",
+        "url": "https://www.chronicleonline.com/news/odd/ap-strange-summarybrief-at-5-00-p-m-edt/article_f8904ca3-4152-5194-94f7-657a7e206440.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina economy",
+        "title": "AP Strange SummaryBrief at 5:00 p.m. EDT",
+        "source": "citizentribune",
+        "published_date": "2026-04-27 21:00:49",
+        "url": "https://www.citizentribune.com/news/national/ap-strange-summarybrief-at-5-00-p-m-edt/article_81bb3e51-1ac1-57a4-831a-29526cba7835.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina economy",
+        "title": "AP Strange SummaryBrief at 5:00 p.m. EDT",
+        "source": "rutlandherald",
+        "published_date": "2026-04-27 21:00:49",
+        "url": "https://www.rutlandherald.com/ap/national/ap-strange-summarybrief-at-5-00-p-m-edt/article_b300661b-8e3c-5a9e-8937-b2d20e5cf84a.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina economy",
+        "title": "AP Strange SummaryBrief at 5:00 p.m. EDT",
+        "source": "union_bulletin",
+        "published_date": "2026-04-27 21:00:49",
+        "url": "https://www.union-bulletin.com/news/national/ap-strange-summarybrief-at-5-00-p-m-edt/article_8eccd17e-1edb-522c-b097-f23fc256668d.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina economy",
+        "title": "Venezuela Central Bank Exchange Rate Stability Signals Cooling Inflation Relief",
+        "source": "bitcoinworld",
+        "published_date": "2026-04-27 18:35:11",
+        "url": "https://bitcoinworld.co.in/venezuela-central-bank-stability-inflation/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina economy",
+        "title": "The US Is Sending the Right Message to the World Bank and IMF",
+        "source": "nationalinterest",
+        "published_date": "2026-04-27 18:30:00",
+        "url": "https://nationalinterest.org/feature/the-us-is-sending-the-right-message-to-the-world-bank-and-imf",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina economy",
+        "title": "Argentina sees early results from investment incentive plan",
+        "source": "upi",
+        "published_date": "2026-04-27 18:04:16",
+        "url": "https://www.upi.com/Top_News/World-News/2026/04/27/latam-argentina-investment-incentive-program/1571777312337/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina economy",
+        "title": "AP Strange SummaryBrief at 1:54 p.m. EDT",
+        "source": "rutlandherald",
+        "published_date": "2026-04-27 17:54:27",
+        "url": "https://www.rutlandherald.com/ap/national/ap-strange-summarybrief-at-1-54-p-m-edt/article_b300661b-8e3c-5a9e-8937-b2d20e5cf84a.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina economy",
+        "title": "AP Strange SummaryBrief at 1:54 p.m. EDT",
+        "source": "union_bulletin",
+        "published_date": "2026-04-27 17:54:27",
+        "url": "https://www.union-bulletin.com/news/national/ap-strange-summarybrief-at-1-54-p-m-edt/article_8eccd17e-1edb-522c-b097-f23fc256668d.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "U.S. Dollar Ticks Lower As Investors Weigh Developments In US-Iran Standoff",
+        "source": "finanznachrichten_de",
+        "published_date": "2026-04-27 21:18:00",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-04/68316829-u-s-dollar-ticks-lower-as-investors-weigh-developments-in-us-iran-standoff-020.htm",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "Sun Communities Reports 2026 First Quarter Results",
+        "source": "manilatimes",
+        "published_date": "2026-04-27 20:28:53",
+        "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/sun-communities-reports-2026-first-quarter-results/2329687",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "Sun Communities Reports 2026 First Quarter Results",
+        "source": "financialcontent",
+        "published_date": "2026-04-27 20:13:13",
+        "url": "https://www.financialcontent.com/article/gnwcq-2026-4-27-sun-communities-reports-2026-first-quarter-results",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "Sun Communities Reports 2026 First Quarter Results",
+        "source": "benzinga",
+        "published_date": "2026-04-27 20:13:13",
+        "url": "https://www.benzinga.com/pressreleases/26/04/g52079080/sun-communities-reports-2026-first-quarter-results",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "Sun Communities Reports 2026 First Quarter Results",
+        "source": "globenewswire_fr",
+        "published_date": "2026-04-27 20:13:00",
+        "url": "https://www.globenewswire.com/fr/news-release/2026/04/27/3282024/0/en/Sun-Communities-Reports-2026-First-Quarter-Results.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "Sun Communities Reports 2026 First Quarter Results",
+        "source": "globenewswire",
+        "published_date": "2026-04-27 20:13:00",
+        "url": "https://www.globenewswire.com/news-release/2026/04/27/3282024/0/en/Sun-Communities-Reports-2026-First-Quarter-Results.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "Ventas Reports 2026 First Quarter Results",
+        "source": "postregister",
+        "published_date": "2026-04-27 20:10:16",
+        "url": "https://www.postregister.com/businessreport/government/ventas-reports-2026-first-quarter-results/article_db515944-35b6-55f2-8187-3c770734f386.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "Ventas Reports 2026 First Quarter Results",
+        "source": "financialcontent",
+        "published_date": "2026-04-27 20:10:00",
+        "url": "https://www.financialcontent.com/article/bizwire-2026-4-27-ventas-reports-2026-first-quarter-results",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "Ventas Reports 2026 First Quarter Results",
+        "source": "businesswire",
+        "published_date": "2026-04-27 20:10:00",
+        "url": "http://www.businesswire.com/news/home/20260427885146/en/Ventas-Reports-2026-First-Quarter-Results/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk%3D",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "USD exchange rates",
+        "title": "US Dollar Falls Sharply as Central Bank Week and Iran Headlines Shake Markets",
+        "source": "bitcoinworld",
+        "published_date": "2026-04-27 19:40:12",
+        "url": "https://bitcoinworld.co.in/us-dollar-falls-central-bank-week/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "The furious business owners thinking ‘Am I better off on benefits?’ as Labour’s fuel duty greed ruins small firms",
+        "source": "thesun",
+        "published_date": "2026-04-27 20:48:11",
+        "url": "https://www.thesun.co.uk/money/38947562/furious-business-owners-labour-fuel-duty-ruins-small-firms/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Earnings call transcript: América Móvil Q1 2026 misses EPS forecasts, revenue exceeds expectations",
+        "source": "investing_ca",
+        "published_date": "2026-04-27 17:30:10",
+        "url": "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-america-movil-q1-2026-misses-eps-forecasts-revenue-exceeds-expectations-93CH-4589719",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Earnings call transcript: América Móvil Q1 2026 misses EPS forecasts, revenue exceeds expectations",
+        "source": "investing_au",
+        "published_date": "2026-04-27 17:30:10",
+        "url": "https://au.investing.com/news/stock-market-news/earnings-call-transcript-america-movil-q1-2026-misses-eps-forecasts-revenue-exceeds-expectations-93CH-4387045",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Earnings call transcript: América Móvil Q1 2026 misses EPS forecasts, revenue exceeds expectations",
+        "source": "investing_za",
+        "published_date": "2026-04-27 17:30:10",
+        "url": "https://za.investing.com/news/stock-market-news/earnings-call-transcript-america-movil-q1-2026-misses-eps-forecasts-revenue-exceeds-expectations-93CH-4234869",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Earnings call transcript: América Móvil Q1 2026 misses EPS forecasts, revenue exceeds expectations",
+        "source": "investing_uk",
+        "published_date": "2026-04-27 17:30:10",
+        "url": "https://uk.investing.com/news/stock-market-news/earnings-call-transcript-america-movil-q1-2026-misses-eps-forecasts-revenue-exceeds-expectations-93CH-4631841",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Earnings call transcript: América Móvil Q1 2026 misses EPS forecasts, revenue exceeds expectations",
+        "source": "investing_in",
+        "published_date": "2026-04-27 17:30:10",
+        "url": "https://in.investing.com/news/stock-market-news/earnings-call-transcript-america-movil-q1-2026-misses-eps-forecasts-revenue-exceeds-expectations-93CH-5360845",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Earnings call transcript: América Móvil Q1 2026 misses EPS forecasts, revenue exceeds expectations",
+        "source": "investing_ng",
+        "published_date": "2026-04-27 17:30:10",
+        "url": "https://ng.investing.com/news/stock-market-news/earnings-call-transcript-america-movil-q1-2026-misses-eps-forecasts-revenue-exceeds-expectations-93CH-2463761",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina inflation",
+        "title": "Argentina’s leader bars journalists from government HQ, raising concerns about press freedom",
+        "source": "bostonherald",
+        "published_date": "2026-04-27 17:14:56",
+        "url": "https://www.bostonherald.com/2026/04/27/argentina-press-freedom/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina exchange rate forecast",
+        "title": "Global GDL Cutting Machine Market to Witness Strong Industrial Growth Through 2032 | Industry Share, Sales Projections & Demand Outlook 2026-2032",
+        "source": "openpr",
+        "published_date": "2026-04-27 13:21:56",
+        "url": "https://www.openpr.com/news/4490824/global-gdl-cutting-machine-market-to-witness-strong-industrial",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina currency forecast",
+        "title": "What is Inflation? Understanding its causes, benefits, and economic impact",
+        "source": "caribbeannewsglobal",
+        "published_date": "2026-04-27 16:42:43",
+        "url": "https://caribbeannewsglobal.com/what-is-inflation-understanding-its-causes-benefits-and-economic-impact/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina currency forecast",
+        "title": "AI Graph Makers Market Set to Witness Rapid Growth Through 2033 | Microsoft Corporation, IBM Corporation",
+        "source": "openpr",
+        "published_date": "2026-04-27 13:41:46",
+        "url": "https://www.openpr.com/news/4490864/ai-graph-makers-market-set-to-witness-rapid-growth-through-2033",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Argentina currency forecast",
+        "title": "Face Dynamic Recognition Engine Market Insights 2026-2032 | Global Industry Share, Sales Growth, Demand Outlook & Competitive Analysis",
+        "source": "openpr",
+        "published_date": "2026-04-27 13:33:05",
+        "url": "https://www.openpr.com/news/4490849/face-dynamic-recognition-engine-market-insights-2026-2032",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      }
+    ]
+  },
+  {
+    "question": "Abstract FDV above $800M one day after launch?",
+    "resolution_criteria": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of Abstract's governance token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\nThe FDV will be determined using the total token supply multiplied by the token price.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Abstract doesn't launch a token by December 31, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-28T00:00:00",
+    "close_date": "2028-01-01T00:00:00",
+    "search_queries": [
+      "Abstract token launch",
+      "Crypto market trends",
+      "FDV calculation methods",
+      "Abstract governance token",
+      "Abstract FDV valuation"
+    ],
+    "articles": [
+      {
+        "query": "Abstract token launch",
+        "title": "Render Price Prediction: RENDER Builds the AI Backbone While AlphaPepe Still Builds the AI Story Retail Understands Faster",
+        "source": "openpr",
+        "published_date": "2026-04-27 16:27:45",
+        "url": "https://www.openpr.com/news/4491137/render-price-prediction-render-builds-the-ai-backbone-while",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Abstract token launch",
+        "title": "Top 8 Best Crypto Presale 2026: IONIX CHAIN Dominates Everything",
+        "source": "openpr",
+        "published_date": "2026-04-26 10:50:52",
+        "url": "https://www.openpr.com/news/4489277/top-8-best-crypto-presale-2026-ionix-chain-dominates-everything",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Abstract token launch",
+        "title": "APEMARS $0.000288160 Price Window Fuels Top Crypto to Buy Now, as TRUMP Trends and SPX Gains Attention",
+        "source": "openpr",
+        "published_date": "2026-04-26 10:27:43",
+        "url": "https://www.openpr.com/news/4489264/apemars-0-000288160-price-window-fuels-top-crypto-to-buy-now-as",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Cardano Price Holds Key Support as BTC Posts Best Month in a Year, But Pepeto's 100x Potential Draws Bigger Attention",
+        "source": "openpr",
+        "published_date": "2026-04-27 21:42:57",
+        "url": "https://www.openpr.com/news/4491563/cardano-price-holds-key-support-as-btc-posts-best-month-in-a-year",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "SOL Price Prediction: Analysts Eye Solana Breakout, But BTC Holders Turn to Pepeto As Listing Fuels 100x Talks",
+        "source": "openpr",
+        "published_date": "2026-04-27 21:38:21",
+        "url": "https://www.openpr.com/news/4491558/sol-price-prediction-analysts-eye-solana-breakout-but-btc",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "7 Top Meme Coins to Buy Now: Whales Eye APEMARS Presale as the Next Crypto to Hit $1 with 1800% ROI",
+        "source": "openpr",
+        "published_date": "2026-04-27 21:33:25",
+        "url": "https://www.openpr.com/news/4491552/7-top-meme-coins-to-buy-now-whales-eye-apemars-presale-as-the-next",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Don't Miss the Next Big Pump: APEMARS Offers 1800% ROI as the Best Crypto to Buy Today, While Shiba Inu Holds and PEPE Climbs 2.3%",
+        "source": "openpr",
+        "published_date": "2026-04-27 21:30:05",
+        "url": "https://www.openpr.com/news/4491549/don-t-miss-the-next-big-pump-apemars-offers-1800-roi-as-the-best",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "New Cryptocurrency 2026: Pepeto Looks Capable of Outperforming Top Altcoins Like LINK and AVAX",
+        "source": "openpr",
+        "published_date": "2026-04-27 21:20:08",
+        "url": "https://www.openpr.com/news/4491545/new-cryptocurrency-2026-pepeto-looks-capable-of-outperforming",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Turn $7K Into $334K with APEMARS' 150% Bonus: Best Crypto To Buy Today as BUILDon Gains 6% and FLOKI Expands Market Strength",
+        "source": "openpr",
+        "published_date": "2026-04-27 21:19:58",
+        "url": "https://www.openpr.com/news/4491542/turn-7k-into-334k-with-apemars-150-bonus-best-crypto-to-buy",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Crypto Market News: SEC Clears Path for Digital Assets as Pepeto Presale Enters Final Stretch With Traders Rushing In",
+        "source": "openpr",
+        "published_date": "2026-04-27 21:15:22",
+        "url": "https://www.openpr.com/news/4491536/crypto-market-news-sec-clears-path-for-digital-assets-as-pepeto",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Edge Data Center Market to Nearly Triple in Value by 2033, Powered by AI Workloads, 5G Expansion, and the Rise of Distributed Computing",
+        "source": "openpr",
+        "published_date": "2026-04-27 21:06:05",
+        "url": "https://www.openpr.com/news/4491524/edge-data-center-market-to-nearly-triple-in-value-by-2033-powered",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "Hyperliquid Price Prediction: HYPE Holders Look to Pepeto as Presale Hits $9.2M in 100x Listing Countdown",
+        "source": "openpr",
+        "published_date": "2026-04-27 21:00:27",
+        "url": "https://www.openpr.com/news/4491518/hyperliquid-price-prediction-hype-holders-look-to-pepeto-as",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Crypto market trends",
+        "title": "APEMARS Dominates as the Best Crypto to Buy in April, With 23B+ Tokens Sold and MARS150 Bonus Code, While SUI Climbs 2% and RateX Surges 6% Amid Market Rally",
+        "source": "openpr",
+        "published_date": "2026-04-27 20:57:16",
+        "url": "https://www.openpr.com/news/4491513/apemars-dominates-as-the-best-crypto-to-buy-in-april-with-23b",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Abstract governance token",
+        "title": "‘The law is not the constraint’ - Mihai Voicu, Partner at ONV LAW, on how Romanian companies should navigate AI, crypto and blockchain regulation",
+        "source": "romania_insider",
+        "published_date": "2026-04-27 11:44:24",
+        "url": "https://www.romania-insider.com/law-not-constraint-mihai-voicu-partner-onv-law-how-romanian-companies-should-navigate-ai-crypto-and",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Abstract governance token",
+        "title": "Top 7 Best Crypto Presale 2026: IONIX CHAIN is Dominating the Entire Market",
+        "source": "openpr",
+        "published_date": "2026-04-27 09:41:41",
+        "url": "https://www.openpr.com/news/4490373/top-7-best-crypto-presale-2026-ionix-chain-is-dominating",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      }
+    ]
+  },
+  {
+    "question": "Will Amir Albazi be the UFC Flyweight Champion on December 31, 2026?",
+    "resolution_criteria": "This market will resolve according to the official UFC Flyweight division champion on December 31, 2026 at 12:00 PM ET.\n\nOnly official UFC division champions will count. Interim champions will not count.\n\nIf the relevant belt is vacant at this market’s check time, or there is otherwise no champion in the specified division, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the UFC (https://www.ufc.com/athletes).",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-02T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "UFC Flyweight rankings",
+      "Amir Albazi next fight",
+      "UFC champion schedule",
+      "UFC Flyweight Champion"
+    ],
+    "articles": [
+      {
+        "query": "UFC champion schedule",
+        "title": "Is a 24-Team CFP Worth It?? NFL Draft Breakdown | Others Receiving Votes",
+        "source": "si",
+        "published_date": "2026-04-27 19:23:36",
+        "url": "https://www.si.com/college/video/is-a-24-team-cfp-worth-it-nfl-draft-breakdown-others-receiving-votes-01kq8289bqv0t3yfa632",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "Arman Tsarukyan explains why he doubts he’ll get desired UFC White House backup fighter opportunity",
+        "source": "bloodyelbow",
+        "published_date": "2026-04-27 19:00:00",
+        "url": "https://bloodyelbow.com/2026/04/27/arman-tsarukyan-explains-why-he-doubts-hell-get-desired-ufc-white-house-backup-fighter-opportunity/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "Oct 4, 2025; Las Vegas, Nevada, UNITED STATES; Alex Pereira (blue gloves) reacts after the fight against Magomed Ankalaev (red gloves) during UFC 320 at T-Mobile Arena. Mandatory Credit: Stephen R. Sylvanie-Imagn Images",
+        "source": "si",
+        "published_date": "2026-04-27 18:33:48",
+        "url": "https://www.si.com/fannation/mma/news/ufc-6-video-game-release-date-shows-ufc-stars-alex-pereira-max-holloway-on-cover",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "UFC Officially Headed to Major International Destination for Debut UFC Fight Night",
+        "source": "si",
+        "published_date": "2026-04-27 14:16:59",
+        "url": "https://www.si.com/fannation/mma/news/ufc-officially-headed-to-serbia-debut-fight-night",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "Premier League and UFC stars sit front row at the Crucible for Ronnie O’Sullivan World Snooker Championship clash",
+        "source": "thesun",
+        "published_date": "2026-04-27 10:00:18",
+        "url": "https://www.thesun.co.uk/sport/38939017/milos-kerkez-snooker-world-championship-ronnie-osullivan/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "She’s back! UFC champ Kayla Harrison announces her octagon return is imminent – ‘There’s a timeline’",
+        "source": "mmamania",
+        "published_date": "2026-04-26 21:00:00",
+        "url": "https://www.mmamania.com/latest-news/439310/shes-back-ufc-champ-kayla-harrison-announces-her-octagon-return-is-imminent-theres-a-timeline",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "UFC Fight Night 274 post-event facts: Card ties all-time decision record",
+        "source": "yahoo",
+        "published_date": "2026-04-26 15:20:25",
+        "url": "https://ca.sports.yahoo.com/news/ufc-fight-night-274-post-152025889.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "Joe Rogan challenges Khamzat Chimaev’s title worthiness ahead of UFC 328 showdown",
+        "source": "yahoo",
+        "published_date": "2026-04-26 12:50:00",
+        "url": "https://sports.yahoo.com/articles/joe-rogan-challenges-khamzat-chimaev-125000173.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "Joe Rogan challenges Khamzat Chimaev’s title worthiness ahead of UFC 328 showdown",
+        "source": "yardbarker",
+        "published_date": "2026-04-26 12:20:00",
+        "url": "https://www.yardbarker.com/mma/articles/joe_rogan_challenges_khamzat_chimaevs_title_worthiness_ahead_of_ufc_328_showdown/s1_17664_43774836",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UFC champion schedule",
+        "title": "Joe Rogan challenges Khamzat Chimaev’s title worthiness ahead of UFC 328 showdown",
+        "source": "hitc",
+        "published_date": "2026-04-26 12:20:00",
+        "url": "https://www.hitc.com/joe-rogan-challenges-khamzat-chimaevs-title-worthiness-ahead-of-ufc-328-showdown/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      }
+    ]
+  },
+  {
+    "question": "Will Antonio Villaraigosa win the California Governor Election in 2026?",
+    "resolution_criteria": "This market will resolve to according to the candidate who wins the 2026 California gubernatorial election currently scheduled for November 3, 2026.\n\nIf the results of the election are not confirmed by July 31, 2027, this market will resolve to \"Other\".\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race in this state for the same candidate, this market will resolve based on official certification.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2025-10-09T00:00:00",
+    "close_date": "2026-11-03T00:00:00",
+    "search_queries": [
+      "Villaraigosa 2026 campaign",
+      "California governor election updates",
+      "Antonio Villaraigosa polls",
+      "California governor election 2026",
+      "Villaraigosa polling updates",
+      "Antonio Villaraigosa campaign news"
+    ],
+    "articles": [
+      {
+        "query": "Villaraigosa 2026 campaign",
+        "title": "2026 CA Governor's Race: Primary Election Weeks Away. What To Know",
+        "source": "patch",
+        "published_date": "2026-04-27 13:57:22",
+        "url": "https://patch.com/california/sacramento/2026-ca-governors-race-primary-election-weeks-away-what-know",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Villaraigosa 2026 campaign",
+        "title": "California governor candidates race to claim pro-housing mantle",
+        "source": "union_bulletin",
+        "published_date": "2026-04-27 01:56:28",
+        "url": "https://www.union-bulletin.com/news/national/california-governor-candidates-race-to-claim-pro-housing-mantle/article_f1a8bedb-ade4-5663-ac9c-efb86a1ad1ff.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election updates",
+        "title": "The redistricting battle rages on: From the Politics Desk",
+        "source": "nbcnews",
+        "published_date": "2026-04-27 21:00:00",
+        "url": "https://www.nbcnews.com/politics/politics-news/redistricting-battle-rages-on-politics-desk-rcna342373",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election updates",
+        "title": "DeSantis’ Proposed FL Redistricting Map Could Create 4 More GOP Seats",
+        "source": "patch",
+        "published_date": "2026-04-27 18:24:48",
+        "url": "https://patch.com/florida/across-fl/desantis-proposed-fl-redistricting-map-could-create-4-more-gop-seats",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Antonio Villaraigosa polls",
+        "title": "California governor’s race: How to watch Tuesday night’s televised debate",
+        "source": "headtopics",
+        "published_date": "2026-04-27 19:36:47",
+        "url": "https://us.headtopics.com/news/california-governor-s-race-how-to-watch-tuesday-night-s-82743829",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Antonio Villaraigosa polls",
+        "title": "California governor candidates to talk 'key issues' at Tuesday debate",
+        "source": "usatoday",
+        "published_date": "2026-04-27 17:04:36",
+        "url": "https://www.usatoday.com/story/news/california/2026/04/27/california-governor-debate-tonight-cbs-news/89818932007/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Steve Hilton: What to know about CA gubernatorial candidate",
+        "source": "headtopics",
+        "published_date": "2026-04-27 21:06:22",
+        "url": "https://us.headtopics.com/news/steve-hilton-what-to-know-about-ca-gubernatorial-candidate-82746833",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Abbott lauds Supreme Court's second ruling upholding Texas' new congressional maps",
+        "source": "yoursun",
+        "published_date": "2026-04-27 21:05:00",
+        "url": "https://www.yoursun.com/news/abbott-lauds-supreme-courts-second-ruling-upholding-texas-new-congressional-maps/article_7e3768e7-7316-5d5e-9fe5-00492db80f3e.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Abbott lauds Supreme Court's second ruling upholding Texas' new congressional maps",
+        "source": "ttownmedia",
+        "published_date": "2026-04-27 21:05:00",
+        "url": "https://www.ttownmedia.com/news/national/abbott-lauds-supreme-courts-second-ruling-upholding-texas-new-congressional-maps/article_ef7dc06d-cafa-5f35-9451-8011f7d5b90a.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Abbott lauds Supreme Court's second ruling upholding Texas' new congressional maps",
+        "source": "themercury",
+        "published_date": "2026-04-27 21:05:00",
+        "url": "https://themercury.com/news/national/abbott-lauds-supreme-courts-second-ruling-upholding-texas-new-congressional-maps/article_e079f514-c42d-522d-bb31-543444d2aa24.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Abbott lauds Supreme Court's second ruling upholding Texas' new congressional maps",
+        "source": "emporiagazette",
+        "published_date": "2026-04-27 21:05:00",
+        "url": "https://www.emporiagazette.com/news/national/article_e53f0e84-bc3c-554d-8472-5b1a7eef4274.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Redistricting Wars: GOP Wins in Texas, And Maybe in Florida and Virginia",
+        "source": "hotair",
+        "published_date": "2026-04-27 20:00:00",
+        "url": "https://hotair.com/ed-morrissey/2026/04/27/redistricting-wars-gop-wins-in-texas-and-maybe-in-virginia-n3814331",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "DeSantis’ maps look like a pure partisan maneuver. Didn’t Floridians ban this? | Opinion",
+        "source": "miamiherald",
+        "published_date": "2026-04-27 19:27:35",
+        "url": "https://www.miamiherald.com/opinion/editorials/article315549441.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Billionaire tax clears signature hurdle for CA ballot, proponents say",
+        "source": "desertsun",
+        "published_date": "2026-04-27 19:19:46",
+        "url": "https://www.desertsun.com/story/news/nation/california/2026/04/27/billionaire-tax-clears-signature-hurdle-for-ca-ballot-proponents-say/89819201007/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "California governor election 2026",
+        "title": "Another oil crisis is here. How will American drivers respond?",
+        "source": "brookings",
+        "published_date": "2026-04-27 19:02:05",
+        "url": "https://www.brookings.edu/articles/another-oil-crisis-is-here-how-will-american-drivers-respond/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Antonio Villaraigosa campaign news",
+        "title": "Becerra's surge in California governor race draws fresh attention to candidacy, long government record",
+        "source": "headtopics",
+        "published_date": "2026-04-27 11:06:12",
+        "url": "https://us.headtopics.com/news/becerra-s-surge-in-california-governor-race-draws-fresh-82725968",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Antonio Villaraigosa campaign news",
+        "title": "Becerra's surge in California governor race draws fresh attention to candidacy, long government record",
+        "source": "latimes",
+        "published_date": "2026-04-27 10:00:00",
+        "url": "https://www.latimes.com/california/story/2026-04-27/becerras-surge-california-governor-race-draws-attention-to-candidacy-long-government-record",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Antonio Villaraigosa campaign news",
+        "title": "California governor candidates race to claim pro-housing mantle",
+        "source": "thederrick",
+        "published_date": "2026-04-27 01:51:00",
+        "url": "https://www.thederrick.com/news/entertainment/california-governor-candidates-race-to-claim-pro-housing-mantle/article_a20d55ef-af70-5d2a-8737-88458acc8075.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Antonio Villaraigosa campaign news",
+        "title": "California governor candidates race to claim pro-housing mantle",
+        "source": "dailygazette",
+        "published_date": "2026-04-27 01:51:00",
+        "url": "https://www.dailygazette.com/tribune/california-governor-candidates-race-to-claim-pro-housing-mantle/article_e01c00f6-508d-55cc-a5ba-d298e807134f.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      }
+    ]
+  },
+  {
+    "question": "Will Nicolás Maduro be the leader of Venezuela end of 2026?",
+    "resolution_criteria": "This market will resolve to the individual who officially holds the position of the head of state of Venezuela on Dec 31, 2026 at 12 PM ET.\n\nFor the purposes of this market, \"officially holds\" refers to the individual that was formally appointed, confirmed (if confirmation is required), and sworn in as the head of state of Venezuela or otherwise confirmed by official government information as being the head of state of Venezuela. \n\nIf the Venezuelan government does not clearly state who is the head of state, the market will resolve to the individual who is listed as the Head of State by the UN (see: https://www.un.org/dgacm/en/content/protocol/hshgnfa.  \n\nIn the event that more than one official head of state is listed by the Venezuelan  government, this market will resolve to the individual who is listed as having primary status. If no distinction is made, the market will resolve to the individual who first assumed the position. \n\nIf no individual holds the position this market will resolve to “No Head of State”. \n\nThe following do NOT constitute \"officially holding\" the role: nominated, announced, or designated as the head of state of Venezuela but appointment not yet effective; appointed with an effective date after Dec 31, 2026; previously served as the head of state of Venezuela but term has expired, resigned, or been terminated before Dec 31, 2026; serving as the head of state of Venezuela in a consultant, contractor, or unofficial capacity; named as successor or heir apparent to the head of state of Venezuela but not yet appointed; or holding a different role with oversight of the head of state of Venezuela but not the specified position itself.\n\nThe primary resolution source will be official information from the UN recognized government of Venezuela. If the Government of Venezuela does not clearly state who is the head of state, information from the UN and a consensus of credible reporting may be used. \n\nNote: this market is mutually exclusive. \n",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-01-04T00:00:00",
+    "close_date": "2026-12-31T00:00:00",
+    "search_queries": [
+      "Maduro Venezuela status",
+      "Venezuelan government updates",
+      "UN Venezuela leader",
+      "Venezuela leader 2026",
+      "Maduro election updates",
+      "Venezuelan government news"
+    ],
+    "articles": [
+      {
+        "query": "Maduro Venezuela status",
+        "title": "US Will Allow Venezuelan Government to Pay for Defense of Maduro and His Wife",
+        "source": "military",
+        "published_date": "2026-04-27 18:32:49",
+        "url": "https://www.military.com/daily-news/2026/04/27/us-will-allow-venezuelan-government-pay-defense-of-maduro-and-his-wife.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Maduro Venezuela status",
+        "title": "The US Is Sending the Right Message to the World Bank and IMF",
+        "source": "nationalinterest",
+        "published_date": "2026-04-27 18:30:00",
+        "url": "https://nationalinterest.org/feature/the-us-is-sending-the-right-message-to-the-world-bank-and-imf",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Maduro Venezuela status",
+        "title": "U.S. will allow Venezuelan government to pay for defense of Maduro and his wife",
+        "source": "miamiherald",
+        "published_date": "2026-04-27 16:12:33",
+        "url": "https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article315547212.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government updates",
+        "title": "April 27th Anniversaries",
+        "source": "deultimominuto_net",
+        "published_date": "2026-04-27 04:29:31",
+        "url": "https://deultimominuto.net/en/style/anniversaries/april-27th-anniversaries/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UN Venezuela leader",
+        "title": "Donald Trump Fast Facts",
+        "source": "krdo",
+        "published_date": "2026-04-27 17:22:54",
+        "url": "https://krdo.com/politics/cnn-us-politics/2026/04/27/donald-trump-fast-facts-6/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UN Venezuela leader",
+        "title": "U.S. sanctions, deals, bombs",
+        "source": "tribune",
+        "published_date": "2026-04-27 15:24:16",
+        "url": "https://tribune.net.ph/2026/04/27/us-sanctions-deals-bombs",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UN Venezuela leader",
+        "title": "Clean energy switch must not be excuse to plunder Indigenous lands, say leaders",
+        "source": "theguardiantheguardian",
+        "published_date": "2026-04-27 11:00:09",
+        "url": "https://www.theguardian.com/world/2026/apr/27/clean-energy-switch-must-not-be-excuse-to-plunder-indigenous-lands-say-leaders",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "UN Venezuela leader",
+        "title": "Iran didn’t have a nuclear weapon before this war. But you can see why it would want one now | Simon Tisdall",
+        "source": "theguardian",
+        "published_date": "2026-04-26 10:30:23",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/26/iran-nuclear-weapon-war-develop-one-now",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuela leader 2026",
+        "title": "Soccer official calls for 'abolishment' of FIFA Peace Prize months after Donald Trump awarded honor",
+        "source": "yahoo",
+        "published_date": "2026-04-27 20:34:39",
+        "url": "https://sports.yahoo.com/articles/soccer-official-calls-abolishment-fifa-203439232.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuela leader 2026",
+        "title": "UNC Pivots towards US alignment",
+        "source": "trinidadexpress",
+        "published_date": "2026-04-27 13:28:00",
+        "url": "https://trinidadexpress.com/news/local/unc-pivots-towards-us-alignment/article_437e3c69-6c52-46f8-9573-1ec515477a1d.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuela leader 2026",
+        "title": "Why Was Epic Fury Launched Now?",
+        "source": "freerepublic",
+        "published_date": "2026-04-27 12:49:06",
+        "url": "https://freerepublic.com/focus/f-chat/4376583/posts",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuela leader 2026",
+        "title": "Trump Administration Launches Sweeping Citizenship Crackdown with New Executive Orders",
+        "source": "ibtimes",
+        "published_date": "2026-04-27 12:31:13",
+        "url": "https://www.ibtimes.com.au/trump-administration-launches-sweeping-citizenship-crackdown-new-executive-orders-1867596",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuela leader 2026",
+        "title": "ARC RESOURCES LTD. ANNOUNCES AGREEMENT TO BE ACQUIRED BY SHELL PLC",
+        "source": "benzinga",
+        "published_date": "2026-04-27 12:00:00",
+        "url": "https://www.benzinga.com/pressreleases/26/04/n52058614/arc-resources-ltd-announces-agreement-to-be-acquired-by-shell-plc",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuela leader 2026",
+        "title": "China Pulled Deeper Into Iran As Trump Talks Stall",
+        "source": "headtopics",
+        "published_date": "2026-04-27 10:06:45",
+        "url": "https://us.headtopics.com/news/china-pulled-deeper-into-iran-as-trump-talks-stall-82723242",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuela leader 2026",
+        "title": "Will press dinner shooting work in Trump’s favour in the midterms?",
+        "source": "firstpost",
+        "published_date": "2026-04-27 09:39:16",
+        "url": "https://www.firstpost.com/explainers/white-house-dinner-shooting-trump-approval-ratings-us-midterms-2026-14004869.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuela leader 2026",
+        "title": "Trump’s ‘madness’ masks calculated quest for a bipolar world",
+        "source": "asiatimes",
+        "published_date": "2026-04-27 09:28:24",
+        "url": "https://asiatimes.com/2026/04/trumps-madness-masks-calculated-quest-for-a-bipolar-world/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "How Asia-Pacific Is Fighting a Fuel Shock That Could Get Worse",
+        "source": "financialpost",
+        "published_date": "2026-04-27 21:18:58",
+        "url": "https://financialpost.com/pmn/business-pmn/how-asia-pacific-is-fighting-a-fuel-shock-that-could-get-worse",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "Cuban Americans Stage Massive Prayer Event in Florida Asking God to Save Homeland",
+        "source": "headtopics",
+        "published_date": "2026-04-27 18:43:52",
+        "url": "https://us.headtopics.com/news/cuban-americans-stage-massive-prayer-event-in-florida-82742953",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "Prediction markets under pressure to crack down on rogue bettors, stop insider trading",
+        "source": "cnbctv18",
+        "published_date": "2026-04-27 18:26:07",
+        "url": "https://www.cnbctv18.com/world/prediction-markets-under-pressure-to-crack-down-on-rogue-bettors-stop-insider-trading-19894445.htm",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "Cuban Americans Stage Massive Prayer Event in Florida Asking God to Save Homeland",
+        "source": "breitbart",
+        "published_date": "2026-04-27 17:46:45",
+        "url": "https://www.breitbart.com/latin-america/2026/04/27/cuban-americans-stage-massive-prayer-event-in-florida-asking-god-to-save-homeland/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "Trump’s strange focus on his ballroom after the White House Correspondents’ Dinner shooting",
+        "source": "cnn",
+        "published_date": "2026-04-27 17:33:20",
+        "url": "https://www.cnn.com/2026/04/27/politics/white-house-ballroom-trump-shooting",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "Trump’s strange focus on his ballroom after the White House Correspondents’ Dinner shooting",
+        "source": "yahoo_sg",
+        "published_date": "2026-04-27 17:33:20",
+        "url": "https://sg.news.yahoo.com/trump-strange-focus-ballroom-white-173320254.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "What is Inflation? Understanding its causes, benefits, and economic impact",
+        "source": "caribbeannewsglobal",
+        "published_date": "2026-04-27 16:42:43",
+        "url": "https://caribbeannewsglobal.com/what-is-inflation-understanding-its-causes-benefits-and-economic-impact/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "Billionaire-Funded Pro-Collins PAC Drops Nearly $2 Million on Ad Attacking Platner",
+        "source": "headtopics",
+        "published_date": "2026-04-27 16:07:02",
+        "url": "https://us.headtopics.com/news/billionaire-funded-pro-collins-pac-drops-nearly-2-million-82737485",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "From a soldier with insider information to rigged thermometers: The multimillion-dollar scams on Polymarket",
+        "source": "elpais",
+        "published_date": "2026-04-27 15:59:00",
+        "url": "https://english.elpais.com/economy-and-business/2026-04-27/from-a-soldier-with-insider-information-to-rigged-thermometers-the-multimillion-dollar-scams-on-polymarket.html",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Venezuelan government news",
+        "title": "Vance Doubts the Pentagon’s Depiction of the Iran War",
+        "source": "theatlantic",
+        "published_date": "2026-04-27 15:26:28",
+        "url": "https://www.theatlantic.com/national-security/2026/04/iran-war-vance-hegseth-trump/686905/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      }
+    ]
+  },
+  {
+    "question": "Will Seth Jarvis win the 2025–2026 NHL Maurice 'Rocket' Richard Trophy?",
+    "resolution_criteria": "This market will resolve according to the player who is awarded the 2025–26 NHL Maurice 'Rocket' Richard Trophy.\n\nIf the listed player is not announced as a finalist for the 2025–26 Maurice 'Rocket' Richard Trophy, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from the NHL. However, a consensus of credible reporting may also be used.",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2025-10-22T00:00:00",
+    "close_date": "2026-06-30T00:00:00",
+    "search_queries": [
+      "Seth Jarvis stats",
+      "NHL Richard Trophy",
+      "Maurice Rocket Richard winner",
+      "Seth Jarvis NHL stats",
+      "Maurice Richard Trophy contenders",
+      "NHL award finalists"
+    ],
+    "articles": [
+      {
+        "query": "Seth Jarvis stats",
+        "title": "Grading Every Ottawa Senators’ 2026 Playoff Performance After First-Round Exit",
+        "source": "yardbarker",
+        "published_date": "2026-04-26 18:05:00",
+        "url": "https://www.yardbarker.com/nhl/articles/grading_every_ottawa_senators_2026_playoff_performance_after_first_round_exit/s1_16448_43775939",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "Seth Jarvis stats",
+        "title": "Canes Bury Senators In Ottawa Sweep As Raleigh Erupts",
+        "source": "hoodline",
+        "published_date": "2026-04-26 12:58:09",
+        "url": "https://hoodline.com/2026/04/canes-bury-senators-in-ottawa-sweep-as-raleigh-erupts/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "NHL Richard Trophy",
+        "title": "Sport notes: Patrick Kane, Corey Perry on CHL list; Ashlyn Anderson honoured",
+        "source": "lfpress",
+        "published_date": "2026-04-27 21:41:51",
+        "url": "https://lfpress.com/sports/local-sports/sport-notes-patrick-kane-corey-perry-on-chl-list-ashlyn-anderson-honoured",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "NHL Richard Trophy",
+        "title": "Kings swept away by Avalanche in Kopitar’s final game",
+        "source": "headtopics",
+        "published_date": "2026-04-27 00:36:32",
+        "url": "https://us.headtopics.com/news/kings-swept-away-by-avalanche-in-kopitar-s-final-game-82708683",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "NHL Richard Trophy",
+        "title": "Avalanche vs. Kings Game 4: Key takeaways as Colorado sweeps L.A. in dominant fashion",
+        "source": "theathleticuk",
+        "published_date": "2026-04-26 23:30:11",
+        "url": "https://www.nytimes.com/athletic/7233093/2026/04/26/avalanche-kings-game-4-score-result-takeaways/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "NHL award finalists",
+        "title": "One big off-season question facing each of the NHL’s non-playoff teams",
+        "source": "sportsnet",
+        "published_date": "2026-04-27 18:21:14",
+        "url": "https://www.sportsnet.ca/nhl/article/one-big-off-season-question-facing-each-of-the-nhls-non-playoff-teams/",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      },
+      {
+        "query": "NHL award finalists",
+        "title": "Martin St-Louis won’t guarantee that Josh Anderson and Juraj Slafkovsky will play on Wednesday",
+        "source": "yardbarker",
+        "published_date": "2026-04-27 13:29:58",
+        "url": "https://www.yardbarker.com/nhl/articles/martin_st_louis_wont_guarantee_that_josh_anderson_and_juraj_slafkovsky_will_play_on_wednesday/s1_17387_43779042",
+        "full_text": "ONLY AVAILABLE IN PAID PLANS"
+      }
+    ]
+  },
+  {
+    "question": "Predict.fun FDV above $1.5B one day after launch?",
+    "resolution_criteria": "This market will resolve to \"Yes\" if the Fully Diluted Valuation of Predict.fun's governance token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to \"No.\"\n\nThe token must be actively, publicly transferable and tradable to be considered a launch.\n\nThe FDV will be determined using the total token supply multiplied by the token price.\n\n\"1 day after launch\" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Predict.fun (https://predict.fun/) doesn't launch a token by December 31, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+    "today_date": "2026-04-23T14:01:30",
+    "start_date": "2026-02-18T00:00:00",
+    "close_date": "2028-01-01T00:00:00",
+    "search_queries": [
+      "Predict.fun token launch",
+      "Predict.fun governance token",
+      "Predict.fun market sentiment",
+      "Predict.fun token price"
+    ],
+    "articles": []
+  }
+]

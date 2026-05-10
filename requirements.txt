@@ -16,3 +16,5 @@ lxml
 newscatcher-catchall-sdk
 matplotlib-venn
 playwright
+seaborn
+googlenewsdecoder

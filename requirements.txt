@@ -18,3 +18,4 @@ matplotlib-venn
 playwright
 seaborn
 googlenewsdecoder
+eventregistry

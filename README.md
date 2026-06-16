@@ -6,8 +6,6 @@ The core idea is to use LLMs not as forecasters, but as instruments: by comparin
  
 Markets and crowd predictions are sourced from [Polymarket](https://polymarket.com).
  
----
- 
 ## Experiments
  
 ### 1. Stance and beliefs (`prob_markets.ipynb`)
@@ -18,8 +16,6 @@ Compares five news retrieval APIs (GNews API, NewsAPI.org, NewsCatcher (CatchAll
  
 ### 3. Political markets (`political_markets_retrieval.ipynb`, `political_markets_relevance.ipynb`, `political_markets_trends.ipynb`)
 An end-to-end pipeline test on 3 political markets. Covers LLM-generated search query generation, article retrieval via the GNews package, relevance scoring (with and without publication date), and temporal trend analysis of article volume and relevance over time.
- 
----
  
 ## Setup
  
@@ -36,8 +32,6 @@ GROQ_API_KEY_1=your_key_here
 ```
  
 If running the News APIs comparison, you will also need keys for the other services (`GNEWS_API_KEY`, `NEWSAPI_ORG_KEY`, `NEWSCATCHER_API_KEY`, `NEWSDATA_API_KEY`), all of which have free tiers.
- 
----
  
 ## Notes
  
